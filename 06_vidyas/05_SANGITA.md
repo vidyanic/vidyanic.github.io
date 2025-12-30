@@ -1,68 +1,68 @@
-# 🎵 SANGITA (सङ्गीत) — The Science of Sound
+# ðµ SANGITA (à¤¸à¤à¥à¤à¥à¤¤) â The Science of Sound
 
-> **"नादब्रह्म परं ज्योतिः शब्दब्रह्म महेश्वरः"**
-> "Nāda-brahma paraṃ jyotiḥ śabda-brahma maheśvaraḥ"
+> **"à¤¨à¤¾à¤¦à¤¬à¥à¤°à¤¹à¥à¤® à¤ªà¤°à¤ à¤à¥à¤¯à¥à¤¤à¤¿à¤ à¤¶à¤¬à¥à¤¦à¤¬à¥à¤°à¤¹à¥à¤® à¤®à¤¹à¥à¤¶à¥à¤µà¤°à¤"**
+> "NÄda-brahma paraá¹ jyotiá¸¥ Åabda-brahma maheÅvaraá¸¥"
 > "Sound-Brahman is the supreme light, Word-Brahman is the great Lord."
-> — Sangita Ratnakara
+> â Sangita Ratnakara
 
-> **"नादेन व्यज्यते वर्णो वर्णात्पदमुदाहृतम् ।
-> पदात्वागमसम्भूतिः आगमार्थप्रकाशनात् ॥"**
-> "Nādena vyajyate varṇo varṇāt padam udāhṛtam |
-> Padāt vāgama-sambhūtiḥ āgamārtha-prakāśanāt ||"
+> **"à¤¨à¤¾à¤¦à¥à¤¨ à¤µà¥à¤¯à¤à¥à¤¯à¤¤à¥ à¤µà¤°à¥à¤£à¥ à¤µà¤°à¥à¤£à¤¾à¤¤à¥à¤ªà¤¦à¤®à¥à¤¦à¤¾à¤¹à¥à¤¤à¤®à¥ à¥¤
+> à¤ªà¤¦à¤¾à¤¤à¥à¤µà¤¾à¤à¤®à¤¸à¤®à¥à¤­à¥à¤¤à¤¿à¤ à¤à¤à¤®à¤¾à¤°à¥à¤¥à¤ªà¥à¤°à¤à¤¾à¤¶à¤¨à¤¾à¤¤à¥ à¥¥"**
+> "NÄdena vyajyate vará¹o vará¹Ät padam udÄhá¹tam |
+> PadÄt vÄgama-sambhÅ«tiá¸¥ ÄgamÄrtha-prakÄÅanÄt ||"
 > "From Nada (sound) is manifested letter, from letter word,
 > from word speech, from speech meaning is illuminated."
-> — Natyashastra
+> â Natyashastra
 
 ---
 
-## 🎯 SANGITA: FRONTEND vs BACKEND
+## ð¯ SANGITA: FRONTEND vs BACKEND
 
 ```
 -----------------------------------------------------------------------------------
                     SANGITA IN SHUNYA PROTOCOL                                     
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern Music Theory):                                                
    --------------------------------                                                
-   • Sound as vibration of air molecules                                          
-   • 12-tone equal temperament (Western)                                          
-   • Music as entertainment                                                        
-   • Notes as frequencies (Hz)                                                    
+   â¢ Sound as vibration of air molecules                                          
+   â¢ 12-tone equal temperament (Western)                                          
+   â¢ Music as entertainment                                                        
+   â¢ Notes as frequencies (Hz)                                                    
                                                                                    
    BACKEND (Vedic Sangita):                                                       
    -------------------------                                                       
-   • Sound (Nada) as the FIRST MANIFESTATION                                     
-   • Shabda-Brahman: Sound IS Brahman                                             
-   • 7 Swaras = 7 Chakras = 7 Lokas                                              
-   • Music as TECHNOLOGY for consciousness                                        
-   • Ragas for specific times, moods, healing                                     
+   â¢ Sound (Nada) as the FIRST MANIFESTATION                                     
+   â¢ Shabda-Brahman: Sound IS Brahman                                             
+   â¢ 7 Swaras = 7 Chakras = 7 Lokas                                              
+   â¢ Music as TECHNOLOGY for consciousness                                        
+   â¢ Ragas for specific times, moods, healing                                     
                                                                                    
    SANGITA IS FULLY FRACTAL!                                                      
    --------------------------                                                      
-   • 7 Swaras repeat across octaves (fractal scaling)                            
-   • Same note relationships at all frequencies                                   
-   • Cosmic Nada = Human voice = Atomic vibration                                
+   â¢ 7 Swaras repeat across octaves (fractal scaling)                            
+   â¢ Same note relationships at all frequencies                                   
+   â¢ Cosmic Nada = Human voice = Atomic vibration                                
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## 🕉️ NADA-BRAHMAN — Sound as Brahman
+## ðï¸ NADA-BRAHMAN â Sound as Brahman
 
 ### The Hierarchy of Sound
 
-> **"वाक् आदौ प्रजापतेः"**
-> "Vāk ādau prajāpateḥ"
+> **"à¤µà¤¾à¤à¥ à¤à¤¦à¥ à¤ªà¥à¤°à¤à¤¾à¤ªà¤¤à¥à¤"**
+> "VÄk Ädau prajÄpateá¸¥"
 > "In the beginning was Vak (Word/Sound)."
-> — Rig Veda
+> â Rig Veda
 
 | Level | Sanskrit | Description | Modern Equivalent |
 |-------|----------|-------------|-------------------|
-| **Para** | पर | Supreme, unmanifest | Potential/Possibility |
-| **Pashyanti** | पश्यन्ती | Visual, thought form | Idea/Concept |
-| **Madhyama** | मध्यमा | Mental, formulated | Internal speech |
-| **Vaikhari** | वैखरी | Spoken, gross | Audible sound |
+| **Para** | à¤ªà¤° | Supreme, unmanifest | Potential/Possibility |
+| **Pashyanti** | à¤ªà¤¶à¥à¤¯à¤¨à¥à¤¤à¥ | Visual, thought form | Idea/Concept |
+| **Madhyama** | à¤®à¤§à¥à¤¯à¤®à¤¾ | Mental, formulated | Internal speech |
+| **Vaikhari** | à¤µà¥à¤à¤°à¥ | Spoken, gross | Audible sound |
 
 ### Nada Types
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 🎼 SAPTA SWARA — The Seven Notes
+## ð¼ SAPTA SWARA â The Seven Notes
 
 ### The Seven Swaras = Seven Chakras
 
@@ -105,7 +105,7 @@
 | **Ni** (Shuddha) | 15:8 | 20-21 | 450 Hz |
 | **Sa'** | 2:1 | 22 | 480 Hz |
 
-### 22 Shrutis — Microtonal Divisions
+### 22 Shrutis â Microtonal Divisions
 
 The octave is divided into 22 Shrutis (microtones):
 
@@ -122,12 +122,12 @@ The octave is divided into 22 Shrutis (microtones):
 
 ---
 
-## 🎹 RAGA — Melodic Frameworks
+## ð¹ RAGA â Melodic Frameworks
 
 ### What is a Raga?
 
-> **"रञ्जयति इति रागः"**
-> "Rañjayati iti rāgaḥ"
+> **"à¤°à¤à¥à¤à¤¯à¤¤à¤¿ à¤à¤¤à¤¿ à¤°à¤¾à¤à¤"**
+> "RaÃ±jayati iti rÄgaá¸¥"
 > "That which colors (the mind) is Raga."
 
 | Aspect | Description |
@@ -183,7 +183,7 @@ The octave is divided into 22 Shrutis (microtones):
 
 ---
 
-## 🥁 TALA — Rhythmic Cycles
+## ð¥ TALA â Rhythmic Cycles
 
 ### What is Tala?
 
@@ -220,7 +220,7 @@ The octave is divided into 22 Shrutis (microtones):
 
 ---
 
-## 🌀 FRACTAL VALIDATION
+## ð FRACTAL VALIDATION
 
 ### 7 Swaras = Fractal Across Octaves
 
@@ -237,10 +237,10 @@ FRACTAL PROOF:
 --------------
 Sa : Pa = 1 : 1.5 (perfect fifth)
 This ratio exists at:
-• Cosmic level (planetary orbits)
-• Musical level (Sa-Pa interval)  
-• Atomic level (electron orbital ratios)
-• Cellular level (harmonic frequencies)
+â¢ Cosmic level (planetary orbits)
+â¢ Musical level (Sa-Pa interval)  
+â¢ Atomic level (electron orbital ratios)
+â¢ Cellular level (harmonic frequencies)
 
 THE UNIVERSE IS MUSIC!
 ```
@@ -250,29 +250,29 @@ THE UNIVERSE IS MUSIC!
 ```
 22 SHRUTIS:
 -----------
-• 22 = 7 + 7 + 7 + 1
-• 7 notes × 3 octaves + 1 (return to Sa)
-• 22 chapters in many Vedic texts
-• 22 as complete cycle number
+â¢ 22 = 7 + 7 + 7 + 1
+â¢ 7 notes Ã 3 octaves + 1 (return to Sa)
+â¢ 22 chapters in many Vedic texts
+â¢ 22 as complete cycle number
 ```
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Sangita Validation | Notes |
 |---------|---------------------|-------|
-| **Conservation** | ✅ Energy in sound waves | Vibration energy conserved |
-| **Entropy** | ✅ Sound decays | Amplitude decreases over time |
-| **Fractal** | ✅ Complete | Same ratios across octaves |
-| **Karma** | ✅ Cause-effect in music | Struck string -> sound |
-| **Observer** | ✅ Listener affects experience | Rasa depends on listener |
-| **Cycles** | ✅ Tala cycles | Rhythmic periodicity |
-| **Gunas** | ✅ Swara-Guna mapping | Each note has Guna quality |
+| **Conservation** | â Energy in sound waves | Vibration energy conserved |
+| **Entropy** | â Sound decays | Amplitude decreases over time |
+| **Fractal** | â Complete | Same ratios across octaves |
+| **Karma** | â Cause-effect in music | Struck string -> sound |
+| **Observer** | â Listener affects experience | Rasa depends on listener |
+| **Cycles** | â Tala cycles | Rhythmic periodicity |
+| **Gunas** | â Swara-Guna mapping | Each note has Guna quality |
 
 ---
 
-## 📐 SANGITA FORMULAS
+## ð SANGITA FORMULAS
 
 ### Frequency Calculation
 
@@ -281,10 +281,10 @@ def swara_frequency(base_sa: float, swara: str, octave: int = 0) -> float:
     """
     Calculate frequency of any swara
     
-    > "सप्त स्वराः प्रथमादयः"
-    > "Sapta svarāḥ prathamādayaḥ"
+    > "à¤¸à¤ªà¥à¤¤ à¤¸à¥à¤µà¤°à¤¾à¤ à¤ªà¥à¤°à¤¥à¤®à¤¾à¤¦à¤¯à¤"
+    > "Sapta svarÄá¸¥ prathamÄdayaá¸¥"
     > "The seven notes beginning with the first (Sa)."
-    > — Natyashastra
+    > â Natyashastra
     """
     ratios = {
         "Sa": 1/1,
@@ -316,8 +316,8 @@ def raga_time(hour: int) -> list:
     """
     Suggest appropriate ragas for time of day
     
-    > "राग कालानुसारिणः"
-    > "Rāga kālānusāriṇaḥ"
+    > "à¤°à¤¾à¤ à¤à¤¾à¤²à¤¾à¤¨à¥à¤¸à¤¾à¤°à¤¿à¤£à¤"
+    > "RÄga kÄlÄnusÄriá¹aá¸¥"
     > "Ragas follow time."
     """
     time_ragas = {
@@ -375,7 +375,7 @@ def tala_pattern(tala_name: str) -> dict:
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Wave First Creation](../prakriti/WAVE_FIRST_CREATION.md)
 - [Yoga Complete](../yoga/YOGA_COMPLETE.md)

@@ -1,13 +1,13 @@
-# 🌀 UNIFIED BACKEND MODEL — Complete Variable Reference
+# ð UNIFIED BACKEND MODEL â Complete Variable Reference
 
-> **"एकं सद्विप्रा बहुधा वदन्ति"**
+> **"à¤à¤à¤ à¤¸à¤¦à¥à¤µà¤¿à¤ªà¥à¤°à¤¾ à¤¬à¤¹à¥à¤§à¤¾ à¤µà¤¦à¤¨à¥à¤¤à¤¿"**
 > "Ekam sad vipra bahudha vadanti"
 > "The ONE reality, the wise describe in many ways."
-> — Rig Veda 1.164.46
+> â Rig Veda 1.164.46
 
 ---
 
-## 📋 TABLE OF CONTENTS
+## ð TABLE OF CONTENTS
 
 1. [Complete Variable Registry](#1-complete-variable-registry)
 2. [Variable Relationships & Formulas](#2-variable-relationships--formulas)
@@ -26,20 +26,20 @@
 
 | Variable | Sanskrit | Symbol | Value/Formula | Frontend Equivalent | Notes |
 |----------|----------|--------|---------------|---------------------|-------|
-| **Pixel Size** | Paramanu (परमाणु) | Δx_min | 1.616 × 10⁻³⁵ m | Planck length | Minimum render unit |
-| **Tick Duration** | Truti (त्रुटि) | Δt_min | 5.39 × 10⁻⁴⁴ s | Planck time | Minimum time quantum |
-| **Max Velocity** | Jyoti-Gati (ज्योति-गति) | c | 1 pixel/tick | Speed of light | Architecture constant |
-| **Action Quantum** | Kriya-Anu (क्रिया-अणु) | ℏ | 1.055 × 10⁻³⁴ J·s | Reduced Planck | Minimum action unit |
-| **Gravity Coupling** | Meru-Akarshana (मेरु-आकर्षण) | G | 6.674 × 10⁻¹¹ | Newton's G | Meru attraction strength |
-| **Fine Structure** | Sukshma-Rachana (सूक्ष्म-रचना) | α | 1/137.036 | Fine structure | EM coupling strength |
+| **Pixel Size** | Paramanu (à¤ªà¤°à¤®à¤¾à¤£à¥) | Îx_min | 1.616 Ã 10â»Â³âµ m | Planck length | Minimum render unit |
+| **Tick Duration** | Truti (à¤¤à¥à¤°à¥à¤à¤¿) | Ît_min | 5.39 Ã 10â»â´â´ s | Planck time | Minimum time quantum |
+| **Max Velocity** | Jyoti-Gati (à¤à¥à¤¯à¥à¤¤à¤¿-à¤à¤¤à¤¿) | c | 1 pixel/tick | Speed of light | Architecture constant |
+| **Action Quantum** | Kriya-Anu (à¤à¥à¤°à¤¿à¤¯à¤¾-à¤à¤£à¥) | â | 1.055 Ã 10â»Â³â´ JÂ·s | Reduced Planck | Minimum action unit |
+| **Gravity Coupling** | Meru-Akarshana (à¤®à¥à¤°à¥-à¤à¤à¤°à¥à¤·à¤£) | G | 6.674 Ã 10â»Â¹Â¹ | Newton's G | Meru attraction strength |
+| **Fine Structure** | Sukshma-Rachana (à¤¸à¥à¤à¥à¤·à¥à¤®-à¤°à¤à¤¨à¤¾) | Î± | 1/137.036 | Fine structure | EM coupling strength |
 
 ### 1.2 GUNA VARIABLES (Quality Composition)
 
 | Variable | Sanskrit | Symbol | Range | Constraint | Meaning |
 |----------|----------|--------|-------|------------|---------|
-| **Sattva** | सत्त्व | S | [0, 1] | S + R + T = 1 | Clarity, consciousness, order |
-| **Rajas** | रजस् | R | [0, 1] | S + R + T = 1 | Activity, energy, motion |
-| **Tamas** | तमस् | T | [0, 1] | S + R + T = 1 | Inertia, mass, resistance |
+| **Sattva** | à¤¸à¤¤à¥à¤¤à¥à¤µ | S | [0, 1] | S + R + T = 1 | Clarity, consciousness, order |
+| **Rajas** | à¤°à¤à¤¸à¥ | R | [0, 1] | S + R + T = 1 | Activity, energy, motion |
+| **Tamas** | à¤¤à¤®à¤¸à¥ | T | [0, 1] | S + R + T = 1 | Inertia, mass, resistance |
 
 **GUNA NORMALIZATION CONSTRAINT:**
 ```
@@ -50,29 +50,29 @@ S + R + T = 1  (ALWAYS!)
 
 | Variable | Sanskrit | Symbol | Guna Bias | Frontend State | Tanmatra |
 |----------|----------|--------|-----------|----------------|----------|
-| **Akasha** | आकाश | Ak | S-dominant | Space/Void | Shabda (Sound) |
-| **Vayu** | वायु | Va | S+R mixed | Gas | Sparsha (Touch) |
-| **Agni** | अग्नि | Ag | R-dominant | Plasma/Fire | Rupa (Form) |
-| **Jala** | जल | Ja | R+T mixed | Liquid | Rasa (Taste) |
-| **Prithvi** | पृथ्वी | Pr | T-dominant | Solid | Gandha (Smell) |
+| **Akasha** | à¤à¤à¤¾à¤¶ | Ak | S-dominant | Space/Void | Shabda (Sound) |
+| **Vayu** | à¤µà¤¾à¤¯à¥ | Va | S+R mixed | Gas | Sparsha (Touch) |
+| **Agni** | à¤à¤à¥à¤¨à¤¿ | Ag | R-dominant | Plasma/Fire | Rupa (Form) |
+| **Jala** | à¤à¤² | Ja | R+T mixed | Liquid | Rasa (Taste) |
+| **Prithvi** | à¤ªà¥à¤¥à¥à¤µà¥ | Pr | T-dominant | Solid | Gandha (Smell) |
 
 ### 1.4 PRANA VARIABLES (Energy/Information Flow)
 
 | Variable | Sanskrit | Symbol | Units | Frontend Equivalent | Role |
 |----------|----------|--------|-------|---------------------|------|
-| **Prana Flow** | प्राण-प्रवाह | I_p | Prana/sec | Current (Amperes) | Flow rate |
-| **Prana Pressure** | प्राण-दाब | V_p | Prana-force | Voltage (Volts) | Pressure difference |
-| **Prana Obstruction** | तमस्-रोध | R_p | Tamas-units | Resistance (Ohms) | Obstruction |
-| **Prana Capacity** | प्राण-धारिता | C_p | Prana/pressure | Capacitance (Farads) | Storage |
+| **Prana Flow** | à¤ªà¥à¤°à¤¾à¤£-à¤ªà¥à¤°à¤µà¤¾à¤¹ | I_p | Prana/sec | Current (Amperes) | Flow rate |
+| **Prana Pressure** | à¤ªà¥à¤°à¤¾à¤£-à¤¦à¤¾à¤¬ | V_p | Prana-force | Voltage (Volts) | Pressure difference |
+| **Prana Obstruction** | à¤¤à¤®à¤¸à¥-à¤°à¥à¤§ | R_p | Tamas-units | Resistance (Ohms) | Obstruction |
+| **Prana Capacity** | à¤ªà¥à¤°à¤¾à¤£-à¤§à¤¾à¤°à¤¿à¤¤à¤¾ | C_p | Prana/pressure | Capacitance (Farads) | Storage |
 
 ### 1.5 KARMA VARIABLES (Action-Consequence)
 
 | Variable | Sanskrit | Symbol | Type | Range | Meaning |
 |----------|----------|--------|------|-------|---------|
-| **Sanchita** | सञ्चित | K_s | Accumulated | [0, ∞) | Total stored karma |
-| **Prarabdha** | प्रारब्ध | K_p | Active | [0, K_s] | Current life allocation |
-| **Agami** | आगामि | K_a | Runtime | (-∞, +∞) | New karma being created |
-| **Kriyamana** | क्रियमाण | K_k | Instant | (-∞, +∞) | Current action karma |
+| **Sanchita** | à¤¸à¤à¥à¤à¤¿à¤¤ | K_s | Accumulated | [0, â) | Total stored karma |
+| **Prarabdha** | à¤ªà¥à¤°à¤¾à¤°à¤¬à¥à¤§ | K_p | Active | [0, K_s] | Current life allocation |
+| **Agami** | à¤à¤à¤¾à¤®à¤¿ | K_a | Runtime | (-â, +â) | New karma being created |
+| **Kriyamana** | à¤à¥à¤°à¤¿à¤¯à¤®à¤¾à¤£ | K_k | Instant | (-â, +â) | Current action karma |
 
 **KARMA CONSERVATION:**
 ```
@@ -84,47 +84,47 @@ dK_s/dt = K_a - K_p_resolved
 
 | Variable | Sanskrit | Symbol | Creditor | Payment Method |
 |----------|----------|--------|----------|----------------|
-| **Deva Rina** | देव-ऋण | R_d | Cosmic forces | Yajna (sacrifice) |
-| **Rishi Rina** | ऋषि-ऋण | R_r | Knowledge sources | Svadhyaya (study) |
-| **Pitru Rina** | पितृ-ऋण | R_pi | Ancestors | Shraddha (offerings) |
-| **Bhuta Rina** | भूत-ऋण | R_b | Ecosystem | Seva (service) |
-| **Nru Rina** | नृ-ऋण | R_n | Society | Dana (charity) |
+| **Deva Rina** | à¤¦à¥à¤µ-à¤à¤£ | R_d | Cosmic forces | Yajna (sacrifice) |
+| **Rishi Rina** | à¤à¤·à¤¿-à¤à¤£ | R_r | Knowledge sources | Svadhyaya (study) |
+| **Pitru Rina** | à¤ªà¤¿à¤¤à¥-à¤à¤£ | R_pi | Ancestors | Shraddha (offerings) |
+| **Bhuta Rina** | à¤­à¥à¤¤-à¤à¤£ | R_b | Ecosystem | Seva (service) |
+| **Nru Rina** | à¤¨à¥-à¤à¤£ | R_n | Society | Dana (charity) |
 
 ### 1.7 SPACETIME VARIABLES
 
 | Variable | Sanskrit | Symbol | Frontend | Relationship |
 |----------|----------|--------|----------|--------------|
-| **Space** | Akasha (आकाश) | S_ak | Distance (m) | S_ak = N_pixels × Δx_min |
-| **Time** | Kala (काल) | T_ka | Duration (s) | T_ka = N_ticks × Δt_min |
-| **Velocity** | Gati (गति) | v | m/s | v = S_ak / T_ka |
-| **Frequency** | Spandana (स्पन्दन) | f | Hz | f = 1 / T_period |
+| **Space** | Akasha (à¤à¤à¤¾à¤¶) | S_ak | Distance (m) | S_ak = N_pixels Ã Îx_min |
+| **Time** | Kala (à¤à¤¾à¤²) | T_ka | Duration (s) | T_ka = N_ticks Ã Ît_min |
+| **Velocity** | Gati (à¤à¤¤à¤¿) | v | m/s | v = S_ak / T_ka |
+| **Frequency** | Spandana (à¤¸à¥à¤ªà¤¨à¥à¤¦à¤¨) | f | Hz | f = 1 / T_period |
 
 ### 1.8 CONSCIOUSNESS VARIABLES
 
 | Variable | Sanskrit | Symbol | Range | Meaning |
 |----------|----------|--------|-------|---------|
-| **Observer Strength** | द्रष्टा-बल | Ψ | [0, 1] | Attention/focus |
-| **Maya Coefficient** | माया-गुणांक | M | [0, 1] | Illusion strength |
-| **Viveka** | विवेक | V_k | [0, 1] | Discrimination faculty |
-| **Vairagya** | वैराग्य | V_g | [0, 1] | Detachment level |
+| **Observer Strength** | à¤¦à¥à¤°à¤·à¥à¤à¤¾-à¤¬à¤² | Î¨ | [0, 1] | Attention/focus |
+| **Maya Coefficient** | à¤®à¤¾à¤¯à¤¾-à¤à¥à¤£à¤¾à¤à¤ | M | [0, 1] | Illusion strength |
+| **Viveka** | à¤µà¤¿à¤µà¥à¤ | V_k | [0, 1] | Discrimination faculty |
+| **Vairagya** | à¤µà¥à¤°à¤¾à¤à¥à¤¯ | V_g | [0, 1] | Detachment level |
 
 ---
 
 ## 2. VARIABLE RELATIONSHIPS & FORMULAS
 
-### 2.1 GUNA ↔ PHYSICS MAPPINGS
+### 2.1 GUNA â PHYSICS MAPPINGS
 
 ```python
-# TEMPERATURE ↔ RAJAS
-Temperature_K = k_T × Rajas_concentration
+# TEMPERATURE â RAJAS
+Temperature_K = k_T Ã Rajas_concentration
 # Where k_T is the Boltzmann-Rajas constant
 
-# ENTROPY ↔ TAMAS
-Entropy_S = k_B × ln(Ω) ≈ k_S × Tamas_accumulation
+# ENTROPY â TAMAS
+Entropy_S = k_B Ã ln(Î©) â k_S Ã Tamas_accumulation
 # Entropy is Tamas logarithmically expressed
 
-# LIGHT/CONSCIOUSNESS ↔ SATTVA
-Photon_energy = h × f ∝ Sattva_vibration
+# LIGHT/CONSCIOUSNESS â SATTVA
+Photon_energy = h Ã f â Sattva_vibration
 # Light carries Sattva (clarity)
 ```
 
@@ -140,15 +140,15 @@ JALA (Liquid):     S=0.2, R=0.4, T=0.4  -> Rajas-Tamas mix
 PRITHVI (Solid):   S=0.1, R=0.2, T=0.7  -> Tamas dominant
 ```
 
-### 2.3 PRANA ↔ ELECTRICITY MAPPING
+### 2.3 PRANA â ELECTRICITY MAPPING
 
 ```python
 # Ohm's Law Backend
-V_prana = I_prana × R_tamas
-# Prana pressure = Flow rate × Tamas obstruction
+V_prana = I_prana Ã R_tamas
+# Prana pressure = Flow rate Ã Tamas obstruction
 
 # Power Backend
-P = I_prana × V_prana = I²_prana × R_tamas
+P = I_prana Ã V_prana = IÂ²_prana Ã R_tamas
 # Power = Rajas expenditure rate
 
 # Capacitance Backend
@@ -156,7 +156,7 @@ C_prana = Q_prana / V_prana
 # Storage capacity = Stored prana / Pressure
 ```
 
-### 2.4 KARMA ↔ PHYSICS MAPPING
+### 2.4 KARMA â PHYSICS MAPPING
 
 ```python
 # Newton's 3rd Law = Karma-Phala
@@ -164,10 +164,10 @@ F_action = -F_reaction
 K_action = K_reaction (magnitude equal, signs may differ)
 
 # Inertia = Accumulated Karma
-m × a = F  ->  K_sanchita × Δv = K_applied
+m Ã a = F  ->  K_sanchita Ã Îv = K_applied
 
 # Momentum = Karma momentum
-p = m × v  ->  K_momentum = K_sanchita × Gati
+p = m Ã v  ->  K_momentum = K_sanchita Ã Gati
 ```
 
 ### 2.5 MASTER EQUATIONS
@@ -181,25 +181,25 @@ p = m × v  ->  K_momentum = K_sanchita × Gati
      S + R + T = 1                                                         
                                                                            
   2. PIXEL-TICK-LIGHT:                                                     
-     c = Δx_min / Δt_min = 1 pixel / 1 tick (EXACTLY)                     
+     c = Îx_min / Ît_min = 1 pixel / 1 tick (EXACTLY)                     
                                                                            
   3. TEMPERATURE-RAJAS:                                                    
-     T_kelvin = (2/3) × (R_avg × k_energy) / k_B                          
+     T_kelvin = (2/3) Ã (R_avg Ã k_energy) / k_B                          
                                                                            
   4. MASS-TAMAS:                                                           
-     m = ρ_tamas × V × (T / (S + R + T))                                  
+     m = Ï_tamas Ã V Ã (T / (S + R + T))                                  
                                                                            
   5. ENERGY-RAJAS:                                                         
-     E = R_total × c²  (where c² is architecture constant)                
+     E = R_total Ã cÂ²  (where cÂ² is architecture constant)                
                                                                            
   6. ENTROPY-TAMAS:                                                        
-     dS/dt ≥ 0  ->  dT_guna/dt ≥ 0 (Tamas always increases or stays)      
+     dS/dt â¥ 0  ->  dT_guna/dt â¥ 0 (Tamas always increases or stays)      
                                                                            
   7. KARMA CONSERVATION:                                                   
-     ΣK_in = ΣK_out (for closed system over time)                         
+     Î£K_in = Î£K_out (for closed system over time)                         
                                                                            
   8. UNCERTAINTY-LOD:                                                      
-     Δx × Δp ≥ ℏ/2  (render budget constraint)                            
+     Îx Ã Îp â¥ â/2  (render budget constraint)                            
                                                                            
 ---------------------------------------------------------------------------
 ```
@@ -208,22 +208,22 @@ p = m × v  ->  K_momentum = K_sanchita × Gati
 
 ## 3. REAL-WORLD VALIDATION EXAMPLES
 
-### 3.1 EXAMPLE: WATER (H₂O) — Guna Analysis
+### 3.1 EXAMPLE: WATER (HâO) â Guna Analysis
 
 ```python
 # WATER PROPERTIES (Frontend known values)
 water_properties = {
     'molecular_weight': 18.015,      # g/mol
-    'density_liquid': 1000,          # kg/m³
+    'density_liquid': 1000,          # kg/mÂ³
     'boiling_point': 373.15,         # K
     'freezing_point': 273.15,        # K
-    'specific_heat': 4186,           # J/(kg·K)
-    'viscosity_20C': 0.001,          # Pa·s
+    'specific_heat': 4186,           # J/(kgÂ·K)
+    'viscosity_20C': 0.001,          # PaÂ·s
 }
 
 # REVERSE ENGINEER GUNAS
 
-# Step 1: At 20°C (293 K), water is liquid
+# Step 1: At 20Â°C (293 K), water is liquid
 # Liquid = JALA = S=0.2, R=0.4, T=0.4
 
 # Step 2: High specific heat suggests strong Sattva component
@@ -253,7 +253,7 @@ def validate_water_gunas():
     # VALIDATION: Tamas decreases with temperature  
     assert ice_gunas['T'] > water_gunas['T'] > steam_gunas['T'], "Tamas should decrease with temp!"
     
-    print("\n✅ All water guna validations passed!")
+    print("\nâ All water guna validations passed!")
     
 validate_water_gunas()
 ```
@@ -264,21 +264,21 @@ ice: S=0.15, R=0.15, T=0.70 | Sum=1.0
 water: S=0.25, R=0.35, T=0.40 | Sum=1.0
 steam: S=0.40, R=0.50, T=0.10 | Sum=1.0
 
-✅ All water guna validations passed!
+â All water guna validations passed!
 ```
 
-### 3.2 EXAMPLE: GOLD (Au) — Guna Analysis
+### 3.2 EXAMPLE: GOLD (Au) â Guna Analysis
 
 ```python
 # GOLD PROPERTIES (Frontend known values)
 gold_properties = {
     'atomic_number': 79,
     'atomic_weight': 196.97,         # g/mol
-    'density': 19300,                # kg/m³ (very high!)
+    'density': 19300,                # kg/mÂ³ (very high!)
     'melting_point': 1337.33,        # K
     'boiling_point': 3129,           # K
     'electrical_conductivity': 4.52e7, # S/m (excellent)
-    'thermal_conductivity': 318,     # W/(m·K)
+    'thermal_conductivity': 318,     # W/(mÂ·K)
     'color': 'golden yellow',        # unique
 }
 
@@ -291,10 +291,10 @@ def calculate_gold_gunas():
     This seems contradictory...
     
     RESOLUTION:
-    • High MASS Tamas (structural inertia)
-    • Low PRANA-PATH Tamas (electrons flow easily)
-    • High Sattva (stable, doesn't oxidize, "noble")
-    • Moderate Rajas (good heat/electric conduction)
+    â¢ High MASS Tamas (structural inertia)
+    â¢ Low PRANA-PATH Tamas (electrons flow easily)
+    â¢ High Sattva (stable, doesn't oxidize, "noble")
+    â¢ Moderate Rajas (good heat/electric conduction)
     """
     
     # Gold's unique Guna composition
@@ -337,7 +337,7 @@ chemical_inertness: {'S': 0.6, 'R': 0.2, 'T': 0.2} | Sum=1.00
 Gold average Gunas: {'S': 0.35, 'R': 0.3, 'T': 0.35}
 ```
 
-### 3.3 EXAMPLE: PLANETS — Graha Guna Analysis
+### 3.3 EXAMPLE: PLANETS â Graha Guna Analysis
 
 ```python
 # PLANETARY DATA (Frontend known values)
@@ -471,46 +471,46 @@ VALIDATION AGAINST TRADITIONAL JYOTISHA:
 ============================================================
 Sun: Expected Rajas-Sattva (fire, light, authority)
        Calculated: S=0.397, R=0.461, T=0.142
-       ✅ Matches! High R and S, low T
+       â Matches! High R and S, low T
 
 Moon: Expected Sattva-Tamas (mind, water, reflection)
        Calculated: S=0.200, R=0.230, T=0.570
-       ⚠️ Partial match. High T correct, S should be higher.
+       â ï¸ Partial match. High T correct, S should be higher.
        (Moon's Sattva is in its REFLECTION, not its mass)
 
 Mars: Expected Rajas-Tamas (fire, aggression, earth)
        Calculated: S=0.182, R=0.227, T=0.591
-       ✅ Matches! High T (iron), moderate R (aggression)
+       â Matches! High T (iron), moderate R (aggression)
        
 Jupiter: Expected Sattva (expansion, wisdom, ether)
        Calculated: S=0.253, R=0.228, T=0.519
-       ⚠️ Partial match. Jupiter's Sattva is in its INFLUENCE, 
+       â ï¸ Partial match. Jupiter's Sattva is in its INFLUENCE, 
        not its physical body. Gas giant has high T physically.
        
 Saturn: Expected Tamas (limits, karma, earth)
        Calculated: S=0.227, R=0.218, T=0.555
-       ✅ Matches! Highest Tamas among outer planets.
+       â Matches! Highest Tamas among outer planets.
 ```
 
-### 3.4 EXAMPLE: ELECTRICITY — Prana Flow Validation
+### 3.4 EXAMPLE: ELECTRICITY â Prana Flow Validation
 
 ```python
 # KNOWN ELECTRICAL VALUES
 copper_wire = {
     'resistivity_ohm_m': 1.68e-8,
     'length_m': 1.0,
-    'area_m2': 1e-6,  # 1 mm² cross-section
+    'area_m2': 1e-6,  # 1 mmÂ² cross-section
     'voltage_V': 12,
 }
 
 def validate_ohm_law_backend():
     """
     Frontend: V = IR (Ohm's Law)
-    Backend: Prana_Pressure = Prana_Flow × Tamas_Obstruction
+    Backend: Prana_Pressure = Prana_Flow Ã Tamas_Obstruction
     """
     # Calculate resistance
     R = copper_wire['resistivity_ohm_m'] * copper_wire['length_m'] / copper_wire['area_m2']
-    print(f"Resistance R = {R:.4f} Ω")
+    print(f"Resistance R = {R:.4f} Î©")
     
     # Calculate current (Frontend)
     V = copper_wire['voltage_V']
@@ -522,22 +522,22 @@ def validate_ohm_law_backend():
     tamas_obstruction = R  # Ohms = Tamas obstruction units
     prana_flow = I  # Amperes = Prana flow rate
     
-    # Validate: V = I × R
+    # Validate: V = I Ã R
     calculated_V = prana_flow * tamas_obstruction
     assert abs(calculated_V - V) < 0.001, "Backend Ohm's Law validation failed!"
     
-    print(f"\n✅ Backend Validation:")
+    print(f"\nâ Backend Validation:")
     print(f"   Prana Pressure = {prana_pressure} (Volts)")
     print(f"   Prana Flow = {prana_flow:.2f} (Amperes)")
     print(f"   Tamas Obstruction = {tamas_obstruction:.4f} (Ohms)")
-    print(f"   V = I × R -> {calculated_V:.4f} = {prana_flow:.2f} × {tamas_obstruction:.4f}")
+    print(f"   V = I Ã R -> {calculated_V:.4f} = {prana_flow:.2f} Ã {tamas_obstruction:.4f}")
     
     # Calculate power (Rajas expenditure)
     power = V * I
     print(f"\n   Power (Rajas expenditure) = {power:.2f} W")
     
     # This power will convert to heat (Tamas accumulation)
-    # In 1 second: Heat = Power × time = Rajas -> Tamas
+    # In 1 second: Heat = Power Ã time = Rajas -> Tamas
     heat_joules_per_sec = power
     print(f"   Heat generated = {heat_joules_per_sec:.2f} J/s (Rajas -> Tamas conversion)")
     
@@ -546,14 +546,14 @@ validate_ohm_law_backend()
 
 **OUTPUT:**
 ```
-Resistance R = 0.0168 Ω
+Resistance R = 0.0168 Î©
 Current I = 714.29 A
 
-✅ Backend Validation:
+â Backend Validation:
    Prana Pressure = 12 (Volts)
    Prana Flow = 714.29 (Amperes)
    Tamas Obstruction = 0.0168 (Ohms)
-   V = I × R -> 12.0000 = 714.29 × 0.0168
+   V = I Ã R -> 12.0000 = 714.29 Ã 0.0168
 
    Power (Rajas expenditure) = 8571.43 W
    Heat generated = 8571.43 J/s (Rajas -> Tamas conversion)
@@ -574,7 +574,7 @@ def reverse_engineer_gunas(material_data):
     OUTPUT: S, R, T values
     """
     # Normalization constants (empirical from known materials)
-    DENSITY_MAX = 22500       # Osmium kg/m³
+    DENSITY_MAX = 22500       # Osmium kg/mÂ³
     MELTING_MAX = 3695        # Tungsten K
     CONDUCT_MAX = 6.3e7       # Silver S/m
     
@@ -705,7 +705,7 @@ print(f"  Intensity: {prarabdha['total_intensity']}")
 ```python
 def validate_guna_temperature_consistency():
     """
-    Validate that Rajas ↔ Temperature relationship is consistent.
+    Validate that Rajas â Temperature relationship is consistent.
     """
     test_cases = [
         # (Temperature K, Expected Rajas range)
@@ -716,9 +716,9 @@ def validate_guna_temperature_consistency():
         (5778, (0.7, 0.9)),     # Sun surface -> very high Rajas
     ]
     
-    # Simple linear model: R = a × T + b
-    # At T=0, R ≈ 0.05 (ground state has some activity)
-    # At T=6000, R ≈ 0.85
+    # Simple linear model: R = a Ã T + b
+    # At T=0, R â 0.05 (ground state has some activity)
+    # At T=6000, R â 0.85
     a = (0.85 - 0.05) / 6000  # Slope
     b = 0.05                   # Intercept
     
@@ -729,11 +729,11 @@ def validate_guna_temperature_consistency():
     for temp, (r_min, r_max) in test_cases:
         calculated_R = a * temp + b
         passed = r_min <= calculated_R <= r_max
-        status = "✅" if passed else "❌"
+        status = "â" if passed else "â"
         all_passed = all_passed and passed
         print(f"T={temp:5d}K -> R={calculated_R:.3f} | Expected: [{r_min:.1f}, {r_max:.1f}] {status}")
     
-    print("\n" + ("✅ All consistency checks passed!" if all_passed else "❌ Some checks failed!"))
+    print("\n" + ("â All consistency checks passed!" if all_passed else "â Some checks failed!"))
     return all_passed
 
 validate_guna_temperature_consistency()
@@ -744,8 +744,8 @@ validate_guna_temperature_consistency()
 ```python
 def validate_entropy_tamas_consistency():
     """
-    Validate that Entropy ↔ Tamas relationship is consistent.
-    Second Law: dS/dt ≥ 0 -> dT/dt ≥ 0 (Tamas never decreases in closed system)
+    Validate that Entropy â Tamas relationship is consistent.
+    Second Law: dS/dt â¥ 0 -> dT/dt â¥ 0 (Tamas never decreases in closed system)
     """
     import random
     
@@ -767,7 +767,7 @@ def validate_entropy_tamas_consistency():
     print("ENTROPY-TAMAS CONSISTENCY CHECK:")
     print(f"Initial Tamas: {initial_tamas:.3f}")
     print(f"Final Tamas: {tamas_history[-1]:.3f}")
-    print(f"Monotonic increase: {'✅ Yes' if is_valid else '❌ No (2nd Law Violation!)'}")
+    print(f"Monotonic increase: {'â Yes' if is_valid else 'â No (2nd Law Violation!)'}")
     
     return is_valid
 
@@ -796,7 +796,7 @@ def validate_c_invariance():
     print(f"c (from Planck units) = {c_calculated:.6e} m/s")
     print(f"c (known value) = {c_known} m/s")
     print(f"Relative error = {error:.2e}")
-    print(f"Result: {'✅ MATCHES' if error < 0.01 else '❌ MISMATCH'}")
+    print(f"Result: {'â MATCHES' if error < 0.01 else 'â MISMATCH'}")
     
     # Backend interpretation
     print("\nBackend: c = 1 pixel / 1 tick (EXACTLY)")
@@ -820,7 +820,7 @@ validate_c_invariance()
 | Sattva | Light | NOT duplicate. Sattva is CLARITY quality, Light is information carrier |
 | Prana | Electricity | EQUIVALENT in gross manifestation. Electricity = Prana through conductors |
 | Rina | Karma | NOT duplicate. Karma = action-consequence. Rina = specific obligation type |
-| Karj | Rina | EQUIVALENT. Karj (कर्ज़) is Hindi/Urdu for Rina (ऋण). Same concept. |
+| Karj | Rina | EQUIVALENT. Karj (à¤à¤°à¥à¤à¤¼) is Hindi/Urdu for Rina (à¤à¤£). Same concept. |
 
 ### 6.2 POTENTIAL CONFLICTS
 
@@ -837,7 +837,7 @@ Tamas has MULTIPLE ASPECTS:
 These are DIFFERENT Tamas manifestations!
 
 FORMULA:
-T_total = w1 × T_mass + w2 × T_prana + w3 × T_chemical + ...
+T_total = w1 Ã T_mass + w2 Ã T_prana + w3 Ã T_chemical + ...
 (Weighted sum of aspect-specific Tamas values)
 ```
 
@@ -847,7 +847,7 @@ T_total = w1 × T_mass + w2 × T_prana + w3 × T_chemical + ...
 
 **Resolution:**
 ```
-PHYSICAL body ≠ GRAHA INFLUENCE
+PHYSICAL body â  GRAHA INFLUENCE
 
 Jupiter's PHYSICAL composition -> Gas giant, moderate Tamas
 Jupiter's GRAHA INFLUENCE -> Expansion, wisdom, dharma (Sattva)
@@ -866,17 +866,17 @@ wisdom (Sattvic information).
 
 **Resolution:**
 ```
-Akasha is NOT "nothing" — it's the CANVAS.
+Akasha is NOT "nothing" â it's the CANVAS.
 
 Akasha = The field in which Gunas can manifest
        = Potential for manifestation
        = Background Sattva-dominant substrate
 
 Even "empty" space has:
-• Quantum fluctuations (Rajas)
-• Dark energy (subtle Rajas driving expansion)
-• Zero-point energy (minimum Rajas)
-• Structure (Sattva organization)
+â¢ Quantum fluctuations (Rajas)
+â¢ Dark energy (subtle Rajas driving expansion)
+â¢ Zero-point energy (minimum Rajas)
+â¢ Structure (Sattva organization)
 
 Space IS something. It's the rendering canvas with its own properties.
 ```
@@ -886,27 +886,27 @@ Space IS something. It's the rendering canvas with its own properties.
 ```
 ---------------------------------------------------------------------------------
                          CONSISTENCY VALIDATION MATRIX                           
-----------------------�--------------------------------------------------------------�
+----------------------¦--------------------------------------------------------------£
  RELATIONSHIP        STATUS    EVIDENCE                                         
-----------------------�--------------------------------------------------------------�
- S + R + T = 1       ✅ VALID  All material calculations normalize correctly    
-----------------------�--------------------------------------------------------------�
- c = 1 pix/tick      ✅ VALID  Planck L / Planck T = c (within 1% error)       
-----------------------�--------------------------------------------------------------�
- T ↔ Rajas           ✅ VALID  Higher temp -> higher activity -> higher Rajas    
-----------------------�--------------------------------------------------------------�
- Entropy ↔ Tamas     ✅ VALID  2nd Law = Tamas monotonic increase              
-----------------------�--------------------------------------------------------------�
- V = IR ↔ Prana      ✅ VALID  Ohm's Law = Prana flow equation                 
-----------------------�--------------------------------------------------------------�
- Karma conservation  ✅ VALID  Newton's 3rd = Karma-Phala symmetry             
-----------------------�--------------------------------------------------------------�
- Guna-State mapping  ✅ VALID  Solid->Tamas, Gas->Rajas, matches observations    
-----------------------�--------------------------------------------------------------�
- Graha-Influence     ⚠️ PARTIAL Physical body ≠ Influence (resolved above)      
-----------------------�--------------------------------------------------------------�
- Multi-aspect Tamas  ⚠️ NUANCED Tamas varies by property (mass vs conduct)      
----------------------�-------------------------------------------------------------
+----------------------¬--------------------------------------------------------------£
+ S + R + T = 1       â VALID  All material calculations normalize correctly    
+----------------------¬--------------------------------------------------------------£
+ c = 1 pix/tick      â VALID  Planck L / Planck T = c (within 1% error)       
+----------------------¬--------------------------------------------------------------£
+ T â Rajas           â VALID  Higher temp -> higher activity -> higher Rajas    
+----------------------¬--------------------------------------------------------------£
+ Entropy â Tamas     â VALID  2nd Law = Tamas monotonic increase              
+----------------------¬--------------------------------------------------------------£
+ V = IR â Prana      â VALID  Ohm's Law = Prana flow equation                 
+----------------------¬--------------------------------------------------------------£
+ Karma conservation  â VALID  Newton's 3rd = Karma-Phala symmetry             
+----------------------¬--------------------------------------------------------------£
+ Guna-State mapping  â VALID  Solid->Tamas, Gas->Rajas, matches observations    
+----------------------¬--------------------------------------------------------------£
+ Graha-Influence     â ï¸ PARTIAL Physical body â  Influence (resolved above)      
+----------------------¬--------------------------------------------------------------£
+ Multi-aspect Tamas  â ï¸ NUANCED Tamas varies by property (mass vs conduct)      
+---------------------©-------------------------------------------------------------
 ```
 
 ---
@@ -922,7 +922,7 @@ Space IS something. It's the rendering canvas with its own properties.
                         ----------v----------
                            MAHAVISHNU        
                            (Architecture)    
-                          c, ℏ, G, α, etc.   
+                          c, â, G, Î±, etc.   
                         ---------------------
                                    
               ----------------------------------------
@@ -930,7 +930,7 @@ Space IS something. It's the rendering canvas with its own properties.
     ---------v--------- -------v------- ---------v---------
          PURUSHA           PRAKRITI           MAYA         
        (Observer)         (Engine)         (Renderer)      
-       Ψ, Viveka          S, R, T          M, LOD          
+       Î¨, Viveka          S, R, T          M, LOD          
     ------------------- --------------- -------------------
                                                     
                        -------------------        
@@ -942,7 +942,7 @@ Space IS something. It's the rendering canvas with its own properties.
                                 Gandha          
                  -----------   ---------------  
                                                    
-              --------►◄---------------------------
+              --------âºâ---------------------------
                         
               ---------v---------
                    JIVA/JADA     
@@ -994,50 +994,50 @@ Space IS something. It's the rendering canvas with its own properties.
 S + R + T = 1
 
 # 2. TEMPERATURE-RAJAS RELATION
-T_kelvin = k_TR × (R_avg / (S + T))
-# Where k_TR ≈ 300 K for room temperature systems
+T_kelvin = k_TR Ã (R_avg / (S + T))
+# Where k_TR â 300 K for room temperature systems
 
 # 3. MASS-TAMAS RELATION  
-m = ρ_matter × V × (T / (S + R + T))
+m = Ï_matter Ã V Ã (T / (S + R + T))
 # Mass comes from Tamas component
 
 # 4. ENERGY-RAJAS RELATION
-E = k_ER × R × c²
+E = k_ER Ã R Ã cÂ²
 # Energy is Rajas expressed in matter units
 
 # 5. ENTROPY-TAMAS RELATION
-S_entropy = k_B × ln(Ω) = k_ST × ln(T_guna / T_min)
+S_entropy = k_B Ã ln(Î©) = k_ST Ã ln(T_guna / T_min)
 # Entropy logarithmically relates to Tamas
 
 # 6. LIGHT SPEED (Architecture)
-c = Δx_planck / Δt_planck = 1 pixel / 1 tick (EXACTLY)
+c = Îx_planck / Ît_planck = 1 pixel / 1 tick (EXACTLY)
 
 # 7. UNCERTAINTY (Render Budget)
-Δx × Δp ≥ ℏ/2
+Îx Ã Îp â¥ â/2
 # Cannot render both position and momentum at full resolution
 
 # 8. KARMA CONSERVATION
-ΣK_action = ΣK_reaction (over time)
+Î£K_action = Î£K_reaction (over time)
 # Newton's 3rd = Karma-Phala
 
 # 9. PRANA FLOW (Ohm's Law Backend)
-V_prana = I_prana × R_tamas
-# Prana pressure = Flow × Tamas obstruction
+V_prana = I_prana Ã R_tamas
+# Prana pressure = Flow Ã Tamas obstruction
 
 # 10. POWER (Rajas Expenditure)
-P = I_prana × V_prana = I² × R_tamas
+P = I_prana Ã V_prana = IÂ² Ã R_tamas
 # Power = Rate of Rajas expenditure
 
 # 11. GRAVITY (Meru Attraction)
-F_gravity = G × M₁ × M₂ / r²
+F_gravity = G Ã Mâ Ã Mâ / rÂ²
 # Attraction to Meru (mass center) proportional to Tamas content
 
 # 12. STATE TRANSITION (Guna Shift)
 Solid -> Liquid -> Gas
-T↑, R↑, S↑ (proportionally shift with temperature)
+Tâ, Râ, Sâ (proportionally shift with temperature)
 
 # 13. WAVE-PARTICLE (Maya Decision)
-|ψ|² = P(observation)
+|Ï|Â² = P(observation)
 # Probability = Maya's render decision
 
 # 14. KARMA PROCESSING
@@ -1049,7 +1049,7 @@ dK_sanchita/dt = K_agami - K_prarabdha_resolved
 
 ## 9. VALIDATION SUMMARY
 
-### ✅ CONFIRMED RELATIONSHIPS
+### â CONFIRMED RELATIONSHIPS
 
 1. **Guna-Temperature**: Higher T -> Higher Rajas (activity)
 2. **Guna-Entropy**: Higher S -> Higher Tamas (disorder)
@@ -1058,21 +1058,21 @@ dK_sanchita/dt = K_agami - K_prarabdha_resolved
 5. **Karma = Newton's 3rd**: Action-reaction symmetry
 6. **Prana = Electricity**: Ohm's Law holds for backend interpretation
 
-### ⚠️ NUANCED RELATIONSHIPS
+### â ï¸ NUANCED RELATIONSHIPS
 
 1. **Multi-aspect Tamas**: Different properties have different Tamas values
-2. **Graha Physical vs Influence**: Body composition ≠ Broadcast Guna
+2. **Graha Physical vs Influence**: Body composition â  Broadcast Guna
 3. **Sattva in Dark**: Space has Sattva even without visible light
 
-### ❌ NO CONFLICTS FOUND
+### â NO CONFLICTS FOUND
 
 All major relationships are self-consistent after proper interpretation.
 
 ---
 
-> **"यथा पिण्डे तथा ब्रह्माण्डे"**
+> **"à¤¯à¤¥à¤¾ à¤ªà¤¿à¤£à¥à¤¡à¥ à¤¤à¤¥à¤¾ à¤¬à¥à¤°à¤¹à¥à¤®à¤¾à¤£à¥à¤¡à¥"**
 > "As in the microcosm, so in the macrocosm."
-> — The fractal principle that validates all these relationships at every scale.
+> â The fractal principle that validates all these relationships at every scale.
 
 ---
 

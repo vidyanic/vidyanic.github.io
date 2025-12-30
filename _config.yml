@@ -15,6 +15,7 @@ github_username: "ranjeet-sunya"
 
 # Build settings
 theme: jekyll-theme-cayman
+encoding: utf-8
 # Alternative themes you can try:
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate
@@ -28,13 +29,18 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     default_lang: java
+  # UTF-8 encoding support
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  parse_block_html: true
 
 # Plugins
 plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter
   - jekyll-readme-index
-  - jekyll-titles-from-headings
+  # - jekyll-titles-from-headings  # Disabled: causes UTF-8 errors with Devanagari text
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -54,10 +60,11 @@ readme_index:
   with_frontmatter: false
 
 # Titles from headings
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
+# Disabled due to UTF-8 encoding issues with Devanagari text
+# titles_from_headings:
+#   enabled: true
+#   strip_title: true
+#   collections: true
 
 # Include/Exclude files
 include:
@@ -66,6 +73,7 @@ include:
   - _config.yml
   - "*/README.md"
   - "**/*.md"
+  - .gitattributes
 
 exclude:
   - Gemfile
@@ -75,6 +83,10 @@ exclude:
   - .sass-cache
   - .jekyll-cache
   - .gitignore
+  - "*.gem"
+  - "*.gemspec"
+  - .git
+  - .github
 
 # Collections (for organizing content)
 collections_dir: .
@@ -118,11 +130,13 @@ defaults:
     values:
       layout: "default"
       author: "Shunya-0 Project"
+      encoding: "utf-8"
   - scope:
       path: ""
     values:
       layout: "default"
       toc: true
+      encoding: "utf-8"
 
 # SEO
 lang: en_US

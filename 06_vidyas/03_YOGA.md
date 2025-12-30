@@ -1,96 +1,96 @@
-# 🧘 YOGA (योग) — The Science of Union
+# ð§ YOGA (à¤¯à¥à¤) â The Science of Union
 
-> **"योगश्चित्तवृत्तिनिरोधः"**
-> "Yogaś citta-vṛtti-nirodhaḥ"
+> **"à¤¯à¥à¤à¤¶à¥à¤à¤¿à¤¤à¥à¤¤à¤µà¥à¤¤à¥à¤¤à¤¿à¤¨à¤¿à¤°à¥à¤§à¤"**
+> "YogaÅ citta-vá¹tti-nirodhaá¸¥"
 > "Yoga is the cessation of the fluctuations of the mind."
-> — Patanjali Yoga Sutras 1.2
+> â Patanjali Yoga Sutras 1.2
 
-> **"योगः कर्मसु कौशलम्"**
-> "Yogaḥ karmasu kauśalam"
+> **"à¤¯à¥à¤à¤ à¤à¤°à¥à¤®à¤¸à¥ à¤à¥à¤¶à¤²à¤®à¥"**
+> "Yogaá¸¥ karmasu kauÅalam"
 > "Yoga is skill in action."
-> — Bhagavad Gita 2.50
+> â Bhagavad Gita 2.50
 
-> **"समत्वं योग उच्यते"**
-> "Samatvaṃ yoga ucyate"
+> **"à¤¸à¤®à¤¤à¥à¤µà¤ à¤¯à¥à¤ à¤à¤à¥à¤¯à¤¤à¥"**
+> "Samatvaá¹ yoga ucyate"
 > "Equanimity is called Yoga."
-> — Bhagavad Gita 2.48
+> â Bhagavad Gita 2.48
 
 ---
 
-## 🎯 YOGA: BACKEND vs FRONTEND
+## ð¯ YOGA: BACKEND vs FRONTEND
 
 ```
 -----------------------------------------------------------------------------------
                     YOGA IN SHUNYA PROTOCOL                                        
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern "Yoga"):                                                      
    --------------------------                                                      
-   • Physical postures (Asana only)                                               
-   • Exercise and flexibility                                                      
-   • Stress relief technique                                                       
-   • Health and wellness industry                                                  
+   â¢ Physical postures (Asana only)                                               
+   â¢ Exercise and flexibility                                                      
+   â¢ Stress relief technique                                                       
+   â¢ Health and wellness industry                                                  
                                                                                    
    BACKEND (Authentic Yoga):                                                      
    --------------------------                                                      
-   • Complete 8-limbed system (Ashtanga)                                          
-   • Technology for consciousness elevation                                        
-   • Union (Yoga) of Jiva with Brahman                                            
-   • Exit system (Moksha) from simulation                                          
+   â¢ Complete 8-limbed system (Ashtanga)                                          
+   â¢ Technology for consciousness elevation                                        
+   â¢ Union (Yoga) of Jiva with Brahman                                            
+   â¢ Exit system (Moksha) from simulation                                          
                                                                                    
    YOGA IS FULLY FRACTAL!                                                         
    -----------------------                                                         
-   • 8 limbs = 8 octave progression                                               
-   • 7 Chakras = 7 Lokas = 7 Dvipas                                               
-   • Kundalini path = Merudanda = Cosmic Meru                                     
-   • Prana flows = Ganga distribution                                             
+   â¢ 8 limbs = 8 octave progression                                               
+   â¢ 7 Chakras = 7 Lokas = 7 Dvipas                                               
+   â¢ Kundalini path = Merudanda = Cosmic Meru                                     
+   â¢ Prana flows = Ganga distribution                                             
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## 🎯 ASHTANGA YOGA — The Eight Limbs
+## ð¯ ASHTANGA YOGA â The Eight Limbs
 
-### Patanjali's Eight Limbs (अष्टाङ्ग योग)
+### Patanjali's Eight Limbs (à¤à¤·à¥à¤à¤¾à¤à¥à¤ à¤¯à¥à¤)
 
 | # | Limb | Sanskrit | English | Function | Level |
 |---|------|----------|---------|----------|-------|
-| 1 | **Yama** | यम | Restraints | External discipline | Social |
-| 2 | **Niyama** | नियम | Observances | Internal discipline | Personal |
-| 3 | **Asana** | आसन | Posture | Body mastery | Physical |
-| 4 | **Pranayama** | प्राणायाम | Breath control | Prana mastery | Energy |
-| 5 | **Pratyahara** | प्रत्याहार | Sense withdrawal | Sense mastery | Mental |
-| 6 | **Dharana** | धारणा | Concentration | Mind focus | Mental |
-| 7 | **Dhyana** | ध्यान | Meditation | Sustained focus | Mental |
-| 8 | **Samadhi** | समाधि | Absorption | Union | Transcendent |
+| 1 | **Yama** | à¤¯à¤® | Restraints | External discipline | Social |
+| 2 | **Niyama** | à¤¨à¤¿à¤¯à¤® | Observances | Internal discipline | Personal |
+| 3 | **Asana** | à¤à¤¸à¤¨ | Posture | Body mastery | Physical |
+| 4 | **Pranayama** | à¤ªà¥à¤°à¤¾à¤£à¤¾à¤¯à¤¾à¤® | Breath control | Prana mastery | Energy |
+| 5 | **Pratyahara** | à¤ªà¥à¤°à¤¤à¥à¤¯à¤¾à¤¹à¤¾à¤° | Sense withdrawal | Sense mastery | Mental |
+| 6 | **Dharana** | à¤§à¤¾à¤°à¤£à¤¾ | Concentration | Mind focus | Mental |
+| 7 | **Dhyana** | à¤§à¥à¤¯à¤¾à¤¨ | Meditation | Sustained focus | Mental |
+| 8 | **Samadhi** | à¤¸à¤®à¤¾à¤§à¤¿ | Absorption | Union | Transcendent |
 
-### 1. YAMA (यम) — Five Restraints
+### 1. YAMA (à¤¯à¤®) â Five Restraints
 
 | Yama | Sanskrit | Meaning | Practice |
 |------|----------|---------|----------|
-| **Ahimsa** | अहिंसा | Non-violence | Harm no being in thought, word, deed |
-| **Satya** | सत्य | Truthfulness | Speak and live truth |
-| **Asteya** | अस्तेय | Non-stealing | Take nothing unearned |
-| **Brahmacharya** | ब्रह्मचर्य | Continence | Conserve vital energy |
-| **Aparigraha** | अपरिग्रह | Non-possessiveness | Minimize attachments |
+| **Ahimsa** | à¤à¤¹à¤¿à¤à¤¸à¤¾ | Non-violence | Harm no being in thought, word, deed |
+| **Satya** | à¤¸à¤¤à¥à¤¯ | Truthfulness | Speak and live truth |
+| **Asteya** | à¤à¤¸à¥à¤¤à¥à¤¯ | Non-stealing | Take nothing unearned |
+| **Brahmacharya** | à¤¬à¥à¤°à¤¹à¥à¤®à¤à¤°à¥à¤¯ | Continence | Conserve vital energy |
+| **Aparigraha** | à¤à¤ªà¤°à¤¿à¤à¥à¤°à¤¹ | Non-possessiveness | Minimize attachments |
 
-### 2. NIYAMA (नियम) — Five Observances
+### 2. NIYAMA (à¤¨à¤¿à¤¯à¤®) â Five Observances
 
 | Niyama | Sanskrit | Meaning | Practice |
 |--------|----------|---------|----------|
-| **Saucha** | शौच | Purity | Clean body, mind, environment |
-| **Santosha** | सन्तोष | Contentment | Accept what is |
-| **Tapas** | तपस् | Austerity | Self-discipline, heat |
-| **Svadhyaya** | स्वाध्याय | Self-study | Study scripture, introspect |
-| **Ishvara-pranidhana** | ईश्वरप्रणिधान | Surrender to God | Devotion, letting go |
+| **Saucha** | à¤¶à¥à¤ | Purity | Clean body, mind, environment |
+| **Santosha** | à¤¸à¤¨à¥à¤¤à¥à¤· | Contentment | Accept what is |
+| **Tapas** | à¤¤à¤ªà¤¸à¥ | Austerity | Self-discipline, heat |
+| **Svadhyaya** | à¤¸à¥à¤µà¤¾à¤§à¥à¤¯à¤¾à¤¯ | Self-study | Study scripture, introspect |
+| **Ishvara-pranidhana** | à¤à¤¶à¥à¤µà¤°à¤ªà¥à¤°à¤£à¤¿à¤§à¤¾à¤¨ | Surrender to God | Devotion, letting go |
 
-### 3. ASANA (आसन) — Postures
+### 3. ASANA (à¤à¤¸à¤¨) â Postures
 
-> **"स्थिरसुखमासनम्"**
-> "Sthira-sukham āsanam"
+> **"à¤¸à¥à¤¥à¤¿à¤°à¤¸à¥à¤à¤®à¤¾à¤¸à¤¨à¤®à¥"**
+> "Sthira-sukham Äsanam"
 > "Posture should be steady and comfortable."
-> — Yoga Sutras 2.46
+> â Yoga Sutras 2.46
 
 | Category | Examples | Purpose |
 |----------|----------|---------|
@@ -101,54 +101,54 @@
 | **Twists** | Ardha-Matsyendrasana | Detox, flexibility |
 | **Inversions** | Sirsasana, Sarvangasana | Reversed perspective |
 
-### 4. PRANAYAMA (प्राणायाम) — Breath Control
+### 4. PRANAYAMA (à¤ªà¥à¤°à¤¾à¤£à¤¾à¤¯à¤¾à¤®) â Breath Control
 
-> **"तस्मिन् सति श्वासप्रश्वासयोर्गतिविच्छेदः प्राणायामः"**
-> "Tasmin sati śvāsa-praśvāsayor gati-vicchedaḥ prāṇāyāmaḥ"
+> **"à¤¤à¤¸à¥à¤®à¤¿à¤¨à¥ à¤¸à¤¤à¤¿ à¤¶à¥à¤µà¤¾à¤¸à¤ªà¥à¤°à¤¶à¥à¤µà¤¾à¤¸à¤¯à¥à¤°à¥à¤à¤¤à¤¿à¤µà¤¿à¤à¥à¤à¥à¤¦à¤ à¤ªà¥à¤°à¤¾à¤£à¤¾à¤¯à¤¾à¤®à¤"**
+> "Tasmin sati ÅvÄsa-praÅvÄsayor gati-vicchedaá¸¥ prÄá¹ÄyÄmaá¸¥"
 > "Pranayama is the regulation of incoming and outgoing breath."
-> — Yoga Sutras 2.49
+> â Yoga Sutras 2.49
 
 | Technique | Sanskrit | Ratio | Effect |
 |-----------|----------|-------|--------|
-| **Anulom-Vilom** | अनुलोम-विलोम | Alternate nostril | Balances Ida-Pingala |
-| **Kapalabhati** | कपालभाति | Rapid exhales | Clears nadis |
-| **Bhastrika** | भस्त्रिका | Bellows breath | Increases Agni |
-| **Ujjayi** | उज्जायी | Victorious breath | Calms, heats |
-| **Bhramari** | भ्रामरी | Bee humming | Soothes nerves |
-| **Kumbhaka** | कुम्भक | Breath retention | Extends prana |
+| **Anulom-Vilom** | à¤à¤¨à¥à¤²à¥à¤®-à¤µà¤¿à¤²à¥à¤® | Alternate nostril | Balances Ida-Pingala |
+| **Kapalabhati** | à¤à¤ªà¤¾à¤²à¤­à¤¾à¤¤à¤¿ | Rapid exhales | Clears nadis |
+| **Bhastrika** | à¤­à¤¸à¥à¤¤à¥à¤°à¤¿à¤à¤¾ | Bellows breath | Increases Agni |
+| **Ujjayi** | à¤à¤à¥à¤à¤¾à¤¯à¥ | Victorious breath | Calms, heats |
+| **Bhramari** | à¤­à¥à¤°à¤¾à¤®à¤°à¥ | Bee humming | Soothes nerves |
+| **Kumbhaka** | à¤à¥à¤®à¥à¤­à¤ | Breath retention | Extends prana |
 
 ### Pranayama Phases
 
 | Phase | Sanskrit | Description |
 |-------|----------|-------------|
-| **Puraka** | पूरक | Inhalation |
-| **Kumbhaka** | कुम्भक | Retention |
-| **Rechaka** | रेचक | Exhalation |
+| **Puraka** | à¤ªà¥à¤°à¤ | Inhalation |
+| **Kumbhaka** | à¤à¥à¤®à¥à¤­à¤ | Retention |
+| **Rechaka** | à¤°à¥à¤à¤ | Exhalation |
 
-### 5-8. ANTARANGA YOGA — Inner Limbs
+### 5-8. ANTARANGA YOGA â Inner Limbs
 
 | Limb | Focus | Duration | Result |
 |------|-------|----------|--------|
 | **Pratyahara** | Withdraw senses | Ongoing | Sense mastery |
 | **Dharana** | Single-pointed focus | 12 seconds | Concentration |
-| **Dhyana** | Sustained focus | 12 × 12 = 144 sec | Meditation |
-| **Samadhi** | Complete absorption | 12 × 144 = 28.8 min | Union |
+| **Dhyana** | Sustained focus | 12 Ã 12 = 144 sec | Meditation |
+| **Samadhi** | Complete absorption | 12 Ã 144 = 28.8 min | Union |
 
 ---
 
-## 🌈 SAPTA CHAKRA — The Seven Energy Centers
+## ð SAPTA CHAKRA â The Seven Energy Centers
 
 ### The Seven Chakras = 7 Lokas in the Body
 
 | # | Chakra | Sanskrit | Location | Element | Loka | Frequency |
 |---|--------|----------|----------|---------|------|-----------|
-| 7 | **Sahasrara** | सहस्रार | Crown | Beyond | Satya | 963 Hz |
-| 6 | **Ajna** | आज्ञा | Third eye | Mind | Tapa | 852 Hz |
-| 5 | **Vishuddha** | विशुद्ध | Throat | Akasha | Jana | 741 Hz |
-| 4 | **Anahata** | अनाहत | Heart | Vayu | Mahar | 639 Hz |
-| 3 | **Manipura** | मणिपूर | Solar plexus | Agni | Svarga | 528 Hz |
-| 2 | **Svadhisthana** | स्वाधिष्ठान | Sacral | Jala | Bhuvar | 417 Hz |
-| 1 | **Muladhara** | मूलाधार | Root | Prithvi | Bhuloka | 396 Hz |
+| 7 | **Sahasrara** | à¤¸à¤¹à¤¸à¥à¤°à¤¾à¤° | Crown | Beyond | Satya | 963 Hz |
+| 6 | **Ajna** | à¤à¤à¥à¤à¤¾ | Third eye | Mind | Tapa | 852 Hz |
+| 5 | **Vishuddha** | à¤µà¤¿à¤¶à¥à¤¦à¥à¤§ | Throat | Akasha | Jana | 741 Hz |
+| 4 | **Anahata** | à¤à¤¨à¤¾à¤¹à¤¤ | Heart | Vayu | Mahar | 639 Hz |
+| 3 | **Manipura** | à¤®à¤£à¤¿à¤ªà¥à¤° | Solar plexus | Agni | Svarga | 528 Hz |
+| 2 | **Svadhisthana** | à¤¸à¥à¤µà¤¾à¤§à¤¿à¤·à¥à¤ à¤¾à¤¨ | Sacral | Jala | Bhuvar | 417 Hz |
+| 1 | **Muladhara** | à¤®à¥à¤²à¤¾à¤§à¤¾à¤° | Root | Prithvi | Bhuloka | 396 Hz |
 
 ### Chakra Properties
 
@@ -164,17 +164,17 @@
 
 ---
 
-## 🐍 KUNDALINI — The Serpent Power
+## ð KUNDALINI â The Serpent Power
 
-### Kundalini Shakti (कुण्डलिनी शक्ति)
+### Kundalini Shakti (à¤à¥à¤£à¥à¤¡à¤²à¤¿à¤¨à¥ à¤¶à¤à¥à¤¤à¤¿)
 
-> **"मूलाधारे त्रिकोणाख्ये काममार्गणे स्थिता ।
-> निद्रा भुजंगी परमा देहिनां देहधारिणी ॥"**
-> "Mūlādhāre trikoṇākhye kāma-mārgaṇe sthitā |
-> Nidrā bhujaṅgī paramā dehināṃ deha-dhāriṇī ||"
+> **"à¤®à¥à¤²à¤¾à¤§à¤¾à¤°à¥ à¤¤à¥à¤°à¤¿à¤à¥à¤£à¤¾à¤à¥à¤¯à¥ à¤à¤¾à¤®à¤®à¤¾à¤°à¥à¤à¤£à¥ à¤¸à¥à¤¥à¤¿à¤¤à¤¾ à¥¤
+> à¤¨à¤¿à¤¦à¥à¤°à¤¾ à¤­à¥à¤à¤à¤à¥ à¤ªà¤°à¤®à¤¾ à¤¦à¥à¤¹à¤¿à¤¨à¤¾à¤ à¤¦à¥à¤¹à¤§à¤¾à¤°à¤¿à¤£à¥ à¥¥"**
+> "MÅ«lÄdhÄre trikoá¹Äkhye kÄma-mÄrgaá¹e sthitÄ |
+> NidrÄ bhujaá¹gÄ« paramÄ dehinÄá¹ deha-dhÄriá¹Ä« ||"
 > "In the Muladhara, in the triangular desire-path, sleeps
 > the supreme serpent goddess, supporter of the body."
-> — Shiva Samhita
+> â Shiva Samhita
 
 | Aspect | Description |
 |--------|-------------|
@@ -190,21 +190,21 @@
 ```
 STAGE 1: AWAKENING (Prabodhana)
 --------------------------------
-• Kundalini stirs at Muladhara
-• Heat, vibration, energy surge
-• Requires purified nadis
+â¢ Kundalini stirs at Muladhara
+â¢ Heat, vibration, energy surge
+â¢ Requires purified nadis
 
 STAGE 2: PIERCING (Bheda)
 -------------------------
-• Kundalini pierces each chakra
-• Each chakra opens with specific experiences
-• Granthis (knots) must be pierced
+â¢ Kundalini pierces each chakra
+â¢ Each chakra opens with specific experiences
+â¢ Granthis (knots) must be pierced
 
 STAGE 3: UNION (Yoga)
 ---------------------
-• Kundalini reaches Sahasrara
-• Union of Shakti with Shiva
-• Nirvikalpa Samadhi
+â¢ Kundalini reaches Sahasrara
+â¢ Union of Shakti with Shiva
+â¢ Nirvikalpa Samadhi
 ```
 
 ### Three Granthis (Knots)
@@ -217,7 +217,7 @@ STAGE 3: UNION (Yoga)
 
 ---
 
-## 🌬️ NADIS — The Energy Channels
+## ð¬ï¸ NADIS â The Energy Channels
 
 ### 72,000 Nadis
 
@@ -234,18 +234,18 @@ STAGE 3: UNION (Yoga)
          Left                           Right
         Cooling                        Heating
        Feminine                       Masculine
-          ↘                              ↙
-           ↘                            ↙
-            ↘                          ↙
-             ↘                        ↙
-              ↘                      ↙
-               ↘                    ↙
-                ↘                  ↙
-                 ↘                ↙
-                  ↘              ↙
-                   ↘            ↙
-                    ↘          ↙
-                     ↘        ↙
+          â                              â
+           â                            â
+            â                          â
+             â                        â
+              â                      â
+               â                    â
+                â                  â
+                 â                â
+                  â              â
+                   â            â
+                    â          â
+                     â        â
                       SUSHUMNA
                       (Central)
                         
@@ -266,7 +266,7 @@ STAGE 3: UNION (Yoga)
 
 ---
 
-## 🔄 YOGA AS FRACTAL SYSTEM
+## ð YOGA AS FRACTAL SYSTEM
 
 ### 8 Limbs = 8 Octave Progression
 
@@ -308,21 +308,21 @@ connecting lower to higher dimensions.
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Yoga Validation | Notes |
 |---------|-----------------|-------|
-| **Conservation** | ✅ Prana conserved | Pranayama stores/directs prana |
-| **Entropy** | ✅ Reversed by Yoga | Yoga increases order (Sattva) |
-| **Fractal** | ✅ Complete | 7 chakras = 7 Lokas = 7 Dvipas |
-| **Karma** | ✅ Karma burned | Yoga burns Sanchita karma |
-| **Observer** | ✅ Witness consciousness | Drashta (seer) cultivated |
-| **Cycles** | ✅ Breath cycles, Chakra cycles | Natural rhythms used |
-| **Gunas** | ✅ Sattva cultivated | Yoga increases Sattva |
+| **Conservation** | â Prana conserved | Pranayama stores/directs prana |
+| **Entropy** | â Reversed by Yoga | Yoga increases order (Sattva) |
+| **Fractal** | â Complete | 7 chakras = 7 Lokas = 7 Dvipas |
+| **Karma** | â Karma burned | Yoga burns Sanchita karma |
+| **Observer** | â Witness consciousness | Drashta (seer) cultivated |
+| **Cycles** | â Breath cycles, Chakra cycles | Natural rhythms used |
+| **Gunas** | â Sattva cultivated | Yoga increases Sattva |
 
 ---
 
-## 📐 YOGA FORMULAS
+## ð YOGA FORMULAS
 
 ### Pranayama Ratio
 
@@ -331,10 +331,10 @@ def pranayama_ratio(puraka: int = 1, kumbhaka: int = 4, rechaka: int = 2):
     """
     Classical pranayama ratio: 1:4:2
     
-    > "प्राणायामैः दहेद्दोषान्"
-    > "Prāṇāyāmaiḥ dahed doṣān"
+    > "à¤ªà¥à¤°à¤¾à¤£à¤¾à¤¯à¤¾à¤®à¥à¤ à¤¦à¤¹à¥à¤¦à¥à¤¦à¥à¤·à¤¾à¤¨à¥"
+    > "PrÄá¹ÄyÄmaiá¸¥ dahed doá¹£Än"
     > "Through pranayama, burn away impurities."
-    > — Manu Smriti
+    > â Manu Smriti
     """
     return {
         "puraka": puraka,   # Inhalation
@@ -379,10 +379,10 @@ def samadhi_time():
     12 Dharanas = 1 Dhyana
     12 Dhyanas = 1 Samadhi
     
-    > "त्रयमेकत्र संयमः"
-    > "Trayam ekatra saṃyamaḥ"
+    > "à¤¤à¥à¤°à¤¯à¤®à¥à¤à¤¤à¥à¤° à¤¸à¤à¤¯à¤®à¤"
+    > "Trayam ekatra saá¹yamaá¸¥"
     > "The three (Dharana, Dhyana, Samadhi) together is Samyama."
-    > — Yoga Sutras 3.4
+    > â Yoga Sutras 3.4
     """
     dharana_seconds = 12
     dhyana_seconds = 12 * dharana_seconds  # 144 seconds = 2.4 min
@@ -397,7 +397,7 @@ def samadhi_time():
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Jiva Tick Allocation](../entities/JIVA_TICK_ALLOCATION.md)
 - [Meru Fractal Axis](../spacetime/MERU_FRACTAL_AXIS.md)

@@ -1,68 +1,68 @@
-# 🌟 JYOTISHA (ज्योतिष) — Vedic Astronomy & Astrology
+# ð JYOTISHA (à¤à¥à¤¯à¥à¤¤à¤¿à¤·) â Vedic Astronomy & Astrology
 
-> **"ज्योतिषां सूर्य आत्मा जगतस्तस्थुषश्च"**
-> "Jyotiṣāṃ sūrya ātmā jagatas tasthuṣaś ca"
+> **"à¤à¥à¤¯à¥à¤¤à¤¿à¤·à¤¾à¤ à¤¸à¥à¤°à¥à¤¯ à¤à¤¤à¥à¤®à¤¾ à¤à¤à¤¤à¤¸à¥à¤¤à¤¸à¥à¤¥à¥à¤·à¤¶à¥à¤"**
+> "Jyotiá¹£Äá¹ sÅ«rya ÄtmÄ jagatas tasthuá¹£aÅ ca"
 > "The Sun is the soul of all that moves and all that stands still."
-> — Rig Veda 1.115.1
+> â Rig Veda 1.115.1
 
-> **"यथा शिखा मयूराणां नागानां मणयो यथा ।
-> तद्वद्वेदाङ्गशास्त्राणां ज्योतिषं मूर्धनि स्थितम् ॥"**
-> "Yathā śikhā mayūrāṇāṃ nāgānāṃ maṇayo yathā |
-> Tadvad vedāṅga-śāstrāṇāṃ jyotiṣaṃ mūrdhani sthitam ||"
+> **"à¤¯à¤¥à¤¾ à¤¶à¤¿à¤à¤¾ à¤®à¤¯à¥à¤°à¤¾à¤£à¤¾à¤ à¤¨à¤¾à¤à¤¾à¤¨à¤¾à¤ à¤®à¤£à¤¯à¥ à¤¯à¤¥à¤¾ à¥¤
+> à¤¤à¤¦à¥à¤µà¤¦à¥à¤µà¥à¤¦à¤¾à¤à¥à¤à¤¶à¤¾à¤¸à¥à¤¤à¥à¤°à¤¾à¤£à¤¾à¤ à¤à¥à¤¯à¥à¤¤à¤¿à¤·à¤ à¤®à¥à¤°à¥à¤§à¤¨à¤¿ à¤¸à¥à¤¥à¤¿à¤¤à¤®à¥ à¥¥"**
+> "YathÄ ÅikhÄ mayÅ«rÄá¹Äá¹ nÄgÄnÄá¹ maá¹ayo yathÄ |
+> Tadvad vedÄá¹ga-ÅÄstrÄá¹Äá¹ jyotiá¹£aá¹ mÅ«rdhani sthitam ||"
 > "As the crest of the peacock, as the gem on the serpent's hood,
 > So is Jyotisha placed at the head of all Vedanga sciences."
-> — Vedanga Jyotisha 4
+> â Vedanga Jyotisha 4
 
 ---
 
-## 🎯 JYOTISHA: FRONTEND vs BACKEND
+## ð¯ JYOTISHA: FRONTEND vs BACKEND
 
 ```
 -----------------------------------------------------------------------------------
                     JYOTISHA IN SHUNYA PROTOCOL                                    
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern Astronomy):                                                    
    ----------------------------                                                    
-   • Planets as physical bodies orbiting Sun                                      
-   • Gravity as the governing force                                               
-   • Light-years, AU, orbital mechanics                                           
-   • Observable through telescopes                                                
+   â¢ Planets as physical bodies orbiting Sun                                      
+   â¢ Gravity as the governing force                                               
+   â¢ Light-years, AU, orbital mechanics                                           
+   â¢ Observable through telescopes                                                
                                                                                    
    BACKEND (Vedic Jyotisha):                                                      
    -------------------------                                                       
-   • Grahas as INFLUENCE NODES (not just physical bodies)                        
-   • Each Graha runs a SERVICE affecting Jiva karma                              
-   • Nakshatras as FREQUENCY ZONES (27 sectors)                                  
-   • Rashis (12 signs) as GUNA-MODIFIER FIELDS                                   
+   â¢ Grahas as INFLUENCE NODES (not just physical bodies)                        
+   â¢ Each Graha runs a SERVICE affecting Jiva karma                              
+   â¢ Nakshatras as FREQUENCY ZONES (27 sectors)                                  
+   â¢ Rashis (12 signs) as GUNA-MODIFIER FIELDS                                   
                                                                                    
    CRITICAL: Jyotisha is PARTIALLY FRONTEND!                                      
    -----------------------------------------                                       
-   • Physical positions = Frontend (observable)                                   
-   • Karmic influences = Backend (subtle)                                         
-   • Fractal applies to orbital mechanics                                         
-   • But individual karma is UNIQUE (not fractal)                                
+   â¢ Physical positions = Frontend (observable)                                   
+   â¢ Karmic influences = Backend (subtle)                                         
+   â¢ Fractal applies to orbital mechanics                                         
+   â¢ But individual karma is UNIQUE (not fractal)                                
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## ☀️ NAVAGRAHA — The Nine Influence Nodes
+## âï¸ NAVAGRAHA â The Nine Influence Nodes
 
-### The Nine Grahas (ग्रह)
+### The Nine Grahas (à¤à¥à¤°à¤¹)
 
 | # | Sanskrit | Devanagari | English | Astronomical | Backend Service |
 |---|----------|------------|---------|--------------|-----------------|
-| 1 | **Surya** | सूर्य | Sun | Star | Atma-Prakasha (Soul illumination) |
-| 2 | **Chandra** | चन्द्र | Moon | Satellite | Manas-Prabhava (Mind influence) |
-| 3 | **Mangala** | मङ्गल | Mars | Planet | Shakti-Pradata (Energy giver) |
-| 4 | **Budha** | बुध | Mercury | Planet | Buddhi-Karaka (Intelligence driver) |
-| 5 | **Brihaspati** | बृहस्पति | Jupiter | Planet | Guru-Anugraha (Wisdom bestower) |
-| 6 | **Shukra** | शुक्र | Venus | Planet | Bhoga-Pradata (Pleasure giver) |
-| 7 | **Shani** | शनि | Saturn | Planet | Karma-Phala-Data (Karma enforcer) |
-| 8 | **Rahu** | राहु | North Node | Mathematical point | Vasana-Amplifier (Desire amplifier) |
-| 9 | **Ketu** | केतु | South Node | Mathematical point | Moksha-Karaka (Liberation catalyst) |
+| 1 | **Surya** | à¤¸à¥à¤°à¥à¤¯ | Sun | Star | Atma-Prakasha (Soul illumination) |
+| 2 | **Chandra** | à¤à¤¨à¥à¤¦à¥à¤° | Moon | Satellite | Manas-Prabhava (Mind influence) |
+| 3 | **Mangala** | à¤®à¤à¥à¤à¤² | Mars | Planet | Shakti-Pradata (Energy giver) |
+| 4 | **Budha** | à¤¬à¥à¤§ | Mercury | Planet | Buddhi-Karaka (Intelligence driver) |
+| 5 | **Brihaspati** | à¤¬à¥à¤¹à¤¸à¥à¤ªà¤¤à¤¿ | Jupiter | Planet | Guru-Anugraha (Wisdom bestower) |
+| 6 | **Shukra** | à¤¶à¥à¤à¥à¤° | Venus | Planet | Bhoga-Pradata (Pleasure giver) |
+| 7 | **Shani** | à¤¶à¤¨à¤¿ | Saturn | Planet | Karma-Phala-Data (Karma enforcer) |
+| 8 | **Rahu** | à¤°à¤¾à¤¹à¥ | North Node | Mathematical point | Vasana-Amplifier (Desire amplifier) |
+| 9 | **Ketu** | à¤à¥à¤¤à¥ | South Node | Mathematical point | Moksha-Karaka (Liberation catalyst) |
 
 ### Graha-Guna Mapping
 
@@ -92,7 +92,7 @@
 
 ---
 
-## ⭐ 27 NAKSHATRAS — The Lunar Mansions
+## â­ 27 NAKSHATRAS â The Lunar Mansions
 
 ### The 27 Frequency Zones
 
@@ -100,33 +100,33 @@ The Moon passes through 27 Nakshatras in its orbit, each a distinct "frequency b
 
 | # | Nakshatra | Devanagari | Ruling Deity | Ruling Graha | Degrees | Guna |
 |---|-----------|------------|--------------|--------------|---------|------|
-| 1 | **Ashwini** | अश्विनी | Ashwini Kumaras | Ketu | 0°-13°20' Aries | Rajas |
-| 2 | **Bharani** | भरणी | Yama | Shukra | 13°20'-26°40' | Rajas |
-| 3 | **Krittika** | कृत्तिका | Agni | Surya | 26°40'-10° Tau | Rajas |
-| 4 | **Rohini** | रोहिणी | Brahma | Chandra | 10°-23°20' Tau | Rajas |
-| 5 | **Mrigashira** | मृगशिरा | Soma | Mangala | 23°20'-6°40' Gem | Tamas |
-| 6 | **Ardra** | आर्द्रा | Rudra | Rahu | 6°40'-20° Gem | Tamas |
-| 7 | **Punarvasu** | पुनर्वसु | Aditi | Brihaspati | 20°-3°20' Can | Tamas |
-| 8 | **Pushya** | पुष्य | Brihaspati | Shani | 3°20'-16°40' | Tamas |
-| 9 | **Ashlesha** | आश्लेषा | Nagas | Budha | 16°40'-30° | Tamas |
-| 10 | **Magha** | मघा | Pitris | Ketu | 0°-13°20' Leo | Sattva |
-| 11 | **Purva Phalguni** | पूर्वाफाल्गुनी | Bhaga | Shukra | 13°20'-26°40' | Sattva |
-| 12 | **Uttara Phalguni** | उत्तराफाल्गुनी | Aryaman | Surya | 26°40'-10° Vir | Sattva |
-| 13 | **Hasta** | हस्त | Savitar | Chandra | 10°-23°20' | Sattva |
-| 14 | **Chitra** | चित्रा | Vishwakarma | Mangala | 23°20'-6°40' Lib | Sattva |
-| 15 | **Swati** | स्वाति | Vayu | Rahu | 6°40'-20° | Rajas |
-| 16 | **Vishakha** | विशाखा | Indra-Agni | Brihaspati | 20°-3°20' Sco | Rajas |
-| 17 | **Anuradha** | अनुराधा | Mitra | Shani | 3°20'-16°40' | Rajas |
-| 18 | **Jyeshtha** | ज्येष्ठा | Indra | Budha | 16°40'-30° | Rajas |
-| 19 | **Mula** | मूल | Nirriti | Ketu | 0°-13°20' Sag | Tamas |
-| 20 | **Purva Ashadha** | पूर्वाषाढा | Apas | Shukra | 13°20'-26°40' | Tamas |
-| 21 | **Uttara Ashadha** | उत्तराषाढा | Vishvedevas | Surya | 26°40'-10° Cap | Tamas |
-| 22 | **Shravana** | श्रवण | Vishnu | Chandra | 10°-23°20' | Tamas |
-| 23 | **Dhanishtha** | धनिष्ठा | Vasus | Mangala | 23°20'-6°40' Aqu | Sattva |
-| 24 | **Shatabhisha** | शतभिषा | Varuna | Rahu | 6°40'-20° | Sattva |
-| 25 | **Purva Bhadrapada** | पूर्वाभाद्रपदा | Aja Ekapada | Brihaspati | 20°-3°20' Pis | Sattva |
-| 26 | **Uttara Bhadrapada** | उत्तराभाद्रपदा | Ahir Budhnya | Shani | 3°20'-16°40' | Sattva |
-| 27 | **Revati** | रेवती | Pushan | Budha | 16°40'-30° | Sattva |
+| 1 | **Ashwini** | à¤à¤¶à¥à¤µà¤¿à¤¨à¥ | Ashwini Kumaras | Ketu | 0Â°-13Â°20' Aries | Rajas |
+| 2 | **Bharani** | à¤­à¤°à¤£à¥ | Yama | Shukra | 13Â°20'-26Â°40' | Rajas |
+| 3 | **Krittika** | à¤à¥à¤¤à¥à¤¤à¤¿à¤à¤¾ | Agni | Surya | 26Â°40'-10Â° Tau | Rajas |
+| 4 | **Rohini** | à¤°à¥à¤¹à¤¿à¤£à¥ | Brahma | Chandra | 10Â°-23Â°20' Tau | Rajas |
+| 5 | **Mrigashira** | à¤®à¥à¤à¤¶à¤¿à¤°à¤¾ | Soma | Mangala | 23Â°20'-6Â°40' Gem | Tamas |
+| 6 | **Ardra** | à¤à¤°à¥à¤¦à¥à¤°à¤¾ | Rudra | Rahu | 6Â°40'-20Â° Gem | Tamas |
+| 7 | **Punarvasu** | à¤ªà¥à¤¨à¤°à¥à¤µà¤¸à¥ | Aditi | Brihaspati | 20Â°-3Â°20' Can | Tamas |
+| 8 | **Pushya** | à¤ªà¥à¤·à¥à¤¯ | Brihaspati | Shani | 3Â°20'-16Â°40' | Tamas |
+| 9 | **Ashlesha** | à¤à¤¶à¥à¤²à¥à¤·à¤¾ | Nagas | Budha | 16Â°40'-30Â° | Tamas |
+| 10 | **Magha** | à¤®à¤à¤¾ | Pitris | Ketu | 0Â°-13Â°20' Leo | Sattva |
+| 11 | **Purva Phalguni** | à¤ªà¥à¤°à¥à¤µà¤¾à¤«à¤¾à¤²à¥à¤à¥à¤¨à¥ | Bhaga | Shukra | 13Â°20'-26Â°40' | Sattva |
+| 12 | **Uttara Phalguni** | à¤à¤¤à¥à¤¤à¤°à¤¾à¤«à¤¾à¤²à¥à¤à¥à¤¨à¥ | Aryaman | Surya | 26Â°40'-10Â° Vir | Sattva |
+| 13 | **Hasta** | à¤¹à¤¸à¥à¤¤ | Savitar | Chandra | 10Â°-23Â°20' | Sattva |
+| 14 | **Chitra** | à¤à¤¿à¤¤à¥à¤°à¤¾ | Vishwakarma | Mangala | 23Â°20'-6Â°40' Lib | Sattva |
+| 15 | **Swati** | à¤¸à¥à¤µà¤¾à¤¤à¤¿ | Vayu | Rahu | 6Â°40'-20Â° | Rajas |
+| 16 | **Vishakha** | à¤µà¤¿à¤¶à¤¾à¤à¤¾ | Indra-Agni | Brihaspati | 20Â°-3Â°20' Sco | Rajas |
+| 17 | **Anuradha** | à¤à¤¨à¥à¤°à¤¾à¤§à¤¾ | Mitra | Shani | 3Â°20'-16Â°40' | Rajas |
+| 18 | **Jyeshtha** | à¤à¥à¤¯à¥à¤·à¥à¤ à¤¾ | Indra | Budha | 16Â°40'-30Â° | Rajas |
+| 19 | **Mula** | à¤®à¥à¤² | Nirriti | Ketu | 0Â°-13Â°20' Sag | Tamas |
+| 20 | **Purva Ashadha** | à¤ªà¥à¤°à¥à¤µà¤¾à¤·à¤¾à¤¢à¤¾ | Apas | Shukra | 13Â°20'-26Â°40' | Tamas |
+| 21 | **Uttara Ashadha** | à¤à¤¤à¥à¤¤à¤°à¤¾à¤·à¤¾à¤¢à¤¾ | Vishvedevas | Surya | 26Â°40'-10Â° Cap | Tamas |
+| 22 | **Shravana** | à¤¶à¥à¤°à¤µà¤£ | Vishnu | Chandra | 10Â°-23Â°20' | Tamas |
+| 23 | **Dhanishtha** | à¤§à¤¨à¤¿à¤·à¥à¤ à¤¾ | Vasus | Mangala | 23Â°20'-6Â°40' Aqu | Sattva |
+| 24 | **Shatabhisha** | à¤¶à¤¤à¤­à¤¿à¤·à¤¾ | Varuna | Rahu | 6Â°40'-20Â° | Sattva |
+| 25 | **Purva Bhadrapada** | à¤ªà¥à¤°à¥à¤µà¤¾à¤­à¤¾à¤¦à¥à¤°à¤ªà¤¦à¤¾ | Aja Ekapada | Brihaspati | 20Â°-3Â°20' Pis | Sattva |
+| 26 | **Uttara Bhadrapada** | à¤à¤¤à¥à¤¤à¤°à¤¾à¤­à¤¾à¤¦à¥à¤°à¤ªà¤¦à¤¾ | Ahir Budhnya | Shani | 3Â°20'-16Â°40' | Sattva |
+| 27 | **Revati** | à¤°à¥à¤µà¤¤à¥ | Pushan | Budha | 16Â°40'-30Â° | Sattva |
 
 ### Nakshatra as Frequency Bands
 
@@ -134,35 +134,35 @@ The Moon passes through 27 Nakshatras in its orbit, each a distinct "frequency b
 FREQUENCY MODEL:
 ----------------
 27 Nakshatras = 27 distinct frequency bands in lunar orbit
-Each Nakshatra = 13°20' of the zodiac
+Each Nakshatra = 13Â°20' of the zodiac
 Each has unique VIBRATION affecting Jiva consciousness
 
 BACKEND FUNCTION:
-• Nakshatra at birth = Base frequency of Manas (mind)
-• Moon transit through Nakshatras = Daily mind fluctuations
-• Nakshatra compatibility = Frequency resonance
+â¢ Nakshatra at birth = Base frequency of Manas (mind)
+â¢ Moon transit through Nakshatras = Daily mind fluctuations
+â¢ Nakshatra compatibility = Frequency resonance
 ```
 
 ---
 
-## ♈ 12 RASHIS — The Zodiac Signs
+## â 12 RASHIS â The Zodiac Signs
 
 ### The 12 Guna-Modifier Fields
 
 | # | Rashi | Devanagari | English | Element | Quality | Ruling Graha |
 |---|-------|------------|---------|---------|---------|--------------|
-| 1 | **Mesha** | मेष | Aries | Agni | Cardinal | Mangala |
-| 2 | **Vrishabha** | वृषभ | Taurus | Prithvi | Fixed | Shukra |
-| 3 | **Mithuna** | मिथुन | Gemini | Vayu | Mutable | Budha |
-| 4 | **Karka** | कर्क | Cancer | Jala | Cardinal | Chandra |
-| 5 | **Simha** | सिंह | Leo | Agni | Fixed | Surya |
-| 6 | **Kanya** | कन्या | Virgo | Prithvi | Mutable | Budha |
-| 7 | **Tula** | तुला | Libra | Vayu | Cardinal | Shukra |
-| 8 | **Vrischika** | वृश्चिक | Scorpio | Jala | Fixed | Mangala |
-| 9 | **Dhanu** | धनु | Sagittarius | Agni | Mutable | Brihaspati |
-| 10 | **Makara** | मकर | Capricorn | Prithvi | Cardinal | Shani |
-| 11 | **Kumbha** | कुम्भ | Aquarius | Vayu | Fixed | Shani |
-| 12 | **Meena** | मीन | Pisces | Jala | Mutable | Brihaspati |
+| 1 | **Mesha** | à¤®à¥à¤· | Aries | Agni | Cardinal | Mangala |
+| 2 | **Vrishabha** | à¤µà¥à¤·à¤­ | Taurus | Prithvi | Fixed | Shukra |
+| 3 | **Mithuna** | à¤®à¤¿à¤¥à¥à¤¨ | Gemini | Vayu | Mutable | Budha |
+| 4 | **Karka** | à¤à¤°à¥à¤ | Cancer | Jala | Cardinal | Chandra |
+| 5 | **Simha** | à¤¸à¤¿à¤à¤¹ | Leo | Agni | Fixed | Surya |
+| 6 | **Kanya** | à¤à¤¨à¥à¤¯à¤¾ | Virgo | Prithvi | Mutable | Budha |
+| 7 | **Tula** | à¤¤à¥à¤²à¤¾ | Libra | Vayu | Cardinal | Shukra |
+| 8 | **Vrischika** | à¤µà¥à¤¶à¥à¤à¤¿à¤ | Scorpio | Jala | Fixed | Mangala |
+| 9 | **Dhanu** | à¤§à¤¨à¥ | Sagittarius | Agni | Mutable | Brihaspati |
+| 10 | **Makara** | à¤®à¤à¤° | Capricorn | Prithvi | Cardinal | Shani |
+| 11 | **Kumbha** | à¤à¥à¤®à¥à¤­ | Aquarius | Vayu | Fixed | Shani |
+| 12 | **Meena** | à¤®à¥à¤¨ | Pisces | Jala | Mutable | Brihaspati |
 
 ### Rashi-Mahabhuta-Guna Correlation
 
@@ -175,28 +175,28 @@ BACKEND FUNCTION:
 
 ---
 
-## 🏠 12 BHAVAS — The Houses
+## ð  12 BHAVAS â The Houses
 
 ### The 12 Life Domains
 
 | # | Bhava | Sanskrit Name | Domain | Karmic Function |
 |---|-------|---------------|--------|-----------------|
-| 1 | **Lagna** | तनु भाव | Self, Body | Prarabdha Karma manifestation |
-| 2 | **Dhana** | धन भाव | Wealth, Speech | Resources for this life |
-| 3 | **Sahaja** | सहज भाव | Siblings, Courage | Immediate environment |
-| 4 | **Sukha** | सुख भाव | Home, Mother | Emotional foundation |
-| 5 | **Putra** | पुत्र भाव | Children, Intelligence | Creative expression |
-| 6 | **Ari** | अरि भाव | Enemies, Disease | Karmic debts (Rina) |
-| 7 | **Kalatra** | कलत्र भाव | Spouse, Partnership | Relationship karma |
-| 8 | **Ayur** | आयुर् भाव | Longevity, Transformation | Death & rebirth karma |
-| 9 | **Dharma** | धर्म भाव | Fortune, Guru | Dharmic path |
-| 10 | **Karma** | कर्म भाव | Career, Status | Life's work |
-| 11 | **Labha** | लाभ भाव | Gains, Friends | Fulfillment of desires |
-| 12 | **Vyaya** | व्यय भाव | Loss, Liberation | Moksha, final release |
+| 1 | **Lagna** | à¤¤à¤¨à¥ à¤­à¤¾à¤µ | Self, Body | Prarabdha Karma manifestation |
+| 2 | **Dhana** | à¤§à¤¨ à¤­à¤¾à¤µ | Wealth, Speech | Resources for this life |
+| 3 | **Sahaja** | à¤¸à¤¹à¤ à¤­à¤¾à¤µ | Siblings, Courage | Immediate environment |
+| 4 | **Sukha** | à¤¸à¥à¤ à¤­à¤¾à¤µ | Home, Mother | Emotional foundation |
+| 5 | **Putra** | à¤ªà¥à¤¤à¥à¤° à¤­à¤¾à¤µ | Children, Intelligence | Creative expression |
+| 6 | **Ari** | à¤à¤°à¤¿ à¤­à¤¾à¤µ | Enemies, Disease | Karmic debts (Rina) |
+| 7 | **Kalatra** | à¤à¤²à¤¤à¥à¤° à¤­à¤¾à¤µ | Spouse, Partnership | Relationship karma |
+| 8 | **Ayur** | à¤à¤¯à¥à¤°à¥ à¤­à¤¾à¤µ | Longevity, Transformation | Death & rebirth karma |
+| 9 | **Dharma** | à¤§à¤°à¥à¤® à¤­à¤¾à¤µ | Fortune, Guru | Dharmic path |
+| 10 | **Karma** | à¤à¤°à¥à¤® à¤­à¤¾à¤µ | Career, Status | Life's work |
+| 11 | **Labha** | à¤²à¤¾à¤­ à¤­à¤¾à¤µ | Gains, Friends | Fulfillment of desires |
+| 12 | **Vyaya** | à¤µà¥à¤¯à¤¯ à¤­à¤¾à¤µ | Loss, Liberation | Moksha, final release |
 
 ---
 
-## 🔄 DASHA SYSTEM — Time Periods
+## ð DASHA SYSTEM â Time Periods
 
 ### Vimshottari Dasha (120 Year Cycle)
 
@@ -222,64 +222,64 @@ Each Jiva starts from their birth Nakshatra's ruler.
 Dasha periods ACTIVATE specific karma packets.
 
 Example:
-• Born in Ashwini (Ketu) -> Start with 7 years Ketu Dasha
-• Ketu Dasha = Spiritual karma activated
-• Then Shukra Dasha = Material karma activated
-• ...and so on
+â¢ Born in Ashwini (Ketu) -> Start with 7 years Ketu Dasha
+â¢ Ketu Dasha = Spiritual karma activated
+â¢ Then Shukra Dasha = Material karma activated
+â¢ ...and so on
 
 THIS IS NOT FRACTAL!
-• Each Jiva has UNIQUE starting point
-• Karma is INDIVIDUAL, not universal pattern
-• But the STRUCTURE (120 years, 9 periods) is universal
+â¢ Each Jiva has UNIQUE starting point
+â¢ Karma is INDIVIDUAL, not universal pattern
+â¢ But the STRUCTURE (120 years, 9 periods) is universal
 ```
 
 ---
 
-## 🌀 FRACTAL VALIDATION
+## ð FRACTAL VALIDATION
 
 ### What IS Fractal in Jyotisha
 
 | Aspect | Fractal Pattern | Evidence |
 |--------|-----------------|----------|
-| **Orbital Mechanics** | ✅ YES | Planetary orbits follow same laws at all scales |
-| **12-Fold Division** | ✅ YES | 12 Rashis, 12 Bhavas, 12 months, 12 hours |
-| **27-Fold Division** | ✅ YES | 27 Nakshatras, 27 Yoga, 27 days lunar cycle |
-| **9 Grahas** | ✅ YES | 9 as 3×3 (Triguna × Trikala) |
-| **Hierarchical Cycles** | ✅ YES | Maha-Dasha -> Antar-Dasha -> Pratyantar-Dasha |
+| **Orbital Mechanics** | â YES | Planetary orbits follow same laws at all scales |
+| **12-Fold Division** | â YES | 12 Rashis, 12 Bhavas, 12 months, 12 hours |
+| **27-Fold Division** | â YES | 27 Nakshatras, 27 Yoga, 27 days lunar cycle |
+| **9 Grahas** | â YES | 9 as 3Ã3 (Triguna Ã Trikala) |
+| **Hierarchical Cycles** | â YES | Maha-Dasha -> Antar-Dasha -> Pratyantar-Dasha |
 
 ### What is NOT Fractal
 
 | Aspect | Why Not Fractal | Explanation |
 |--------|-----------------|-------------|
-| **Individual Birth Chart** | ❌ NO | Each chart is UNIQUE to that Jiva |
-| **Specific Predictions** | ❌ NO | Karma is individual, not pattern |
-| **Transit Effects** | ❌ NO | Depends on individual chart |
+| **Individual Birth Chart** | â NO | Each chart is UNIQUE to that Jiva |
+| **Specific Predictions** | â NO | Karma is individual, not pattern |
+| **Transit Effects** | â NO | Depends on individual chart |
 
 ---
 
-## 🔬 SCIENTIFIC VALIDATION
+## ð¬ SCIENTIFIC VALIDATION
 
 ### Astronomical Accuracy
 
 | Vedic Knowledge | Modern Science | Status |
 |-----------------|----------------|--------|
-| 27.3 day lunar cycle | 27.32 days (sidereal) | ✅ VALIDATED |
-| 365.25 day solar year | 365.25 days | ✅ VALIDATED |
-| Retrograde motion | Explained by heliocentrism | ✅ VALIDATED |
-| Eclipses (Rahu-Ketu) | Nodes of Moon's orbit | ✅ VALIDATED |
-| Precession (Ayanamsa) | 25,920 year cycle | ✅ VALIDATED |
+| 27.3 day lunar cycle | 27.32 days (sidereal) | â VALIDATED |
+| 365.25 day solar year | 365.25 days | â VALIDATED |
+| Retrograde motion | Explained by heliocentrism | â VALIDATED |
+| Eclipses (Rahu-Ketu) | Nodes of Moon's orbit | â VALIDATED |
+| Precession (Ayanamsa) | 25,920 year cycle | â VALIDATED |
 
 ### Predictive Validation
 
 | Claim | Evidence | Status |
 |-------|----------|--------|
-| Graha influence on psychology | Studies on lunar effects | 🔄 PARTIAL |
-| Dasha predictions | Anecdotal + some studies | 🔄 PARTIAL |
-| Nakshatra compatibility | Cultural practice | 🔄 PARTIAL |
+| Graha influence on psychology | Studies on lunar effects | ð PARTIAL |
+| Dasha predictions | Anecdotal + some studies | ð PARTIAL |
+| Nakshatra compatibility | Cultural practice | ð PARTIAL |
 
 ---
 
-## 📐 JYOTISHA FORMULAS
+## ð JYOTISHA FORMULAS
 
 ### Ayanamsa Calculation
 
@@ -290,16 +290,16 @@ def lahiri_ayanamsa(year: float) -> float:
     Ayanamsa = Precession of equinoxes
     
     Vedic: The 'drift' between tropical and sidereal zodiacs
-    Currently ~24° and increasing by ~50.3" per year
+    Currently ~24Â° and increasing by ~50.3" per year
     """
-    # Base: 23°51'11.18" on Jan 1, 1900
+    # Base: 23Â°51'11.18" on Jan 1, 1900
     base = 23.853105  # degrees
     rate = 50.27 / 3600  # degrees per year
     return base + (year - 1900) * rate
 
 # Example: 2024
-print(f"Ayanamsa for 2024: {lahiri_ayanamsa(2024):.2f}°")
-# Output: ~24.50°
+print(f"Ayanamsa for 2024: {lahiri_ayanamsa(2024):.2f}Â°")
+# Output: ~24.50Â°
 ```
 
 ### Graha Longitude Calculation
@@ -334,7 +334,7 @@ def nakshatra_from_longitude(moon_longitude: float) -> tuple:
     """
     Determine Nakshatra from Moon's longitude
     
-    Each Nakshatra = 13°20' = 13.333°
+    Each Nakshatra = 13Â°20' = 13.333Â°
     """
     # Adjust for Ayanamsa (tropical to sidereal)
     sidereal_longitude = (moon_longitude - lahiri_ayanamsa(2024)) % 360
@@ -356,21 +356,21 @@ def nakshatra_from_longitude(moon_longitude: float) -> tuple:
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Jyotisha Validation | Notes |
 |---------|---------------------|-------|
-| **Conservation** | ✅ Total karma conserved | Dasha redistributes, doesn't create |
-| **Entropy** | ✅ Karma accumulates (Tamas) | Unless burned through Sadhana |
-| **Fractal** | ✅ Partial | Structure is fractal, individual charts are not |
-| **Karma** | ✅ Central concept | Entire system is karma-based |
-| **Observer** | ✅ Jiva observes planetary effects | Awareness modifies experience |
-| **Cycles** | ✅ All cycles! | 27 days, 12 months, 60 years, 120 Dasha |
-| **Gunas** | ✅ Each Graha has Guna | Sattva/Rajas/Tamas mapped |
+| **Conservation** | â Total karma conserved | Dasha redistributes, doesn't create |
+| **Entropy** | â Karma accumulates (Tamas) | Unless burned through Sadhana |
+| **Fractal** | â Partial | Structure is fractal, individual charts are not |
+| **Karma** | â Central concept | Entire system is karma-based |
+| **Observer** | â Jiva observes planetary effects | Awareness modifies experience |
+| **Cycles** | â All cycles! | 27 days, 12 months, 60 years, 120 Dasha |
+| **Gunas** | â Each Graha has Guna | Sattva/Rajas/Tamas mapped |
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Graha Backend Rendering](../spacetime/GRAHA_BACKEND_RENDERING.md)
 - [Chaturdasha Loka](../spacetime/CHATURDASHA_LOKA.md)

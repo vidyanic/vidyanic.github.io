@@ -1,100 +1,100 @@
-# 🏛️ VASTU SHASTRA (वास्तु शास्त्र) — The Science of Sacred Architecture
+# ðï¸ VASTU SHASTRA (à¤µà¤¾à¤¸à¥à¤¤à¥ à¤¶à¤¾à¤¸à¥à¤¤à¥à¤°) â The Science of Sacred Architecture
 
-> **"वास्तोष्पते प्रति जानीह्यस्मान्"**
-> "Vāstoṣpate prati jānīhy asmān"
+> **"à¤µà¤¾à¤¸à¥à¤¤à¥à¤·à¥à¤ªà¤¤à¥ à¤ªà¥à¤°à¤¤à¤¿ à¤à¤¾à¤¨à¥à¤¹à¥à¤¯à¤¸à¥à¤®à¤¾à¤¨à¥"**
+> "VÄstoá¹£pate prati jÄnÄ«hy asmÄn"
 > "O Lord of the dwelling, recognize us (as your own)."
-> — Rig Veda 7.54.1
+> â Rig Veda 7.54.1
 
-> **"वास्तु पुरुषस्य प्रतिमा भवति"**
-> "Vāstu puruṣasya pratimā bhavati"
+> **"à¤µà¤¾à¤¸à¥à¤¤à¥ à¤ªà¥à¤°à¥à¤·à¤¸à¥à¤¯ à¤ªà¥à¤°à¤¤à¤¿à¤®à¤¾ à¤­à¤µà¤¤à¤¿"**
+> "VÄstu puruá¹£asya pratimÄ bhavati"
 > "The building becomes a reflection of the cosmic being."
-> — Mayamata
+> â Mayamata
 
-> **"यथा पिण्डे तथा ब्रह्माण्डे"**
-> "Yathā piṇḍe tathā brahmāṇḍe"
+> **"à¤¯à¤¥à¤¾ à¤ªà¤¿à¤£à¥à¤¡à¥ à¤¤à¤¥à¤¾ à¤¬à¥à¤°à¤¹à¥à¤®à¤¾à¤£à¥à¤¡à¥"**
+> "YathÄ piá¹á¸e tathÄ brahmÄá¹á¸e"
 > "As in the microcosm, so in the macrocosm."
-> — Yajur Veda
+> â Yajur Veda
 
 ---
 
-## 🎯 VASTU: FRONTEND vs BACKEND
+## ð¯ VASTU: FRONTEND vs BACKEND
 
 ```
 -----------------------------------------------------------------------------------
                     VASTU IN SHUNYA PROTOCOL                                       
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern Architecture):                                                
    ---------------------------------                                               
-   • Form follows function                                                         
-   • Aesthetics and utility                                                        
-   • Building codes and engineering                                               
-   • No directional preferences                                                    
+   â¢ Form follows function                                                         
+   â¢ Aesthetics and utility                                                        
+   â¢ Building codes and engineering                                               
+   â¢ No directional preferences                                                    
                                                                                    
    BACKEND (Vastu Shastra):                                                       
    ------------------------                                                        
-   • Building as LIVING BEING (Vastu Purusha)                                    
-   • Directions carry specific ENERGIES                                           
-   • Space is not empty but VIBRATING                                            
-   • Structure affects consciousness                                              
+   â¢ Building as LIVING BEING (Vastu Purusha)                                    
+   â¢ Directions carry specific ENERGIES                                           
+   â¢ Space is not empty but VIBRATING                                            
+   â¢ Structure affects consciousness                                              
                                                                                    
    VASTU IS FULLY FRACTAL!                                                        
    -----------------------                                                         
-   • Same principles apply: Room -> House -> City -> Country -> Planet               
-   • Vastu Purusha Mandala = Brahmanda structure                                  
-   • 8 directions = 8 Dikpalas = 8 Vasus                                          
+   â¢ Same principles apply: Room -> House -> City -> Country -> Planet               
+   â¢ Vastu Purusha Mandala = Brahmanda structure                                  
+   â¢ 8 directions = 8 Dikpalas = 8 Vasus                                          
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## 🧭 ASHTA DISHA — The Eight Directions
+## ð§­ ASHTA DISHA â The Eight Directions
 
 ### The Eight Directions with Ruling Deities
 
 | Direction | Sanskrit | Devanagari | Pronunciation | Deity | Element | Quality |
 |-----------|----------|------------|---------------|-------|---------|---------|
-| **East** | Purva | पूर्व | Poorva | Indra (इन्द्र) | Agni | Prosperity, new beginnings |
-| **South-East** | Agneya | आग्नेय | Aagneya | Agni (अग्नि) | Agni | Fire, cooking, energy |
-| **South** | Dakshina | दक्षिण | Dakshina | Yama (यम) | Prithvi | Death, ancestors, dharma |
-| **South-West** | Nairritya | नैऋत्य | Nairritya | Nirriti (निऋति) | Prithvi | Stability, storage, heaviness |
-| **West** | Pashchima | पश्चिम | Pashchima | Varuna (वरुण) | Jala | Water, gains, evening |
-| **North-West** | Vayavya | वायव्य | Vaayavya | Vayu (वायु) | Vayu | Air, movement, guests |
-| **North** | Uttara | उत्तर | Uttara | Kubera (कुबेर) | Jala | Wealth, career, mercury |
-| **North-East** | Ishanya | ईशान्य | Eeshaanya | Ishana/Shiva (ईशान) | Akasha | Spirituality, purity, water |
+| **East** | Purva | à¤ªà¥à¤°à¥à¤µ | Poorva | Indra (à¤à¤¨à¥à¤¦à¥à¤°) | Agni | Prosperity, new beginnings |
+| **South-East** | Agneya | à¤à¤à¥à¤¨à¥à¤¯ | Aagneya | Agni (à¤à¤à¥à¤¨à¤¿) | Agni | Fire, cooking, energy |
+| **South** | Dakshina | à¤¦à¤à¥à¤·à¤¿à¤£ | Dakshina | Yama (à¤¯à¤®) | Prithvi | Death, ancestors, dharma |
+| **South-West** | Nairritya | à¤¨à¥à¤à¤¤à¥à¤¯ | Nairritya | Nirriti (à¤¨à¤¿à¤à¤¤à¤¿) | Prithvi | Stability, storage, heaviness |
+| **West** | Pashchima | à¤ªà¤¶à¥à¤à¤¿à¤® | Pashchima | Varuna (à¤µà¤°à¥à¤£) | Jala | Water, gains, evening |
+| **North-West** | Vayavya | à¤µà¤¾à¤¯à¤µà¥à¤¯ | Vaayavya | Vayu (à¤µà¤¾à¤¯à¥) | Vayu | Air, movement, guests |
+| **North** | Uttara | à¤à¤¤à¥à¤¤à¤° | Uttara | Kubera (à¤à¥à¤¬à¥à¤°) | Jala | Wealth, career, mercury |
+| **North-East** | Ishanya | à¤à¤¶à¤¾à¤¨à¥à¤¯ | Eeshaanya | Ishana/Shiva (à¤à¤¶à¤¾à¤¨) | Akasha | Spirituality, purity, water |
 
 ### Direction Energy Flow
 
 ```
-                    NORTH (Uttara/उत्तर)
+                    NORTH (Uttara/à¤à¤¤à¥à¤¤à¤°)
                     Kubera - Wealth
-                         ↑
+                         â
           NW (Vayavya)      NE (Ishanya)
           Vayu - Air        Ishana - Spirit
-               ↖                 ↗
-                 ↖             ↗
-                   ↖         ↗
-WEST (Pashchima)<---------●---------> EAST (Purva)
+               â                 â
+                 â             â
+                   â         â
+WEST (Pashchima)<---------â---------> EAST (Purva)
 Varuna - Water    BRAHMASTHANA      Indra - Sun
-                   ↙         ↘
-                 ↙             ↘
-               ↙                 ↘
+                   â         â
+                 â             â
+               â                 â
           SW (Nairritya)    SE (Agneya)
           Nirriti           Agni - Fire
-                         ↓
+                         â
                     SOUTH (Dakshina)
                     Yama - Ancestors
 ```
 
 ---
 
-## 🧘 VASTU PURUSHA MANDALA — The Cosmic Being in the Plot
+## ð§ VASTU PURUSHA MANDALA â The Cosmic Being in the Plot
 
 ### The Vastu Purusha Legend
 
-> **"वास्तोष्पतिर्देवताः सर्वाः प्रतिष्ठिताः"**
-> "Vāstoṣpatir devatāḥ sarvāḥ pratiṣṭhitāḥ"
+> **"à¤µà¤¾à¤¸à¥à¤¤à¥à¤·à¥à¤ªà¤¤à¤¿à¤°à¥à¤¦à¥à¤µà¤¤à¤¾à¤ à¤¸à¤°à¥à¤µà¤¾à¤ à¤ªà¥à¤°à¤¤à¤¿à¤·à¥à¤ à¤¿à¤¤à¤¾à¤"**
+> "VÄstoá¹£patir devatÄá¸¥ sarvÄá¸¥ pratiá¹£á¹­hitÄá¸¥"
 > "All deities are established through the Lord of the dwelling."
 
 The Vastu Purusha is a cosmic being lying face-down on every plot of land:
@@ -108,51 +108,51 @@ The Vastu Purusha is a cosmic being lying face-down on every plot of land:
 
 | Grid | Name | Pronunciation | Devanagari | Squares | Usage |
 |------|------|---------------|------------|---------|-------|
-| **1×1** | Sakala | Saakala | साकल | 1 | Sacred objects |
-| **4×4** | Pechaka | Pechaka | पेचक | 16 | Small shrines |
-| **5×5** | Pitha | Peetha | पीठ | 25 | Residential |
-| **6×6** | Mahaapetha | Mahaapeetha | महापीठ | 36 | Temples |
-| **7×7** | Upapitha | Upapeetha | उपपीठ | 49 | Towns |
-| **8×8** | Sthandila | Sthandila | स्थण्डिल | 64 | Residences |
-| **9×9** | Paramasayika | Paramasaayika | परमसायिक | 81 | Large temples, cities |
+| **1Ã1** | Sakala | Saakala | à¤¸à¤¾à¤à¤² | 1 | Sacred objects |
+| **4Ã4** | Pechaka | Pechaka | à¤ªà¥à¤à¤ | 16 | Small shrines |
+| **5Ã5** | Pitha | Peetha | à¤ªà¥à¤  | 25 | Residential |
+| **6Ã6** | Mahaapetha | Mahaapeetha | à¤®à¤¹à¤¾à¤ªà¥à¤  | 36 | Temples |
+| **7Ã7** | Upapitha | Upapeetha | à¤à¤ªà¤ªà¥à¤  | 49 | Towns |
+| **8Ã8** | Sthandila | Sthandila | à¤¸à¥à¤¥à¤£à¥à¤¡à¤¿à¤² | 64 | Residences |
+| **9Ã9** | Paramasayika | Paramasaayika | à¤ªà¤°à¤®à¤¸à¤¾à¤¯à¤¿à¤ | 81 | Large temples, cities |
 
 ### 45 Devatas in Vastu Purusha Mandala
 
 | Zone | Devata | Sanskrit | Devanagari | Function |
 |------|--------|----------|------------|----------|
-| **Center (9)** | Brahma | ब्रह्मा | Brahmaa | Creator - kept open |
-| **NE** | Shiva, Parjanya | शिव, पर्जन्य | Shiva, Parjanya | Spirituality |
-| **E** | Indra, Jayanta, Surya | इन्द्र, जयन्त, सूर्य | Indra, Jayanta, Soorya | Prosperity |
-| **SE** | Agni, Pusha | अग्नि, पूषा | Agni, Pooshaa | Fire, nourishment |
-| **S** | Yama, Vitatha, Grihaksata | यम, वितथ, गृहक्षत | Yama, Vitatha | Ancestors |
-| **SW** | Nirriti, Dauvarika | निऋति, दौवारिक | Nirriti, Douwaarika | Storage, stability |
-| **W** | Varuna, Sugriva, Mitra | वरुण, सुग्रीव, मित्र | Varuna, Sugreeva | Water, friendships |
-| **NW** | Vayu, Naga, Mukhya | वायु, नाग, मुख्य | Vaayu, Naaga | Air, movement |
-| **N** | Kubera, Soma, Aditi | कुबेर, सोम, अदिति | Kubera, Soma | Wealth |
+| **Center (9)** | Brahma | à¤¬à¥à¤°à¤¹à¥à¤®à¤¾ | Brahmaa | Creator - kept open |
+| **NE** | Shiva, Parjanya | à¤¶à¤¿à¤µ, à¤ªà¤°à¥à¤à¤¨à¥à¤¯ | Shiva, Parjanya | Spirituality |
+| **E** | Indra, Jayanta, Surya | à¤à¤¨à¥à¤¦à¥à¤°, à¤à¤¯à¤¨à¥à¤¤, à¤¸à¥à¤°à¥à¤¯ | Indra, Jayanta, Soorya | Prosperity |
+| **SE** | Agni, Pusha | à¤à¤à¥à¤¨à¤¿, à¤ªà¥à¤·à¤¾ | Agni, Pooshaa | Fire, nourishment |
+| **S** | Yama, Vitatha, Grihaksata | à¤¯à¤®, à¤µà¤¿à¤¤à¤¥, à¤à¥à¤¹à¤à¥à¤·à¤¤ | Yama, Vitatha | Ancestors |
+| **SW** | Nirriti, Dauvarika | à¤¨à¤¿à¤à¤¤à¤¿, à¤¦à¥à¤µà¤¾à¤°à¤¿à¤ | Nirriti, Douwaarika | Storage, stability |
+| **W** | Varuna, Sugriva, Mitra | à¤µà¤°à¥à¤£, à¤¸à¥à¤à¥à¤°à¥à¤µ, à¤®à¤¿à¤¤à¥à¤° | Varuna, Sugreeva | Water, friendships |
+| **NW** | Vayu, Naga, Mukhya | à¤µà¤¾à¤¯à¥, à¤¨à¤¾à¤, à¤®à¥à¤à¥à¤¯ | Vaayu, Naaga | Air, movement |
+| **N** | Kubera, Soma, Aditi | à¤à¥à¤¬à¥à¤°, à¤¸à¥à¤®, à¤à¤¦à¤¿à¤¤à¤¿ | Kubera, Soma | Wealth |
 
 ---
 
-## 🏠 ROOM PLACEMENT — Practical Guidelines
+## ð  ROOM PLACEMENT â Practical Guidelines
 
 ### Ideal Room Locations
 
 | Room | Direction | Sanskrit | Devanagari | Reason |
 |------|-----------|----------|------------|--------|
-| **Puja/Prayer** | NE | Ishanya | ईशान्य | Most Sattvic direction |
-| **Kitchen** | SE | Agneya | आग्नेय | Agni's domain |
-| **Master Bedroom** | SW | Nairritya | नैऋत्य | Stability, grounding |
-| **Children's Room** | NW/W | Vayavya/Pashchima | वायव्य/पश्चिम | Growth, creativity |
-| **Guest Room** | NW | Vayavya | वायव्य | Transient, movement |
-| **Bathroom** | NW/SE | Vayavya/Agneya | वायव्य/आग्नेय | Waste disposal |
-| **Storeroom** | SW/S | Nairritya/Dakshina | नैऋत्य/दक्षिण | Heavy, stable items |
-| **Study** | NE/E/N | Ishanya/Purva/Uttara | ईशान्य/पूर्व/उत्तर | Concentration, knowledge |
-| **Living Room** | N/E/NE | Uttara/Purva/Ishanya | उत्तर/पूर्व/ईशान्य | Social, positive energy |
-| **Dining** | W/E | Pashchima/Purva | पश्चिम/पूर्व | Facing E while eating |
+| **Puja/Prayer** | NE | Ishanya | à¤à¤¶à¤¾à¤¨à¥à¤¯ | Most Sattvic direction |
+| **Kitchen** | SE | Agneya | à¤à¤à¥à¤¨à¥à¤¯ | Agni's domain |
+| **Master Bedroom** | SW | Nairritya | à¤¨à¥à¤à¤¤à¥à¤¯ | Stability, grounding |
+| **Children's Room** | NW/W | Vayavya/Pashchima | à¤µà¤¾à¤¯à¤µà¥à¤¯/à¤ªà¤¶à¥à¤à¤¿à¤® | Growth, creativity |
+| **Guest Room** | NW | Vayavya | à¤µà¤¾à¤¯à¤µà¥à¤¯ | Transient, movement |
+| **Bathroom** | NW/SE | Vayavya/Agneya | à¤µà¤¾à¤¯à¤µà¥à¤¯/à¤à¤à¥à¤¨à¥à¤¯ | Waste disposal |
+| **Storeroom** | SW/S | Nairritya/Dakshina | à¤¨à¥à¤à¤¤à¥à¤¯/à¤¦à¤à¥à¤·à¤¿à¤£ | Heavy, stable items |
+| **Study** | NE/E/N | Ishanya/Purva/Uttara | à¤à¤¶à¤¾à¤¨à¥à¤¯/à¤ªà¥à¤°à¥à¤µ/à¤à¤¤à¥à¤¤à¤° | Concentration, knowledge |
+| **Living Room** | N/E/NE | Uttara/Purva/Ishanya | à¤à¤¤à¥à¤¤à¤°/à¤ªà¥à¤°à¥à¤µ/à¤à¤¶à¤¾à¤¨à¥à¤¯ | Social, positive energy |
+| **Dining** | W/E | Pashchima/Purva | à¤ªà¤¶à¥à¤à¤¿à¤®/à¤ªà¥à¤°à¥à¤µ | Facing E while eating |
 
-### Brahmasthana (ब्रह्मस्थान) — The Central Zone
+### Brahmasthana (à¤¬à¥à¤°à¤¹à¥à¤®à¤¸à¥à¤¥à¤¾à¤¨) â The Central Zone
 
-> **"ब्रह्मस्थाने न किञ्चित्कारयेत्"**
-> "Brahmasthāne na kiñcit kārayet"
+> **"à¤¬à¥à¤°à¤¹à¥à¤®à¤¸à¥à¤¥à¤¾à¤¨à¥ à¤¨ à¤à¤¿à¤à¥à¤à¤¿à¤¤à¥à¤à¤¾à¤°à¤¯à¥à¤¤à¥"**
+> "BrahmasthÄne na kiÃ±cit kÄrayet"
 > "Nothing should be constructed in the Brahmasthana."
 
 | Aspect | Guideline |
@@ -165,17 +165,17 @@ The Vastu Purusha is a cosmic being lying face-down on every plot of land:
 
 ---
 
-## 📐 PANCHA MAHABHUTA IN VASTU
+## ð PANCHA MAHABHUTA IN VASTU
 
 ### Element-Direction Mapping
 
 | Element | Sanskrit | Devanagari | Pronunciation | Direction | Building Aspect |
 |---------|----------|------------|---------------|-----------|-----------------|
-| **Akasha** | Akasha | आकाश | Aakaasha | Center | Open spaces, courtyards |
-| **Vayu** | Vayu | वायु | Vaayu | NW | Ventilation, windows |
-| **Agni** | Agni | अग्नि | Agni | SE | Kitchen, electrical |
-| **Jala** | Jala | जल | Jala | NE | Water storage, wells |
-| **Prithvi** | Prithvi | पृथ्वी | Prithvee | SW | Heavy construction |
+| **Akasha** | Akasha | à¤à¤à¤¾à¤¶ | Aakaasha | Center | Open spaces, courtyards |
+| **Vayu** | Vayu | à¤µà¤¾à¤¯à¥ | Vaayu | NW | Ventilation, windows |
+| **Agni** | Agni | à¤à¤à¥à¤¨à¤¿ | Agni | SE | Kitchen, electrical |
+| **Jala** | Jala | à¤à¤² | Jala | NE | Water storage, wells |
+| **Prithvi** | Prithvi | à¤ªà¥à¤¥à¥à¤µà¥ | Prithvee | SW | Heavy construction |
 
 ### Elemental Balance in Design
 
@@ -195,36 +195,36 @@ Openings(NE+N+E) > Openings(SW+S+W)
 
 ---
 
-## 🛕 TEMPLE ARCHITECTURE — Shilpa Shastra (शिल्प शास्त्र)
+## ð TEMPLE ARCHITECTURE â Shilpa Shastra (à¤¶à¤¿à¤²à¥à¤ª à¤¶à¤¾à¤¸à¥à¤¤à¥à¤°)
 
-### Temple Levels (Tala / तल)
+### Temple Levels (Tala / à¤¤à¤²)
 
 | Tala | Sanskrit | Devanagari | Pronunciation | Height | Example |
 |------|----------|------------|---------------|--------|---------|
-| **1** | Ekatala | एकतल | Ekatala | 1 story | Small shrines |
-| **2** | Dvitala | द्वितल | Dvitala | 2 stories | Village temples |
-| **3** | Tritala | त्रितल | Tritala | 3 stories | Town temples |
-| **5** | Panchatala | पञ्चतल | Panchatala | 5 stories | Major temples |
-| **7** | Saptatala | सप्ततल | Saptatala | 7 stories | Great temples |
-| **9** | Navatala | नवतल | Navatala | 9 stories | Royal temples |
-| **16** | Shodashatala | षोडशतल | Shodashatala | 16 stories | Greatest temples |
+| **1** | Ekatala | à¤à¤à¤¤à¤² | Ekatala | 1 story | Small shrines |
+| **2** | Dvitala | à¤¦à¥à¤µà¤¿à¤¤à¤² | Dvitala | 2 stories | Village temples |
+| **3** | Tritala | à¤¤à¥à¤°à¤¿à¤¤à¤² | Tritala | 3 stories | Town temples |
+| **5** | Panchatala | à¤ªà¤à¥à¤à¤¤à¤² | Panchatala | 5 stories | Major temples |
+| **7** | Saptatala | à¤¸à¤ªà¥à¤¤à¤¤à¤² | Saptatala | 7 stories | Great temples |
+| **9** | Navatala | à¤¨à¤µà¤¤à¤² | Navatala | 9 stories | Royal temples |
+| **16** | Shodashatala | à¤·à¥à¤¡à¤¶à¤¤à¤² | Shodashatala | 16 stories | Greatest temples |
 
 ### Temple Parts
 
 | Part | Sanskrit | Devanagari | Pronunciation | Description |
 |------|----------|------------|---------------|-------------|
-| **Garbhagriha** | Garbha-griha | गर्भगृह | Garbha-griha | Sanctum (womb-house) |
-| **Antarala** | Antarala | अन्तराल | Antaraala | Vestibule |
-| **Mandapa** | Mandapa | मण्डप | Mandapa | Hall |
-| **Ardhamandapa** | Ardha-mandapa | अर्धमण्डप | Ardha-mandapa | Front porch |
-| **Shikhara** | Shikhara | शिखर | Shikhara | Tower/Spire |
-| **Kalasha** | Kalasha | कलश | Kalasha | Finial pot |
-| **Dhwaja** | Dhwaja | ध्वज | Dhwaja | Flag |
-| **Pradakshina** | Pradakshina | प्रदक्षिणा | Pradakshinaa | Circumambulatory path |
+| **Garbhagriha** | Garbha-griha | à¤à¤°à¥à¤­à¤à¥à¤¹ | Garbha-griha | Sanctum (womb-house) |
+| **Antarala** | Antarala | à¤à¤¨à¥à¤¤à¤°à¤¾à¤² | Antaraala | Vestibule |
+| **Mandapa** | Mandapa | à¤®à¤£à¥à¤¡à¤ª | Mandapa | Hall |
+| **Ardhamandapa** | Ardha-mandapa | à¤à¤°à¥à¤§à¤®à¤£à¥à¤¡à¤ª | Ardha-mandapa | Front porch |
+| **Shikhara** | Shikhara | à¤¶à¤¿à¤à¤° | Shikhara | Tower/Spire |
+| **Kalasha** | Kalasha | à¤à¤²à¤¶ | Kalasha | Finial pot |
+| **Dhwaja** | Dhwaja | à¤§à¥à¤µà¤ | Dhwaja | Flag |
+| **Pradakshina** | Pradakshina | à¤ªà¥à¤°à¤¦à¤à¥à¤·à¤¿à¤£à¤¾ | Pradakshinaa | Circumambulatory path |
 
 ---
 
-## 🌀 FRACTAL VALIDATION
+## ð FRACTAL VALIDATION
 
 ### Vastu at Every Scale
 
@@ -243,32 +243,32 @@ Openings(NE+N+E) > Openings(SW+S+W)
 ```
 THE 8-FOLD PATTERN REPEATS:
 ----------------------------
-• 8 Directions in Vastu
-• 8 Dikpalas (Direction guardians)
-• 8 Vasus (Universal gods)
-• 8 Chakras (if counting Bindu)
-• 8 Prakritis (primordial natures)
-• 8-fold path in Buddhism
-• Octave in music (8th note = 1st)
+â¢ 8 Directions in Vastu
+â¢ 8 Dikpalas (Direction guardians)
+â¢ 8 Vasus (Universal gods)
+â¢ 8 Chakras (if counting Bindu)
+â¢ 8 Prakritis (primordial natures)
+â¢ 8-fold path in Buddhism
+â¢ Octave in music (8th note = 1st)
 ```
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Vastu Validation | Notes |
 |---------|------------------|-------|
-| **Conservation** | ✅ Energy flows preserved | No blocking of energy paths |
-| **Entropy** | ✅ Disorder minimized | Organization brings order |
-| **Fractal** | ✅ Complete | Same principles at all scales |
-| **Karma** | ✅ Space affects karma | Building influences inhabitants |
-| **Observer** | ✅ Dweller-space interaction | Consciousness affected by space |
-| **Cycles** | ✅ Daily sun movement | East-West energy flow |
-| **Gunas** | ✅ Zones have Gunas | NE=Sattva, SW=Tamas, SE=Rajas |
+| **Conservation** | â Energy flows preserved | No blocking of energy paths |
+| **Entropy** | â Disorder minimized | Organization brings order |
+| **Fractal** | â Complete | Same principles at all scales |
+| **Karma** | â Space affects karma | Building influences inhabitants |
+| **Observer** | â Dweller-space interaction | Consciousness affected by space |
+| **Cycles** | â Daily sun movement | East-West energy flow |
+| **Gunas** | â Zones have Gunas | NE=Sattva, SW=Tamas, SE=Rajas |
 
 ---
 
-## 📐 VASTU FORMULAS
+## ð VASTU FORMULAS
 
 ### Plot Shape Evaluation
 
@@ -277,17 +277,17 @@ def plot_score(length: float, breadth: float, shape: str) -> dict:
     """
     Evaluate plot according to Vastu
     
-    > "चतुरश्रं समं श्रेष्ठम्"
-    > "Caturaśraṃ samaṃ śreṣṭham"
+    > "à¤à¤¤à¥à¤°à¤¶à¥à¤°à¤ à¤¸à¤®à¤ à¤¶à¥à¤°à¥à¤·à¥à¤ à¤®à¥"
+    > "CaturaÅraá¹ samaá¹ Åreá¹£á¹­ham"
     > "Square and even is best."
     """
     # Shape scores
     shape_scores = {
-        "square": 100,  # Chaturashra (चतुरश्र) - Best
-        "rectangle": 90,  # Ayata (आयत) - Very good (if L:B < 2:1)
+        "square": 100,  # Chaturashra (à¤à¤¤à¥à¤°à¤¶à¥à¤°) - Best
+        "rectangle": 90,  # Ayata (à¤à¤¯à¤¤) - Very good (if L:B < 2:1)
         "gomukhi": 70,  # Cow-face (narrow front) - Good for residence
         "shermukhi": 60,  # Lion-face (wide front) - Good for business
-        "irregular": 30,  # Vishama (विषम) - Avoid
+        "irregular": 30,  # Vishama (à¤µà¤¿à¤·à¤®) - Avoid
     }
     
     # Ratio check for rectangle
@@ -309,8 +309,8 @@ def direction_energy(direction: str, usage: str) -> dict:
     """
     Calculate compatibility of direction and usage
     
-    > "दिग्बलं सर्वसिद्धिदम्"
-    > "Digbalaṃ sarva-siddhidam"
+    > "à¤¦à¤¿à¤à¥à¤¬à¤²à¤ à¤¸à¤°à¥à¤µà¤¸à¤¿à¤¦à¥à¤§à¤¿à¤¦à¤®à¥"
+    > "Digbalaá¹ sarva-siddhidam"
     > "Directional strength gives all success."
     """
     # Optimal usages per direction
@@ -338,7 +338,7 @@ def direction_energy(direction: str, usage: str) -> dict:
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Meru Fractal Axis](../spacetime/MERU_FRACTAL_AXIS.md)
 - [Bhu-Mandala Complete](../spacetime/BHU_MANDALA_COMPLETE.md)

@@ -1,58 +1,58 @@
-# 🌿 AYURVEDA (आयुर्वेद) — The Science of Life
+# ð¿ AYURVEDA (à¤à¤¯à¥à¤°à¥à¤µà¥à¤¦) â The Science of Life
 
-> **"आयुर्वेदो अमृतानाम्"**
-> "Āyurvedo amṛtānām"
+> **"à¤à¤¯à¥à¤°à¥à¤µà¥à¤¦à¥ à¤à¤®à¥à¤¤à¤¾à¤¨à¤¾à¤®à¥"**
+> "Äyurvedo amá¹tÄnÄm"
 > "Ayurveda is the nectar of immortality."
-> — Charaka Samhita, Sutra Sthana 1.42
+> â Charaka Samhita, Sutra Sthana 1.42
 
-> **"स्वस्थस्य स्वास्थ्य रक्षणं आतुरस्य विकार प्रशमनं च"**
-> "Svasthasya svāsthya rakṣaṇaṃ āturasya vikāra praśamanaṃ ca"
+> **"à¤¸à¥à¤µà¤¸à¥à¤¥à¤¸à¥à¤¯ à¤¸à¥à¤µà¤¾à¤¸à¥à¤¥à¥à¤¯ à¤°à¤à¥à¤·à¤£à¤ à¤à¤¤à¥à¤°à¤¸à¥à¤¯ à¤µà¤¿à¤à¤¾à¤° à¤ªà¥à¤°à¤¶à¤®à¤¨à¤ à¤"**
+> "Svasthasya svÄsthya raká¹£aá¹aá¹ Äturasya vikÄra praÅamanaá¹ ca"
 > "To protect the health of the healthy and cure the disease of the diseased."
-> — Charaka Samhita, Sutra Sthana 30.26
+> â Charaka Samhita, Sutra Sthana 30.26
 
 ---
 
-## 🎯 AYURVEDA: FRONTEND vs BACKEND
+## ð¯ AYURVEDA: FRONTEND vs BACKEND
 
 ```
 -----------------------------------------------------------------------------------
                     AYURVEDA IN SHUNYA PROTOCOL                                    
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern Medicine):                                                    
    ---------------------------                                                     
-   • Body as biochemical machine                                                  
-   • Disease = pathogens, mutations, deficiencies                                 
-   • Treatment = drugs, surgery, external intervention                            
-   • Same treatment for same disease (protocol-based)                             
+   â¢ Body as biochemical machine                                                  
+   â¢ Disease = pathogens, mutations, deficiencies                                 
+   â¢ Treatment = drugs, surgery, external intervention                            
+   â¢ Same treatment for same disease (protocol-based)                             
                                                                                    
    BACKEND (Ayurveda):                                                            
    ------------------                                                              
-   • Body as Pancha-Kosha (5 sheaths) around Atman                               
-   • Disease = Dosha IMBALANCE (not external cause)                               
-   • Treatment = Restore Prakriti (constitution)                                  
-   • Treatment varies by individual Prakriti + Vikriti                            
+   â¢ Body as Pancha-Kosha (5 sheaths) around Atman                               
+   â¢ Disease = Dosha IMBALANCE (not external cause)                               
+   â¢ Treatment = Restore Prakriti (constitution)                                  
+   â¢ Treatment varies by individual Prakriti + Vikriti                            
                                                                                    
    AYURVEDA IS FULLY FRACTAL!                                                     
    ---------------------------                                                     
-   • Tridosha applies at: Universe, Body, Cell, Molecule                          
-   • Pancha-Mahabhuta applies at all levels                                       
-   • Agni (digestive fire) concept scales fractally                               
+   â¢ Tridosha applies at: Universe, Body, Cell, Molecule                          
+   â¢ Pancha-Mahabhuta applies at all levels                                       
+   â¢ Agni (digestive fire) concept scales fractally                               
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## 🔺 TRIDOSHA — The Three Humors
+## ðº TRIDOSHA â The Three Humors
 
-### The Three Doshas (दोष)
+### The Three Doshas (à¤¦à¥à¤·)
 
 | Dosha | Sanskrit | Devanagari | Elements | Guna | Function |
 |-------|----------|------------|----------|------|----------|
-| **Vata** | वात | वात | Vayu + Akasha | Rajas-Sattva | Movement, nerve impulse, creativity |
-| **Pitta** | पित्त | पित्त | Agni + Jala | Rajas | Transformation, digestion, metabolism |
-| **Kapha** | कफ | कफ | Jala + Prithvi | Tamas-Sattva | Structure, lubrication, stability |
+| **Vata** | à¤µà¤¾à¤¤ | à¤µà¤¾à¤¤ | Vayu + Akasha | Rajas-Sattva | Movement, nerve impulse, creativity |
+| **Pitta** | à¤ªà¤¿à¤¤à¥à¤¤ | à¤ªà¤¿à¤¤à¥à¤¤ | Agni + Jala | Rajas | Transformation, digestion, metabolism |
+| **Kapha** | à¤à¤« | à¤à¤« | Jala + Prithvi | Tamas-Sattva | Structure, lubrication, stability |
 
 ### Dosha Properties
 
@@ -68,28 +68,28 @@
 ### Dosha-Guna-Mahabhuta Mapping
 
 ```
-VATA (वात) = Vayu + Akasha
+VATA (à¤µà¤¾à¤¤) = Vayu + Akasha
 ---------------------------
-• Vayu = Movement, kinetic energy
-• Akasha = Space for movement
-• Guna: Rajas-Sattva (activity + lightness)
+â¢ Vayu = Movement, kinetic energy
+â¢ Akasha = Space for movement
+â¢ Guna: Rajas-Sattva (activity + lightness)
 
-PITTA (पित्त) = Agni + Jala
+PITTA (à¤ªà¤¿à¤¤à¥à¤¤) = Agni + Jala
 ---------------------------
-• Agni = Transformation, heat
-• Jala = Fluidity for enzymatic action
-• Guna: Rajas (activity, intensity)
+â¢ Agni = Transformation, heat
+â¢ Jala = Fluidity for enzymatic action
+â¢ Guna: Rajas (activity, intensity)
 
-KAPHA (कफ) = Jala + Prithvi
+KAPHA (à¤à¤«) = Jala + Prithvi
 ----------------------------
-• Jala = Cohesion, lubrication
-• Prithvi = Structure, stability
-• Guna: Tamas-Sattva (stability + harmony)
+â¢ Jala = Cohesion, lubrication
+â¢ Prithvi = Structure, stability
+â¢ Guna: Tamas-Sattva (stability + harmony)
 ```
 
 ---
 
-## 🔥 AGNI — The Digestive Fire
+## ð¥ AGNI â The Digestive Fire
 
 ### 13 Types of Agni
 
@@ -103,67 +103,67 @@ KAPHA (कफ) = Jala + Prithvi
 
 | State | Sanskrit | Description | Result |
 |-------|----------|-------------|--------|
-| **Sama** | सम | Balanced | Perfect digestion |
-| **Vishama** | विषम | Irregular (Vata) | Gas, bloating, variable |
-| **Tikshna** | तीक्ष्ण | Sharp (Pitta) | Hyperacidity, inflammation |
-| **Manda** | मन्द | Slow (Kapha) | Heaviness, weight gain |
+| **Sama** | à¤¸à¤® | Balanced | Perfect digestion |
+| **Vishama** | à¤µà¤¿à¤·à¤® | Irregular (Vata) | Gas, bloating, variable |
+| **Tikshna** | à¤¤à¥à¤à¥à¤·à¥à¤£ | Sharp (Pitta) | Hyperacidity, inflammation |
+| **Manda** | à¤®à¤¨à¥à¤¦ | Slow (Kapha) | Heaviness, weight gain |
 
 ### Agni as Fractal Concept
 
 ```
 AGNI AT EVERY LEVEL:
 --------------------
-• Universe: Sun (cosmic Agni)
-• Body: Jatharagni (stomach fire)
-• Cell: Mitochondria (cellular respiration)
-• Molecule: ATP synthesis (biochemical fire)
+â¢ Universe: Sun (cosmic Agni)
+â¢ Body: Jatharagni (stomach fire)
+â¢ Cell: Mitochondria (cellular respiration)
+â¢ Molecule: ATP synthesis (biochemical fire)
 
 FORMULA:
-Digestion_efficiency = Agni_strength × Dosha_balance × Ama_absence
+Digestion_efficiency = Agni_strength Ã Dosha_balance Ã Ama_absence
 ```
 
 ---
 
-## 🧬 SAPTA DHATU — The Seven Tissues
+## ð§¬ SAPTA DHATU â The Seven Tissues
 
-### The Seven Dhatus (धातु)
+### The Seven Dhatus (à¤§à¤¾à¤¤à¥)
 
 | # | Dhatu | Sanskrit | English | Nourishment Time | Mala (Waste) |
 |---|-------|----------|---------|------------------|--------------|
-| 1 | **Rasa** | रस | Plasma/Chyle | 1 day | Kapha (mucus) |
-| 2 | **Rakta** | रक्त | Blood | 2 days | Pitta (bile) |
-| 3 | **Mamsa** | मांस | Muscle | 3 days | Mala of ears, nose |
-| 4 | **Meda** | मेद | Fat | 4 days | Sweat |
-| 5 | **Asthi** | अस्थि | Bone | 5 days | Nails, hair |
-| 6 | **Majja** | मज्जा | Marrow | 6 days | Oily secretions |
-| 7 | **Shukra** | शुक्र | Reproductive | 7 days | Ojas (essence) |
+| 1 | **Rasa** | à¤°à¤¸ | Plasma/Chyle | 1 day | Kapha (mucus) |
+| 2 | **Rakta** | à¤°à¤à¥à¤¤ | Blood | 2 days | Pitta (bile) |
+| 3 | **Mamsa** | à¤®à¤¾à¤à¤¸ | Muscle | 3 days | Mala of ears, nose |
+| 4 | **Meda** | à¤®à¥à¤¦ | Fat | 4 days | Sweat |
+| 5 | **Asthi** | à¤à¤¸à¥à¤¥à¤¿ | Bone | 5 days | Nails, hair |
+| 6 | **Majja** | à¤®à¤à¥à¤à¤¾ | Marrow | 6 days | Oily secretions |
+| 7 | **Shukra** | à¤¶à¥à¤à¥à¤° | Reproductive | 7 days | Ojas (essence) |
 
 ### Dhatu Transformation Sequence
 
 ```
 ANNA (Food)
-    ↓ Jatharagni
+    â Jatharagni
 RASA (Plasma) -> Kapha (waste)
-    ↓ Rasagni
+    â Rasagni
 RAKTA (Blood) -> Pitta (waste)
-    ↓ Raktagni
+    â Raktagni
 MAMSA (Muscle) -> Ear/Nose waste
-    ↓ Mamsagni
+    â Mamsagni
 MEDA (Fat) -> Sweat
-    ↓ Medagni
+    â Medagni
 ASTHI (Bone) -> Nails, Hair
-    ↓ Asthiagni
+    â Asthiagni
 MAJJA (Marrow) -> Oily secretions
-    ↓ Majjagni
+    â Majjagni
 SHUKRA (Reproductive) -> OJAS (Essence!)
 ```
 
-### Ojas — The Supreme Essence
+### Ojas â The Supreme Essence
 
-> **"ओजः तेज बलं जीवनं..."**
-> "Ojaḥ teja balaṃ jīvanaṃ..."
+> **"à¤à¤à¤ à¤¤à¥à¤ à¤¬à¤²à¤ à¤à¥à¤µà¤¨à¤..."**
+> "Ojaá¸¥ teja balaá¹ jÄ«vanaá¹..."
 > "Ojas is radiance, strength, and life itself."
-> — Charaka Samhita
+> â Charaka Samhita
 
 | Property | Description |
 |----------|-------------|
@@ -175,7 +175,7 @@ SHUKRA (Reproductive) -> OJAS (Essence!)
 
 ---
 
-## 🌊 SROTAS — The Channel Systems
+## ð SROTAS â The Channel Systems
 
 ### 13 Main Srotas
 
@@ -197,17 +197,17 @@ SHUKRA (Reproductive) -> OJAS (Essence!)
 
 ---
 
-## 🧘 PANCHA KOSHA — The Five Sheaths
+## ð§ PANCHA KOSHA â The Five Sheaths
 
 ### Mapping to Health
 
 | Kosha | Sanskrit | Realm | Health Aspect | Treatment |
 |-------|----------|-------|---------------|-----------|
-| **Annamaya** | अन्नमय | Food/Physical | Physical body | Diet, herbs, Panchakarma |
-| **Pranamaya** | प्राणमय | Energy | Vital force | Pranayama, Yoga |
-| **Manomaya** | मनोमय | Mind | Emotions | Meditation, counseling |
-| **Vijnanamaya** | विज्ञानमय | Intellect | Wisdom | Jnana Yoga, study |
-| **Anandamaya** | आनन्दमय | Bliss | Spiritual health | Samadhi, grace |
+| **Annamaya** | à¤à¤¨à¥à¤¨à¤®à¤¯ | Food/Physical | Physical body | Diet, herbs, Panchakarma |
+| **Pranamaya** | à¤ªà¥à¤°à¤¾à¤£à¤®à¤¯ | Energy | Vital force | Pranayama, Yoga |
+| **Manomaya** | à¤®à¤¨à¥à¤®à¤¯ | Mind | Emotions | Meditation, counseling |
+| **Vijnanamaya** | à¤µà¤¿à¤à¥à¤à¤¾à¤¨à¤®à¤¯ | Intellect | Wisdom | Jnana Yoga, study |
+| **Anandamaya** | à¤à¤¨à¤¨à¥à¤¦à¤®à¤¯ | Bliss | Spiritual health | Samadhi, grace |
 
 ### Disease Progression Through Koshas
 
@@ -215,13 +215,13 @@ SHUKRA (Reproductive) -> OJAS (Essence!)
 Disease moves INWARD if untreated:
 ------------------------------------
 Annamaya (physical symptoms)
-    ↓ If ignored...
+    â If ignored...
 Pranamaya (energy disturbance)
-    ↓ If ignored...
+    â If ignored...
 Manomaya (emotional issues)
-    ↓ If ignored...
+    â If ignored...
 Vijnanamaya (belief distortions)
-    ↓ If ignored...
+    â If ignored...
 Anandamaya (spiritual crisis)
 
 Healing moves OUTWARD:
@@ -231,24 +231,24 @@ Resolve inner issues -> Physical symptoms disappear
 
 ---
 
-## ⚗️ DRAVYA GUNA — Pharmacology
+## âï¸ DRAVYA GUNA â Pharmacology
 
 ### Rasa (Taste) System
 
 | Rasa | Sanskrit | Elements | Effect on Doshas | Examples |
 |------|----------|----------|------------------|----------|
-| **Madhura** | मधुर (Sweet) | Prithvi + Jala | ↓V ↓P ↑K | Sugar, rice, ghee |
-| **Amla** | अम्ल (Sour) | Prithvi + Agni | ↓V ↑P ↑K | Lemon, yogurt |
-| **Lavana** | लवण (Salty) | Jala + Agni | ↓V ↑P ↑K | Salt, seaweed |
-| **Katu** | कटु (Pungent) | Vayu + Agni | ↑V ↑P ↓K | Ginger, pepper |
-| **Tikta** | तिक्त (Bitter) | Vayu + Akasha | ↑V ↓P ↓K | Neem, turmeric |
-| **Kashaya** | कषाय (Astringent) | Vayu + Prithvi | ↑V ↓P ↓K | Pomegranate, unripe banana |
+| **Madhura** | à¤®à¤§à¥à¤° (Sweet) | Prithvi + Jala | âV âP âK | Sugar, rice, ghee |
+| **Amla** | à¤à¤®à¥à¤² (Sour) | Prithvi + Agni | âV âP âK | Lemon, yogurt |
+| **Lavana** | à¤²à¤µà¤£ (Salty) | Jala + Agni | âV âP âK | Salt, seaweed |
+| **Katu** | à¤à¤à¥ (Pungent) | Vayu + Agni | âV âP âK | Ginger, pepper |
+| **Tikta** | à¤¤à¤¿à¤à¥à¤¤ (Bitter) | Vayu + Akasha | âV âP âK | Neem, turmeric |
+| **Kashaya** | à¤à¤·à¤¾à¤¯ (Astringent) | Vayu + Prithvi | âV âP âK | Pomegranate, unripe banana |
 
 ### Virya (Potency) and Vipaka (Post-digestive Effect)
 
 | Property | Hot (Ushna) | Cold (Sheeta) |
 |----------|-------------|---------------|
-| **Virya** | ↑Pitta, ↑Agni | ↓Pitta, ↓Agni |
+| **Virya** | âPitta, âAgni | âPitta, âAgni |
 | **Effect** | Stimulating, spreading | Cooling, constricting |
 
 | Rasa | Vipaka |
@@ -259,7 +259,7 @@ Resolve inner issues -> Physical symptoms disappear
 
 ---
 
-## 🌀 FRACTAL VALIDATION
+## ð FRACTAL VALIDATION
 
 ### Tridosha at Every Scale
 
@@ -283,21 +283,21 @@ Resolve inner issues -> Physical symptoms disappear
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Ayurveda Validation | Notes |
 |---------|---------------------|-------|
-| **Conservation** | ✅ Dhatu transformation | Energy conserved through 7 Dhatus |
-| **Entropy** | ✅ Ama accumulation | Undigested waste = entropy |
-| **Fractal** | ✅ Full | Tridosha applies at all scales |
-| **Karma** | ✅ Prakriti = Karmic body type | Birth constitution is karmic |
-| **Observer** | ✅ Mind-body connection | Manas affects Doshas |
-| **Cycles** | ✅ Daily, seasonal, life cycles | Dinacharya, Ritucharya, Vayah |
-| **Gunas** | ✅ Central to Tridosha | Sattva/Rajas/Tamas in all Doshas |
+| **Conservation** | â Dhatu transformation | Energy conserved through 7 Dhatus |
+| **Entropy** | â Ama accumulation | Undigested waste = entropy |
+| **Fractal** | â Full | Tridosha applies at all scales |
+| **Karma** | â Prakriti = Karmic body type | Birth constitution is karmic |
+| **Observer** | â Mind-body connection | Manas affects Doshas |
+| **Cycles** | â Daily, seasonal, life cycles | Dinacharya, Ritucharya, Vayah |
+| **Gunas** | â Central to Tridosha | Sattva/Rajas/Tamas in all Doshas |
 
 ---
 
-## 📐 AYURVEDA FORMULAS
+## ð AYURVEDA FORMULAS
 
 ### Prakriti Assessment Score
 
@@ -306,10 +306,10 @@ def calculate_prakriti(vata_score: int, pitta_score: int, kapha_score: int) -> s
     """
     Determine Prakriti (constitution) from questionnaire scores
     
-    > "प्रकृतिं याति भूतानां..."
-    > "Prakṛtiṃ yāti bhūtānāṃ..."
+    > "à¤ªà¥à¤°à¤à¥à¤¤à¤¿à¤ à¤¯à¤¾à¤¤à¤¿ à¤­à¥à¤¤à¤¾à¤¨à¤¾à¤..."
+    > "Praká¹tiá¹ yÄti bhÅ«tÄnÄá¹..."
     > "Beings return to their nature..."
-    > — Bhagavad Gita 3.33
+    > â Bhagavad Gita 3.33
     """
     total = vata_score + pitta_score + kapha_score
     v_pct = vata_score / total * 100
@@ -359,7 +359,7 @@ def treatment_principle(imbalanced_dosha: str) -> dict:
     """
     Basic treatment principle: Opposite qualities balance Doshas
     
-    > "समानाः समान वर्धनाः विपरीताः विपरीत"
+    > "à¤¸à¤®à¤¾à¤¨à¤¾à¤ à¤¸à¤®à¤¾à¤¨ à¤µà¤°à¥à¤§à¤¨à¤¾à¤ à¤µà¤¿à¤ªà¤°à¥à¤¤à¤¾à¤ à¤µà¤¿à¤ªà¤°à¥à¤¤"
     > "Like increases like, opposites balance"
     """
     treatments = {
@@ -384,7 +384,7 @@ def treatment_principle(imbalanced_dosha: str) -> dict:
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Manushya Complete Design](../entities/MANUSHYA_COMPLETE_DESIGN.md)
 - [Pancha Kosha](../purusha/VEDIC_CONSCIOUSNESS_TERMS.md)

@@ -1,130 +1,130 @@
-# 💰 ARTHASHASTRA (अर्थशास्त्र) — The Science of Wealth & Governance
+# ð° ARTHASHASTRA (à¤à¤°à¥à¤¥à¤¶à¤¾à¤¸à¥à¤¤à¥à¤°) â The Science of Wealth & Governance
 
-> **"सुखस्य मूलं धर्मः । धर्मस्य मूलम् अर्थः ।
-> अर्थस्य मूलं राज्यम् । राज्यमूलम् इन्द्रियजयः ॥"**
-> "Sukhasya mūlaṃ dharmaḥ | Dharmasya mūlam arthaḥ |
-> Arthasya mūlaṃ rājyam | Rājyamūlam indriyajayaḥ ||"
+> **"à¤¸à¥à¤à¤¸à¥à¤¯ à¤®à¥à¤²à¤ à¤§à¤°à¥à¤®à¤ à¥¤ à¤§à¤°à¥à¤®à¤¸à¥à¤¯ à¤®à¥à¤²à¤®à¥ à¤à¤°à¥à¤¥à¤ à¥¤
+> à¤à¤°à¥à¤¥à¤¸à¥à¤¯ à¤®à¥à¤²à¤ à¤°à¤¾à¤à¥à¤¯à¤®à¥ à¥¤ à¤°à¤¾à¤à¥à¤¯à¤®à¥à¤²à¤®à¥ à¤à¤¨à¥à¤¦à¥à¤°à¤¿à¤¯à¤à¤¯à¤ à¥¥"**
+> "Sukhasya mÅ«laá¹ dharmaá¸¥ | Dharmasya mÅ«lam arthaá¸¥ |
+> Arthasya mÅ«laá¹ rÄjyam | RÄjyamÅ«lam indriyajayaá¸¥ ||"
 > "The root of happiness is Dharma. The root of Dharma is Artha (wealth).
 > The root of Artha is the kingdom. The root of the kingdom is sense-control."
-> — Kautilya's Arthashastra 1.7.6-7
+> â Kautilya's Arthashastra 1.7.6-7
 
-> **"योगक्षेमं वहाम्यहम्"**
-> "Yoga-kṣemaṃ vahāmy aham"
+> **"à¤¯à¥à¤à¤à¥à¤·à¥à¤®à¤ à¤µà¤¹à¤¾à¤®à¥à¤¯à¤¹à¤®à¥"**
+> "Yoga-ká¹£emaá¹ vahÄmy aham"
 > "I ensure the welfare and security (of my devotees)."
-> — Bhagavad Gita 9.22
+> â Bhagavad Gita 9.22
 
 ---
 
-## 🎯 ARTHASHASTRA: FRONTEND vs BACKEND
+## ð¯ ARTHASHASTRA: FRONTEND vs BACKEND
 
 ```
 -----------------------------------------------------------------------------------
                     ARTHASHASTRA IN SHUNYA PROTOCOL                                
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    FRONTEND (Modern Economics):                                                   
    -----------------------------                                                   
-   • GDP, inflation, markets                                                       
-   • Profit maximization                                                           
-   • Supply-demand curves                                                          
-   • Secular governance                                                            
+   â¢ GDP, inflation, markets                                                       
+   â¢ Profit maximization                                                           
+   â¢ Supply-demand curves                                                          
+   â¢ Secular governance                                                            
                                                                                    
    BACKEND (Vedic Arthashastra):                                                  
    ------------------------------                                                  
-   • Artha as one of 4 Purusharthas                                               
-   • Wealth in SERVICE of Dharma                                                  
-   • Raja-Dharma (king's duty) = governance                                       
-   • Danda-Niti (law enforcement)                                                 
+   â¢ Artha as one of 4 Purusharthas                                               
+   â¢ Wealth in SERVICE of Dharma                                                  
+   â¢ Raja-Dharma (king's duty) = governance                                       
+   â¢ Danda-Niti (law enforcement)                                                 
                                                                                    
    ARTHASHASTRA IS PARTIALLY FRACTAL!                                             
    ------------------------------------                                            
-   • Governance principles apply at all levels                                    
-   • Family -> Village -> Kingdom -> World                                           
-   • But specific policies are contextual                                         
+   â¢ Governance principles apply at all levels                                    
+   â¢ Family -> Village -> Kingdom -> World                                           
+   â¢ But specific policies are contextual                                         
                                                                                    
 -----------------------------------------------------------------------------------
 ```
 
 ---
 
-## 🎯 CHATURVIDHA PURUSHARTHA — The Four Goals of Life
+## ð¯ CHATURVIDHA PURUSHARTHA â The Four Goals of Life
 
 ### The Four Life Goals
 
 | # | Purushartha | Sanskrit | Devanagari | Pronunciation | Domain | Priority |
 |---|-------------|----------|------------|---------------|--------|----------|
-| 1 | **Dharma** | Dharma | धर्म | Dharma | Righteousness | Highest |
-| 2 | **Artha** | Artha | अर्थ | Artha | Wealth/Resources | 2nd |
-| 3 | **Kama** | Kama | काम | Kaama | Desire/Pleasure | 3rd |
-| 4 | **Moksha** | Moksha | मोक्ष | Moksha | Liberation | Ultimate |
+| 1 | **Dharma** | Dharma | à¤§à¤°à¥à¤® | Dharma | Righteousness | Highest |
+| 2 | **Artha** | Artha | à¤à¤°à¥à¤¥ | Artha | Wealth/Resources | 2nd |
+| 3 | **Kama** | Kama | à¤à¤¾à¤® | Kaama | Desire/Pleasure | 3rd |
+| 4 | **Moksha** | Moksha | à¤®à¥à¤à¥à¤· | Moksha | Liberation | Ultimate |
 
 ### The Hierarchy
 
 ```
 PURUSHARTHA HIERARCHY:
 -----------------------
-         MOKSHA (मोक्ष)
-           ↑ Liberation
+         MOKSHA (à¤®à¥à¤à¥à¤·)
+           â Liberation
            
-         DHARMA (धर्म)
-           ↑ Must guide both
+         DHARMA (à¤§à¤°à¥à¤®)
+           â Must guide both
       ---------
     ARTHA      KAMA
-    (अर्थ)     (काम)
+    (à¤à¤°à¥à¤¥)     (à¤à¤¾à¤®)
     Wealth     Pleasure
 
-RULE: Artha WITHOUT Dharma = Adharma (अधर्म/unrighteousness)
-      Kama WITHOUT Dharma = Vishaya-bhoga (विषयभोग/sense-slavery)
+RULE: Artha WITHOUT Dharma = Adharma (à¤à¤§à¤°à¥à¤®/unrighteousness)
+      Kama WITHOUT Dharma = Vishaya-bhoga (à¤µà¤¿à¤·à¤¯à¤­à¥à¤/sense-slavery)
 ```
 
 ---
 
-## 👑 RAJA-DHARMA — Duties of the King/Ruler
+## ð RAJA-DHARMA â Duties of the King/Ruler
 
-### Saptanga Rajya — Seven Limbs of the State
+### Saptanga Rajya â Seven Limbs of the State
 
 | # | Anga | Sanskrit | Devanagari | Pronunciation | Modern Equivalent |
 |---|------|----------|------------|---------------|-------------------|
-| 1 | **Swami** | Svami | स्वामी | Swaamee | Ruler/Executive |
-| 2 | **Amatya** | Amaatya | अमात्य | Aamaaatya | Ministers/Cabinet |
-| 3 | **Janapada** | Janapada | जनपद | Janapada | Territory/Land |
-| 4 | **Durga** | Durga | दुर्ग | Durga | Fort/Defense |
-| 5 | **Kosha** | Kosha | कोष | Kosha | Treasury/Finance |
-| 6 | **Danda** | Danda | दण्ड | Danda | Army/Police |
-| 7 | **Mitra** | Mitra | मित्र | Mitra | Allies/Diplomacy |
+| 1 | **Swami** | Svami | à¤¸à¥à¤µà¤¾à¤®à¥ | Swaamee | Ruler/Executive |
+| 2 | **Amatya** | Amaatya | à¤à¤®à¤¾à¤¤à¥à¤¯ | Aamaaatya | Ministers/Cabinet |
+| 3 | **Janapada** | Janapada | à¤à¤¨à¤ªà¤¦ | Janapada | Territory/Land |
+| 4 | **Durga** | Durga | à¤¦à¥à¤°à¥à¤ | Durga | Fort/Defense |
+| 5 | **Kosha** | Kosha | à¤à¥à¤· | Kosha | Treasury/Finance |
+| 6 | **Danda** | Danda | à¤¦à¤£à¥à¤¡ | Danda | Army/Police |
+| 7 | **Mitra** | Mitra | à¤®à¤¿à¤¤à¥à¤° | Mitra | Allies/Diplomacy |
 
-### Shadgunya — Six Foreign Policies
+### Shadgunya â Six Foreign Policies
 
 | # | Policy | Sanskrit | Devanagari | Pronunciation | Meaning |
 |---|--------|----------|------------|---------------|---------|
-| 1 | **Sandhi** | Sandhi | सन्धि | Sandhi | Peace treaty |
-| 2 | **Vigraha** | Vigraha | विग्रह | Vigraha | War/Hostility |
-| 3 | **Yana** | Yaana | यान | Yaana | March/Expedition |
-| 4 | **Asana** | Aasana | आसन | Aasana | Neutrality/Wait |
-| 5 | **Dvaidhibhava** | Dvaidheebhaava | द्वैधीभाव | Dvaidheebhaava | Double policy |
-| 6 | **Samshraya** | Samshreya | संश्रय | Samshraya | Alliance/Refuge |
+| 1 | **Sandhi** | Sandhi | à¤¸à¤¨à¥à¤§à¤¿ | Sandhi | Peace treaty |
+| 2 | **Vigraha** | Vigraha | à¤µà¤¿à¤à¥à¤°à¤¹ | Vigraha | War/Hostility |
+| 3 | **Yana** | Yaana | à¤¯à¤¾à¤¨ | Yaana | March/Expedition |
+| 4 | **Asana** | Aasana | à¤à¤¸à¤¨ | Aasana | Neutrality/Wait |
+| 5 | **Dvaidhibhava** | Dvaidheebhaava | à¤¦à¥à¤µà¥à¤§à¥à¤­à¤¾à¤µ | Dvaidheebhaava | Double policy |
+| 6 | **Samshraya** | Samshreya | à¤¸à¤à¤¶à¥à¤°à¤¯ | Samshraya | Alliance/Refuge |
 
-### Mandala Theory — Circle of States
+### Mandala Theory â Circle of States
 
-> **"षाड्गुण्यं मण्डलस्य आत्मा"**
-> "Ṣāḍguṇyaṃ maṇḍalasya ātmā"
+> **"à¤·à¤¾à¤¡à¥à¤à¥à¤£à¥à¤¯à¤ à¤®à¤£à¥à¤¡à¤²à¤¸à¥à¤¯ à¤à¤¤à¥à¤®à¤¾"**
+> "á¹¢Äá¸guá¹yaá¹ maá¹á¸alasya ÄtmÄ"
 > "The six policies are the soul of the Mandala."
-> — Arthashastra 7.1.6
+> â Arthashastra 7.1.6
 
 ```
 MANDALA (Circle of States):
 ----------------------------
 
-        MADHYAMA (मध्यम)
+        MADHYAMA (à¤®à¤§à¥à¤¯à¤®)
         Neutral Power
               
               
-    MITRA <----●----> ARI
-    (मित्र)        (अरि)
+    MITRA <----â----> ARI
+    (à¤®à¤¿à¤¤à¥à¤°)        (à¤à¤°à¤¿)
     Ally          Enemy
               
         VIJIGISHU
-        (विजिगीषु)
+        (à¤µà¤¿à¤à¤¿à¤à¥à¤·à¥)
         The Conqueror (You)
 
 Pattern: Your neighbor = potential enemy (Ari)
@@ -134,56 +134,56 @@ Pattern: Your neighbor = potential enemy (Ari)
 
 ---
 
-## 💼 VARTA — Economics
+## ð¼ VARTA â Economics
 
-### Varta (वार्ता) — Livelihood/Economics
+### Varta (à¤µà¤¾à¤°à¥à¤¤à¤¾) â Livelihood/Economics
 
 | Category | Sanskrit | Devanagari | Pronunciation | Activities |
 |----------|----------|------------|---------------|------------|
-| **Krishi** | Krishi | कृषि | Krishi | Agriculture |
-| **Goraksya** | Gorakhya | गोरक्ष्य | Gorakhya | Animal husbandry |
-| **Vanijya** | Vanijya | वाणिज्य | Vaanijya | Trade/Commerce |
+| **Krishi** | Krishi | à¤à¥à¤·à¤¿ | Krishi | Agriculture |
+| **Goraksya** | Gorakhya | à¤à¥à¤°à¤à¥à¤·à¥à¤¯ | Gorakhya | Animal husbandry |
+| **Vanijya** | Vanijya | à¤µà¤¾à¤£à¤¿à¤à¥à¤¯ | Vaanijya | Trade/Commerce |
 
 ### Taxation Principles
 
-> **"यथा मधु मक्षिका सङ्गृह्णाति तथा अर्थं सङ्गृह्णीयात्"**
-> "Yathā madhu makṣikā saṅgṛhṇāti tathā arthaṃ saṅgṛhṇīyāt"
+> **"à¤¯à¤¥à¤¾ à¤®à¤§à¥ à¤®à¤à¥à¤·à¤¿à¤à¤¾ à¤¸à¤à¥à¤à¥à¤¹à¥à¤£à¤¾à¤¤à¤¿ à¤¤à¤¥à¤¾ à¤à¤°à¥à¤¥à¤ à¤¸à¤à¥à¤à¥à¤¹à¥à¤£à¥à¤¯à¤¾à¤¤à¥"**
+> "YathÄ madhu maká¹£ikÄ saá¹gá¹há¹Äti tathÄ arthaá¹ saá¹gá¹há¹Ä«yÄt"
 > "Collect taxes as a bee collects honey (without harming the flower)."
-> — Arthashastra 5.2.70
+> â Arthashastra 5.2.70
 
 | Tax Type | Sanskrit | Devanagari | Rate | Purpose |
 |----------|----------|------------|------|---------|
-| **Bhaga** | Bhaga | भाग | 1/6 of produce | King's share |
-| **Bali** | Bali | बलि | Voluntary | Religious offering |
-| **Kara** | Kara | कर | Variable | General tax |
-| **Shulka** | Shulka | शुल्क | 1/20 to 1/5 | Customs/Tolls |
-| **Hiranya** | Hiranya | हिरण्य | Gold payment | Cash equivalent |
+| **Bhaga** | Bhaga | à¤­à¤¾à¤ | 1/6 of produce | King's share |
+| **Bali** | Bali | à¤¬à¤²à¤¿ | Voluntary | Religious offering |
+| **Kara** | Kara | à¤à¤° | Variable | General tax |
+| **Shulka** | Shulka | à¤¶à¥à¤²à¥à¤ | 1/20 to 1/5 | Customs/Tolls |
+| **Hiranya** | Hiranya | à¤¹à¤¿à¤°à¤£à¥à¤¯ | Gold payment | Cash equivalent |
 
 ---
 
-## ⚖️ DANDA-NITI — Law & Punishment
+## âï¸ DANDA-NITI â Law & Punishment
 
 ### Four Methods of Dispute Resolution
 
 | # | Method | Sanskrit | Devanagari | Pronunciation | Meaning |
 |---|--------|----------|------------|---------------|---------|
-| 1 | **Sama** | Saama | साम | Saama | Conciliation/Persuasion |
-| 2 | **Dana** | Daana | दान | Daana | Gift/Bribery |
-| 3 | **Bheda** | Bheda | भेद | Bheda | Division/Dissension |
-| 4 | **Danda** | Danda | दण्ड | Danda | Force/Punishment |
+| 1 | **Sama** | Saama | à¤¸à¤¾à¤® | Saama | Conciliation/Persuasion |
+| 2 | **Dana** | Daana | à¤¦à¤¾à¤¨ | Daana | Gift/Bribery |
+| 3 | **Bheda** | Bheda | à¤­à¥à¤¦ | Bheda | Division/Dissension |
+| 4 | **Danda** | Danda | à¤¦à¤£à¥à¤¡ | Danda | Force/Punishment |
 
 ### Danda Hierarchy
 
 ```
 UPAYA (Methods) - Use in order:
 -------------------------------
-1. SAMA (साम) - Try persuasion first
-         ↓ (if fails)
-2. DANA (दान) - Offer incentives
-         ↓ (if fails)
-3. BHEDA (भेद) - Create division
-         ↓ (if fails)
-4. DANDA (दण्ड) - Use force
+1. SAMA (à¤¸à¤¾à¤®) - Try persuasion first
+         â (if fails)
+2. DANA (à¤¦à¤¾à¤¨) - Offer incentives
+         â (if fails)
+3. BHEDA (à¤­à¥à¤¦) - Create division
+         â (if fails)
+4. DANDA (à¤¦à¤£à¥à¤¡) - Use force
 
 PRINCIPLE: Danda is LAST resort, not first!
 ```
@@ -192,38 +192,38 @@ PRINCIPLE: Danda is LAST resort, not first!
 
 | Type | Sanskrit | Devanagari | Severity | Example |
 |------|----------|------------|----------|---------|
-| **Vakdanda** | Vaakdanda | वाक्दण्ड | Mild | Verbal warning |
-| **Dhikdanda** | Dhikdanda | धिक्दण्ड | Mild | Public censure |
-| **Dhanadanda** | Dhanadanda | धनदण्ड | Medium | Fine |
-| **Vadhadanda** | Vadhadanda | वधदण्ड | Severe | Corporal/Capital |
+| **Vakdanda** | Vaakdanda | à¤µà¤¾à¤à¥à¤¦à¤£à¥à¤¡ | Mild | Verbal warning |
+| **Dhikdanda** | Dhikdanda | à¤§à¤¿à¤à¥à¤¦à¤£à¥à¤¡ | Mild | Public censure |
+| **Dhanadanda** | Dhanadanda | à¤§à¤¨à¤¦à¤£à¥à¤¡ | Medium | Fine |
+| **Vadhadanda** | Vadhadanda | à¤µà¤§à¤¦à¤£à¥à¤¡ | Severe | Corporal/Capital |
 
 ---
 
-## 🏛️ KAUTILYA'S ARTHASHASTRA — Structure
+## ðï¸ KAUTILYA'S ARTHASHASTRA â Structure
 
 ### 15 Adhikaranas (Books)
 
 | # | Adhikarana | Sanskrit | Devanagari | Topic |
 |---|------------|----------|------------|-------|
-| 1 | Vinayaadhikarika | विनयाधिकारिक | विनयाधिकारिक | Training of king |
-| 2 | Adhyaksapracara | अध्यक्षप्रचार | अध्यक्षप्रचार | Duties of officers |
-| 3 | Dharmastheeya | धर्मस्थीय | धर्मस्थीय | Civil law |
-| 4 | Kantakasodhana | कण्टकशोधन | कण्टकशोधन | Removal of thorns |
-| 5 | Yogavrittam | योगवृत्तम् | योगवृत्तम् | Secret conduct |
-| 6 | Mandala-yoni | मण्डलयोनि | मण्डलयोनि | Source of Mandala |
-| 7 | Shadgunyam | षाड्गुण्यम् | षाड्गुण्यम् | Six policies |
-| 8 | Vyasana-adhikarika | व्यसनाधिकारिक | व्यसनाधिकारिक | Calamities |
-| 9 | Abhiyasyatkarma | अभियास्यत्कर्म | अभियास्यत्कर्म | Preparations for war |
-| 10 | Sangrama-adhikarika | सङ्ग्रामाधिकारिक | सङ्ग्रामाधिकारिक | War |
-| 11 | Sangha-vrittam | सङ्घवृत्तम् | सङ्घवृत्तम् | Oligarchies |
-| 12 | Abaleeyas | आबलीयस् | आबलीयस् | The weak king |
-| 13 | Aupanishadika | औपनिषदिक | औपनिषदिक | Strategic methods |
-| 14 | Aupanishadika | औपनिषदिक | औपनिषदिक | Secret methods |
-| 15 | Tantrayukti | तन्त्रयुक्ति | तन्त्रयुक्ति | Methodology |
+| 1 | Vinayaadhikarika | à¤µà¤¿à¤¨à¤¯à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | à¤µà¤¿à¤¨à¤¯à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | Training of king |
+| 2 | Adhyaksapracara | à¤à¤§à¥à¤¯à¤à¥à¤·à¤ªà¥à¤°à¤à¤¾à¤° | à¤à¤§à¥à¤¯à¤à¥à¤·à¤ªà¥à¤°à¤à¤¾à¤° | Duties of officers |
+| 3 | Dharmastheeya | à¤§à¤°à¥à¤®à¤¸à¥à¤¥à¥à¤¯ | à¤§à¤°à¥à¤®à¤¸à¥à¤¥à¥à¤¯ | Civil law |
+| 4 | Kantakasodhana | à¤à¤£à¥à¤à¤à¤¶à¥à¤§à¤¨ | à¤à¤£à¥à¤à¤à¤¶à¥à¤§à¤¨ | Removal of thorns |
+| 5 | Yogavrittam | à¤¯à¥à¤à¤µà¥à¤¤à¥à¤¤à¤®à¥ | à¤¯à¥à¤à¤µà¥à¤¤à¥à¤¤à¤®à¥ | Secret conduct |
+| 6 | Mandala-yoni | à¤®à¤£à¥à¤¡à¤²à¤¯à¥à¤¨à¤¿ | à¤®à¤£à¥à¤¡à¤²à¤¯à¥à¤¨à¤¿ | Source of Mandala |
+| 7 | Shadgunyam | à¤·à¤¾à¤¡à¥à¤à¥à¤£à¥à¤¯à¤®à¥ | à¤·à¤¾à¤¡à¥à¤à¥à¤£à¥à¤¯à¤®à¥ | Six policies |
+| 8 | Vyasana-adhikarika | à¤µà¥à¤¯à¤¸à¤¨à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | à¤µà¥à¤¯à¤¸à¤¨à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | Calamities |
+| 9 | Abhiyasyatkarma | à¤à¤­à¤¿à¤¯à¤¾à¤¸à¥à¤¯à¤¤à¥à¤à¤°à¥à¤® | à¤à¤­à¤¿à¤¯à¤¾à¤¸à¥à¤¯à¤¤à¥à¤à¤°à¥à¤® | Preparations for war |
+| 10 | Sangrama-adhikarika | à¤¸à¤à¥à¤à¥à¤°à¤¾à¤®à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | à¤¸à¤à¥à¤à¥à¤°à¤¾à¤®à¤¾à¤§à¤¿à¤à¤¾à¤°à¤¿à¤ | War |
+| 11 | Sangha-vrittam | à¤¸à¤à¥à¤à¤µà¥à¤¤à¥à¤¤à¤®à¥ | à¤¸à¤à¥à¤à¤µà¥à¤¤à¥à¤¤à¤®à¥ | Oligarchies |
+| 12 | Abaleeyas | à¤à¤¬à¤²à¥à¤¯à¤¸à¥ | à¤à¤¬à¤²à¥à¤¯à¤¸à¥ | The weak king |
+| 13 | Aupanishadika | à¤à¤ªà¤¨à¤¿à¤·à¤¦à¤¿à¤ | à¤à¤ªà¤¨à¤¿à¤·à¤¦à¤¿à¤ | Strategic methods |
+| 14 | Aupanishadika | à¤à¤ªà¤¨à¤¿à¤·à¤¦à¤¿à¤ | à¤à¤ªà¤¨à¤¿à¤·à¤¦à¤¿à¤ | Secret methods |
+| 15 | Tantrayukti | à¤¤à¤¨à¥à¤¤à¥à¤°à¤¯à¥à¤à¥à¤¤à¤¿ | à¤¤à¤¨à¥à¤¤à¥à¤°à¤¯à¥à¤à¥à¤¤à¤¿ | Methodology |
 
 ---
 
-## 🔄 FRACTAL VALIDATION
+## ð FRACTAL VALIDATION
 
 ### Governance at Every Scale
 
@@ -254,21 +254,21 @@ SAME STRUCTURE at village, city, kingdom!
 
 ---
 
-## ✅ 7-CONCEPT VALIDATION
+## â 7-CONCEPT VALIDATION
 
 | Concept | Arthashastra Validation | Notes |
 |---------|-------------------------|-------|
-| **Conservation** | ✅ Resources balanced | Income = Expenditure in stable state |
-| **Entropy** | ✅ Without maintenance, decay | Kingdom needs constant governance |
-| **Fractal** | ✅ Partial | Structure scales, policies differ |
-| **Karma** | ✅ Raja's karma = kingdom's fate | Collective karma of governance |
-| **Observer** | ✅ Ruler shapes observed reality | King's dharma creates order |
-| **Cycles** | ✅ Rise and fall of kingdoms | Yugas affect governance |
-| **Gunas** | ✅ Sattvic vs Tamasic rule | Good vs tyrannical governance |
+| **Conservation** | â Resources balanced | Income = Expenditure in stable state |
+| **Entropy** | â Without maintenance, decay | Kingdom needs constant governance |
+| **Fractal** | â Partial | Structure scales, policies differ |
+| **Karma** | â Raja's karma = kingdom's fate | Collective karma of governance |
+| **Observer** | â Ruler shapes observed reality | King's dharma creates order |
+| **Cycles** | â Rise and fall of kingdoms | Yugas affect governance |
+| **Gunas** | â Sattvic vs Tamasic rule | Good vs tyrannical governance |
 
 ---
 
-## 📐 ARTHASHASTRA FORMULAS
+## ð ARTHASHASTRA FORMULAS
 
 ### Taxation Rate Calculator
 
@@ -277,10 +277,10 @@ def calculate_bhaga(produce: float, conditions: str = "normal") -> float:
     """
     Calculate Bhaga (king's share) based on conditions
     
-    > "षष्ठं भागं ददात्येव"
-    > "Ṣaṣṭhaṃ bhāgaṃ dadāty eva"
+    > "à¤·à¤·à¥à¤ à¤ à¤­à¤¾à¤à¤ à¤¦à¤¦à¤¾à¤¤à¥à¤¯à¥à¤µ"
+    > "á¹¢aá¹£á¹­haá¹ bhÄgaá¹ dadÄty eva"
     > "One-sixth share he gives."
-    > — Manu Smriti
+    > â Manu Smriti
     """
     rates = {
         "normal": 1/6,      # Standard - 16.67%
@@ -298,23 +298,23 @@ def mandala_relation(my_position: int, their_position: int) -> str:
     """
     Determine relation based on Mandala theory
     
-    > "अरिमित्रम् उदासीनः"
-    > "Ari-mitram udāsīnaḥ"
+    > "à¤à¤°à¤¿à¤®à¤¿à¤¤à¥à¤°à¤®à¥ à¤à¤¦à¤¾à¤¸à¥à¤¨à¤"
+    > "Ari-mitram udÄsÄ«naá¸¥"
     > "Enemy, friend, neutral."
     """
     distance = abs(their_position - my_position)
     
     if distance == 0:
-        return "Self (Vijigishu/विजिगीषु)"
+        return "Self (Vijigishu/à¤µà¤¿à¤à¤¿à¤à¥à¤·à¥)"
     elif distance % 2 == 1:  # Odd distance
-        return "Enemy (Ari/अरि)"
+        return "Enemy (Ari/à¤à¤°à¤¿)"
     else:  # Even distance
-        return "Friend (Mitra/मित्र)"
+        return "Friend (Mitra/à¤®à¤¿à¤¤à¥à¤°)"
 ```
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Karma Algorithm](../karma/karma_algorithm.md)
 - [Dharma System](../moksha/exit_system.md)

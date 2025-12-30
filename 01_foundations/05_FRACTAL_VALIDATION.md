@@ -1,31 +1,31 @@
-# 🌀 FRACTAL VALIDATION PRINCIPLES
+# ð FRACTAL VALIDATION PRINCIPLES
 
-> **"यथा पिण्डे तथा ब्रह्माण्डे, यथा ब्रह्माण्डे तथा पिण्डे"**
-> "Yathā piṇḍe tathā brahmāṇḍe, yathā brahmāṇḍe tathā piṇḍe"
+> **"à¤¯à¤¥à¤¾ à¤ªà¤¿à¤£à¥à¤¡à¥ à¤¤à¤¥à¤¾ à¤¬à¥à¤°à¤¹à¥à¤®à¤¾à¤£à¥à¤¡à¥, à¤¯à¤¥à¤¾ à¤¬à¥à¤°à¤¹à¥à¤®à¤¾à¤£à¥à¤¡à¥ à¤¤à¤¥à¤¾ à¤ªà¤¿à¤£à¥à¤¡à¥"**
+> "YathÄ piá¹á¸e tathÄ brahmÄá¹á¸e, yathÄ brahmÄá¹á¸e tathÄ piá¹á¸e"
 > "As in the microcosm, so in the macrocosm; as in the macrocosm, so in the microcosm."
-> — Yajur Veda
+> â Yajur Veda
 
-> **"अणोरणीयान् महतो महीयान्"**
-> "Aṇor aṇīyān mahato mahīyān"
+> **"à¤à¤£à¥à¤°à¤£à¥à¤¯à¤¾à¤¨à¥ à¤®à¤¹à¤¤à¥ à¤®à¤¹à¥à¤¯à¤¾à¤¨à¥"**
+> "Aá¹or aá¹Ä«yÄn mahato mahÄ«yÄn"
 > "Smaller than the smallest, greater than the greatest."
-> — Katha Upanishad 1.2.20
+> â Katha Upanishad 1.2.20
 
 ---
 
-## 🎯 CORE FRACTAL PRINCIPLE: Every Pattern Repeats At Every Scale
+## ð¯ CORE FRACTAL PRINCIPLE: Every Pattern Repeats At Every Scale
 
-The universe is **self-similar** at all levels. Any structure, process, or relationship that exists at one level MUST exist at all levels. This is not metaphor—it is **architecture**.
+The universe is **self-similar** at all levels. Any structure, process, or relationship that exists at one level MUST exist at all levels. This is not metaphorâit is **architecture**.
 
 ```
 -----------------------------------------------------------------------------------
                     THE FRACTAL VALIDATION RULE                                    
--------------------------------------------------------------------------------------�
+-------------------------------------------------------------------------------------£
                                                                                    
    IF a pattern/structure/process exists at Level N,                              
-   THEN it MUST exist at Level N±k for all k.                                     
+   THEN it MUST exist at Level NÂ±k for all k.                                     
                                                                                    
-   Pattern(Brahman) ≈ Pattern(Mahavishnu) ≈ Pattern(Brahmanda) ≈                 
-   Pattern(Loka) ≈ Pattern(Human) ≈ Pattern(Cell) ≈ Pattern(Atom)                
+   Pattern(Brahman) â Pattern(Mahavishnu) â Pattern(Brahmanda) â                 
+   Pattern(Loka) â Pattern(Human) â Pattern(Cell) â Pattern(Atom)                
                                                                                    
    VALIDATION: Any concept that only works at ONE level is INCOMPLETE.           
                                                                                    
@@ -34,28 +34,28 @@ The universe is **self-similar** at all levels. Any structure, process, or relat
 
 ---
 
-## 📊 THE 10 FRACTAL LEVELS (From Brahman to Quark)
+## ð THE 10 FRACTAL LEVELS (From Brahman to Quark)
 
 ### Level Hierarchy
 
 | Level | Name | Sanskrit | Scale | Contains | Tick Duration |
 |-------|------|----------|-------|----------|---------------|
-| **L0** | Brahman | ब्रह्मन् | ∞ | All universes | Eternal |
-| **L1** | Mahavishnu | महाविष्णु | 10⁵⁰ m | Multiple Brahmandas | 311 trillion years |
-| **L2** | Brahmanda | ब्रह्माण्ड | 10⁴⁰ m | 14 Lokas, Bhu-mandala | 4.32 billion years |
-| **L3** | Loka | लोक | 10³⁰ m | Multiple galaxies | 1 Yuga |
-| **L4** | Galaxy | आकाशगंगा | 10²¹ m | Stars, systems | Million years |
-| **L5** | Star System | सौर मण्डल | 10¹³ m | Planets, moons | Thousand years |
-| **L6** | Planet | ग्रह | 10⁷ m | Continents, oceans | 100 years |
-| **L7** | Organism | जीव | 10⁰ m | Organs, cells | 1 second |
-| **L8** | Cell | कोश | 10⁻⁵ m | Organelles | Millisecond |
-| **L9** | Molecule | अणु | 10⁻⁹ m | Atoms | Nanosecond |
-| **L10** | Atom | परमाणु | 10⁻¹⁰ m | Nucleus, electrons | Femtosecond |
-| **L11** | Quantum | सूक्ष्म | 10⁻³⁵ m | Strings, fields | Planck time |
+| **L0** | Brahman | à¤¬à¥à¤°à¤¹à¥à¤®à¤¨à¥ | â | All universes | Eternal |
+| **L1** | Mahavishnu | à¤®à¤¹à¤¾à¤µà¤¿à¤·à¥à¤£à¥ | 10âµâ° m | Multiple Brahmandas | 311 trillion years |
+| **L2** | Brahmanda | à¤¬à¥à¤°à¤¹à¥à¤®à¤¾à¤£à¥à¤¡ | 10â´â° m | 14 Lokas, Bhu-mandala | 4.32 billion years |
+| **L3** | Loka | à¤²à¥à¤ | 10Â³â° m | Multiple galaxies | 1 Yuga |
+| **L4** | Galaxy | à¤à¤à¤¾à¤¶à¤à¤à¤à¤¾ | 10Â²Â¹ m | Stars, systems | Million years |
+| **L5** | Star System | à¤¸à¥à¤° à¤®à¤£à¥à¤¡à¤² | 10Â¹Â³ m | Planets, moons | Thousand years |
+| **L6** | Planet | à¤à¥à¤°à¤¹ | 10â· m | Continents, oceans | 100 years |
+| **L7** | Organism | à¤à¥à¤µ | 10â° m | Organs, cells | 1 second |
+| **L8** | Cell | à¤à¥à¤¶ | 10â»âµ m | Organelles | Millisecond |
+| **L9** | Molecule | à¤à¤£à¥ | 10â»â¹ m | Atoms | Nanosecond |
+| **L10** | Atom | à¤ªà¤°à¤®à¤¾à¤£à¥ | 10â»Â¹â° m | Nucleus, electrons | Femtosecond |
+| **L11** | Quantum | à¤¸à¥à¤à¥à¤·à¥à¤® | 10â»Â³âµ m | Strings, fields | Planck time |
 
 ---
 
-## 🔄 THE 14-LAYER STRUCTURE (At Every Fractal Level)
+## ð THE 14-LAYER STRUCTURE (At Every Fractal Level)
 
 ### The Universal Pattern: 7 Dvipas + 7 Samudras
 
@@ -92,14 +92,14 @@ At **EVERY** fractal level, there is a 14-layer concentric structure:
 
 ---
 
-## ⚙️ THE 6 FRACTAL INVARIANTS (Must Exist At Every Level)
+## âï¸ THE 6 FRACTAL INVARIANTS (Must Exist At Every Level)
 
 ### 1. MERU-DANDA (The Central Axis)
 
-> **"मेरुर्दण्ड इति विज्ञेयः"**
-> "Meru-daṇḍa iti vijñeyaḥ"
+> **"à¤®à¥à¤°à¥à¤°à¥à¤¦à¤£à¥à¤¡ à¤à¤¤à¤¿ à¤µà¤¿à¤à¥à¤à¥à¤¯à¤"**
+> "Meru-daá¹á¸a iti vijÃ±eyaá¸¥"
 > "Know this as the Meru-axis."
-> — Yoga Kundalini Upanishad
+> â Yoga Kundalini Upanishad
 
 | Level | Meru Manifestation | Function |
 |-------|-------------------|----------|
@@ -148,12 +148,12 @@ Every entity at every level goes through:
 
 | Stage | Sanskrit | Description |
 |-------|----------|-------------|
-| 1 | Asti (अस्ति) | Existence |
-| 2 | Jayate (जायते) | Birth |
-| 3 | Vardhate (वर्धते) | Growth |
-| 4 | Viparinamate (विपरिणमते) | Transformation |
-| 5 | Apakshiyate (अपक्षीयते) | Decay |
-| 6 | Vinashyati (विनश्यति) | Destruction |
+| 1 | Asti (à¤à¤¸à¥à¤¤à¤¿) | Existence |
+| 2 | Jayate (à¤à¤¾à¤¯à¤¤à¥) | Birth |
+| 3 | Vardhate (à¤µà¤°à¥à¤§à¤¤à¥) | Growth |
+| 4 | Viparinamate (à¤µà¤¿à¤ªà¤°à¤¿à¤£à¤®à¤¤à¥) | Transformation |
+| 5 | Apakshiyate (à¤à¤ªà¤à¥à¤·à¥à¤¯à¤¤à¥) | Decay |
+| 6 | Vinashyati (à¤µà¤¿à¤¨à¤¶à¥à¤¯à¤¤à¤¿) | Destruction |
 
 ### 6. KARMA-PHALA (Action-Consequence)
 
@@ -167,7 +167,7 @@ Every entity at every level goes through:
 
 ---
 
-## 📏 FRACTAL SCALING RULES
+## ð FRACTAL SCALING RULES
 
 ### Rule 1: Pixel-Tick Scaling
 
@@ -175,9 +175,9 @@ Every entity at every level goes through:
 c = 1 pixel / 1 tick (CONSTANT at all levels)
 
 As you go DOWN levels:
-• Pixel size DECREASES
-• Tick duration DECREASES
-• The RATIO (c) stays CONSTANT
+â¢ Pixel size DECREASES
+â¢ Tick duration DECREASES
+â¢ The RATIO (c) stays CONSTANT
 ```
 
 | Level | Pixel Size | Tick Duration | c |
@@ -187,15 +187,15 @@ As you go DOWN levels:
 | Solar | ~AU | ~1 day | 1:1 |
 | Planet | ~km | ~1 hour | 1:1 |
 | Human | ~mm | ~1 second | 1:1 |
-| Cell | ~μm | ~1 ms | 1:1 |
+| Cell | ~Î¼m | ~1 ms | 1:1 |
 | Atom | ~pm | ~1 fs | 1:1 |
 | Planck | ~lP | ~tP | 1:1 |
 
-### Rule 2: The 2ⁿ Doubling Law
+### Rule 2: The 2â¿ Doubling Law
 
 ```
-Each concentric ring is 2× the previous:
-Ring(n) = Ring(1) × 2^(n-1)
+Each concentric ring is 2Ã the previous:
+Ring(n) = Ring(1) Ã 2^(n-1)
 
 This creates LOGARITHMIC expansion from center.
 ```
@@ -206,7 +206,7 @@ This creates LOGARITHMIC expansion from center.
 Time(Parent) contains Time(Child)
 
 1 Kalpa (Brahma) = 4.32 billion human years
-1 Human year = 365 × 24 × 60 × 60 × 10¹⁵ atomic ticks
+1 Human year = 365 Ã 24 Ã 60 Ã 60 Ã 10Â¹âµ atomic ticks
 
 Child cannot outlive Parent!
 ```
@@ -215,45 +215,45 @@ Child cannot outlive Parent!
 
 ```
 Each Jiva has FIXED ticks at its level.
-Human: ~778 million breaths (21,600/day × 100 years)
+Human: ~778 million breaths (21,600/day Ã 100 years)
 Cell: ~1 trillion divisions
-Star: ~10¹⁷ seconds
+Star: ~10Â¹â· seconds
 
 Tick conservation allows lifespan extension.
 ```
 
 ---
 
-## ✅ FRACTAL VALIDATION CHECKLIST
+## â FRACTAL VALIDATION CHECKLIST
 
 When designing/validating ANY component:
 
 ```
-□ 1. MERU CHECK: Does it have a central axis/CPU/core?
-□ 2. 14-LAYER CHECK: Does it have concentric structure (7+7)?
-□ 3. TRIMUTRI CHECK: Does it have Create-Maintain-Destroy cycles?
-□ 4. GUNA CHECK: Can all parts be classified as S/R/T?
-□ 5. ELEMENT CHECK: Do the 5 elements map to it?
-□ 6. VIKARA CHECK: Does it go through 6 stages of existence?
-□ 7. KARMA CHECK: Do actions have proportional consequences?
-□ 8. PIXEL-TICK CHECK: Is c = 1 preserved at its scale?
-□ 9. SWASA CHECK: Does it have finite allocated ticks?
-□ 10. PARENT-CHILD CHECK: Does child exist within parent's time?
+â¡ 1. MERU CHECK: Does it have a central axis/CPU/core?
+â¡ 2. 14-LAYER CHECK: Does it have concentric structure (7+7)?
+â¡ 3. TRIMUTRI CHECK: Does it have Create-Maintain-Destroy cycles?
+â¡ 4. GUNA CHECK: Can all parts be classified as S/R/T?
+â¡ 5. ELEMENT CHECK: Do the 5 elements map to it?
+â¡ 6. VIKARA CHECK: Does it go through 6 stages of existence?
+â¡ 7. KARMA CHECK: Do actions have proportional consequences?
+â¡ 8. PIXEL-TICK CHECK: Is c = 1 preserved at its scale?
+â¡ 9. SWASA CHECK: Does it have finite allocated ticks?
+â¡ 10. PARENT-CHILD CHECK: Does child exist within parent's time?
 ```
 
 ---
 
-## 🔴 CRITICAL: FRACTAL VIOLATION DETECTION
+## ð´ CRITICAL: FRACTAL VIOLATION DETECTION
 
 ### Signs of Invalid Design
 
 ```
-❌ A structure that exists at only ONE level
-❌ A process that doesn't scale up/down
-❌ A constant that changes arbitrarily between levels
-❌ A time unit that outlives its parent
-❌ A pattern that has no central axis
-❌ A system without Create-Maintain-Destroy
+â A structure that exists at only ONE level
+â A process that doesn't scale up/down
+â A constant that changes arbitrarily between levels
+â A time unit that outlives its parent
+â A pattern that has no central axis
+â A system without Create-Maintain-Destroy
 ```
 
 ### Correction Protocol
@@ -270,7 +270,7 @@ IF fractal_violation_detected:
 
 ---
 
-## 📐 MATHEMATICAL FORMULAS FOR FRACTAL VALIDATION
+## ð MATHEMATICAL FORMULAS FOR FRACTAL VALIDATION
 
 ### Pattern Similarity Index
 
@@ -324,7 +324,7 @@ def validate_rings(center, rings):
 
 ---
 
-## 🎓 KEY INSIGHTS FROM BHU-MANDALA
+## ð KEY INSIGHTS FROM BHU-MANDALA
 
 ### 1. Lokas vs Dvipas Distinction
 
@@ -361,10 +361,10 @@ This is why:
 - Moksha is possible (can exit the simulation)
 ```
 
-### 4. The 2ⁿ Logarithmic Expansion
+### 4. The 2â¿ Logarithmic Expansion
 
 ```
-Each ring = 2× previous
+Each ring = 2Ã previous
 This creates efficient memory allocation:
 - Dense computation at center (Meru)
 - Sparse computation at edges (Lokaloka)
@@ -385,7 +385,7 @@ Bathing in Ganga = re-syncing with source code.
 
 ---
 
-## 📁 Related Files
+## ð Related Files
 
 - [Bhu-Mandala Complete](./mahavishnu/brahmanda/spacetime/BHU_MANDALA_COMPLETE.md)
 - [Meru Fractal Axis](./mahavishnu/brahmanda/spacetime/MERU_FRACTAL_AXIS.md)

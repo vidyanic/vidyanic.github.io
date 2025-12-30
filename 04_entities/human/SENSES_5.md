@@ -1,50 +1,50 @@
-# 👁️ PANCHA JNANENDRIYA — Five Senses Backend Architecture
+# ðï¸ PANCHA JNANENDRIYA â Five Senses Backend Architecture
 
-> **"इन्द्रियाणि हयानाहुर्विषयांस्तेषु गोचरान्"**
-> "Indriyani hayān āhur vishayāns teshu gocharān"
+> **"à¤à¤¨à¥à¤¦à¥à¤°à¤¿à¤¯à¤¾à¤£à¤¿ à¤¹à¤¯à¤¾à¤¨à¤¾à¤¹à¥à¤°à¥à¤µà¤¿à¤·à¤¯à¤¾à¤à¤¸à¥à¤¤à¥à¤·à¥ à¤à¥à¤à¤°à¤¾à¤¨à¥"**
+> "Indriyani hayÄn Ähur vishayÄns teshu gocharÄn"
 > "The senses are called horses, their objects are the paths they tread."
-> — Katha Upanishad 1.3.4
+> â Katha Upanishad 1.3.4
 
-> **"शब्दः स्पर्शश्च रूपं च रसो गन्धश्च पञ्चमः"**
+> **"à¤¶à¤¬à¥à¤¦à¤ à¤¸à¥à¤ªà¤°à¥à¤¶à¤¶à¥à¤ à¤°à¥à¤ªà¤ à¤ à¤°à¤¸à¥ à¤à¤¨à¥à¤§à¤¶à¥à¤ à¤ªà¤à¥à¤à¤®à¤"**
 > "Shabdah sparshash cha rupam cha raso gandhash cha panchamah"
 > "Sound, Touch, Form, Taste, and Smell are the five."
-> — Sankhya Karika 25
+> â Sankhya Karika 25
 
 ---
 
-## 🌀 THE BACKEND ARCHITECTURE: TANMATRA -> INDRIYA -> MANAS
+## ð THE BACKEND ARCHITECTURE: TANMATRA -> INDRIYA -> MANAS
 
 ```
 --------------------------------------------------------------------------------
                      SENSE PERCEPTION BACKEND ARCHITECTURE                       
-----------------------------------------------------------------------------------�
+----------------------------------------------------------------------------------£
                                                                                 
-   LEVEL 1: TANMATRA (तन्मात्र) — Subtle Data Packets                          
+   LEVEL 1: TANMATRA (à¤¤à¤¨à¥à¤®à¤¾à¤¤à¥à¤°) â Subtle Data Packets                          
    ---------------------------------------------------                          
    Pure information before rendering. "That-only" (tan-matra)                   
    These are the RAW DATA before sense organs process them.                     
                                                                                 
-   LEVEL 2: MAHABHUTA (महाभूत) — Medium/Carrier                                 
+   LEVEL 2: MAHABHUTA (à¤®à¤¹à¤¾à¤­à¥à¤¤) â Medium/Carrier                                 
    ---------------------------------------------------                          
    The physical medium that carries the Tanmatra.                               
                                                                                 
-   LEVEL 3: INDRIYA (इन्द्रिय) — Sensor Hardware                                
+   LEVEL 3: INDRIYA (à¤à¤¨à¥à¤¦à¥à¤°à¤¿à¤¯) â Sensor Hardware                                
    ---------------------------------------------------                          
    The physical organ that receives and converts data.                          
                                                                                 
-   LEVEL 4: MANAS (मनस्) — Signal Processing                                    
+   LEVEL 4: MANAS (à¤®à¤¨à¤¸à¥) â Signal Processing                                    
    ---------------------------------------------------                          
    Mind processes raw sensor data into coherent perception.                     
                                                                                 
-   LEVEL 5: BUDDHI (बुद्धि) — Interpretation & Decision                         
+   LEVEL 5: BUDDHI (à¤¬à¥à¤¦à¥à¤§à¤¿) â Interpretation & Decision                         
    ---------------------------------------------------                          
    Intellect interprets and decides what the data means.                        
                                                                                 
-   LEVEL 6: AHAMKARA (अहंकार) — Self-Reference                                  
+   LEVEL 6: AHAMKARA (à¤à¤¹à¤à¤à¤¾à¤°) â Self-Reference                                  
    ---------------------------------------------------                          
    Ego tags perception as "my experience."                                      
                                                                                 
-   LEVEL 7: PURUSHA/ATMAN (पुरुष/आत्मन्) — Witness                              
+   LEVEL 7: PURUSHA/ATMAN (à¤ªà¥à¤°à¥à¤·/à¤à¤¤à¥à¤®à¤¨à¥) â Witness                              
    ---------------------------------------------------                          
    Consciousness witnesses the processed experience.                            
                                                                                 
@@ -53,19 +53,19 @@
 
 ---
 
-## 📊 COMPLETE FIVE SENSES MAPPING
+## ð COMPLETE FIVE SENSES MAPPING
 
 | # | Sense | Sanskrit | Tanmatra | Mahabhuta | Organ | Vedic Function |
 |---|-------|----------|----------|-----------|-------|----------------|
-| 1 | **Hearing** | Shrotra (श्रोत्र) | Shabda (शब्द) | Akasha (आकाश) | Ear | Vibration detection |
-| 2 | **Touch** | Tvak (त्वक्) | Sparsha (स्पर्श) | Vayu (वायु) | Skin | Pressure/motion sensing |
-| 3 | **Sight** | Chakshu (चक्षु) | Rupa (रूप) | Agni (अग्नि) | Eye | Light/color detection |
-| 4 | **Taste** | Rasana (रसना) | Rasa (रस) | Jala (जल) | Tongue | Chemical sensing (wet) |
-| 5 | **Smell** | Ghrana (घ्राण) | Gandha (गन्ध) | Prithvi (पृथ्वी) | Nose | Particle detection |
+| 1 | **Hearing** | Shrotra (à¤¶à¥à¤°à¥à¤¤à¥à¤°) | Shabda (à¤¶à¤¬à¥à¤¦) | Akasha (à¤à¤à¤¾à¤¶) | Ear | Vibration detection |
+| 2 | **Touch** | Tvak (à¤¤à¥à¤µà¤à¥) | Sparsha (à¤¸à¥à¤ªà¤°à¥à¤¶) | Vayu (à¤µà¤¾à¤¯à¥) | Skin | Pressure/motion sensing |
+| 3 | **Sight** | Chakshu (à¤à¤à¥à¤·à¥) | Rupa (à¤°à¥à¤ª) | Agni (à¤à¤à¥à¤¨à¤¿) | Eye | Light/color detection |
+| 4 | **Taste** | Rasana (à¤°à¤¸à¤¨à¤¾) | Rasa (à¤°à¤¸) | Jala (à¤à¤²) | Tongue | Chemical sensing (wet) |
+| 5 | **Smell** | Ghrana (à¤à¥à¤°à¤¾à¤£) | Gandha (à¤à¤¨à¥à¤§) | Prithvi (à¤ªà¥à¤¥à¥à¤µà¥) | Nose | Particle detection |
 
 ---
 
-## 👂 1. HEARING / Shrotra (श्रोत्र) — SHABDA (Sound)
+## ð 1. HEARING / Shrotra (à¤¶à¥à¤°à¥à¤¤à¥à¤°) â SHABDA (Sound)
 
 ### Frontend (Science)
 ```
@@ -81,20 +81,20 @@ class ShrotraIndriya:
     HEARING = SHABDA TANMATRA DETECTION
     ------------------------------------
     
-    Shabda (शब्द) is the FIRST Tanmatra to emerge from Brahman.
+    Shabda (à¤¶à¤¬à¥à¤¦) is the FIRST Tanmatra to emerge from Brahman.
     "From Shunya came Shabda, from Shabda came all."
     
     Sound is PRIOR to all other senses because:
-    • Akasha (space) is the first element
-    • Akasha's quality is Shabda
-    • Without Akasha, nothing else can manifest
-    • Mantras work through Shabda (sound = creation)
+    â¢ Akasha (space) is the first element
+    â¢ Akasha's quality is Shabda
+    â¢ Without Akasha, nothing else can manifest
+    â¢ Mantras work through Shabda (sound = creation)
     """
     
     # BACKEND PROCESS
-    tanmatra = "Shabda (शब्द)"       # Pure vibration pattern
-    mahabhuta = "Akasha (आकाश)"      # Space carries vibration
-    indriya = "Shrotra (श्रोत्र)"    # Ear apparatus
+    tanmatra = "Shabda (à¤¶à¤¬à¥à¤¦)"       # Pure vibration pattern
+    mahabhuta = "Akasha (à¤à¤à¤¾à¤¶)"      # Space carries vibration
+    indriya = "Shrotra (à¤¶à¥à¤°à¥à¤¤à¥à¤°)"    # Ear apparatus
     
     def backend_hearing_process(self, shabda_wave):
         """
@@ -134,16 +134,16 @@ MANIFESTATION ORDER (From Brahman):
 6. Jala + Rasa -> Prithvi (solidification creates earth)
 
 EACH ELEMENT CARRIES ALL PREVIOUS TANMATRAS:
-• Akasha = Shabda only
-• Vayu = Shabda + Sparsha
-• Agni = Shabda + Sparsha + Rupa
-• Jala = Shabda + Sparsha + Rupa + Rasa
-• Prithvi = ALL 5 (Shabda + Sparsha + Rupa + Rasa + Gandha)
+â¢ Akasha = Shabda only
+â¢ Vayu = Shabda + Sparsha
+â¢ Agni = Shabda + Sparsha + Rupa
+â¢ Jala = Shabda + Sparsha + Rupa + Rasa
+â¢ Prithvi = ALL 5 (Shabda + Sparsha + Rupa + Rasa + Gandha)
 ```
 
 ---
 
-## ✋ 2. TOUCH / Tvak (त्वक्) — SPARSHA (Contact)
+## â 2. TOUCH / Tvak (à¤¤à¥à¤µà¤à¥) â SPARSHA (Contact)
 
 ### Frontend (Science)
 ```
@@ -159,18 +159,18 @@ class TvakIndriya:
     TOUCH = SPARSHA TANMATRA DETECTION
     -----------------------------------
     
-    Sparsha (स्पर्श) is the quality of Vayu (Air/Motion).
+    Sparsha (à¤¸à¥à¤ªà¤°à¥à¤¶) is the quality of Vayu (Air/Motion).
     Touch detects MOTION and CONTACT.
     
     Touch is the sense of BOUNDARY detection:
-    • Where does "I" end and "other" begin?
-    • Pressure = external Vayu meeting body Vayu
-    • Temperature = Rajas level difference
+    â¢ Where does "I" end and "other" begin?
+    â¢ Pressure = external Vayu meeting body Vayu
+    â¢ Temperature = Rajas level difference
     """
     
-    tanmatra = "Sparsha (स्पर्श)"     # Pure contact/motion pattern
-    mahabhuta = "Vayu (वायु)"         # Air carries touch info
-    indriya = "Tvak (त्वक्)"         # Skin apparatus
+    tanmatra = "Sparsha (à¤¸à¥à¤ªà¤°à¥à¤¶)"     # Pure contact/motion pattern
+    mahabhuta = "Vayu (à¤µà¤¾à¤¯à¥)"         # Air carries touch info
+    indriya = "Tvak (à¤¤à¥à¤µà¤à¥)"         # Skin apparatus
     
     def backend_touch_process(self, sparsha_signal):
         """
@@ -207,28 +207,28 @@ class TvakIndriya:
 ```
 WHAT TOUCH ACTUALLY DETECTS (Backend):
 --------------------------------------
-• PRESSURE = Tamas differential at boundary
+â¢ PRESSURE = Tamas differential at boundary
   - Hard surface = high Tamas meeting your Tamas
   - Soft surface = low Tamas, less resistance
 
-• TEMPERATURE = Rajas differential
+â¢ TEMPERATURE = Rajas differential
   - Hot = object has MORE Rajas than body -> flows IN
   - Cold = object has LESS Rajas -> flows OUT
   - (Heat always flows from high to low Rajas)
 
-• PAIN = Damage signal (excessive Guna disturbance)
+â¢ PAIN = Damage signal (excessive Guna disturbance)
   - Sharp pain = sudden high Tamas puncture
   - Burning = excessive Rajas destroying tissue
   - Ache = chronic Guna imbalance
 
-• PLEASURE = Harmonious Guna resonance
+â¢ PLEASURE = Harmonious Guna resonance
   - Massage = Rajas redistribution (circulation)
   - Comfort = Guna balance maintained
 ```
 
 ---
 
-## 👁️ 3. SIGHT / Chakshu (चक्षु) — RUPA (Form)
+## ðï¸ 3. SIGHT / Chakshu (à¤à¤à¥à¤·à¥) â RUPA (Form)
 
 ### Frontend (Science)
 ```
@@ -244,21 +244,21 @@ class ChakshuIndriya:
     SIGHT = RUPA TANMATRA DETECTION
     --------------------------------
     
-    Rupa (रूप) is the quality of Agni (Fire/Light).
+    Rupa (à¤°à¥à¤ª) is the quality of Agni (Fire/Light).
     Vision detects FORM and COLOR.
     
     Agni = Light = Sattva carrier
     That's why we say "see the light" for understanding.
     
     The eye is a FIRE organ:
-    • Projects Tejas (inner light) outward
-    • Receives external Tejas (reflected light)
-    • Without inner Tejas, no perception (blind)
+    â¢ Projects Tejas (inner light) outward
+    â¢ Receives external Tejas (reflected light)
+    â¢ Without inner Tejas, no perception (blind)
     """
     
-    tanmatra = "Rupa (रूप)"          # Pure form/color pattern
-    mahabhuta = "Agni (अग्नि)"        # Fire/light carries form
-    indriya = "Chakshu (चक्षु)"      # Eye apparatus
+    tanmatra = "Rupa (à¤°à¥à¤ª)"          # Pure form/color pattern
+    mahabhuta = "Agni (à¤à¤à¥à¤¨à¤¿)"        # Fire/light carries form
+    indriya = "Chakshu (à¤à¤à¥à¤·à¥)"      # Eye apparatus
     
     def backend_vision_process(self, rupa_signal):
         """
@@ -272,10 +272,10 @@ class ChakshuIndriya:
         5. Buddhi interprets objects/meanings
         
         WHY VISION DEPENDS ON AGNI (LIGHT):
-        • Without Agni, Rupa cannot travel
-        • In darkness, Rupa exists but isn't transmitted
-        • Sun = Cosmic Agni source for Bhuloka
-        • Inner Tejas = Why we "see" dreams
+        â¢ Without Agni, Rupa cannot travel
+        â¢ In darkness, Rupa exists but isn't transmitted
+        â¢ Sun = Cosmic Agni source for Bhuloka
+        â¢ Inner Tejas = Why we "see" dreams
         """
         
         # Color = Guna signature in light
@@ -299,28 +299,28 @@ class ChakshuIndriya:
 ```
 COLOR GUNA MAPPING (Backend):
 -----------------------------
-• WHITE = Pure Sattva (all colors = clarity)
-• RED = Rajas dominant (fire, passion, blood)
-• BLUE = Sattva-calm (sky, water, peace)
-• YELLOW = Sattva-Rajas (sun, gold, wisdom)
-• GREEN = Balance (nature, growth)
-• BLACK = Tamas dominant (absence, absorption)
+â¢ WHITE = Pure Sattva (all colors = clarity)
+â¢ RED = Rajas dominant (fire, passion, blood)
+â¢ BLUE = Sattva-calm (sky, water, peace)
+â¢ YELLOW = Sattva-Rajas (sun, gold, wisdom)
+â¢ GREEN = Balance (nature, growth)
+â¢ BLACK = Tamas dominant (absence, absorption)
 
 WHY SUNRISE/SUNSET ARE RED-ORANGE:
-• Light travels through more atmosphere
-• Sattva (blue) scatters first
-• Rajas (red-orange) travels further
-• Sunrise/sunset = Rajas time (activity transition)
+â¢ Light travels through more atmosphere
+â¢ Sattva (blue) scatters first
+â¢ Rajas (red-orange) travels further
+â¢ Sunrise/sunset = Rajas time (activity transition)
 
 WHY SKY IS BLUE:
-• Short wavelength (Sattva) scatters easily
-• We see scattered Sattva-light
-• Sky = Sattva display layer
+â¢ Short wavelength (Sattva) scatters easily
+â¢ We see scattered Sattva-light
+â¢ Sky = Sattva display layer
 ```
 
 ---
 
-## 👅 4. TASTE / Rasana (रसना) — RASA (Essence)
+## ð 4. TASTE / Rasana (à¤°à¤¸à¤¨à¤¾) â RASA (Essence)
 
 ### Frontend (Science)
 ```
@@ -337,15 +337,15 @@ class RasanaIndriya:
     TASTE = RASA TANMATRA DETECTION
     --------------------------------
     
-    Rasa (रस) is the quality of Jala (Water).
+    Rasa (à¤°à¤¸) is the quality of Jala (Water).
     Taste detects ESSENCE and NUTRITION.
     
     Why water is required:
-    • Rasa only transmits through Jala
-    • Dry tongue cannot taste
-    • Saliva = Jala medium for Rasa
+    â¢ Rasa only transmits through Jala
+    â¢ Dry tongue cannot taste
+    â¢ Saliva = Jala medium for Rasa
     
-    The 6 Rasas (Shad-Rasa / षड्-रस):
+    The 6 Rasas (Shad-Rasa / à¤·à¤¡à¥-à¤°à¤¸):
     1. Madhura (Sweet) - Earth + Water
     2. Amla (Sour) - Earth + Fire
     3. Lavana (Salty) - Water + Fire
@@ -354,9 +354,9 @@ class RasanaIndriya:
     6. Kashaya (Astringent) - Air + Earth
     """
     
-    tanmatra = "Rasa (रस)"           # Pure essence/flavor pattern
-    mahabhuta = "Jala (जल)"          # Water carries taste
-    indriya = "Rasana (रसना)"        # Tongue apparatus
+    tanmatra = "Rasa (à¤°à¤¸)"           # Pure essence/flavor pattern
+    mahabhuta = "Jala (à¤à¤²)"          # Water carries taste
+    indriya = "Rasana (à¤°à¤¸à¤¨à¤¾)"        # Tongue apparatus
     
     def backend_taste_process(self, rasa_signal):
         """
@@ -392,49 +392,49 @@ class RasanaIndriya:
 
 ### Six Tastes and Their Functions
 ```
-SHAD-RASA (6 Tastes) — BACKEND FUNCTIONS:
+SHAD-RASA (6 Tastes) â BACKEND FUNCTIONS:
 -------------------------------------------
 
-1. MADHURA (मधुर) — Sweet
-   • Mahabhuta: Prithvi + Jala
-   • Guna: Sattva dominant
-   • Effect: Builds tissue, calms mind
-   • Examples: Sugar, rice, milk
+1. MADHURA (à¤®à¤§à¥à¤°) â Sweet
+   â¢ Mahabhuta: Prithvi + Jala
+   â¢ Guna: Sattva dominant
+   â¢ Effect: Builds tissue, calms mind
+   â¢ Examples: Sugar, rice, milk
 
-2. AMLA (अम्ल) — Sour
-   • Mahabhuta: Prithvi + Agni
-   • Guna: Rajas dominant
-   • Effect: Stimulates digestion, awakens
-   • Examples: Lemon, yogurt, vinegar
+2. AMLA (à¤à¤®à¥à¤²) â Sour
+   â¢ Mahabhuta: Prithvi + Agni
+   â¢ Guna: Rajas dominant
+   â¢ Effect: Stimulates digestion, awakens
+   â¢ Examples: Lemon, yogurt, vinegar
 
-3. LAVANA (लवण) — Salty
-   • Mahabhuta: Jala + Agni
-   • Guna: Rajas-Tamas
-   • Effect: Retains water, grounds
-   • Examples: Salt, seaweed
+3. LAVANA (à¤²à¤µà¤£) â Salty
+   â¢ Mahabhuta: Jala + Agni
+   â¢ Guna: Rajas-Tamas
+   â¢ Effect: Retains water, grounds
+   â¢ Examples: Salt, seaweed
 
-4. TIKTA (तिक्त) — Bitter
-   • Mahabhuta: Vayu + Akasha
-   • Guna: Sattva (cleansing)
-   • Effect: Detoxifies, clears
-   • Examples: Neem, turmeric, coffee
+4. TIKTA (à¤¤à¤¿à¤à¥à¤¤) â Bitter
+   â¢ Mahabhuta: Vayu + Akasha
+   â¢ Guna: Sattva (cleansing)
+   â¢ Effect: Detoxifies, clears
+   â¢ Examples: Neem, turmeric, coffee
 
-5. KATU (कटु) — Pungent
-   • Mahabhuta: Vayu + Agni
-   • Guna: Rajas dominant
-   • Effect: Increases metabolism, heat
-   • Examples: Chili, ginger, pepper
+5. KATU (à¤à¤à¥) â Pungent
+   â¢ Mahabhuta: Vayu + Agni
+   â¢ Guna: Rajas dominant
+   â¢ Effect: Increases metabolism, heat
+   â¢ Examples: Chili, ginger, pepper
 
-6. KASHAYA (कषाय) — Astringent
-   • Mahabhuta: Vayu + Prithvi
-   • Guna: Sattva-Tamas
-   • Effect: Contracts, dries, binds
-   • Examples: Unripe banana, tea
+6. KASHAYA (à¤à¤·à¤¾à¤¯) â Astringent
+   â¢ Mahabhuta: Vayu + Prithvi
+   â¢ Guna: Sattva-Tamas
+   â¢ Effect: Contracts, dries, binds
+   â¢ Examples: Unripe banana, tea
 ```
 
 ---
 
-## 👃 5. SMELL / Ghrana (घ्राण) — GANDHA (Scent)
+## ð 5. SMELL / Ghrana (à¤à¥à¤°à¤¾à¤£) â GANDHA (Scent)
 
 ### Frontend (Science)
 ```
@@ -451,23 +451,23 @@ class GhranaIndriya:
     SMELL = GANDHA TANMATRA DETECTION
     ---------------------------------
     
-    Gandha (गन्ध) is the quality of Prithvi (Earth).
-    Smell detects PARTICLES — the most gross Tanmatra.
+    Gandha (à¤à¤¨à¥à¤§) is the quality of Prithvi (Earth).
+    Smell detects PARTICLES â the most gross Tanmatra.
     
     Prithvi is the FINAL element, containing ALL Tanmatras:
-    • Prithvi has Shabda + Sparsha + Rupa + Rasa + Gandha
-    • That's why earth-based things have all 5 qualities
-    • Smell requires PARTICLES (matter) to travel
+    â¢ Prithvi has Shabda + Sparsha + Rupa + Rasa + Gandha
+    â¢ That's why earth-based things have all 5 qualities
+    â¢ Smell requires PARTICLES (matter) to travel
     
     Smell is the MOST GROUNDED sense:
-    • Direct connection to survival (food, danger)
-    • Linked to memory (limbic system)
-    • Animals rely heavily on smell
+    â¢ Direct connection to survival (food, danger)
+    â¢ Linked to memory (limbic system)
+    â¢ Animals rely heavily on smell
     """
     
-    tanmatra = "Gandha (गन्ध)"        # Pure scent pattern
-    mahabhuta = "Prithvi (पृथ्वी)"    # Earth carries scent particles
-    indriya = "Ghrana (घ्राण)"       # Nose apparatus
+    tanmatra = "Gandha (à¤à¤¨à¥à¤§)"        # Pure scent pattern
+    mahabhuta = "Prithvi (à¤ªà¥à¤¥à¥à¤µà¥)"    # Earth carries scent particles
+    indriya = "Ghrana (à¤à¥à¤°à¤¾à¤£)"       # Nose apparatus
     
     def backend_smell_process(self, gandha_signal):
         """
@@ -481,10 +481,10 @@ class GhranaIndriya:
         5. Manas associates with past experiences
         
         WHY SMELL IS MOST "EARTHY":
-        • Only solid objects have strong smell
-        • Gases have minimal smell (except some)
-        • More Tamas = stronger Gandha potential
-        • Earth is the densest, most Tamas element
+        â¢ Only solid objects have strong smell
+        â¢ Gases have minimal smell (except some)
+        â¢ More Tamas = stronger Gandha potential
+        â¢ Earth is the densest, most Tamas element
         """
         
         return {
@@ -500,31 +500,31 @@ class GhranaIndriya:
 ```
 SMELL-MEMORY CONNECTION (Backend):
 -----------------------------------
-• Smell bypasses Manas and goes DIRECTLY to Chitta (memory)
-• This is why smells trigger instant, powerful memories
-• Other senses process through Manas first (cognitive delay)
+â¢ Smell bypasses Manas and goes DIRECTLY to Chitta (memory)
+â¢ This is why smells trigger instant, powerful memories
+â¢ Other senses process through Manas first (cognitive delay)
 
 BACKEND REASON:
-• Prithvi (earth) contains ALL 5 Tanmatras
-• Gandha is the most "complete" information packet
-• It carries compressed data from all elements
-• Direct write to Chitta = survival advantage
-• "This smell = danger" must be INSTANT
+â¢ Prithvi (earth) contains ALL 5 Tanmatras
+â¢ Gandha is the most "complete" information packet
+â¢ It carries compressed data from all elements
+â¢ Direct write to Chitta = survival advantage
+â¢ "This smell = danger" must be INSTANT
 
 GUNA LOGIC:
-• Tamas dominant = tied to physical matter
-• Matter = survival (food, shelter, threat)
-• Survival data = direct Chitta access
+â¢ Tamas dominant = tied to physical matter
+â¢ Matter = survival (food, shelter, threat)
+â¢ Survival data = direct Chitta access
 ```
 
 ---
 
-## 🔄 COMPLETE PERCEPTION PIPELINE
+## ð COMPLETE PERCEPTION PIPELINE
 
 ```
 --------------------------------------------------------------------------------
                     COMPLETE SENSE PERCEPTION PIPELINE                          
-----------------------------------------------------------------------------------�
+----------------------------------------------------------------------------------£
                                                                                 
    EXTERNAL WORLD (Maya's render)                                               
                                                                                
@@ -549,42 +549,42 @@ GUNA LOGIC:
                                                                                
           v                                                                     
    ---------------------------------------------------------------------     
-    MANAS (मनस्) — Signal Processing                                         
-     • Combines 5 sense streams                                              
-     • Creates unified perception                                            
-     • Filters based on attention                                            
+    MANAS (à¤®à¤¨à¤¸à¥) â Signal Processing                                         
+     â¢ Combines 5 sense streams                                              
+     â¢ Creates unified perception                                            
+     â¢ Filters based on attention                                            
    ---------------------------------------------------------------------     
                                                                                
           v                                                                     
    ---------------------------------------------------------------------     
-    BUDDHI (बुद्धि) — Interpretation                                         
-     • "What is this?"                                                       
-     • "Is this good/bad?"                                                   
-     • Decision making                                                       
+    BUDDHI (à¤¬à¥à¤¦à¥à¤§à¤¿) â Interpretation                                         
+     â¢ "What is this?"                                                       
+     â¢ "Is this good/bad?"                                                   
+     â¢ Decision making                                                       
    ---------------------------------------------------------------------     
                                                                                
           v                                                                     
    ---------------------------------------------------------------------     
-    AHAMKARA (अहंकार) — Self-Reference                                       
-     • "I see this"                                                          
-     • "This is happening to ME"                                             
-     • Ego ownership of experience                                           
+    AHAMKARA (à¤à¤¹à¤à¤à¤¾à¤°) â Self-Reference                                       
+     â¢ "I see this"                                                          
+     â¢ "This is happening to ME"                                             
+     â¢ Ego ownership of experience                                           
    ---------------------------------------------------------------------     
                                                                                
           v                                                                     
    ---------------------------------------------------------------------     
-    CHITTA (चित्त) — Memory Storage                                          
-     • Records as Samskara                                                   
-     • Compares with past                                                    
-     • Updates Vasana (preferences)                                          
+    CHITTA (à¤à¤¿à¤¤à¥à¤¤) â Memory Storage                                          
+     â¢ Records as Samskara                                                   
+     â¢ Compares with past                                                    
+     â¢ Updates Vasana (preferences)                                          
    ---------------------------------------------------------------------     
                                                                                
           v                                                                     
    ---------------------------------------------------------------------     
-    PURUSHA / ATMAN (पुरुष/आत्मन्) — Pure Witness                            
-     • Witnesses ALL processed experience                                    
-     • Does NOT act or react                                                 
-     • Pure consciousness observing                                          
+    PURUSHA / ATMAN (à¤ªà¥à¤°à¥à¤·/à¤à¤¤à¥à¤®à¤¨à¥) â Pure Witness                            
+     â¢ Witnesses ALL processed experience                                    
+     â¢ Does NOT act or react                                                 
+     â¢ Pure consciousness observing                                          
    ---------------------------------------------------------------------     
                                                                                 
 --------------------------------------------------------------------------------
@@ -592,7 +592,7 @@ GUNA LOGIC:
 
 ---
 
-## 📐 GUNA COMPOSITION OF EACH SENSE
+## ð GUNA COMPOSITION OF EACH SENSE
 
 | Sense | S (Sattva) | R (Rajas) | T (Tamas) | Dominant | Reason |
 |-------|------------|-----------|-----------|----------|--------|
@@ -604,63 +604,63 @@ GUNA LOGIC:
 
 ---
 
-## 🔬 VALIDATION: SCIENCE ↔ VEDIC
+## ð¬ VALIDATION: SCIENCE â VEDIC
 
 | Frontend (Science) | Backend (Vedic) | Match? |
 |-------------------|-----------------|--------|
-| Sound = pressure waves | Shabda = Akasha vibration | ✅ |
-| Touch = mechanoreceptors | Sparsha = Vayu contact | ✅ |
-| Light = EM radiation | Rupa = Agni carrier | ✅ |
-| Taste = chemical (wet) | Rasa = Jala medium | ✅ |
-| Smell = particles | Gandha = Prithvi particles | ✅ |
-| Smell -> memory link | Gandha -> direct Chitta | ✅ |
-| Vision needs light | Chakshu needs Agni | ✅ |
-| Taste needs saliva | Rasa needs Jala | ✅ |
+| Sound = pressure waves | Shabda = Akasha vibration | â |
+| Touch = mechanoreceptors | Sparsha = Vayu contact | â |
+| Light = EM radiation | Rupa = Agni carrier | â |
+| Taste = chemical (wet) | Rasa = Jala medium | â |
+| Smell = particles | Gandha = Prithvi particles | â |
+| Smell -> memory link | Gandha -> direct Chitta | â |
+| Vision needs light | Chakshu needs Agni | â |
+| Taste needs saliva | Rasa needs Jala | â |
 
 ---
 
-## 🎯 KEY INSIGHTS
+## ð¯ KEY INSIGHTS
 
 ```
 --------------------------------------------------------------------------------
                               KEY INSIGHTS                                       
-----------------------------------------------------------------------------------�
+----------------------------------------------------------------------------------£
                                                                                 
   1. SENSES ARE INPUT PORTS, NOT THE EXPERIENCE                                 
-     • The ear doesn't "hear" — Purusha witnesses hearing                       
-     • Organs are hardware, consciousness is the user                           
+     â¢ The ear doesn't "hear" â Purusha witnesses hearing                       
+     â¢ Organs are hardware, consciousness is the user                           
                                                                                 
   2. TANMATRAS ARE RAW DATA, NOT PERCEPTION                                     
-     • Shabda exists whether anyone hears it or not                             
-     • Rupa exists whether anyone sees it or not                                
-     • Maya renders, senses receive, consciousness witnesses                    
+     â¢ Shabda exists whether anyone hears it or not                             
+     â¢ Rupa exists whether anyone sees it or not                                
+     â¢ Maya renders, senses receive, consciousness witnesses                    
                                                                                 
   3. ORDER MATTERS: SUBTLE -> GROSS                                              
-     • Akasha -> Vayu -> Agni -> Jala -> Prithvi                                   
-     • Each contains all previous qualities                                     
-     • Prithvi has ALL 5 Tanmatras (most information-dense)                    
+     â¢ Akasha -> Vayu -> Agni -> Jala -> Prithvi                                   
+     â¢ Each contains all previous qualities                                     
+     â¢ Prithvi has ALL 5 Tanmatras (most information-dense)                    
                                                                                 
   4. GUNAS DETERMINE SENSE QUALITY                                              
-     • High Sattva = clear perception (hearing, sight)                          
-     • High Rajas = active sensing (touch)                                      
-     • High Tamas = gross detection (smell, taste)                              
+     â¢ High Sattva = clear perception (hearing, sight)                          
+     â¢ High Rajas = active sensing (touch)                                      
+     â¢ High Tamas = gross detection (smell, taste)                              
                                                                                 
   5. ANTAHKARANA PROCESSES, ATMAN WITNESSES                                     
-     • Manas = Signal processor                                                 
-     • Buddhi = Interpreter                                                     
-     • Ahamkara = "I" tagger                                                    
-     • Chitta = Memory                                                          
-     • Atman = Silent witness (never acts)                                      
+     â¢ Manas = Signal processor                                                 
+     â¢ Buddhi = Interpreter                                                     
+     â¢ Ahamkara = "I" tagger                                                    
+     â¢ Chitta = Memory                                                          
+     â¢ Atman = Silent witness (never acts)                                      
                                                                                 
 --------------------------------------------------------------------------------
 ```
 
 ---
 
-> **"यतो वाचो निवर्तन्ते अप्राप्य मनसा सह"**
+> **"à¤¯à¤¤à¥ à¤µà¤¾à¤à¥ à¤¨à¤¿à¤µà¤°à¥à¤¤à¤¨à¥à¤¤à¥ à¤à¤ªà¥à¤°à¤¾à¤ªà¥à¤¯ à¤®à¤¨à¤¸à¤¾ à¤¸à¤¹"**
 > "Yato vacho nivartante aprapya manasa saha"
 > "From where words return along with the mind, unable to reach."
-> — Taittiriya Upanishad 2.9.1
+> â Taittiriya Upanishad 2.9.1
 
 *The senses are doors. What enters is data. What witnesses is Atman.*
 
