@@ -260,30 +260,63 @@ Knowledge war resources
 
 ## 📊 Key Statistics
 
+<style>
+.stats-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 30px 0;
+  backdrop-filter: blur(5px);
+}
+.stat-item {
+  text-align: center;
+  margin: 10px;
+  min-width: 120px;
+}
+.stat-number {
+  display: block;
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #159957; /* Cayman theme accent color */
+  line-height: 1.2;
+}
+.stat-label {
+  display: block;
+  font-size: 0.9em;
+  opacity: 0.8;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+</style>
+
 <div class="stats-box">
   <div class="stat-item">
-    <span class="stat-number">122+</span>
-    <span class="stat-label">Total Documents</span>
+  <span class="stat-number">122+</span>
+  <span class="stat-label">Total Documents</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">54</span>
-    <span class="stat-label">Universal Principles</span>
+  <span class="stat-number">54</span>
+  <span class="stat-label">Universal Principles</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">52</span>
-    <span class="stat-label">Anomalies Explained</span>
+  <span class="stat-number">52</span>
+  <span class="stat-label">Anomalies Explained</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">13</span>
-    <span class="stat-label">Fractal Levels (N-6 to N+6)</span>
+  <span class="stat-number">13</span>
+  <span class="stat-label">Fractal Levels (N-6 to N+6)</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">100%</span>
-    <span class="stat-label">Backend Confidence</span>
+  <span class="stat-number">100%</span>
+  <span class="stat-label">Backend Confidence</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">6/8</span>
-    <span class="stat-label">Sandhya Progress (Year 6)</span>
+  <span class="stat-number">6/8</span>
+  <span class="stat-label">Sandhya Progress (Year 6)</span>
   </div>
 </div>
 
