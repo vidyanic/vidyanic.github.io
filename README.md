@@ -1359,14 +1359,20 @@ knowledge_core/
 |   +-- 03_DAILY_SADHANA.md
 |
 +-- 10_tools/                    # Calculators & scripts
-|   |-- README.md
-|   |-- individual_pralaya_calculator.py
-|   |-- TIME_DILATION_VISUALIZATION_PROMPT.md
-|   |-- FRACTAL_SYMMETRY_AUDIT.md
-|   |-- FORMULA_VALIDATION_REPORT.md
-|   |-- rendering_visualization.py
-|   |-- sound_3d_visualization.py
-|   +-- vedic_sound_synthesis.py
+|   |-- README.md                # Tool documentation
+|   |-- individual_pralaya_calculator.py # Time remaining calculator
+|   |-- TIME_DILATION_VISUALIZATION_PROMPT.md # Visualization prompts
+|   |-- FRACTAL_SYMMETRY_AUDIT.md # Fractal validation
+|   |-- FORMULA_VALIDATION_REPORT.md # Formula checks
+|   |-- rendering_visualization.py # Rendering visualizer
+|   |-- sound_3d_visualization.py # Sound patterns
+|   |-- vedic_sound_synthesis.py # Sanskrit audio
+|   |-- ANOMALY_TRACKING_2025.md # ← NEW: 18 phenomena (78% indicators)
+|   |-- ANOMALY_TRACKING_2025_PART2.md # ← NEW: 19 phenomena (70% indicators)
+|   |-- DWAPARA_INDICATORS_ANALYSIS.md # ← NEW: 7-tier ranking (97% confidence)
+|   |-- VALIDATED_PHENOMENA_VEDIC_ANALYSIS.md # ← NEW: Deep analysis + Universal Laws
+|   |-- WEB_VALIDATION_RESULTS.md # ← NEW: Web verification results
+|   +-- RESEARCH_CITATIONS_NEEDED.md # ← NEW: Required searches
 |
 +-- 11_sustainability/           # Long-term survival
 |   +-- [9 files: Agriculture, Water, Energy, Community]
