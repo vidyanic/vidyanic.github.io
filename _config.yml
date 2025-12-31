@@ -44,10 +44,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Relative links
+# Relative links - Convert .md to .html automatically
 relative_links:
   enabled: true
   collections: true
+
+# Permalink style - ensures clean URLs
+permalink: pretty
 
 # Optional front matter
 optional_front_matter:
