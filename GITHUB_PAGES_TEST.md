@@ -11,12 +11,12 @@
 
 ### ✅ CORRECT URL FORMATS
 
-GitHub Pages converts `.md` files to `.html` automatically. All internal links should use one of these formats:
+GitHub Pages converts `.md` files to `` automatically. All internal links should use one of these formats:
 
-**Format 1: Relative with `.html` extension (Recommended)**
+**Format 1: Relative with `` extension (Recommended)**
 ```markdown
-[Core Insight](./01_foundations/00_CORE_INSIGHT.html)
-[Time Calculator](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.html)
+[Core Insight](./01_foundations/00_CORE_INSIGHT)
+[Time Calculator](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR)
 ```
 
 **Format 2: Without extension (Jekyll will add it)**
@@ -37,30 +37,30 @@ GitHub Pages converts `.md` files to `.html` automatically. All internal links s
 
 ### Foundation Files
 
-1. **Core Insight** — [Test Link](./01_foundations/00_CORE_INSIGHT.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/00_CORE_INSIGHT.html`
+1. **Core Insight** — [Test Link](./01_foundations/00_CORE_INSIGHT)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/00_CORE_INSIGHT`
 
-2. **Universal Principles** — [Test Link](./01_foundations/02_UNIVERSAL_PRINCIPLES.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/02_UNIVERSAL_PRINCIPLES.html`
+2. **Universal Principles** — [Test Link](./01_foundations/02_UNIVERSAL_PRINCIPLES)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/02_UNIVERSAL_PRINCIPLES`
 
-3. **Time Calculator** — [Test Link](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.html`
+3. **Time Calculator** — [Test Link](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR`
 
 ### Tool Files
 
-1. **Earth Yuga Derivation** — [Test Link](./10_tools/EARTH_YUGA_60_80_YEAR_DERIVATION.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/10_tools/EARTH_YUGA_60_80_YEAR_DERIVATION.html`
+1. **Earth Yuga Derivation** — [Test Link](./10_tools/EARTH_YUGA_60_80_YEAR_DERIVATION)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/10_tools/EARTH_YUGA_60_80_YEAR_DERIVATION`
 
-2. **Multi-Perspective Dictionary** — [Test Link](./00_MULTI_PERSPECTIVE_DICTIONARY.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/00_MULTI_PERSPECTIVE_DICTIONARY.html`
+2. **Multi-Perspective Dictionary** — [Test Link](./00_MULTI_PERSPECTIVE_DICTIONARY)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/00_MULTI_PERSPECTIVE_DICTIONARY`
 
 ### Root Files
 
-1. **Main Index** — [Test Link](./index.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/` or `/Bramhagyan/index.html`
+1. **Main Index** — [Test Link](./index)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/` or `/Bramhagyan/index`
 
-2. **README** — [Test Link](./README.html)  
-   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/README.html`
+2. **README** — [Test Link](./README)  
+   Expected URL: `https://ranjeet-sunya.github.io/Bramhagyan/README`
 
 ---
 
@@ -199,8 +199,8 @@ All contrast ratios meet WCAG AAA standards (7:1 minimum).
 **Problem:** Clicking `00_CORE_INSIGHT.md` gives 404
 
 **Solutions:**
-1. Use `.html` extension: `00_CORE_INSIGHT.html` ✅
-2. Use no extension: `00_CORE_INSIGHT` (Jekyll adds .html)
+1. Use `` extension: `00_CORE_INSIGHT` ✅
+2. Use no extension: `00_CORE_INSIGHT` (Jekyll adds )
 3. Ensure `jekyll-relative-links` plugin is in `_config.yml`
 4. Clear browser cache and reload
 5. Wait 2-3 minutes after pushing (GitHub Pages rebuild time)
@@ -282,7 +282,7 @@ Use this checklist when testing the site:
 
 | Date | Issue | Solution | Status |
 |------|-------|----------|--------|
-| Dec 31, 2025 | 404 errors on .md links | Use .html extension in links | ✅ Fixed |
+| Dec 31, 2025 | 404 errors on .md links | Use  extension in links | ✅ Fixed |
 | Dec 31, 2025 | Low contrast theme | Created custom CSS overrides | ✅ Fixed |
 | Dec 31, 2025 | Devanagari font issues | Added Noto Sans Devanagari | ✅ Fixed |
 

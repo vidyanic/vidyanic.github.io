@@ -264,13 +264,13 @@ https://ranjeet-sunya.github.io/Bramhagyan/knowledge_core/
 
 ### Foundation Documents
 ```
-/Bramhagyan/knowledge_core/01_foundations/00_CORE_INSIGHT.html
-/Bramhagyan/knowledge_core/01_foundations/01_UNIVERSAL_PRINCIPLES.html
+/Bramhagyan/knowledge_core/01_foundations/00_CORE_INSIGHT
+/Bramhagyan/knowledge_core/01_foundations/01_UNIVERSAL_PRINCIPLES
 ```
 
 ### Transition Documents
 ```
-/Bramhagyan/knowledge_core/08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.html
+/Bramhagyan/knowledge_core/08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE
 ```
 
 ### Images

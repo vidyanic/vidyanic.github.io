@@ -17,11 +17,11 @@ echo "📊 VALIDATING index.md"
 echo "═══════════════════════════════════════════════════════════════════════════"
 echo ""
 
-# Extract all .html links and check if corresponding .md files exist
-grep -o '\./[^)]*\.html' index.md | sort -u | while read -r htmllink; do
-    # Convert ./path/file.html to path/file.md
+# Extract all  links and check if corresponding .md files exist
+grep -o '\./[^)]*\' index.md | sort -u | while read -r htmllink; do
+    # Convert ./path/file to path/file.md
     mdfile="${htmllink#./}"
-    mdfile="${mdfile%.html}.md"
+    mdfile="${mdfile%}.md"
     
     ((total_links++))
     

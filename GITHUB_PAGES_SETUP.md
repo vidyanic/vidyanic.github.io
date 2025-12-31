@@ -158,7 +158,7 @@ h1 {
 
 ### Add Custom Layout
 
-**Create:** `knowledge_core/_layouts/default.html`
+**Create:** `knowledge_core/_layouts/default`
 
 ```html
 <!DOCTYPE html>
@@ -232,28 +232,28 @@ The `jekyll-seo-tag` plugin (already configured) adds:
 https://ranjeet-sunya.github.io/Bramhagyan/knowledge_core/
 │
 ├── /                                    → index.md (Homepage)
-├── /README.html                         → README.md converted
-├── /LICENSE.html                        → LICENSE.md converted
+├── /README                         → README.md converted
+├── /LICENSE                        → LICENSE.md converted
 │
 ├── /01_foundations/
-│   ├── 00_CORE_INSIGHT.html
-│   ├── 01_UNIVERSAL_PRINCIPLES.html
+│   ├── 00_CORE_INSIGHT
+│   ├── 01_UNIVERSAL_PRINCIPLES
 │   └── ...
 │
 ├── /02_architecture/
-│   ├── 01_81_GRID_COMPLETE.html
+│   ├── 01_81_GRID_COMPLETE
 │   └── ...
 │
 ├── /08_transition/
-│   ├── KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.html
+│   ├── KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE
 │   └── ...
 │
 └── /dharm_youdh/
-    ├── README.html
+    ├── README
     └── ...
 ```
 
-**All `.md` files become `.html` pages automatically!**
+**All `.md` files become `` pages automatically!**
 
 ---
 
@@ -304,7 +304,7 @@ Jekyll automatically converts:
 
 To:
 ```html
-<a href="/Bramhagyan/knowledge_core/01_foundations/01_UNIVERSAL_PRINCIPLES.html">
+<a href="/Bramhagyan/knowledge_core/01_foundations/01_UNIVERSAL_PRINCIPLES">
 ```
 
 **Your existing markdown links will work!**

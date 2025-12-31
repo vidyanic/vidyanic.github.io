@@ -44,7 +44,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Relative links - Convert .md to .html automatically
+# Relative links - Convert .md to  automatically
 relative_links:
   enabled: true
   collections: true

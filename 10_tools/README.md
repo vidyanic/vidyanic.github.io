@@ -434,7 +434,7 @@ python vedic_sound_synthesis.py
 python sound_3d_visualization.py
 
 # Output: sound_visuals/ folder with .png files
-# Also: Interactive .html files (open in browser)
+# Also: Interactive  files (open in browser)
 ```
 
 ### 3. Use AI Image Prompts
