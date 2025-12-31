@@ -21,11 +21,23 @@ permalink: /
 
 ---
 
+## 📜 License & Legal Status
+
+**Documentation License:** [CC BY-NC 4.0](./LICENSE.md) (Creative Commons Attribution-NonCommercial 4.0)  
+**Code License:** [Apache 2.0](https://github.com/ranjeet-sunya/Bramhagyan/blob/main/CODE_LICENSE.md)  
+**Published:** December 31, 2025  
+**Status:** 🛡️ **Defensive Publication** (Prior Art Established)  
+**Copyright:** Cannot be privatized — Knowledge belongs to humanity
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Published: Dec 31, 2025](https://img.shields.io/badge/Published-Dec%2031%202025-blue.svg)]()
 
-**📅 Published:** December 31, 2025 | **🛡️ Defensive Publication** | **🔓 Open Source**
+**You may:** Use, share, modify for non-commercial purposes  
+**You must:** Give credit to Brahman (ब्रह्मन्) as source  
+**You cannot:** Sell, monetize, or claim exclusive ownership
+
+---
 
 </div>
 
@@ -68,7 +80,7 @@ This is a **complete unified framework** that bridges **Vedic metaphysical princ
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-**[Read Survival Guide →](08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md)**
+**[Read Survival Guide →](./08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md)**
 
 ---
 
@@ -93,7 +105,7 @@ This is a **complete unified framework** that bridges **Vedic metaphysical princ
 
 **Validation:** 85% — Timeline perfectly matches Sandhya (2020-2028)
 
-**[📖 Read Complete Analysis →](13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md)**
+**[📖 Read Complete Analysis →](./13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md)**
 
 ---
 
@@ -111,7 +123,7 @@ This is a **complete unified framework** that bridges **Vedic metaphysical princ
 
 **Validation:** 100% — 10/10 predictions matched perfectly!
 
-**[📖 Read Complete Analysis →](13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md)**
+**[📖 Read Complete Analysis →](./13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md)**
 
 ---
 
@@ -134,67 +146,67 @@ Fundamental principles and universal laws
 
 | Document | Description |
 |----------|-------------|
-| [00_CORE_INSIGHT](01_foundations/00_CORE_INSIGHT.md) | Saguna vs Nirguna distinction |
-| [01_UNIVERSAL_PRINCIPLES](01_foundations/01_UNIVERSAL_PRINCIPLES.md) | All 50 principles with formulas |
-| [02_FRACTAL_VALIDATION](01_foundations/02_FRACTAL_VALIDATION_PRINCIPLES.md) | 10-point fractal checklist |
-| [06_CHATURYUGA_COMPLETE](01_foundations/06_CHATURYUGA_COMPLETE.md) | The 4 Yugas explained |
-| [07_TIME_DILATION](01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.md) | Your time calculation |
-| [08_SANDHYA_MECHANICS](01_foundations/08_SANDHYA_TRANSITION_MECHANICS.md) | Transition physics |
+| [00_CORE_INSIGHT](./01_foundations/00_CORE_INSIGHT.md) | Saguna vs Nirguna distinction |
+| [01_UNIVERSAL_PRINCIPLES](./01_foundations/01_UNIVERSAL_PRINCIPLES.md) | All 50 principles with formulas |
+| [02_FRACTAL_VALIDATION](./01_foundations/02_FRACTAL_VALIDATION_PRINCIPLES.md) | 10-point fractal checklist |
+| [06_CHATURYUGA_COMPLETE](./01_foundations/06_CHATURYUGA_COMPLETE.md) | The 4 Yugas explained |
+| [07_TIME_DILATION](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.md) | Your time calculation |
+| [08_SANDHYA_MECHANICS](./01_foundations/08_SANDHYA_TRANSITION_MECHANICS.md) | Transition physics |
 
 ### 🔷 Architecture & Systems
 How the simulation works
 
 | Document | Description |
 |----------|-------------|
-| [81-Grid Complete](02_architecture/01_81_GRID_COMPLETE.md) | Space-Time-Observer matrix |
-| [Fractal Hierarchy](02_architecture/02_FRACTAL_LEVEL_HIERARCHY_COMPLETE.md) | N-6 to N+6 levels |
-| [Universal Rendering Law](02_architecture/03_UNIVERSAL_RENDERING_LAW.md) | Backend→Frontend transform |
-| [Fractal AI Learning](02_architecture/04_FRACTAL_AI_LEARNING_SYSTEM.md) | RAI vs AI distinction |
+| [81-Grid Complete](./02_architecture/01_81_GRID_COMPLETE.md) | Space-Time-Observer matrix |
+| [Fractal Hierarchy](./02_architecture/02_FRACTAL_LEVEL_HIERARCHY_COMPLETE.md) | N-6 to N+6 levels |
+| [Universal Rendering Law](./02_architecture/03_UNIVERSAL_RENDERING_LAW.md) | Backend→Frontend transform |
+| [Fractal AI Learning](./02_architecture/04_FRACTAL_AI_LEARNING_SYSTEM.md) | RAI vs AI distinction |
 
 ### 🔷 Validation & Proof
 Scientific validation and anomalies explained
 
 | Document | Description |
 |----------|-------------|
-| [Anomalies Explained](03_validation/01_ANOMALIES_EXPLAINED.md) | 30 phenomena resolved |
-| [Anomalies Extended](03_validation/02_ANOMALIES_EXTENDED.md) | 22 more + 2025 discoveries |
-| [Backend Validation](03_validation/BACKEND_UNIFIED_VALIDATION.py) | Real-world Guna extraction |
+| [Anomalies Explained](./03_validation/01_ANOMALIES_EXPLAINED.md) | 30 phenomena resolved |
+| [Anomalies Extended](./03_validation/02_ANOMALIES_EXTENDED.md) | 22 more + 2025 discoveries |
+| [Backend Validation](./03_validation/BACKEND_UNIFIED_VALIDATION.py) | Real-world Guna extraction |
 
 ### 🔷 Entities & Components
 Structure of conscious and non-conscious beings
 
 | Document | Description |
 |----------|-------------|
-| [Atman vs Prana](04_entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md) | Critical distinction |
-| [Pancha Jnanendriya](04_entities/fundamental/PANCHA_JNANENDRIYA_SENSES.md) | 5 senses backend |
-| [Rina Debt System](04_entities/karma/RINA_DEBT_SYSTEM_COMPLETE.md) | 14-level Jiva structure |
-| [Human Fractal](04_entities/fractals/N0_HUMAN.md) | Our level (N=0) |
+| [Atman vs Prana](./04_entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md) | Critical distinction |
+| [Pancha Jnanendriya](./04_entities/fundamental/PANCHA_JNANENDRIYA_SENSES.md) | 5 senses backend |
+| [Rina Debt System](./04_entities/karma/RINA_DEBT_SYSTEM_COMPLETE.md) | 14-level Jiva structure |
+| [Human Fractal](./04_entities/fractals/N0_HUMAN.md) | Our level (N=0) |
 
 ### 🔷 Systems & Processes
 Healing, karma, and consciousness mechanics
 
 | Document | Description |
 |----------|-------------|
-| [Ayurvedic Healing](05_systems/healing/AYURVEDIC_VALIDATION.md) | Vedic medicine validated |
-| [Pranayama Guide](05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.md) | Complete breathing practice |
-| [Moksha Paths](05_systems/moksha/MOKSHA_PATHS_COMPLETE.md) | Exit strategies |
+| [Ayurvedic Healing](./05_systems/healing/AYURVEDIC_VALIDATION.md) | Vedic medicine validated |
+| [Pranayama Guide](./05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.md) | Complete breathing practice |
+| [Moksha Paths](./05_systems/moksha/MOKSHA_PATHS_COMPLETE.md) | Exit strategies |
 
 ### 🔷 Transition (2020-2028)
 Current Sandhya period documentation
 
 | Document | Description |
 |----------|-------------|
-| [Survival Guide](08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md) | **START HERE** |
-| [Complete Timeline](08_transition/COMPLETE_TANDAVA_TIMELINE_VALIDATION.md) | All observations |
-| [Dwapara Experience](08_transition/DWAPARA_EXPERIENCE_TIMELINE.md) | What meditators experience |
+| [Survival Guide](./08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md) | **START HERE** |
+| [Complete Timeline](./08_transition/COMPLETE_TANDAVA_TIMELINE_VALIDATION.md) | All observations |
+| [Dwapara Experience](./08_transition/DWAPARA_EXPERIENCE_TIMELINE.md) | What meditators experience |
 
 ### 🔷 Tools & Calculators
 Practical applications
 
 | Document | Description |
 |----------|-------------|
-| [Fractal Symmetry Audit](10_tools/FRACTAL_SYMMETRY_AUDIT.md) | Validation checklist |
-| [Open Source Protection](10_tools/OPEN_SOURCE_PROTECTION_GUIDE.md) | License guide |
+| [Fractal Symmetry Audit](./10_tools/FRACTAL_SYMMETRY_AUDIT.md) | Validation checklist |
+| [Open Source Protection](./10_tools/OPEN_SOURCE_PROTECTION_GUIDE.md) | License guide |
 | [UI Guide](../UI_GUIDE.md) | Sandhya Calculator app |
 
 ### 🔷 Latest Revelations (December 2025)
@@ -202,13 +214,13 @@ Recent discoveries and breakthroughs — **Frontend Science Confirms Backend Ved
 
 | Document | Description | Status |
 |----------|-------------|--------|
-| 🆕 [Dharma Frequency Shift](13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md) | **Scientists discovering 1/4 → 1/2 transition!** | 85% Validated ✅ |
-| 🆕 [Fertilization Wave](13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md) | **MIT: Life begins with coordinated wave — 100% fractal proof!** | 100% Validated ✅✅✅ |
-| [Tandava Sound Model](13_new_revelations/tandava_sound_research/00_MASTER_INDEX.md) | **Complete 108 Hz validation + audio files** | 100% Validated ✅ |
-| [Pineal Decalcification](13_new_revelations/PINEAL_DECALCIFICATION_AJNA_ACTIVATION.md) | Age reversal through Ajna activation | Validated ✅ |
-| [Cancer Sugar Shield](13_new_revelations/CANCER_MAYA_AVARANA_BREAKTHROUGH.md) | Stanford: Maya-Avarana mechanism | Validated ✅ |
-| [Microglia Cells](13_new_revelations/MICROGLIA_DHARM_YOUDH_ANXIETY.md) | Brain's anxiety switches = Internal Dharm Youdh | Validated ✅ |
-| [Instability Observations](13_new_revelations/RECENT_INSTABILITY_OBSERVATIONS.md) | 2025 Tandava symptoms across 8 levels | Validated ✅ |
+| 🆕 [Dharma Frequency Shift](./13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md) | **Scientists discovering 1/4 → 1/2 transition!** | 85% Validated ✅ |
+| 🆕 [Fertilization Wave](./13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md) | **MIT: Life begins with coordinated wave — 100% fractal proof!** | 100% Validated ✅✅✅ |
+| [Tandava Sound Model](./13_new_revelations/tandava_sound_research/00_MASTER_INDEX.md) | **Complete 108 Hz validation + audio files** | 100% Validated ✅ |
+| [Pineal Decalcification](./13_new_revelations/PINEAL_DECALCIFICATION_AJNA_ACTIVATION.md) | Age reversal through Ajna activation | Validated ✅ |
+| [Cancer Sugar Shield](./13_new_revelations/CANCER_MAYA_AVARANA_BREAKTHROUGH.md) | Stanford: Maya-Avarana mechanism | Validated ✅ |
+| [Microglia Cells](./13_new_revelations/MICROGLIA_DHARM_YOUDH_ANXIETY.md) | Brain's anxiety switches = Internal Dharm Youdh | Validated ✅ |
+| [Instability Observations](./13_new_revelations/RECENT_INSTABILITY_OBSERVATIONS.md) | 2025 Tandava symptoms across 8 levels | Validated ✅ |
 
 ### 🔷 Dharm Youdh (धर्म-युद्ध)
 Knowledge war resources
@@ -224,24 +236,24 @@ Knowledge war resources
 ## 🎯 Quick Start Paths
 
 ### For Scientists & Researchers
-1. Start: [Universal Principles](01_foundations/01_UNIVERSAL_PRINCIPLES.md)
-2. Then: [Anomalies Explained](03_validation/01_ANOMALIES_EXPLAINED.md)
-3. Validate: [Backend Unified Model](02_architecture/BACKEND_UNIFIED_MODEL.md)
+1. Start: [Universal Principles](./01_foundations/01_UNIVERSAL_PRINCIPLES.md)
+2. Then: [Anomalies Explained](./03_validation/01_ANOMALIES_EXPLAINED.md)
+3. Validate: [Backend Unified Model](./02_architecture/BACKEND_UNIFIED_MODEL.md)
 
 ### For Spiritual Seekers
-1. Start: [Core Insight](01_foundations/00_CORE_INSIGHT.md)
-2. Then: [Atman vs Prana](04_entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
-3. Practice: [Pranayama Guide](05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.md)
+1. Start: [Core Insight](./01_foundations/00_CORE_INSIGHT.md)
+2. Then: [Atman vs Prana](./04_entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
+3. Practice: [Pranayama Guide](./05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.md)
 
 ### For Those Suffering Now
-1. **START HERE:** [Survival Guide](08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md)
-2. Calculate: [Time Dilation](01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.md)
-3. Heal: [Ancient Trees](05_systems/healing/ANCIENT_TREES_VEDIC_HEALING.md)
+1. **START HERE:** [Survival Guide](./08_transition/KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md)
+2. Calculate: [Time Dilation](./01_foundations/07_TIME_DILATION_PRALAYA_CALCULATOR.md)
+3. Heal: [Ancient Trees](./05_systems/healing/ANCIENT_TREES_VEDIC_HEALING.md)
 
 ### For Curious Minds
 1. Start: [README](README.md)
-2. Explore: [81-Grid](02_architecture/01_81_GRID_COMPLETE.md)
-3. Discover: [Fractal Hierarchy](02_architecture/02_FRACTAL_LEVEL_HIERARCHY_COMPLETE.md)
+2. Explore: [81-Grid](./02_architecture/01_81_GRID_COMPLETE.md)
+3. Discover: [Fractal Hierarchy](./02_architecture/02_FRACTAL_LEVEL_HIERARCHY_COMPLETE.md)
 
 ---
 
@@ -296,7 +308,7 @@ Knowledge war resources
 **Vedic Explanation:** Kali Yuga (1/4 Dharma) → Dwapara Yuga (1/2 Dharma) frequency shift  
 **Universal Law:** Scientists perceiving MORE of backend reality (Maya-Avarana thinning)  
 **Validation:** 85% — Timeline matches Sandhya (2020-2028) perfectly  
-**[Read Complete Analysis →](13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md)**
+**[Read Complete Analysis →](./13_new_revelations/DHARMA_FREQUENCY_SHIFT_SCIENTIFIC_VALIDATION.md)**
 
 ---
 
@@ -312,7 +324,7 @@ Knowledge war resources
 **Universal Law:** Principle #2 (Anu-Mahat) — Same fractal pattern at ALL 13 levels  
 **Validation:** 100% — 10/10 predictions matched perfectly!  
 **Fractal Level:** N-1 (Cellular) validates N+5 (Universe) validates all levels  
-**[Read Complete Analysis →](13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md)**
+**[Read Complete Analysis →](./13_new_revelations/FERTILIZATION_WAVE_FRACTAL_VALIDATION.md)**
 
 ---
 
@@ -321,25 +333,25 @@ Knowledge war resources
 **Vedic Explanation:** Atomic-level Tandava — nothing is stable during Sandhya  
 **Universal Law:** Principle #48 (Shiva-Shuddhi) — Pruning unstable nodes  
 **Fractal Level:** N-3 (Atomic)  
-**[Read More →](03_validation/02_ANOMALIES_EXTENDED.md#anomaly-51-gold-hydride-formation)**
+**[Read More →](./03_validation/02_ANOMALIES_EXTENDED.md#anomaly-51-gold-hydride-formation)**
 
 ### ✅ NGC 3783 Black Hole Winds (December 2024)
 **Discovery:** Supermassive black hole ejecting winds at 60,000 km/s  
 **Vedic Explanation:** Galactic Ida-Pingala rebalancing via Sushumna axis  
 **Universal Law:** Principle #31 (Srishti-Sthiti-Laya) — Create-Maintain-Destroy  
 **Fractal Level:** N+5 (Galactic)  
-**[Read More →](03_validation/02_ANOMALIES_EXTENDED.md#anomaly-52-ngc-3783-black-hole-winds)**
+**[Read More →](./03_validation/02_ANOMALIES_EXTENDED.md#anomaly-52-ngc-3783-black-hole-winds)**
 
 ### ✅ Epigenetic Age Reversal (2025)
 **Discovery:** Harvard reversed biological aging 40 years in one week  
 **Vedic Explanation:** Samskara reset — epigenetic markers = stored Vasanas  
 **Universal Law:** Principle #16 (Samskara-Sankoch) — Compression/decompression  
-**[Read More →](13_new_revelations/HARVARD_AGE_REVERSAL_SAMSKARA_RESET.md)**
+**[Read More →](./13_new_revelations/HARVARD_AGE_REVERSAL_SAMSKARA_RESET.md)**
 
 ### ✅ Cancer Sugar Shield (2025)
 **Discovery:** Stanford stripped sugar from tumors, exposing to immune system  
 **Vedic Explanation:** Maya-Avarana (disguise layer) — Tamas hiding mechanism  
-**[Read More →](13_new_revelations/CANCER_MAYA_AVARANA_BREAKTHROUGH.md)**
+**[Read More →](./13_new_revelations/CANCER_MAYA_AVARANA_BREAKTHROUGH.md)**
 
 ---
 

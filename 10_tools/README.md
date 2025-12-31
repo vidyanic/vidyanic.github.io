@@ -38,6 +38,7 @@ This folder contains AI-powered tools to **accelerate Vedic learning** by 30-300
 |------|---------|------------|--------|
 | **`individual_pralaya_calculator.py`** | **⏰ Calculate time remaining based on Gunas** | **95%** | ✅ Critical |
 | **`FRACTAL_SYMMETRY_AUDIT.md`** | **🔬 Complete fractal validation analysis** | **100%** | ✅ Research |
+| **`EARTH_YUGA_60_80_YEAR_DERIVATION.md`** | **📐 60/80 year cycle mathematical derivation** | **97%** | ✅ Research |
 | **`TIME_DILATION_VISUALIZATION_PROMPT.md`** | **🎨 9-personality time comparison images** | **90%** | ✅ Visual |
 | `vedic_sound_synthesis.py` | Generate Sanskrit audio | +30-50% | ✅ Valid |
 | `sound_3d_visualization.py` | 3D cymatic patterns | +30-80% | ✅ Valid |
