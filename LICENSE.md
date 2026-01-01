@@ -116,12 +116,12 @@ BibTeX format:
 ---
 
 ## Code License
-
-Software code in this repository (Java, Python, etc.) is additionally licensed under the **Apache License 2.0** for maximum compatibility with open-source projects.
-
-**Note:** While Apache 2.0 allows commercial use of code, the documentation and knowledge content remain under CC BY-NC 4.0 (non-commercial only).
-
-See `CODE_LICENSE.md` for code-specific licensing terms.
+ 
+Software code in this repository (if any) is ALSO licensed under **CC BY-NC 4.0**.
+ 
+**Strictly No Commercial Use:** You may NOT use any code, scripts, or algorithms from this repository in commercial software, products, or services.
+ 
+For commercial licensing exceptions, please contact the authors.
 
 ---
 

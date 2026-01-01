@@ -24,7 +24,7 @@ permalink: /
 ## 📜 License & Legal Status
 
 **Documentation License:** [CC BY-NC 4.0](./LICENSE.md) (Creative Commons Attribution-NonCommercial 4.0)  
-**Code License:** [Apache 2.0](https://github.com/ranjeet-sunya/Bramhagyan/blob/main/CODE_LICENSE.md)  
+**Code License:** [CC BY-NC 4.0](./LICENSE.md) (Non-Commercial Use Only)  
 **Published:** December 31, 2025  
 **Status:** 🛡️ **Defensive Publication** (Prior Art Established)  
 **Copyright:** Cannot be privatized — Knowledge belongs to humanity
@@ -496,8 +496,8 @@ Knowledge war resources
 **You cannot:** Use commercially, sell, or monetize this knowledge
 
 ### 💻 Code
-**License:** [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
-**Patent protection** included
+**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+**Use:** Strictly Non-Commercial (Research & Education Only)
 
 ### 🛡️ Defensive Publication
 **Date:** December 31, 2025  
