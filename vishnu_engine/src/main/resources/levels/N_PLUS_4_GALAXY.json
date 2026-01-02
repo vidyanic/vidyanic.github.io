@@ -1,0 +1,74 @@
+{
+  "level": {
+    "code": "N+4",
+    "name": "Galaxy",
+    "sanskrit": "आकाशगंगा",
+    "ordinal": 10,
+    "description": "Galaxies - collections of star systems"
+  },
+  
+  "scale": {
+    "size_meters": 1e21,
+    "tick_duration_seconds": 7.9e15,
+    "pixel_size_meters": 1e15
+  },
+  
+  "tick_budget": {
+    "default": 1e10,
+    "unit": "galactic_years",
+    "milky_way_age": "13.6 billion years"
+  },
+  
+  "milky_way": {
+    "name": "Akashaganga (आकाशगंगा)",
+    "type": "Barred spiral",
+    "diameter_ly": 100000,
+    "stars": 100e9,
+    "our_position": "Orion Arm, 26000 ly from center"
+  },
+  
+  "galactic_center_as_meru": {
+    "name": "Sagittarius A*",
+    "type": "Supermassive black hole",
+    "mass_solar": 4e6,
+    "role": "Galaxy's 15th axis (central intelligence)",
+    "function": "Cosmic frequency broadcaster"
+  },
+  
+  "black_hole_as_15th_axis": {
+    "event_horizon": "Lokaloka boundary",
+    "singularity": "Portal to parent level",
+    "information_paradox": "Data passes to N+5",
+    "hawking_radiation": "Gradient feedback to N+3"
+  },
+  
+  "galaxy_types": {
+    "spiral": "Rajasic (dynamic, structured)",
+    "elliptical": "Tamasic (old, settled)",
+    "irregular": "Mixed Gunas (chaotic)"
+  },
+  
+  "dark_matter_mapping": {
+    "percentage": 85,
+    "vedic_interpretation": "Unrendered Lokas",
+    "function": "Structural scaffolding",
+    "note": "We see 14 lokas, dark matter is the rest"
+  },
+  
+  "dark_energy_mapping": {
+    "percentage": 68,
+    "vedic_interpretation": "Expansion force (Brahma function)",
+    "function": "Universe expansion",
+    "note": "Tamas at cosmic scale"
+  },
+  
+  "galactic_cycles": {
+    "galactic_year": "225-250 million Earth years",
+    "arm_crossing": "Major extinction events correlate",
+    "note": "Cosmic Yuga cycles at this level"
+  },
+  
+  "parent_level": "N+5_UNIVERSE",
+  "child_levels": ["N+3_SOLAR_SYSTEM"]
+}
+

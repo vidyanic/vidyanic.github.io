@@ -1,0 +1,59 @@
+{
+  "level": {
+    "code": "N+1",
+    "name": "Ecosystem",
+    "sanskrit": "पारिस्थितिकी",
+    "ordinal": 7,
+    "description": "Ecosystems - communities of organisms"
+  },
+  
+  "scale": {
+    "size_meters": 1e4,
+    "tick_duration_seconds": 3600,
+    "pixel_size_meters": 1
+  },
+  
+  "tick_budget": {
+    "default": 1e9,
+    "unit": "hours",
+    "note": "Ecosystems can persist for millions of years"
+  },
+  
+  "ecosystem_types": {
+    "terrestrial": ["forest", "grassland", "desert", "tundra"],
+    "aquatic": ["freshwater", "marine", "wetland"],
+    "transitional": ["estuary", "mangrove", "riparian"]
+  },
+  
+  "trophic_levels_as_lokas": {
+    "producers": "Bhuloka foundation (plants, algae)",
+    "primary_consumers": "Bhuvar loka (herbivores)",
+    "secondary_consumers": "Svarga influence (predators)",
+    "tertiary_consumers": "Higher loka influence (apex predators)",
+    "decomposers": "Patala connection (fungi, bacteria)"
+  },
+  
+  "symbiosis_types": {
+    "mutualism": "Sattva relationship (+/+)",
+    "commensalism": "Neutral relationship (+/0)",
+    "parasitism": "Tamas relationship (+/-)",
+    "predation": "Rajas relationship (+/-)"
+  },
+  
+  "collective_consciousness": {
+    "hive_mind": "Insects, some fish schools",
+    "flock_behavior": "Birds, mammals",
+    "forest_network": "Mycorrhizal connections",
+    "note": "Indrajal manifesting at ecosystem scale"
+  },
+  
+  "gaia_hypothesis": {
+    "earth_as_organism": true,
+    "self_regulation": true,
+    "homeostasis": "Like a macro-Jiva"
+  },
+  
+  "parent_level": "N+2_PLANET",
+  "child_levels": ["N_HUMAN"]
+}
+

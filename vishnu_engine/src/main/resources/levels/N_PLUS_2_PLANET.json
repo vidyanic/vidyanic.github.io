@@ -1,0 +1,68 @@
+{
+  "level": {
+    "code": "N+2",
+    "name": "Planet",
+    "sanskrit": "ग्रह",
+    "ordinal": 8,
+    "description": "Planets - celestial bodies with ecosystems"
+  },
+  
+  "scale": {
+    "size_meters": 1.27e7,
+    "tick_duration_seconds": 86400,
+    "pixel_size_meters": 1e3
+  },
+  
+  "tick_budget": {
+    "default": 1.7e12,
+    "unit": "days",
+    "earth_age": "4.5 billion years"
+  },
+  
+  "earth_specifics": {
+    "name": "Prithvi (पृथ्वी)",
+    "aka": "Bhuloka, Bharatavarsha",
+    "radius_km": 6371,
+    "mass_kg": 5.97e24,
+    "day_length_hours": 24,
+    "year_length_days": 365.25
+  },
+  
+  "earth_layers_as_lokas": {
+    "core": "Inner fire (Agni Tattva)",
+    "mantle": "Transformative layer",
+    "crust": "Manifest surface (Prithvi Tattva)",
+    "hydrosphere": "Water layer (Jala Tattva)",
+    "atmosphere": "Air layer (Vayu Tattva)",
+    "magnetosphere": "Protective shield (Akasha interface)"
+  },
+  
+  "seven_dvipas": {
+    "note": "Ancient continental model",
+    "dvipas": ["Jambu", "Plaksha", "Salmali", "Kusha", "Krauncha", "Shaka", "Pushkara"],
+    "modern_mapping": "Tectonic plates and continental drift"
+  },
+  
+  "bharatavarsha_significance": {
+    "karma_zone": "Only place where new Karma can be created",
+    "moksha_available": true,
+    "dharma_variable": "Subject to Yuga changes",
+    "special_status": "The write-enabled zone of this Brahmanda"
+  },
+  
+  "navagraha_influence": {
+    "surya": "Consciousness, Atman",
+    "chandra": "Mind, emotions",
+    "mangala": "Action, courage",
+    "budha": "Intellect, communication",
+    "guru": "Wisdom, expansion",
+    "shukra": "Love, creativity",
+    "shani": "Karma, discipline",
+    "rahu": "Illusion, desires",
+    "ketu": "Liberation, spirituality"
+  },
+  
+  "parent_level": "N+3_SOLAR_SYSTEM",
+  "child_levels": ["N+1_ECOSYSTEM"]
+}
+

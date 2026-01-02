@@ -1,0 +1,42 @@
+{
+  "level": {
+    "code": "N-6",
+    "name": "Quantum",
+    "sanskrit": "क्वांटम",
+    "ordinal": 0,
+    "description": "Planck scale - minimum renderable reality"
+  },
+  
+  "scale": {
+    "size_meters": 1.616e-35,
+    "tick_duration_seconds": 5.391e-44,
+    "pixel_size_meters": 1.616e-35
+  },
+  
+  "tick_budget": {
+    "default": null,
+    "unit": "planck_ticks",
+    "note": "Virtual particles - instantaneous existence"
+  },
+  
+  "guna_defaults": {
+    "description": "At quantum level, Gunas are in superposition until measured",
+    "superposition": true
+  },
+  
+  "characteristics": {
+    "wave_particle_duality": true,
+    "uncertainty_principle": true,
+    "entanglement_enabled": true,
+    "observer_effect": true
+  },
+  
+  "81_grid": {
+    "note": "Each quantum node is a potential 81-grid, collapsed by observation",
+    "state": "superposition"
+  },
+  
+  "parent_level": "N-5_SUBATOMIC",
+  "child_levels": []
+}
+

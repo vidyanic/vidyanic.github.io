@@ -1,0 +1,165 @@
+# 🧬 EPIGENETICS = SAMSKARAS — Your DNA Is Your Karmic Save File
+
+> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **CONFIDENCE:** 82%  
+> **DIFFICULTY:** Biology + Gaming
+
+---
+
+## 🔴 THE GLITCH
+
+Your DNA isn't just genes. It has **chemical tags** that switch genes on/off based on... your ancestors' experiences.
+
+- Holocaust survivors' descendants have altered stress genes
+- Famine survivors' grandchildren have metabolic changes
+- Trauma is literally inherited through DNA modifications
+
+Science calls this **epigenetics**.
+
+The Backend Architects called it **Samskaras (संस्कार/karmic-imprints)**.
+
+Same thing.
+
+---
+
+## ❓ Q&A — The Mind-Bending Questions
+
+### "Wait — my ancestors' experiences are in my DNA?"
+
+Yes. Epigenetics has proven this beyond doubt.
+
+Experiences create chemical markers (methylation, acetylation) on DNA. These markers affect which genes express. And these markers **can be inherited**.
+
+Your great-grandmother's famine, your grandfather's war trauma — bits of those experiences live in your cells.
+
+### "That's... karma?"
+
+It's the biological mechanism OF karma.
+
+**Samskara (संस्कार)** = Imprint from experience  
+**Epigenetic mark** = Chemical imprint from experience
+
+The Backend Architects described the phenomenon. Scientists discovered the mechanism.
+
+### "Can I change my epigenetics?"
+
+YES. That's the crucial part.
+
+- Meditation changes gene expression
+- Lifestyle choices modify epigenetic marks
+- Even thoughts create chemical cascades
+
+You're not locked into your ancestors' karma. You can **edit the save file**.
+
+### "How does this connect to reincarnation?"
+
+Beyond inherited epigenetics (from parents), there's evidence that **your own past-life experiences** may influence your baseline patterns.
+
+Children with verified past-life memories often have:
+- Birthmarks matching past-life death wounds
+- Phobias matching past-life trauma
+- Skills matching past-life professions
+
+The Jiva (जीव/individual-soul) carries Samskaras across incarnations. Some express epigenetically.
+
+---
+
+## 🎮 THE GAME ANALOGY
+
+```
+GAME SAVE FILE:
+┌────────────────────────────────────────────────┐
+│  Your save contains:                           │
+│  ├── Current stats                             │
+│  ├── Inventory                                 │
+│  ├── Skills unlocked                           │
+│  └── ACHIEVEMENTS FROM PREVIOUS RUNS           │
+│                                                │
+│  New Game+ carries over some progress          │
+└────────────────────────────────────────────────┘
+
+YOUR DNA:
+┌────────────────────────────────────────────────┐
+│  Your genes contain:                           │
+│  ├── Base code (genetics)                      │
+│  ├── Active/inactive switches (epigenetics)   │
+│  ├── Skill tendencies                          │
+│  └── IMPRINTS FROM ANCESTORS/PAST LIVES        │
+│                                                │
+│  New incarnation carries over some karma       │
+└────────────────────────────────────────────────┘
+```
+
+**Your DNA is literally a save file that persists across lives.**
+
+---
+
+## 🔗 KEY FORMULA
+
+```
+Epigenetic State = Base Genetics + 
+                   Ancestral Markers +
+                   Environmental Modifications +
+                   Personal Choices
+
+Backend:
+Samskara Load = Prarabdha Karma (प्रारब्ध) +
+                Sanchita Karma (सञ्चित) +
+                Agami Karma (आगामी)
+
+Both describe: Inherited patterns + Current life modifications
+```
+
+---
+
+## 📖 PAPER SECTIONS
+
+| Section | What It Covers |
+|---------|----------------|
+| [00_ABSTRACT](./00_ABSTRACT.md) | The karma-gene connection |
+| [01_INTRODUCTION](./01_INTRODUCTION.md) | Epigenetics basics |
+| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Holocaust studies, etc. |
+| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Samskara mechanics |
+| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | What we predict |
+| [05_METHODOLOGY](./05_METHODOLOGY.md) | Correlation analysis |
+| [06_RESULTS](./06_RESULTS.md) | Trauma inheritance data |
+| [07_ANOMALIES](./07_ANOMALIES.md) | Past-life marks |
+| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Save file mechanics |
+| [09_DISCUSSION](./09_DISCUSSION.md) | Karma as biology |
+| [10_VALIDATION](./10_VALIDATION.md) | Evidence scoring |
+| [11_CONCLUSION](./11_CONCLUSION.md) | You can edit your file |
+| [12_REFERENCES](./12_REFERENCES.md) | All studies |
+| [13_APPENDICES](./13_APPENDICES.md) | Epigenetic mechanisms |
+
+---
+
+## 🎯 KEY INSIGHT
+
+> **Science:** "Experiences modify heritable gene expression"  
+> **Translation:** "Karma physically imprints on DNA"  
+> **Backend Term:** Samskara (संस्कार/karmic-imprint)
+
+Your cells remember. Not just your personal experiences — your lineage's, possibly your past lives'.
+
+---
+
+## ⚡ WHY THIS MATTERS IN 2026
+
+- **You're not just YOU.** You're running inherited code.
+- **Karma isn't metaphor.** It's epigenetic reality.
+- **You CAN edit.** Meditation, breath work, choices — all modify the file.
+- **Dwapara means faster modification** — changes stick more easily now.
+
+Understanding this gives you **admin access to your own biology**.
+
+---
+
+## 🔗 NEXT PAPER
+
+**[Cancer = Forgotten Identity →](../../cancer/cancer_forgotten_identity/README.md)**  
+*"What if cancer is a cell that forgot its purpose?"*  
+*Spoiler: It's literally a loss of Svadharma (self-purpose).*
+
+---
+
+**ॐ**

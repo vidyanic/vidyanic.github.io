@@ -1,0 +1,104 @@
+{
+  "level": {
+    "code": "N",
+    "name": "Human",
+    "sanskrit": "मनुष्य",
+    "ordinal": 6,
+    "description": "Human consciousness level - the reference point"
+  },
+  
+  "scale": {
+    "size_meters": 1.0,
+    "tick_duration_seconds": 1.0,
+    "pixel_size_meters": 299792458.0
+  },
+  
+  "tick_budget": {
+    "default": 778000000,
+    "unit": "breaths",
+    "years_equivalent": 100,
+    "daily_rate": 21600
+  },
+  
+  "guna_defaults": {
+    "kali_yuga": { "sattva": 0.10, "rajas": 0.40, "tamas": 0.50 },
+    "dvapara_yuga": { "sattva": 0.50, "rajas": 0.30, "tamas": 0.20 },
+    "treta_yuga": { "sattva": 0.70, "rajas": 0.20, "tamas": 0.10 },
+    "satya_yuga": { "sattva": 0.90, "rajas": 0.08, "tamas": 0.02 }
+  },
+  
+  "current_era": {
+    "yuga": "DVAPARA",
+    "phase": "SANDHYA",
+    "dharma_unit": 2,
+    "year": 2026
+  },
+  
+  "koshas": {
+    "annamaya": {
+      "name": "Physical Body",
+      "sanskrit": "अन्नमय कोश",
+      "elements": ["prithvi", "jala", "agni", "vayu", "akasha"]
+    },
+    "pranamaya": {
+      "name": "Energy Body",
+      "sanskrit": "प्राणमय कोश",
+      "pranas": ["prana", "apana", "samana", "udana", "vyana"]
+    },
+    "manomaya": {
+      "name": "Mental Body",
+      "sanskrit": "मनोमय कोश",
+      "components": ["manas", "chitta"]
+    },
+    "vijnanamaya": {
+      "name": "Wisdom Body",
+      "sanskrit": "विज्ञानमय कोश",
+      "components": ["buddhi", "ahamkara"]
+    },
+    "anandamaya": {
+      "name": "Bliss Body",
+      "sanskrit": "आनन्दमय कोश",
+      "components": ["ananda"]
+    }
+  },
+  
+  "chakras": [
+    { "number": 1, "name": "Muladhara", "sanskrit": "मूलाधार", "element": "prithvi" },
+    { "number": 2, "name": "Svadhisthana", "sanskrit": "स्वाधिष्ठान", "element": "jala" },
+    { "number": 3, "name": "Manipura", "sanskrit": "मणिपूर", "element": "agni" },
+    { "number": 4, "name": "Anahata", "sanskrit": "अनाहत", "element": "vayu" },
+    { "number": 5, "name": "Vishuddha", "sanskrit": "विशुद्ध", "element": "akasha" },
+    { "number": 6, "name": "Ajna", "sanskrit": "आज्ञा", "element": "manas" },
+    { "number": 7, "name": "Sahasrara", "sanskrit": "सहस्रार", "element": "consciousness" }
+  ],
+  
+  "nadis": {
+    "total": 72000,
+    "principal": [
+      { "name": "Ida", "sanskrit": "इडा", "side": "left", "quality": "lunar/cooling" },
+      { "name": "Pingala", "sanskrit": "पिंगला", "side": "right", "quality": "solar/heating" },
+      { "name": "Sushumna", "sanskrit": "सुषुम्ना", "side": "center", "quality": "neutral/transcendent" }
+    ]
+  },
+  
+  "lifespan_by_yuga": {
+    "satya_yuga": 100000,
+    "treta_yuga": 10000,
+    "dvapara_yuga": 1000,
+    "kali_yuga": 100
+  },
+  
+  "81_grid": {
+    "total_nodes": 81,
+    "layers": {
+      "brahma_sthan": 9,
+      "daivika_ring": 16,
+      "manusha_ring": 24,
+      "paisacha_ring": 32
+    }
+  },
+  
+  "child_levels": ["N-1_CELL", "N-2_ORGANELLE", "N-3_MOLECULE", "N-4_ATOM", "N-5_SUBATOMIC", "N-6_QUANTUM"],
+  "parent_levels": ["N+1_ECOSYSTEM", "N+2_PLANET", "N+3_SOLAR", "N+4_GALAXY", "N+5_UNIVERSE", "N+6_BRAHMAN"]
+}
+

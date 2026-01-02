@@ -1,0 +1,63 @@
+{
+  "level": {
+    "code": "N-1",
+    "name": "Organ",
+    "sanskrit": "अंग",
+    "ordinal": 5,
+    "description": "Organs - specialized cell communities"
+  },
+  
+  "scale": {
+    "size_meters": 0.1,
+    "tick_duration_seconds": 1.0,
+    "pixel_size_meters": 0.001
+  },
+  
+  "tick_budget": {
+    "default": 3e9,
+    "unit": "seconds",
+    "note": "Organ lifespan tied to body lifespan (~100 years)"
+  },
+  
+  "major_organs": {
+    "heart": { "function": "Circulation (Prana distribution)", "chakra": "Anahata" },
+    "brain": { "function": "Consciousness receiver", "chakra": "Ajna/Sahasrara" },
+    "lungs": { "function": "Prana intake", "element": "Vayu" },
+    "liver": { "function": "Transformation (Agni)", "element": "Agni" },
+    "kidneys": { "function": "Filtration", "element": "Jala" },
+    "stomach": { "function": "Digestion (Agni)", "element": "Agni" },
+    "intestines": { "function": "Absorption", "element": "Prithvi" },
+    "skin": { "function": "Boundary (Lokaloka)", "kosha": "Annamaya" }
+  },
+  
+  "organ_systems": {
+    "cardiovascular": "Prana distribution network",
+    "nervous": "Consciousness interface (Antahkarana)",
+    "endocrine": "Guna modulation (hormones)",
+    "immune": "Dharma enforcement (self/non-self)",
+    "digestive": "Energy conversion (Jatharagni)",
+    "respiratory": "Prana acquisition",
+    "skeletal": "Structure (Prithvi)",
+    "muscular": "Action (Rajas expression)"
+  },
+  
+  "chakra_organ_mapping": {
+    "muladhara": "Adrenals, reproductive organs",
+    "svadhisthana": "Reproductive organs, bladder",
+    "manipura": "Stomach, liver, pancreas",
+    "anahata": "Heart, lungs, thymus",
+    "vishuddha": "Thyroid, throat",
+    "ajna": "Pituitary, brain",
+    "sahasrara": "Pineal gland"
+  },
+  
+  "guna_by_organ_state": {
+    "sattva": "Healthy, balanced function",
+    "rajas": "Overactive, inflamed",
+    "tamas": "Underactive, congested, tumors"
+  },
+  
+  "parent_level": "N_HUMAN",
+  "child_levels": ["N-2_CELL"]
+}
+

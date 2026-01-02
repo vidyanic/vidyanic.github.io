@@ -1,0 +1,93 @@
+{
+  "level": {
+    "code": "N+6",
+    "name": "Brahman",
+    "sanskrit": "ब्रह्मन्",
+    "ordinal": 12,
+    "description": "Brahman - The Ultimate Reality beyond all levels"
+  },
+  
+  "scale": {
+    "size_meters": "INFINITE",
+    "tick_duration_seconds": "TIMELESS",
+    "pixel_size_meters": "N/A"
+  },
+  
+  "tick_budget": {
+    "default": null,
+    "unit": null,
+    "note": "Beyond time - Kala (time) is created BY Brahman"
+  },
+  
+  "brahman_nature": {
+    "sat": "Pure Existence (सत्)",
+    "chit": "Pure Consciousness (चित्)",
+    "ananda": "Pure Bliss (आनन्द)",
+    "combined": "Satchitananda (सच्चिदानन्द)"
+  },
+  
+  "aspects": {
+    "nirguna": {
+      "name": "Nirguna Brahman (निर्गुण ब्रह्मन्)",
+      "description": "Without qualities - the Absolute",
+      "accessible_via": "Jnana Yoga, Nirvikalpa Samadhi",
+      "note": "The substrate - cannot be described"
+    },
+    "saguna": {
+      "name": "Saguna Brahman (सगुण ब्रह्मन्)",
+      "description": "With qualities - Ishvara, the Lord",
+      "accessible_via": "Bhakti Yoga, meditation on form",
+      "manifests_as": "Brahma, Vishnu, Shiva and all deities"
+    }
+  },
+  
+  "mahavishnu": {
+    "role": "Hypervisor of all Brahmandas",
+    "function": "Emanates infinite universes",
+    "kshirodakshayi_vishnu": "The Vishnu within each Brahmanda",
+    "garbhodakshayi_vishnu": "The Vishnu within each galaxy"
+  },
+  
+  "shruti_pramana": [
+    {
+      "sanskrit": "पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते",
+      "transliteration": "Purnam adah purnam idam purnat purnam udachyate",
+      "meaning": "That (Brahman) is infinite, this (manifest) is infinite, from infinite, infinite emerges",
+      "source": "Isha Upanishad, Shanti Mantra"
+    },
+    {
+      "sanskrit": "सर्वं खल्विदं ब्रह्म",
+      "transliteration": "Sarvam khalvidam brahma",
+      "meaning": "All this is indeed Brahman",
+      "source": "Chandogya Upanishad 3.14.1"
+    },
+    {
+      "sanskrit": "अहं ब्रह्मास्मि",
+      "transliteration": "Aham brahmasmi",
+      "meaning": "I am Brahman",
+      "source": "Brihadaranyaka Upanishad 1.4.10"
+    },
+    {
+      "sanskrit": "तत् त्वम् असि",
+      "transliteration": "Tat tvam asi",
+      "meaning": "You are That",
+      "source": "Chandogya Upanishad 6.8.7"
+    }
+  ],
+  
+  "moksha_destination": {
+    "jnana_moksha": "Merging into Nirguna Brahman",
+    "bhakti_moksha": "Eternal service in Vaikuntha (Saguna)",
+    "note": "Both are valid paths to liberation"
+  },
+  
+  "recursive_infinity": {
+    "above": "∞ levels above Brahman (Brahman is a Jiva in higher Lila)",
+    "below": "∞ levels below Quantum",
+    "note": "No top, no bottom - infinite recursion both ways"
+  },
+  
+  "parent_level": null,
+  "child_levels": ["N+5_UNIVERSE"]
+}
+

@@ -1,0 +1,60 @@
+{
+  "level": {
+    "code": "N-2",
+    "name": "Cell",
+    "sanskrit": "कोश",
+    "ordinal": 4,
+    "description": "Cells - fundamental units of life"
+  },
+  
+  "scale": {
+    "size_meters": 1e-5,
+    "tick_duration_seconds": 1e-3,
+    "pixel_size_meters": 1e-5
+  },
+  
+  "tick_budget": {
+    "default": 1e9,
+    "unit": "milliseconds",
+    "hayflick_limit": 50,
+    "note": "Most cells divide ~50 times before senescence"
+  },
+  
+  "cell_types": {
+    "prokaryotic": { "nucleus": false, "examples": ["bacteria", "archaea"] },
+    "eukaryotic": { "nucleus": true, "examples": ["animal", "plant", "fungi", "protist"] }
+  },
+  
+  "organelles_as_81_grid": {
+    "nucleus": "15th axis (Meru-Danda) - control center",
+    "mitochondria": "Power generators (Agni)",
+    "endoplasmic_reticulum": "Manufacturing (Rajas)",
+    "golgi_apparatus": "Packaging and distribution",
+    "lysosomes": "Shiva function (recycling)",
+    "cytoplasm": "Akasha (space for processes)",
+    "membrane": "Lokaloka (boundary/firewall)"
+  },
+  
+  "cell_as_jiva": {
+    "consciousness": "Present but limited",
+    "karma_processing": "DNA repair, epigenetic changes",
+    "death_types": ["apoptosis", "necrosis", "autophagy"],
+    "note": "Each cell is a micro-Brahmanda"
+  },
+  
+  "epigenetics_as_samskara": {
+    "methylation": "Tamas markers (silencing)",
+    "acetylation": "Sattva markers (activation)",
+    "inheritance": "Samskaras pass to daughter cells"
+  },
+  
+  "cancer_as_forgotten_identity": {
+    "cause": "Cell forgets its Svadharma",
+    "reversion": "Returns to stem-like state",
+    "tamas_manifestation": "Uncontrolled growth = pure Rajas without Dharma"
+  },
+  
+  "parent_level": "N-1_ORGAN",
+  "child_levels": ["N-3_MOLECULE"]
+}
+

@@ -1,0 +1,56 @@
+{
+  "level": {
+    "code": "N-4",
+    "name": "Atom",
+    "sanskrit": "परमाणु",
+    "ordinal": 2,
+    "description": "Atoms - the building blocks of matter"
+  },
+  
+  "scale": {
+    "size_meters": 1e-10,
+    "tick_duration_seconds": 1e-15,
+    "pixel_size_meters": 1e-10
+  },
+  
+  "tick_budget": {
+    "default": 1e30,
+    "unit": "femtoseconds",
+    "note": "Most atoms are stable for billions of years"
+  },
+  
+  "electron_shells": {
+    "K": 1,
+    "L": 2,
+    "M": 3,
+    "N": 4,
+    "O": 5,
+    "P": 6,
+    "Q": 7
+  },
+  
+  "pancha_mahabhuta_mapping": {
+    "prithvi_elements": "Solid state atoms (metals, minerals)",
+    "jala_elements": "Hydrogen, Oxygen (water-forming)",
+    "agni_elements": "Reactive metals, combustion catalysts",
+    "vayu_elements": "Gaseous elements (O2, N2, noble gases)",
+    "akasha_elements": "Inert, space-filling noble gases"
+  },
+  
+  "guna_mapping": {
+    "sattva": "Noble gases (inert, balanced)",
+    "rajas": "Alkali metals (highly reactive)",
+    "tamas": "Heavy elements (high atomic mass)"
+  },
+  
+  "81_grid": {
+    "note": "Periodic table maps to 81 positions",
+    "natural_elements": 92,
+    "synthetic_elements": 26,
+    "stable_grid": 81
+  },
+  
+  "parent_level": "N-3_MOLECULE",
+  "child_levels": ["N-5_SUBATOMIC"]
+}
+

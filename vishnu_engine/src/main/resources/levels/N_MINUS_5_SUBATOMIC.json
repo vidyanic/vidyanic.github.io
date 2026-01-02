@@ -1,0 +1,46 @@
+{
+  "level": {
+    "code": "N-5",
+    "name": "Subatomic",
+    "sanskrit": "उप-परमाणु",
+    "ordinal": 1,
+    "description": "Quarks, leptons, and fundamental forces"
+  },
+  
+  "scale": {
+    "size_meters": 1e-18,
+    "tick_duration_seconds": 1e-24,
+    "pixel_size_meters": 1e-18
+  },
+  
+  "tick_budget": {
+    "default": 1e24,
+    "unit": "attoseconds",
+    "note": "Particle lifetimes vary from virtual to stable"
+  },
+  
+  "particles": {
+    "quarks": ["up", "down", "strange", "charm", "bottom", "top"],
+    "leptons": ["electron", "muon", "tau", "electron_neutrino", "muon_neutrino", "tau_neutrino"],
+    "bosons": ["photon", "W", "Z", "gluon", "higgs"]
+  },
+  
+  "forces": {
+    "strong": { "carrier": "gluon", "range": 1e-15 },
+    "weak": { "carrier": ["W", "Z"], "range": 1e-18 },
+    "electromagnetic": { "carrier": "photon", "range": "infinite" },
+    "gravity": { "carrier": "graviton", "range": "infinite" }
+  },
+  
+  "81_grid": {
+    "note": "Standard model as 81-grid mapping",
+    "quarks": 6,
+    "leptons": 6,
+    "bosons": 5,
+    "antiparticles": 12
+  },
+  
+  "parent_level": "N-4_ATOM",
+  "child_levels": ["N-6_QUANTUM"]
+}
+

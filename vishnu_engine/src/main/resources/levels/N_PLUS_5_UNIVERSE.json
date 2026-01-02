@@ -1,0 +1,77 @@
+{
+  "level": {
+    "code": "N+5",
+    "name": "Universe",
+    "sanskrit": "ब्रह्माण्ड",
+    "ordinal": 11,
+    "description": "Universe - our entire observable cosmos"
+  },
+  
+  "scale": {
+    "size_meters": 8.8e26,
+    "tick_duration_seconds": 1.36e17,
+    "pixel_size_meters": 1e21
+  },
+  
+  "tick_budget": {
+    "default": 311e12,
+    "unit": "years",
+    "current_age": "13.8 billion years",
+    "brahma_day": "4.32 billion years (half Kalpa)"
+  },
+  
+  "brahmanda": {
+    "name": "Brahmanda (ब्रह्माण्ड)",
+    "meaning": "Brahma's Egg",
+    "type": "Expanding spacetime bubble",
+    "observable_radius_ly": 46e9,
+    "expansion_rate": "73 km/s/Mpc (Hubble constant)"
+  },
+  
+  "cosmic_trinity": {
+    "brahma": {
+      "function": "Creation",
+      "cosmic_event": "Big Bang",
+      "ongoing": "Galaxy formation, star birth"
+    },
+    "vishnu": {
+      "function": "Maintenance", 
+      "cosmic_event": "Cosmic constants, laws of physics",
+      "ongoing": "Gravitational stability, dark matter scaffolding"
+    },
+    "shiva": {
+      "function": "Destruction",
+      "cosmic_event": "Heat death (future)",
+      "ongoing": "Star death, black hole evaporation"
+    }
+  },
+  
+  "kalpa_cycles": {
+    "brahma_day": "4.32 billion years",
+    "brahma_night": "4.32 billion years (Pralaya)",
+    "brahma_year": "360 brahma days",
+    "brahma_lifespan": "100 brahma years"
+  },
+  
+  "chaturdasha_loka": {
+    "urdhva_lokas": ["Bhuloka", "Bhuvarloka", "Svarloka", "Maharloka", "Janaloka", "Tapoloka", "Satyaloka"],
+    "adho_lokas": ["Atala", "Vitala", "Sutala", "Talatala", "Mahatala", "Rasatala", "Patala"],
+    "note": "14 frequency bands of reality"
+  },
+  
+  "multiverse_hint": {
+    "bubble_universes": true,
+    "eternal_inflation": true,
+    "note": "Our Brahmanda is one of many in Mahavishnu's emanation"
+  },
+  
+  "cosmic_microwave_background": {
+    "temperature": "2.725 K",
+    "age_when_emitted": "380,000 years",
+    "vedic_interpretation": "Echo of primordial OM (Nada Brahma)"
+  },
+  
+  "parent_level": "N+6_BRAHMAN",
+  "child_levels": ["N+4_GALAXY"]
+}
+

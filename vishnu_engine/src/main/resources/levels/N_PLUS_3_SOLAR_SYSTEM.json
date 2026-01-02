@@ -1,0 +1,65 @@
+{
+  "level": {
+    "code": "N+3",
+    "name": "Solar System",
+    "sanskrit": "सौर मण्डल",
+    "ordinal": 9,
+    "description": "Solar system - star with orbiting bodies"
+  },
+  
+  "scale": {
+    "size_meters": 1.5e11,
+    "tick_duration_seconds": 3.156e7,
+    "pixel_size_meters": 1e9
+  },
+  
+  "tick_budget": {
+    "default": 5e9,
+    "unit": "years",
+    "sun_age": "4.6 billion years",
+    "sun_remaining": "5 billion years"
+  },
+  
+  "sun_as_meru": {
+    "name": "Surya (सूर्य)",
+    "role": "Central axis (Meru-Danda) of solar system",
+    "mass_kg": 1.989e30,
+    "radius_km": 696340,
+    "function": "Energy source, consciousness broadcast center"
+  },
+  
+  "navagraha_orbital": {
+    "surya": { "type": "star", "orbital_period_days": 0 },
+    "budha": { "type": "planet", "orbital_period_days": 88 },
+    "shukra": { "type": "planet", "orbital_period_days": 225 },
+    "prithvi": { "type": "planet", "orbital_period_days": 365 },
+    "mangala": { "type": "planet", "orbital_period_days": 687 },
+    "guru": { "type": "planet", "orbital_period_days": 4333 },
+    "shani": { "type": "planet", "orbital_period_days": 10759 },
+    "rahu_ketu": { "type": "lunar_nodes", "note": "Not physical bodies" }
+  },
+  
+  "outer_planets": {
+    "uranus": { "orbital_period_years": 84 },
+    "neptune": { "orbital_period_years": 165 },
+    "note": "Not in traditional Navagraha but part of system"
+  },
+  
+  "zones": {
+    "inner": "Rocky planets (Prithvi Tattva dominant)",
+    "asteroid_belt": "Boundary between inner and outer",
+    "outer": "Gas giants (Vayu/Akasha dominant)",
+    "kuiper_belt": "Outer boundary",
+    "oort_cloud": "Solar system's Lokaloka"
+  },
+  
+  "solar_cycles": {
+    "sunspot_cycle": 11,
+    "magnetic_polarity_cycle": 22,
+    "galactic_year": 225e6
+  },
+  
+  "parent_level": "N+4_GALAXY",
+  "child_levels": ["N+2_PLANET"]
+}
+
