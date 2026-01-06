@@ -1,12 +1,12 @@
 # 📡 BRAIN AS RECEIVER — Your VR Headset Has Bandwidth Limits
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Paradigm-shifting
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Neuroscience can't find consciousness in the brain.
 
@@ -27,7 +27,7 @@ It **receives, filters, and translates** consciousness into physical experience.
 Think of your brain as a VR headset:
 - The headset doesn't CREATE the game — it DISPLAYS it
 - The headset doesn't CREATE you — it CONNECTS you to the game
-- Damage the headset → distorted experience, but YOU still exist
+- Damage the headset -> distorted experience, but YOU still exist
 
 ### "But brain damage changes personality!"
 
@@ -55,38 +55,38 @@ This is why anesthesia is still mysterious — we know it works, but not WHY it 
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 VR HEADSET:
-┌────────────────────────────────────────────────┐
-│  PLAYER (consciousness)                        │
-│      ↓                                         │
-│  HEADSET (brain) receives signal               │
-│      ↓                                         │
-│  SCREEN (perception) displays game             │
-│      ↓                                         │
-│  AVATAR (body) is controlled                   │
-│                                                │
-│  Headset broken → distorted view               │
-│  Headset off → player exits to real world      │
-│  Player ≠ headset                              │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  PLAYER (consciousness)                        |
+|      v                                         |
+|  HEADSET (brain) receives signal               |
+|      v                                         |
+|  SCREEN (perception) displays game             |
+|      v                                         |
+|  AVATAR (body) is controlled                   |
+|                                                |
+|  Headset broken -> distorted view               |
+|  Headset off -> player exits to real world      |
+|  Player ≠ headset                              |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  PURUSHA (consciousness/player)                │
-│      ↓                                         │
-│  BRAIN (receiver/VR headset) filters signal    │
-│      ↓                                         │
-│  SENSES (perception display)                   │
-│      ↓                                         │
-│  BODY (avatar)                                 │
-│                                                │
-│  Brain damaged → distorted perception          │
-│  Brain off (death) → player exits avatar       │
-│  Player ≠ brain                                │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  PURUSHA (consciousness/player)                |
+|      v                                         |
+|  BRAIN (receiver/VR headset) filters signal    |
+|      v                                         |
+|  SENSES (perception display)                   |
+|      v                                         |
+|  BODY (avatar)                                 |
+|                                                |
+|  Brain damaged -> distorted perception          |
+|  Brain off (death) -> player exits avatar       |
+|  Player ≠ brain                                |
++------------------------------------------------+
 ```
 
 ---
@@ -95,11 +95,11 @@ REALITY:
 
 ```
 GENERATOR MODEL (Mainstream):
-Brain Activity → Somehow → Consciousness
+Brain Activity -> Somehow -> Consciousness
 (Cannot explain the "somehow")
 
 RECEIVER MODEL (Backend):
-Consciousness (Purusha) → filtered by → Brain → perceived as → Experience
+Consciousness (Purusha) -> filtered by -> Brain -> perceived as -> Experience
 
 Brain = Tuning device for consciousness
        Antenna picking up signal
@@ -156,7 +156,7 @@ If your brain is a receiver:
 
 ## 🔗 NEXT PAPER
 
-**[NDE Evidence →](../../near_death/nde_evidence/README.md)**  
+**[NDE Evidence ->](../../near_death/nde_evidence/README.md)**  
 *"What happens when the headset is temporarily removed?"*  
 *Spoiler: People see things they shouldn't be able to.*
 

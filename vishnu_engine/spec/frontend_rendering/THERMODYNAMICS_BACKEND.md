@@ -72,8 +72,8 @@
    THIRD LAW = SHUNYA-SIMA (शून्य-सीमा)                                        
    "Absolute Zero Limit"                                                       
                                                                               
-   Frontend: As T→0, S→0 (Perfect crystal, minimum entropy)                   
-   Backend:  As RAJAS→0, system approaches PURE TAMAS (frozen state)          
+   Frontend: As T->0, S->0 (Perfect crystal, minimum entropy)                   
+   Backend:  As RAJAS->0, system approaches PURE TAMAS (frozen state)          
              But TRUE zero is impossible — Shunya contains potential          
                                                                               
    Vedic:    "शून्यं न शून्यम्" (Shunyam Na Shunyam)                           
@@ -115,15 +115,15 @@
                                                                               
    GUNA BREAKDOWN:                                                             
                                                                               
-   HIGH TEMPERATURE:    Rajas ↑↑   Sattva ↓   Tamas ↓                         
+   HIGH TEMPERATURE:    Rajas ^^   Sattva v   Tamas v                         
    • Fire, plasma, explosions                                                 
    • High activity, high transformation                                       
                                                                               
-   NORMAL TEMPERATURE:  Rajas ↑    Sattva ↑   Tamas ↓                         
+   NORMAL TEMPERATURE:  Rajas ^    Sattva ^   Tamas v                         
    • Liquid, gas, life                                                        
    • Balanced activity, coherent function                                     
                                                                               
-   LOW TEMPERATURE:     Rajas ↓    Sattva ↓   Tamas ↑↑                        
+   LOW TEMPERATURE:     Rajas v    Sattva v   Tamas ^^                        
    • Solid, ice, crystal                                                      
    • Minimal activity, frozen structure                                       
                                                                               
@@ -170,7 +170,7 @@
                                                                               
    ARROW OF TIME:                                                              
    Time appears to "flow forward" because Tamas accumulates                    
-   We PERCEIVE "past→future" because entropy increases                        
+   We PERCEIVE "past->future" because entropy increases                        
    At Pralaya, "time" resets — a new Kalpa begins                             
                                                                               
 ------------------------------------------------------------------------------
@@ -193,9 +193,9 @@
                                                                               
    THREE MODES (Frontend):           BACKEND EQUIVALENT:                       
    ---------------------------       ------------------------                  
-   Conduction (direct contact)   →   Node-to-node data transfer               
-   Convection (bulk movement)    →   Batch data migration                     
-   Radiation (electromagnetic)   →   Broadcast signal propagation             
+   Conduction (direct contact)   ->   Node-to-node data transfer               
+   Convection (bulk movement)    ->   Batch data migration                     
+   Radiation (electromagnetic)   ->   Broadcast signal propagation             
                                                                               
 ------------------------------------------------------------------------------
                                                                               
@@ -224,7 +224,7 @@
 | Entropy | S | Tamas Accumulation | तमस्-वृद्धि |
 | Internal Energy | U | Total Guna Content | गुण-सम्पूर्ण |
 | Heat | Q | Rajas Transfer | राजस-प्रवाह |
-| Work | W | Rajas→Tamas Conversion | कर्म-रूपान्तर |
+| Work | W | Rajas->Tamas Conversion | कर्म-रूपान्तर |
 | Enthalpy | H | System Guna + Pressure Work | उष्मा-अंश |
 | Gibbs Free Energy | G | Available Sattva | मुक्त-शक्ति |
 | Specific Heat | c | Rajas Absorption Capacity | तापधारिता |
@@ -246,7 +246,7 @@
    Energy cannot leave the Grid — only transform within it                    
                                                                               
    TAMAS-VRIDDHI (Second Law):                                                 
-   As Kalpa progresses: R→T (Rajas converts to Tamas)                         
+   As Kalpa progresses: R->T (Rajas converts to Tamas)                         
    This is the "aging" of the universe                                        
                                                                               
    EQUILIBRIUM (Zeroth Law):                                                   
@@ -267,7 +267,7 @@
    Dwapara Yuga: S=0.2, R=0.4, T=0.4  (Medium-high entropy)                   
    Kali Yuga:   S=0.1, R=0.4, T=0.5  (High entropy)                           
                                                                               
-   After Kali → Pralaya → Reset to Satya → Cycle continues                    
+   After Kali -> Pralaya -> Reset to Satya -> Cycle continues                    
                                                                               
 ------------------------------------------------------------------------------
 ```

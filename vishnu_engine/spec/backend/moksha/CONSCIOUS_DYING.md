@@ -182,10 +182,10 @@ If you have practiced dying:
 |   STAGE 11: ATMAN EXIT                                                |
 |   ---------------------                                               |
 |   • Jivatman exits through a gate:                                    |
-|     - Brahma-Randhra (crown) → Liberation/Higher Lokas                |
-|     - Eyes → Solar realm                                              |
-|     - Nose, ears → Mid-realms                                         |
-|     - Anus → Lower realms                                             |
+|     - Brahma-Randhra (crown) -> Liberation/Higher Lokas                |
+|     - Eyes -> Solar realm                                              |
+|     - Nose, ears -> Mid-realms                                         |
+|     - Anus -> Lower realms                                             |
 |   • Exit gate determined by Guna-ratio at final moment                |
 |                                                                       |
 |   STAGE 12: POST-EXIT                                                 |
@@ -204,7 +204,7 @@ THE FINAL THOUGHT DETERMINES DESTINATION:
 =========================================
 
 Whatever Vasana is strongest at death:
-→ THAT determines the next birth
+-> THAT determines the next birth
 
 "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।
 यः प्रयाति स मद्भावं याति"
@@ -525,7 +525,7 @@ IF YOU KNOW YOU ARE DYING:
 
 5. PRANA DIRECTION
    • As breath weakens, draw awareness UP
-   • Heart → Throat → Third Eye → Crown
+   • Heart -> Throat -> Third Eye -> Crown
    • Visualize light at Brahma-Randhra
    • Exit through the crown
 ```

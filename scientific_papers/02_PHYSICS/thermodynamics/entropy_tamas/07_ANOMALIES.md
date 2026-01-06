@@ -25,19 +25,19 @@ GUNA CYCLICAL MODEL:
 ━━━━━━━━━━━━━━━━━━━
 
 Pralaya (Maximum Tamas)
-    ↓
+    v
 Complete dissolution
-    ↓
+    v
 Information compressed (Sattva potential)
-    ↓
+    v
 New Srishti (Creation)
-    ↓
+    v
 Low entropy beginning
-    ↓
+    v
 Sthiti (Maintenance)
-    ↓
+    v
 Entropy increases
-    ↓
+    v
 Pralaya again
 
 EXPLANATION:
@@ -83,7 +83,7 @@ Local: Sattva increases (body maintains order)
 Global: Tamas increases (Second Law preserved)
 
 DEATH:
-When Sattva import stops → Tamas dominates
+When Sattva import stops -> Tamas dominates
 Decay = Entropy explosion
 ```
 

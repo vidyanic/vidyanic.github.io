@@ -1,12 +1,12 @@
 # 👁️ OBSERVER EFFECT — The Game Only Renders What You're Looking At
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 92%  
 > **DIFFICULTY:** Beginner-friendly
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 You know how in video games, the world behind you isn't fully rendered until you turn around? 
 
@@ -38,22 +38,22 @@ The double-slit experiment has been replicated **thousands of times** since 1801
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 VIDEO GAME:
-┌────────────────────────────────────────────────┐
-│  Player looks left → Left side renders         │
-│  Player looks right → Right side renders       │
-│  Behind player → Stored as data, not rendered  │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Player looks left -> Left side renders         |
+|  Player looks right -> Right side renders       |
+|  Behind player -> Stored as data, not rendered  |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  Observer looks → Wave collapses to particle   │
-│  No observer → Wave function (probability)     │
-│  Unobserved → Data exists, not rendered        │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Observer looks -> Wave collapses to particle   |
+|  No observer -> Wave function (probability)     |
+|  Unobserved -> Data exists, not rendered        |
++------------------------------------------------+
 ```
 
 **Same architecture. Reality is optimized too.**
@@ -118,7 +118,7 @@ Without observers, there's nothing but probability waves.
 
 ## 🔗 NEXT PAPER
 
-**[Heisenberg Uncertainty →](../heisenberg_uncertainty/README.md)**  
+**[Heisenberg Uncertainty ->](../heisenberg_uncertainty/README.md)**  
 *"Why can't we know everything at once?"*  
 *Spoiler: Render resolution has limits.*
 

@@ -11,7 +11,7 @@
 ### Formula 1: Wave Function Collapse
 
 ```
-|ψ⟩ → |φ_n⟩ upon measurement
+|ψ⟩ -> |φ_n⟩ upon measurement
 
 WHERE:
 |ψ⟩ = Superposition state = Σ c_n |φ_n⟩
@@ -20,7 +20,7 @@ c_n = Probability amplitudes
 |c_n|² = Probability of outcome n
 
 VEDIC EQUIVALENT:
-Sankalpa (संकल्प) → Vikalpa (विकल्प)
+Sankalpa (संकल्प) -> Vikalpa (विकल्प)
 Intention collapses possibilities into actuality
 ```
 
@@ -170,7 +170,7 @@ VALIDITY: ✅ SOUND
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

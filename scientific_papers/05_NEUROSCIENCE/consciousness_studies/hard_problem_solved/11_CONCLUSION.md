@@ -73,13 +73,13 @@ This paper has demonstrated that the "Hard Problem of Consciousness" is not unso
 
 ```
 FROM:
-Brain → Consciousness (generation)
+Brain -> Consciousness (generation)
 Consciousness is derivative
 Death ends consciousness
 AI can be conscious
 
 TO:
-Consciousness → (uses) Brain (reception)
+Consciousness -> (uses) Brain (reception)
 Consciousness is fundamental
 Death removes filter
 AI cannot be conscious

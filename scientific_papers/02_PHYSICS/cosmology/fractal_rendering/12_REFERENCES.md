@@ -12,8 +12,8 @@
 
 ## 12.2 Backend
 
-4. [81-Grid Complete](../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)
-5. [Fractal Hierarchy](../../../vishnu_engine/spec/entities/fractals/)
+4. [81-Grid Complete](../../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)
+5. [Fractal Hierarchy](../../../../vishnu_engine/spec/entities/fractals/)
 
 ---
 

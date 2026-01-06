@@ -59,7 +59,7 @@
 **Kirk, R. (1974).** "Zombies versus Materialists." *Proceedings of the Aristotelian Society*, 48, 135-152.
 **Chalmers, D. (1996).** *The Conscious Mind*. Oxford University Press.
 - Zombie = physically identical, no experience
-- If conceivable → consciousness not physical
+- If conceivable -> consciousness not physical
 - Major argument against physicalism
 
 ---

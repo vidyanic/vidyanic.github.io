@@ -19,28 +19,28 @@ Before diving into the technical details, let's understand what the 81-Grid actu
 **The Simple Truth:**
 - **81-Grid** = The repeating pattern found EVERYWHERE in nature and the universe
 - Like: Fractals (same pattern at every zoom level)
-- Based on simple progression: 1 → 3 → 9 → 27 → 81 (multiply by 3 each time)
+- Based on simple progression: 1 -> 3 -> 9 -> 27 -> 81 (multiply by 3 each time)
 
 **Real-Life Examples:**
 
 **You See This Pattern Daily:**
 ```
 IN YOUR BODY:
-• 1 spine → 3 main energy channels (Ida, Pingala, Sushumna)
-• From 3 channels → 9 major chakra complexes
-• From 9 → 27 sub-chakras
-• From 27 → 81 micro-energy points
-• From 81 → 72,000 nadis (energy pathways)
+• 1 spine -> 3 main energy channels (Ida, Pingala, Sushumna)
+• From 3 channels -> 9 major chakra complexes
+• From 9 -> 27 sub-chakras
+• From 27 -> 81 micro-energy points
+• From 81 -> 72,000 nadis (energy pathways)
 
 IN NATURE:
-• 1 tree trunk → 3 main branches
-• 3 branches → 9 sub-branches
-• 9 sub-branches → 27 twigs
+• 1 tree trunk -> 3 main branches
+• 3 branches -> 9 sub-branches
+• 9 sub-branches -> 27 twigs
 • Continues fractally until leaves
 
 IN TIME:
-• 1 year → 3 seasons (roughly)
-• 1 day → 3 main periods (morning, afternoon, evening)
+• 1 year -> 3 seasons (roughly)
+• 1 day -> 3 main periods (morning, afternoon, evening)
 • Pattern repeats at all scales
 ```
 
@@ -71,8 +71,8 @@ to render reality at human scale!
 
 **The Technical Reality:**
 - **81-Grid** = Optimal deep learning architecture discovered by universe
-- Like: Transformer architecture, but found in nature 5000+ years ago
-- Progressive layer expansion: Input(1) → Hidden₁(3) → Hidden₂(9) → Hidden₃(27) → Output(81)
+- Like: Transformer architecture, but found in nature years ago
+- Progressive layer expansion: Input(1) -> Hidden₁(3) -> Hidden₂(9) -> Hidden₃(27) -> Output(81)
 
 **Neural Network Analogy:**
 
@@ -224,7 +224,7 @@ RESEARCH DIRECTION:
 **The Medical Perspective:**
 - **81-Grid** = The anatomical organization pattern in human body
 - Like: Body systems organized in hierarchical 3× branching
-- From single spine to complete nervous system (1→3→9→27→81→72,000)
+- From single spine to complete nervous system (1->3->9->27->81->72,000)
 
 **Biological Manifestation:**
 
@@ -233,26 +233,26 @@ RESEARCH DIRECTION:
 SPINAL ARCHITECTURE:
 
 Level 0: 1 Spine (Sushumna)
-   └─ The central axis
+   +- The central axis
 
 Level 1: 3 Main Channels
-   ├─ Ida (Left, lunar, cooling)
-   ├─ Pingala (Right, solar, heating)
-   └─ Sushumna (Center, neutral)
+   +- Ida (Left, lunar, cooling)
+   +- Pingala (Right, solar, heating)
+   +- Sushumna (Center, neutral)
 
 Level 2: 9 Major Plexuses
-   ├─ From 3 channels branch...
-   └─ 9 main nerve clusters
+   +- From 3 channels branch...
+   +- 9 main nerve clusters
 
 Level 3: 27 Sub-Plexuses
-   ├─ Each of 9 branches 3× again
-   └─ 27 secondary nerve centers
+   +- Each of 9 branches 3× again
+   +- 27 secondary nerve centers
 
 Level 4: 81 Micro-Plexuses
-   └─ Fine nerve distribution points
+   +- Fine nerve distribution points
 
 Level 5: 72,000 Nadis (Final Resolution)
-   └─ Complete energy pathway network
+   +- Complete energy pathway network
 ```
 
 **Respiratory System (Also 3^n):**
@@ -289,16 +289,16 @@ DIAGNOSTICS:
 
 Traditional: "Heart problem"
 81-Grid Aware: Which level is affected?
-- Level 0 (Aorta)? → Critical, systemic
-- Level 2 (Major arteries)? → Regional issue
-- Level 4 (Small vessels)? → Local, treatable
+- Level 0 (Aorta)? -> Critical, systemic
+- Level 2 (Major arteries)? -> Regional issue
+- Level 4 (Small vessels)? -> Local, treatable
 
 TREATMENT TARGETING:
 - Macro-level (1-3): Surgery, major interventions
 - Meso-level (9-27): Medications, targeted therapy
 - Micro-level (81+): Diet, lifestyle, energy work
 
-UNDERSTANDING THE GRID → Better diagnosis precision!
+UNDERSTANDING THE GRID -> Better diagnosis precision!
 ```
 
 ---
@@ -315,11 +315,11 @@ UNDERSTANDING THE GRID → Better diagnosis precision!
 **Modern Architecture (Arbitrary):**
 ```
 TYPICAL BUILDING DESIGN:
-┌─────────────────────┐
-│  Random grid        │
-│  (no deep principle)│
-│  "Looks good"       │
-└─────────────────────┘
++---------------------+
+|  Random grid        |
+|  (no deep principle)|
+|  "Looks good"       |
++---------------------+
 
 - Room sizes arbitrary
 - No resonance principle
@@ -332,23 +332,23 @@ VASTU PURUSHA MANDALA (81-Grid Layout):
 
         9×9 = 81 Padas (squares)
 
-┌───┬───┬───┬───┬───┬───┬───┬───┬───┐
-│   │   │   │   │   │   │   │   │   │  Outer ring (32 padas)
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤  = Paisacha (boundary)
-│   │   │   │   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │   │   │   │  Mid-outer (24 padas)
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤  = Manusha (interface)
-│   │   │   │   │   │   │   │   │   │
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤
-│   │   │   │ ███████ │   │   │   │  Mid-inner (16 padas)
-├───┼───┼───┼─┤       ├─┼───┼───┼───┤  = Daivika (forces)
-│   │   │   │ ███████ │   │   │   │
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤
-│   │   │   │   │   │   │   │   │   │  Core (9 padas)
-├───┼───┼───┼───┼───┼───┼───┼───┼───┤  = Brahma-Sthan (center)
-│   │   │   │   │   │   │   │   │   │
-└───┴───┴───┴───┴───┴───┴───┴───┴───┘
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |  Outer ring (32 padas)
++---+---+---+---+---+---+---+---+---+  = Paisacha (boundary)
+|   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |  Mid-outer (24 padas)
++---+---+---+---+---+---+---+---+---+  = Manusha (interface)
+|   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   | ███████ |   |   |   |  Mid-inner (16 padas)
++---+---+---+-+       +-+---+---+---+  = Daivika (forces)
+|   |   |   | ███████ |   |   |   |
++---+---+---+---+---+---+---+---+---+
+|   |   |   |   |   |   |   |   |   |  Core (9 padas)
++---+---+---+---+---+---+---+---+---+  = Brahma-Sthan (center)
+|   |   |   |   |   |   |   |   |   |
++---+---+---+---+---+---+---+---+---+
 
 LAYERS:
 • Core (9): Sacred space, never build
@@ -385,7 +385,7 @@ SCIENTIFIC REASONS:
 
 FAMOUS BUILDINGS USING THIS:
 - Ancient temples (all Hindu temples!)
-- Pyramids (3-4-5 triangle → 3^n related)
+- Pyramids (3-4-5 triangle -> 3^n related)
 - Sacred sites worldwide
 - Modern: Some Japanese/Chinese architecture
 ```
@@ -396,8 +396,8 @@ HOW TO APPLY 81-GRID:
 
 1. Site Analysis:
    - Divide plot into 9×9 = 81 squares
-   - Mark center 9 squares (Brahma-Sthan) → Leave open!
-   - Outer rings → Building placement
+   - Mark center 9 squares (Brahma-Sthan) -> Leave open!
+   - Outer rings -> Building placement
 
 2. Floor Plan:
    - Each room: Multiples of 3 (3m, 6m, 9m, etc.)
@@ -417,32 +417,32 @@ RESULT: Buildings that "feel right" (they match cosmic template!)
 ## 📊 THE CORE MESSAGE - ALL 5 PERSPECTIVES
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   81-GRID = The Universal Fractal Pattern                    ║
-║             1 → 3 → 9 → 27 → 81 (multiply by 3)             ║
-║                                                               ║
-║   👤 Everyone: Found everywhere in nature (trees, body, time)║
-║   🤖 AI/ML: Optimal neural architecture (3^n layers)         ║
-║   ⚛️ Physicist: Quantum state space lattice (discrete grid)  ║
-║   🩺 Doctor: Body's anatomical blueprint (spine → nadis)     ║
-║   🏗️ Architect: Sacred geometry design system (Vastu)       ║
-║                                                               ║
-║   WHY 3?                                                      ║
-║   Because reality has 3 fundamental modes (Gunas):           ║
-║   Sattva, Rajas, Tamas                                        ║
-║                                                               ║
-║   ALL complexity emerges from combining these 3              ║
-║   in different ways:                                          ║
-║   - 3¹ = 3 (basic)                                           ║
-║   - 3² = 9 (pairs combined)                                  ║
-║   - 3³ = 27 (triples combined)                               ║
-║   - 3⁴ = 81 (complete manifestation)                         ║
-║                                                               ║
-║   This pattern repeats at EVERY scale (fractal)              ║
-║   From atoms → cells → bodies → planets → galaxies           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   81-GRID = The Universal Fractal Pattern                    |
+|             1 -> 3 -> 9 -> 27 -> 81 (multiply by 3)             |
+|                                                               |
+|   👤 Everyone: Found everywhere in nature (trees, body, time)|
+|   🤖 AI/ML: Optimal neural architecture (3^n layers)         |
+|   ⚛️ Physicist: Quantum state space lattice (discrete grid)  |
+|   🩺 Doctor: Body's anatomical blueprint (spine -> nadis)     |
+|   🏗️ Architect: Sacred geometry design system (Vastu)       |
+|                                                               |
+|   WHY 3?                                                      |
+|   Because reality has 3 fundamental modes (Gunas):           |
+|   Sattva, Rajas, Tamas                                        |
+|                                                               |
+|   ALL complexity emerges from combining these 3              |
+|   in different ways:                                          |
+|   - 3¹ = 3 (basic)                                           |
+|   - 3² = 9 (pairs combined)                                  |
+|   - 3³ = 27 (triples combined)                               |
+|   - 3⁴ = 81 (complete manifestation)                         |
+|                                                               |
+|   This pattern repeats at EVERY scale (fractal)              |
+|   From atoms -> cells -> bodies -> planets -> galaxies           |
+|                                                               |
++===============================================================+
 ```
 
 **Now let's explore the 81-Grid in mathematical detail...**
@@ -618,14 +618,14 @@ TOTAL NODES: 7 (up) + 7 (down) = 14
 |-----------|---|------|----------|---------------------|
 | **URDHVA (ऊर्ध्व)** | +7 | Satya | सत्य | Highest (Pure Truth) |
 | Ascending | +6 | Tapa | तप | Austerity |
-| (Sattva↑) | +5 | Jana | जन | Wisdom |
+| (Sattva^) | +5 | Jana | जन | Wisdom |
 | | +4 | Mahar | महर् | Greatness |
 | | +3 | Svar | स्वर् | Heaven |
 | | +2 | Bhuvar | भुवर् | Atmosphere |
 | | +1 | Bhu | भू | **EARTH (You are here)** |
 | **ADHO (अधो)** | -1 | Atala | अतल | First Underworld |
 | Descending | -2 | Vitala | वितल | |
-| (Tamas↑) | -3 | Sutala | सुतल | |
+| (Tamas^) | -3 | Sutala | सुतल | |
 | | -4 | Talatala | तलातल | |
 | | -5 | Mahatala | महातल | |
 | | -6 | Rasatala | रसातल | |
@@ -734,7 +734,7 @@ It is OUTSIDE the 14 because it is ETERNAL (beyond time).
 
 **81-Grid Mandala Visualization:**
 
-![81-Grid Mandala](../dharm_youdh/images/81_mandala.png)
+![81-Grid Mandala](../../../site/images/81_mandala.png)
 
 ```
 --------------------------------------------------------------

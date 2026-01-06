@@ -162,23 +162,23 @@ Continued null results despite exhausting parameter space.
 ## 4.7 Summary of Hypotheses
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HYPOTHESIS SUMMARY                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  H₀: Reality renders across 14 frequency bands (Lokas)       ║
-║      We see only one band (Bhuloka)                          ║
-║      Other bands' Tamas gravitates but is invisible          ║
-║                                                               ║
-║  H1: Dark matter = Tamas in other Lokas                      ║
-║  H2: Dark energy = Sattva dominance at cosmic scale          ║
-║  H3: 5/27/68 reflects Loka Guna distribution                 ║
-║  H4: Gravity crosses bands; light doesn't                    ║
-║                                                               ║
-║  KEY PREDICTION:                                              ║
-║  Dark matter particles will NEVER be found                   ║
-║  because they're not in our frequency band.                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    HYPOTHESIS SUMMARY                         |
++===============================================================+
+|                                                               |
+|  H₀: Reality renders across 14 frequency bands (Lokas)       |
+|      We see only one band (Bhuloka)                          |
+|      Other bands' Tamas gravitates but is invisible          |
+|                                                               |
+|  H1: Dark matter = Tamas in other Lokas                      |
+|  H2: Dark energy = Sattva dominance at cosmic scale          |
+|  H3: 5/27/68 reflects Loka Guna distribution                 |
+|  H4: Gravity crosses bands; light doesn't                    |
+|                                                               |
+|  KEY PREDICTION:                                              |
+|  Dark matter particles will NEVER be found                   |
+|  because they're not in our frequency band.                  |
+|                                                               |
++===============================================================+
 ```
 

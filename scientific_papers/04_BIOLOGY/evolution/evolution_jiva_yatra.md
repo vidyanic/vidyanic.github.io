@@ -48,16 +48,16 @@
 ### 1.3 The Tree of Life
 
 ```
-                    HUMANS ─┐
-            MAMMALS ──────┴─┐
-    VERTEBRATES ────────────┴───┐
-ANIMALS ─────────────────────────┴───┐
-                                       │
-PLANTS ──────────────────────────────┬┘
-FUNGI ───────────────────────────────┤
-                                      │
-BACTERIA ────────────────────────────┘
-                    │
+                    HUMANS -+
+            MAMMALS ------+-+
+    VERTEBRATES ------------+---+
+ANIMALS -------------------------+---+
+                                       |
+PLANTS ------------------------------++
+FUNGI -------------------------------+
+                                      |
+BACTERIA ----------------------------+
+                    |
             COMMON ANCESTOR
 ```
 
@@ -142,12 +142,12 @@ BACTERIA ───────────────────────�
 ### 4.2 Behavioral Complexity
 
 **Progress from:**
-- Reflexes → Instincts → Learning → Reasoning → Self-reflection
+- Reflexes -> Instincts -> Learning -> Reasoning -> Self-reflection
 
 ### 4.3 Subjective Experience
 
 **Increasing:**
-- Sensation → Perception → Emotion → Thought → Transcendence
+- Sensation -> Perception -> Emotion -> Thought -> Transcendence
 
 ---
 

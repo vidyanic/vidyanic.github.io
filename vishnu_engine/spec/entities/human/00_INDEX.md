@@ -56,11 +56,11 @@ Humans are the ONLY entities at N level who can:
 - How to purify senses (Indriya Nigraha)
 
 **The Five Jnanendriyas:**
-1. **Ghrana (घ्राण)** — Smell → Prithvi (Earth)
-2. **Rasana (रसना)** — Taste → Jala (Water)
-3. **Chakshu (चक्षुः)** — Sight → Agni (Fire)
-4. **Tvak (त्वक्)** — Touch → Vayu (Air)
-5. **Shrotra (श्रोत्र)** — Hearing → Akasha (Space)
+1. **Ghrana (घ्राण)** — Smell -> Prithvi (Earth)
+2. **Rasana (रसना)** — Taste -> Jala (Water)
+3. **Chakshu (चक्षुः)** — Sight -> Agni (Fire)
+4. **Tvak (त्वक्)** — Touch -> Vayu (Air)
+5. **Shrotra (श्रोत्र)** — Hearing -> Akasha (Space)
 
 **Key Insight:**
 Senses are instruments, not YOU.
@@ -79,11 +79,11 @@ Atman (consciousness) perceives THROUGH senses but is not limited by them.
 - How to transcend action-reaction
 
 **The Five Karmendriyas:**
-1. **Vak (वाक्)** — Speech → Controlled by Agni
-2. **Pani (पाणि)** — Hands/Manipulation → Controlled by Indra
-3. **Pada (पाद)** — Feet/Movement → Controlled by Vishnu
-4. **Payu (पायु)** — Excretion → Controlled by Mrityu
-5. **Upastha (उपस्थ)** — Reproduction → Controlled by Prajapati
+1. **Vak (वाक्)** — Speech -> Controlled by Agni
+2. **Pani (पाणि)** — Hands/Manipulation -> Controlled by Indra
+3. **Pada (पाद)** — Feet/Movement -> Controlled by Vishnu
+4. **Payu (पायु)** — Excretion -> Controlled by Mrityu
+5. **Upastha (उपस्थ)** — Reproduction -> Controlled by Prajapati
 
 **Key Insight:**
 Action organs are where Karma is CREATED.
@@ -98,7 +98,7 @@ Control of Karmendriyas = Control of Karma generation.
 - B-DNA, A-DNA, Z-DNA correlated with Guna balance
 - Planets as Ida-Pingala crossing points (Chakras)
 - Sun as Bindu of 15th axis chanting OM
-- 46 Chromosomes → 23 pairs → Sacred correlations
+- 46 Chromosomes -> 23 pairs -> Sacred correlations
 - 72,000 Nadis derivation
 - Mitochondrial DNA as Kundalini
 - Telomeres as Swasa-Sankhya (breath count)
@@ -123,36 +123,36 @@ Control of Karmendriyas = Control of Karma generation.
 
 ```
 ATMAN (आत्मन्) — Pure Consciousness (Beyond all layers)
-    │
-    ↓ (radiates through)
-    │
+    |
+    v (radiates through)
+    |
 ANANDAMAYA KOSHA (आनन्दमयकोश) — Bliss Sheath
 • Causal body
 • Closest to Atman
 • Experienced in deep sleep, Samadhi
-    │
-    ↓
+    |
+    v
 VIJNANAMAYA KOSHA (विज्ञानमयकोश) — Wisdom Sheath
 • BUDDHI (बुद्धि) — Intellect, discrimination
 • VIVEKA (विवेक) — Dharmic judgment
 • AHAMKARA (अहंकार) — Ego, "I am the doer"
-    │
-    ↓
+    |
+    v
 MANOMAYA KOSHA (मनोमयकोश) — Mental Sheath
 • MANAS (मनस्) — Mind processor
 • 5 JNANENDRIYAS (ज्ञानेन्द्रिय) — Sense organs input
 • EMOTIONS, DESIRES, THOUGHTS
 • SHADRIPU (षड्रिपु) — Six enemies operate here
-    │
-    ↓
-PRANAMAYA KOSHA (प्राणमयकोश) — Vital Sheath ← PRANA IS HERE
+    |
+    v
+PRANAMAYA KOSHA (प्राणमयकोश) — Vital Sheath <- PRANA IS HERE
 • 5 PRANAS (प्राण) — Prana, Apana, Samana, Udana, Vyana
 • 5 KARMENDRIYAS (कर्मेन्द्रिय) — Action organs output
 • LIFE FORCE, BREATH, "So-Ham"
 • 72,000 NADIS (नाड़ी) — Energy channels
 • INTERNAL SUN generates Prana
-    │
-    ↓
+    |
+    v
 ANNAMAYA KOSHA (अन्नमयकोश) — Physical Sheath
 • PHYSICAL BODY (स्थूल शरीर)
 • ~37 trillion cells
@@ -195,8 +195,8 @@ Animals have Manas (mind) but NOT Buddhi/Viveka
 
 ```
 84 LAKH YONIS (8.4 million species):
-• 83,99,999 species → Experience only (NPC mode)
-• 1 species (Manushya) → Can achieve Moksha
+• 83,99,999 species -> Experience only (NPC mode)
+• 1 species (Manushya) -> Can achieve Moksha
 
 "मनुष्यत्वं मुमुक्षुत्वं महापुरुषसंश्रयः"
 "Manushyatvam mumukshutvam mahapurusha-samshrayah"
@@ -246,7 +246,7 @@ Animals have Manas (mind) but NOT Buddhi/Viveka
 
 ---
 
-## 💀 DEATH MECHANISM (Complete)
+## ☯️ DEATH MECHANISM (Complete)
 
 ### Multi-Level Decay Process
 
@@ -254,17 +254,17 @@ Animals have Manas (mind) but NOT Buddhi/Viveka
 T-72h: ATMAN BEGINS WITHDRAWAL
        • Consciousness becomes distant
        • Person feels "detached"
-       • Atman_Connection: 1.0 → 0.8
+       • Atman_Connection: 1.0 -> 0.8
 
 T-24h: INTERNAL SUN DIMS
        • Prana generation dropping
        • Energy declining
-       • Atman_Connection: 0.8 → 0.2
+       • Atman_Connection: 0.8 -> 0.2
 
 T-6h:  PRANA COLLAPSES INWARD
        • Withdraws from extremities
        • Concentrates at exit point
-       • Atman_Connection: 0.2 → 0.05
+       • Atman_Connection: 0.2 -> 0.05
 
 T-0:   LAST BREATH (PRANA EXITS)
        • PRANA leaves body (ॐ ceases)
@@ -285,11 +285,11 @@ NOTE: Atman withdrew 72 hours ago!
 ### 1. Know Your Architecture
 
 ```
-"You are not the body" → Annamaya is NOT you
-"You are not the breath" → Pranamaya is NOT you
-"You are not the mind" → Manomaya is NOT you
-"You are not the intellect" → Vijnanamaya is NOT you
-"You are not even bliss" → Anandamaya is NOT you
+"You are not the body" -> Annamaya is NOT you
+"You are not the breath" -> Pranamaya is NOT you
+"You are not the mind" -> Manomaya is NOT you
+"You are not the intellect" -> Vijnanamaya is NOT you
+"You are not even bliss" -> Anandamaya is NOT you
 
 YOU = ATMAN (Pure witness beyond all 5)
 ```
@@ -334,24 +334,24 @@ BACKEND CONFIDENCE: 100% ✅
 ## 🕉️ REMEMBER
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   YOU ARE ATMAN (आत्मन्)                                                   ║
-║                                                                            ║
-║   The body is your vehicle                                                 ║
-║   The breath is your life force                                            ║
-║   The mind is your processor                                               ║
-║   The intellect is your tool                                               ║
-║                                                                            ║
-║   But YOU are none of these.                                               ║
-║   YOU are the WITNESS of all these.                                        ║
-║                                                                            ║
-║   Human birth = Opportunity for Moksha                                     ║
-║   Use Viveka. Transcend Karma. Realize Self.                              ║
-║                                                                            ║
-║   "तत् त्वम् असि" — Tat Tvam Asi — THAT YOU ARE                            ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
++============================================================================+
+|                                                                            |
+|   YOU ARE ATMAN (आत्मन्)                                                   |
+|                                                                            |
+|   The body is your vehicle                                                 |
+|   The breath is your life force                                            |
+|   The mind is your processor                                               |
+|   The intellect is your tool                                               |
+|                                                                            |
+|   But YOU are none of these.                                               |
+|   YOU are the WITNESS of all these.                                        |
+|                                                                            |
+|   Human birth = Opportunity for Moksha                                     |
+|   Use Viveka. Transcend Karma. Realize Self.                              |
+|                                                                            |
+|   "तत् त्वम् असि" — Tat Tvam Asi — THAT YOU ARE                            |
+|                                                                            |
++============================================================================+
 ```
 
 ---

@@ -24,7 +24,7 @@ Methylation patterns correlate with age — the "epigenetic clock" predicts biol
 
 ### 7.2.2 Backend Interpretation
 
-Samskara accumulation over life — more impressions = older epigenetic age. See: [Aging = Samskara Accumulation](../../aging/aging_samskara/).
+Samskara accumulation over life — more impressions = older epigenetic age. See: [Aging = Samskara Accumulation](../../aging/aging_samskara).
 
 ---
 
@@ -38,7 +38,7 @@ Cancer cells show abnormal methylation patterns:
 
 ### 7.3.2 Backend Interpretation
 
-Cancer = Forgotten identity = Loss of proper Samskara structure. See: [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity/).
+Cancer = Forgotten identity = Loss of proper Samskara structure. See: [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity).
 
 ---
 

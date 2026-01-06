@@ -6,7 +6,7 @@
 
 ```
 AGING AS ACCUMULATION:
-══════════════════════
+======================
 
 TIME 0 (Birth):
 • Fresh epigenome
@@ -100,7 +100,7 @@ Tamas (entropy) > Sattva (order)
 
 ```
 SWASA-SANKHYA (Breath Count):
-═══════════════════════════
+===========================
 
 Traditional teaching:
 • Each life has allocated breaths

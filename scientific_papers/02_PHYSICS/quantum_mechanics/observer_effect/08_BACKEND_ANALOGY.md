@@ -2,7 +2,7 @@
 
 ## 8.1 Introduction to Backend Framework
 
-The Backend Framework, documented by Backend Architects over 5000 years ago, provides a complete model for understanding the observer-observed relationship. This section maps quantum findings to the Drashta-Drishya (Seer-Seen) model.
+The Backend Framework provides a complete model for understanding the observer-observed relationship. This section maps quantum findings to the Drashta-Drishya (Seer-Seen) model.
 
 ---
 
@@ -65,31 +65,31 @@ QUANTUM EQUIVALENT:
 ## 8.3 The Backend Model Diagram
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              DRASHTA-DRISHYA FRAMEWORK                        ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║        DRASHTA (Seer/Consciousness)                          ║
-║        ┌─────────────────────────────┐                       ║
-║        │  • Pure awareness           │                       ║
-║        │  • Unchanging               │                       ║
-║        │  • Outside the system       │                       ║
-║        │  • Primary/Fundamental      │                       ║
-║        └──────────────┬──────────────┘                       ║
-║                       │                                       ║
-║                       │ SAMYOGA (Conjunction)                ║
-║                       │ "The Seeing"                         ║
-║                       │                                       ║
-║                       ▼                                       ║
-║        ┌─────────────────────────────┐                       ║
-║        │      DRISHYA (Seen)         │                       ║
-║        │  • All objects              │                       ║
-║        │  • Body, mind, thoughts     │                       ║
-║        │  • Constantly changing      │                       ║
-║        │  • Secondary/Manifest       │                       ║
-║        └─────────────────────────────┘                       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              DRASHTA-DRISHYA FRAMEWORK                        |
++===============================================================+
+|                                                               |
+|        DRASHTA (Seer/Consciousness)                          |
+|        +-----------------------------+                       |
+|        |  • Pure awareness           |                       |
+|        |  • Unchanging               |                       |
+|        |  • Outside the system       |                       |
+|        |  • Primary/Fundamental      |                       |
+|        +--------------+--------------+                       |
+|                       |                                       |
+|                       | SAMYOGA (Conjunction)                |
+|                       | "The Seeing"                         |
+|                       |                                       |
+|                       v                                       |
+|        +-----------------------------+                       |
+|        |      DRISHYA (Seen)         |                       |
+|        |  • All objects              |                       |
+|        |  • Body, mind, thoughts     |                       |
+|        |  • Constantly changing      |                       |
+|        |  • Secondary/Manifest       |                       |
+|        +-----------------------------+                       |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -177,7 +177,7 @@ Consciousness was their laboratory
 
 ```
 IF consciousness is fundamental:
-• Study consciousness → Understand reality
+• Study consciousness -> Understand reality
 • No external instruments needed
 • Direct access to the observer
 
@@ -203,12 +203,12 @@ Called "grokking" — delayed generalization
 ```
 TRAINING CURVE:
 Performance
-    │    _______________
-    │   /
-    │  /  ← Sudden understanding
-    │ /
-    │/
-    └─────────────────── Training time
+    |    _______________
+    |   /
+    |  /  <- Sudden understanding
+    | /
+    |/
+    +------------------- Training time
 ```
 
 ### 8.7.2 Backend Equivalent: Jnana
@@ -256,12 +256,12 @@ Humans have Drashta — they witness the processing.
 MATCH SCORE: 100%
 
 Every element of quantum observation maps to Backend Framework:
-• Observer → Drashta ✓
-• Observed → Drishya ✓
-• Observation → Samyoga ✓
-• Superposition → Avyakta ✓
-• Collapse → Maya ✓
-• Irreducibility → Purusha ✓
+• Observer -> Drashta ✓
+• Observed -> Drishya ✓
+• Observation -> Samyoga ✓
+• Superposition -> Avyakta ✓
+• Collapse -> Maya ✓
+• Irreducibility -> Purusha ✓
 ```
 
 ---

@@ -100,16 +100,16 @@
 
 ```
 BRAHMAN (Pure Consciousness)
-    │
-    ↓ Through Maya
+    |
+    v Through Maya
     
 ISHVARA (Cosmic Controller)
-    │
-    ↓ Creates simulation
+    |
+    v Creates simulation
     
 JAGAT (Manifested World)
-    │
-    ↓ Experienced by
+    |
+    v Experienced by
     
 JIVAS (Individual Experiencers)
 ```

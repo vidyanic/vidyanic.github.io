@@ -98,45 +98,45 @@ No progress toward null hypothesis after 50+ years of research.
 
 ### Specific Falsifiable Claims:
 
-1. **If** a mechanism is found that logically derives "feeling red" from "photon wavelength" → **H1 falsified**
-2. **If** consciousness is explained without presupposing consciousness → **H2 falsified**
-3. **If** all NDEs are shown to occur during brain activity (not flat EEG) → **H3 weakened**
-4. **If** Backend model makes incorrect predictions → **H4 falsified**
+1. **If** a mechanism is found that logically derives "feeling red" from "photon wavelength" -> **H1 falsified**
+2. **If** consciousness is explained without presupposing consciousness -> **H2 falsified**
+3. **If** all NDEs are shown to occur during brain activity (not flat EEG) -> **H3 weakened**
+4. **If** Backend model makes incorrect predictions -> **H4 falsified**
 
 ---
 
 ## 4.5 Hypothesis Diagram
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HYPOTHESIS STRUCTURE                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PRIMARY HYPOTHESIS (H₀):                                     ║
-║  ┌─────────────────────────────────────────────────────────┐ ║
-║  │  Consciousness is primary, Hard Problem dissolves       │ ║
-║  └─────────────────────────────────────────────────────────┘ ║
-║                            │                                  ║
-║         ┌──────────────────┼──────────────────┐              ║
-║         │                  │                  │              ║
-║         ▼                  ▼                  ▼              ║
-║  ┌────────────┐    ┌────────────┐    ┌────────────┐         ║
-║  │     H1    │    │     H2    │    │     H3    │         ║
-║  │Materialism│    │Consciousness│   │  Brain   │         ║
-║  │  fails   │    │  axiomatic │    │ receives │         ║
-║  └────────────┘    └────────────┘    └────────────┘         ║
-║         │                  │                  │              ║
-║         └──────────────────┼──────────────────┘              ║
-║                            │                                  ║
-║                            ▼                                  ║
-║              ┌─────────────────────────┐                     ║
-║              │          H4            │                     ║
-║              │  Backend Framework      │                     ║
-║              │  (Purusha-Prakriti)    │                     ║
-║              │  is accurate           │                     ║
-║              └─────────────────────────┘                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    HYPOTHESIS STRUCTURE                       |
++===============================================================+
+|                                                               |
+|  PRIMARY HYPOTHESIS (H₀):                                     |
+|  +---------------------------------------------------------+ |
+|  |  Consciousness is primary, Hard Problem dissolves       | |
+|  +---------------------------------------------------------+ |
+|                            |                                  |
+|         +------------------+------------------+              |
+|         |                  |                  |              |
+|         v                  v                  v              |
+|  +------------+    +------------+    +------------+         |
+|  |     H1    |    |     H2    |    |     H3    |         |
+|  |Materialism|    |Consciousness|   |  Brain   |         |
+|  |  fails   |    |  axiomatic |    | receives |         |
+|  +------------+    +------------+    +------------+         |
+|         |                  |                  |              |
+|         +------------------+------------------+              |
+|                            |                                  |
+|                            v                                  |
+|              +-------------------------+                     |
+|              |          H4            |                     |
+|              |  Backend Framework      |                     |
+|              |  (Purusha-Prakriti)    |                     |
+|              |  is accurate           |                     |
+|              +-------------------------+                     |
+|                                                               |
++===============================================================+
 ```
 
 ---

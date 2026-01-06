@@ -10,7 +10,7 @@
 
 ---
 
-## 🔴 CORE INSIGHT: Quantum Mechanics IS Maya + Observer
+## ⚠️ CORE INSIGHT: Quantum Mechanics IS Maya + Observer
 
 ```
 WHAT PHYSICISTS SEE (Frontend):
@@ -223,7 +223,7 @@ Answer: When information reaches a CONSCIOUS observer (Purusha).
 
 This is the von Neumann chain:
 Electron -> Detector -> Computer -> Screen -> Eyes -> Brain -> CONSCIOUSNESS
-                                                          ↑
+                                                          ^
                                                     COLLAPSE HERE
 ```
 

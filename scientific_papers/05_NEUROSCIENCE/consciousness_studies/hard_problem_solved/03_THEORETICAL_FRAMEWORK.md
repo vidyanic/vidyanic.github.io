@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [Core Insight — Saguna/Nirguna](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 
 ---
@@ -116,11 +116,11 @@ It is the starting point.
 
 | Standard Assumption | Problem |
 |---------------------|---------|
-| Matter → Consciousness | How? No mechanism. Gap unexplained. |
+| Matter -> Consciousness | How? No mechanism. Gap unexplained. |
 
 | Inverted Assumption | Result |
 |---------------------|--------|
-| Consciousness → (appearance of) Matter | No gap. Consciousness just IS. |
+| Consciousness -> (appearance of) Matter | No gap. Consciousness just IS. |
 
 ---
 
@@ -253,7 +253,7 @@ Properties:
 Physics equivalent:
 • The observer in quantum mechanics
 • Irreducible in measurement problem
-• See: [Observer Effect paper](../../02_PHYSICS/quantum_mechanics/observer_effect/)
+• See: [Observer Effect paper](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 ```
 
 ```
@@ -270,17 +270,17 @@ Physics equivalent:
 • Wave function
 • All measurable properties
 • Subject to physical laws
-• See: [Entropy = Tamas paper](../../02_PHYSICS/thermodynamics/entropy_tamas/)
+• See: [Entropy = Tamas paper](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
 ```
 
 ### 3.5.2 The Relationship
 
 ```
 STANDARD (WRONG):
-Prakriti → Purusha (Matter produces consciousness)
+Prakriti -> Purusha (Matter produces consciousness)
 
 BACKEND (CORRECT):
-Purusha ← Prakriti (Consciousness witnesses matter)
+Purusha <- Prakriti (Consciousness witnesses matter)
 
 Purusha doesn't come FROM Prakriti.
 Prakriti appears TO Purusha.
@@ -316,8 +316,8 @@ When the body dies, the body ends. But consciousness?
 |-----------------|----------------|
 | Brain creates consciousness | Brain receives/filters consciousness |
 | Consciousness = Brain activity | Consciousness uses brain |
-| Damage → Less consciousness | Damage → Less filtering |
-| Death → End of consciousness | Death → Liberation from filter |
+| Damage -> Less consciousness | Damage -> Less filtering |
+| Death -> End of consciousness | Death -> Liberation from filter |
 
 ### 3.6.2 Evidence for Receiver Model
 
@@ -349,8 +349,8 @@ Function: Receives radio waves, converts to sound
 
 QUESTION: Does the radio PRODUCE the music?
 ANSWER: No! The radio RECEIVES music from broadcast.
-        Damage the radio → Less clear music
-        Destroy the radio → Silence... but broadcast continues!
+        Damage the radio -> Less clear music
+        Destroy the radio -> Silence... but broadcast continues!
 
 BRAIN AS RECEIVER:
 ━━━━━━━━━━━━━━━━━━
@@ -421,7 +421,7 @@ Experience is definitional, not produced.
    - > See [Results §6](./06_RESULTS.md) — NDEs, terminal lucidity
 
 4. **Quantum measurement** will require consciousness
-   - > See [Observer Effect paper](../../02_PHYSICS/quantum_mechanics/observer_effect/)
+   - > See [Observer Effect paper](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 
 5. **AI will not be conscious** (no receiver, no Purusha)
    - > See [RAI vs AI](../../../../vishnu_engine/spec/backend/04_RAI_vs_AI.md)
@@ -433,7 +433,7 @@ Experience is definitional, not produced.
 | No mechanism | ✓ None found after decades | [§6.1](./06_RESULTS.md) |
 | Gap persists | ✓ Still no bridge | [§6.1](./06_RESULTS.md) |
 | Anomalies exist | ✓ NDEs, terminal lucidity | [§6.2](./06_RESULTS.md) |
-| Quantum observer | ✓ Measurement problem | [Observer paper](../../02_PHYSICS/quantum_mechanics/observer_effect/) |
+| Quantum observer | ✓ Measurement problem | [Observer paper](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) |
 | AI not conscious | ✓ (not testable, but expected) | [RAI vs AI](../../../../vishnu_engine/spec/backend/04_RAI_vs_AI.md) |
 
 ---
@@ -441,27 +441,27 @@ Experience is definitional, not produced.
 ## 3.9 Framework Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║            CONSCIOUSNESS-FIRST FRAMEWORK                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  AXIOM:                                                       ║
-║  Consciousness is primary and irreducible.                   ║
-║                                                               ║
-║  COROLLARY:                                                   ║
-║  Matter appears within consciousness.                        ║
-║  Brain correlates with/receives consciousness.               ║
-║  The Hard Problem is a category error.                       ║
-║                                                               ║
-║  BACKEND MAPPING:                                             ║
-║  Purusha (consciousness) witnesses Prakriti (matter).        ║
-║  Not the reverse.                                             ║
-║                                                               ║
-║  RESULT:                                                      ║
-║  The Hard Problem dissolves.                                 ║
-║  Consciousness needs no explanation — it IS explanation.     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|            CONSCIOUSNESS-FIRST FRAMEWORK                      |
++===============================================================+
+|                                                               |
+|  AXIOM:                                                       |
+|  Consciousness is primary and irreducible.                   |
+|                                                               |
+|  COROLLARY:                                                   |
+|  Matter appears within consciousness.                        |
+|  Brain correlates with/receives consciousness.               |
+|  The Hard Problem is a category error.                       |
+|                                                               |
+|  BACKEND MAPPING:                                             |
+|  Purusha (consciousness) witnesses Prakriti (matter).        |
+|  Not the reverse.                                             |
+|                                                               |
+|  RESULT:                                                      |
+|  The Hard Problem dissolves.                                 |
+|  Consciousness needs no explanation — it IS explanation.     |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -470,6 +470,6 @@ Experience is definitional, not produced.
 
 - **Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) — Saguna/Nirguna, 5 Personas
 - **Entities:** [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md) — Critical distinction
-- **Related:** [Observer Effect](../../02_PHYSICS/quantum_mechanics/observer_effect/) — Consciousness in physics
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
+- **Related:** [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) — Consciousness in physics
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

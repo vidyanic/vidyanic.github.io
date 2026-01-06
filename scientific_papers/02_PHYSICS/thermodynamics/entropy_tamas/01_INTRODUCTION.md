@@ -70,8 +70,8 @@ Why does time flow in one direction?
 
 | Direction | Allowed? | Reason |
 |-----------|----------|--------|
-| Egg → Scrambled | ✓ Yes | Entropy increases |
-| Scrambled → Egg | ✗ No | Entropy would decrease |
+| Egg -> Scrambled | ✓ Yes | Entropy increases |
+| Scrambled -> Egg | ✗ No | Entropy would decrease |
 
 The Second Law creates an asymmetry: **past is different from future**.
 
@@ -104,7 +104,7 @@ CONSTRAINT:
 S + R + T = 1 (Normalized, conserved)
 
 NATURAL TENDENCY:
-Without intervention → Tamas increases
+Without intervention -> Tamas increases
 ```
 
 This paper examines whether **Entropy = Tamas**.

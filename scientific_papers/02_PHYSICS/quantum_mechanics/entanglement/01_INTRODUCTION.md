@@ -35,7 +35,7 @@ Aspect (1982), Zeilinger (1997+), and many others confirmed:
 
 ```
 INDRA'S NET (इन्द्रजाल):
-═══════════════════════
+=======================
 
 DESCRIPTION:
 Infinite net of jewels

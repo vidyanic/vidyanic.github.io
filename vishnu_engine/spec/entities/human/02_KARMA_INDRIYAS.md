@@ -306,15 +306,15 @@
                                                                               
    INPUT (Jnanendriyas):        OUTPUT (Karmendriyas):                        
    ---------------------        -----------------------                        
-   Ear    (Shabda/Sound)    ←→  Mouth  (Vak/Speech)                           
-   Skin   (Sparsha/Touch)   ←→  Hands  (Pani/Action)                          
-   Eye    (Rupa/Form)       ←→  Feet   (Pada/Movement)                        
-   Tongue (Rasa/Taste)      ←→  Genitals (Upastha/Create)                     
-   Nose   (Gandha/Smell)    ←→  Anus   (Payu/Excrete)                         
+   Ear    (Shabda/Sound)    <-->  Mouth  (Vak/Speech)                           
+   Skin   (Sparsha/Touch)   <-->  Hands  (Pani/Action)                          
+   Eye    (Rupa/Form)       <-->  Feet   (Pada/Movement)                        
+   Tongue (Rasa/Taste)      <-->  Genitals (Upastha/Create)                     
+   Nose   (Gandha/Smell)    <-->  Anus   (Payu/Excrete)                         
                                                                               
    CENTRAL PROCESSOR: Antahkarana (Manas, Buddhi, Chitta, Ahamkara)           
                                                                               
-   INPUT → PROCESSING → OUTPUT → KARMA                                        
+   INPUT -> PROCESSING -> OUTPUT -> KARMA                                        
                                                                               
 ------------------------------------------------------------------------------
 ```

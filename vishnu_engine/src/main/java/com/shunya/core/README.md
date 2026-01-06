@@ -10,38 +10,38 @@
 
 ```
 com.shunya/
-├── core/                    # Core abstractions (this package)
-│   ├── FractalNode.java     # Base class for ALL nodes
-│   ├── Guna.java            # Sattva/Rajas/Tamas state
-│   ├── Kosha.java           # 5 sheaths abstraction
-│   └── Constants.java       # Universal constants
-│
-├── entities/                # Entity implementations
-│   ├── Level.java           # Enum for N-6 to N+6
-│   ├── Jiva.java            # Conscious entities
-│   └── Jada.java            # Non-conscious entities
-│
-├── karma/                   # Karma system
-│   ├── KarmaEngine.java     # Backpropagation
-│   ├── Rina.java            # Debt accumulation
-│   └── SankalpaHandler.java # Intent processing
-│
-├── maya/                    # Rendering engine
-│   ├── RenderingEngine.java # Maya renderer
-│   ├── PixelTick.java       # Space-time units
-│   └── LokaRenderer.java    # 14 frequency bands
-│
-├── time/                    # Time calculations
-│   ├── YugaCalculator.java  # Yuga time dilation
-│   └── SwasaTracker.java    # Tick budget
-│
-├── config/                  # JSON configurations
-│   ├── LevelConfig.java     # Level loader
-│   └── WorldBuilder.java    # World instantiation
-│
-└── simulation/              # Main simulation
-    ├── Simulation.java      # Entry point
-    └── RealityCalculator.java # Prediction engine
++-- core/                    # Core abstractions (this package)
+|   +-- FractalNode.java     # Base class for ALL nodes
+|   +-- Guna.java            # Sattva/Rajas/Tamas state
+|   +-- Kosha.java           # 5 sheaths abstraction
+|   +-- Constants.java       # Universal constants
+|
++-- entities/                # Entity implementations
+|   +-- Level.java           # Enum for N-6 to N+6
+|   +-- Jiva.java            # Conscious entities
+|   +-- Jada.java            # Non-conscious entities
+|
++-- karma/                   # Karma system
+|   +-- KarmaEngine.java     # Backpropagation
+|   +-- Rina.java            # Debt accumulation
+|   +-- SankalpaHandler.java # Intent processing
+|
++-- maya/                    # Rendering engine
+|   +-- RenderingEngine.java # Maya renderer
+|   +-- PixelTick.java       # Space-time units
+|   +-- LokaRenderer.java    # 14 frequency bands
+|
++-- time/                    # Time calculations
+|   +-- YugaCalculator.java  # Yuga time dilation
+|   +-- SwasaTracker.java    # Tick budget
+|
++-- config/                  # JSON configurations
+|   +-- LevelConfig.java     # Level loader
+|   +-- WorldBuilder.java    # World instantiation
+|
++-- simulation/              # Main simulation
+    +-- Simulation.java      # Entry point
+    +-- RealityCalculator.java # Prediction engine
 ```
 
 ---
@@ -53,7 +53,7 @@ com.shunya/
 | **Composite** | FractalNode | Every node contains child nodes |
 | **Factory** | LevelFactory | Creates N±6 level instances |
 | **Builder** | WorldBuilder | Constructs worlds from JSON |
-| **Observer** | KarmaEngine | Action→Consequence notification |
+| **Observer** | KarmaEngine | Action->Consequence notification |
 | **State** | Guna | S/R/T state transitions |
 | **Flyweight** | Constants | Shared immutable values |
 | **Template Method** | Kosha | 5 sheaths same pattern |
@@ -81,7 +81,7 @@ sattva /= total; rajas /= total; tamas /= total;
 
 ---
 
-## 🚀 Quick Start
+## ✨ Quick Start
 
 ```java
 // 1. Load configuration for Human level (N)

@@ -30,25 +30,25 @@
 ### 1.1 Materialism's Claim
 
 **"Brain creates mind":**
-- Neurons fire → Experience emerges
+- Neurons fire -> Experience emerges
 - Complexity produces consciousness
-- No brain → No mind
+- No brain -> No mind
 - Mind = Brain activity
 
 ### 1.2 Supporting Evidence
 
 | Evidence | Interpretation |
 |----------|---------------|
-| Brain damage → Experience changes | Brain creates experience |
+| Brain damage -> Experience changes | Brain creates experience |
 | Drugs affect mind | Chemistry = Consciousness |
 | Brain scans show correlates | Activity = Experience |
-| Evolution of brains | Complexity → Consciousness |
+| Evolution of brains | Complexity -> Consciousness |
 
 ### 1.3 The Problem
 
 **Correlation ≠ Causation**
 
-A radio broken → Music stops  
+A radio broken -> Music stops  
 Does radio CREATE music? No.
 
 We need to examine more carefully.
@@ -69,14 +69,14 @@ We need to examine more carefully.
 
 ```
 RADIO MODEL:
-════════════
+============
 SIGNAL (exists everywhere)
-    │
-    ↓ Radio receives
+    |
+    v Radio receives
     
-TRANSDUCTION (signal → sound)
-    │
-    ↓ Speaker outputs
+TRANSDUCTION (signal -> sound)
+    |
+    v Speaker outputs
     
 MUSIC (local manifestation)
 
@@ -86,14 +86,14 @@ But signal still exists.
 
 ```
 CONSCIOUSNESS MODEL:
-════════════════════
+====================
 CONSCIOUSNESS (exists fundamentally)
-    │
-    ↓ Brain receives
+    |
+    v Brain receives
     
-TRANSDUCTION (consciousness → neural activity)
-    │
-    ↓ Body outputs
+TRANSDUCTION (consciousness -> neural activity)
+    |
+    v Body outputs
     
 EXPERIENCE (local manifestation)
 
@@ -166,7 +166,7 @@ But consciousness still exists.
 ### 3.4 Savant Abilities
 
 **Acquired savants:**
-- Brain injury → Sudden abilities
+- Brain injury -> Sudden abilities
 - Calendar calculation, art, music
 - Abilities not learned
 
@@ -202,16 +202,16 @@ But consciousness still exists.
 
 ```
 UNFILTERED CONSCIOUSNESS:
-═════════════════════════
+=========================
 • Access to all information
 • No sense of separate self
 • Overwhelming for organism
 • Not useful for survival
 
-        ↓ BRAIN FILTERS
+        v BRAIN FILTERS
         
 FILTERED CONSCIOUSNESS:
-═══════════════════════
+=======================
 • Limited to local needs
 • Sense of individual self
 • Manageable for survival

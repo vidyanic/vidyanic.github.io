@@ -204,8 +204,8 @@ CONFIDENCE: 82% (adjusted)
 
 KEY TEST:
 Continued null results in detection experiments
-→ Supports Multi-Loka hypothesis
+-> Supports Multi-Loka hypothesis
 Detection of any dark matter particle
-→ Falsifies Multi-Loka hypothesis for that component
+-> Falsifies Multi-Loka hypothesis for that component
 ```
 

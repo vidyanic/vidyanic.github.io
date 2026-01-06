@@ -6,7 +6,7 @@
 
 ```
 ANU-MAHAT (अणु-महत्):
-══════════════════════
+======================
 
 ANU = Smallest
 MAHAT = Greatest
@@ -23,9 +23,9 @@ Same pattern at smallest and greatest scales
 
 ```
 81-GRID (81 = 3⁴):
-════════════════════
+====================
 
-1 → 3 → 9 → 27 → 81
+1 -> 3 -> 9 -> 27 -> 81
 
 MEANING:
 • 1 = Bindu (point, potential)
@@ -41,7 +41,7 @@ MEANING:
 
 ```
 NO TOP, NO BOTTOM:
-══════════════════
+==================
 
 ∞ levels above us
 ∞ levels below us

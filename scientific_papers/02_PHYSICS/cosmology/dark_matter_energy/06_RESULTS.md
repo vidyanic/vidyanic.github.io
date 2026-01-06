@@ -56,9 +56,9 @@ ADJUSTMENT NEEDED:
 GUNA-ADJUSTED CALCULATION:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UPPER LOKAS (6 Lokas): Low Tamas → Less mass
-BHULOKA (1 Loka): Medium Tamas → Visible
-LOWER LOKAS (7 Lokas): High Tamas → More mass
+UPPER LOKAS (6 Lokas): Low Tamas -> Less mass
+BHULOKA (1 Loka): Medium Tamas -> Visible
+LOWER LOKAS (7 Lokas): High Tamas -> More mass
 
 IF:
 Upper Lokas contribute 10% of mass
@@ -200,22 +200,22 @@ BOTH explain observation.
 ### 6.6.2 Overall Assessment
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    RESULTS SUMMARY                            ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  STRUCTURAL CORRESPONDENCE:     17/17 (100%)                  ║
-║  PROPORTIONALITY:               Matches with adjustment       ║
-║  NON-DETECTION EXPLAINED:       Yes (predicted null)          ║
-║  LENSING CONSISTENT:            Yes                           ║
-║  DARK ENERGY CONSISTENT:        Yes                           ║
-║                                                               ║
-║  CRITICAL FINDING:                                            ║
-║  90 years of null results are PREDICTED by Multi-Loka model  ║
-║  This is the key distinguishing feature.                      ║
-║                                                               ║
-║  CONFIDENCE: 82%                                              ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    RESULTS SUMMARY                            |
++===============================================================+
+|                                                               |
+|  STRUCTURAL CORRESPONDENCE:     17/17 (100%)                  |
+|  PROPORTIONALITY:               Matches with adjustment       |
+|  NON-DETECTION EXPLAINED:       Yes (predicted null)          |
+|  LENSING CONSISTENT:            Yes                           |
+|  DARK ENERGY CONSISTENT:        Yes                           |
+|                                                               |
+|  CRITICAL FINDING:                                            |
+|  90 years of null results are PREDICTED by Multi-Loka model  |
+|  This is the key distinguishing feature.                      |
+|                                                               |
+|  CONFIDENCE: 82%                                              |
+|                                                               |
++===============================================================+
 ```
 

@@ -1,6 +1,6 @@
 # 4. Hypothesis
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -22,9 +22,9 @@ f = Production function
 
 IMPLIES:
 • C is fully dependent on B
-• No B → No C
-• More B → More C (generally)
-• Damage to B → Less C
+• No B -> No C
+• More B -> More C (generally)
+• Damage to B -> Less C
 ```
 
 ---
@@ -48,9 +48,9 @@ B = Brain state
 
 IMPLIES:
 • C_∞ is independent of B
-• No B → No LOCAL C (but C_∞ continues)
-• Less filtering (↓F) → More C_local
-• Damage to B → Distorted filtering
+• No B -> No LOCAL C (but C_∞ continues)
+• Less filtering (vF) -> More C_local
+• Damage to B -> Distorted filtering
 ```
 
 ---

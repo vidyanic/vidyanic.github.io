@@ -31,7 +31,7 @@ Every multicellular organism ages. But why?
 Steve Horvath discovered DNA methylation at specific sites correlates with age — the "epigenetic clock."
 
 ```
-METHYLATION AT SPECIFIC SITES → BIOLOGICAL AGE
+METHYLATION AT SPECIFIC SITES -> BIOLOGICAL AGE
 
 • Works across tissues
 • Works across species
@@ -50,13 +50,13 @@ The clock is measuring **accumulated epigenetic changes** — essentially, cellu
 
 ```
 BREATH BUDGET:
-═════════════
+=============
 
 Traditional estimate: ~778 million breaths/lifetime
 
-Tortoise: 4/min → 150 years
-Human: 15/min → 80 years
-Mouse: 150/min → 2 years
+Tortoise: 4/min -> 150 years
+Human: 15/min -> 80 years
+Mouse: 150/min -> 2 years
 
 Each breath = 1 tick
 When ticks exhausted = Death

@@ -167,7 +167,7 @@ VALIDITY: ✅ SOUND
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

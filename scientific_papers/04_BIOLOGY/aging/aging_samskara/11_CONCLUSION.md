@@ -5,23 +5,23 @@
 ## 11.1 The Core Insight
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   AGING = SAMSKARA ACCUMULATION                              ║
-║                                                               ║
-║   Epigenetic marks accumulate over time                      ║
-║   Tamas gradually dominates Sattva                           ║
-║   Repair capacity declines                                   ║
-║   Eventually, body can't maintain order                      ║
-║                                                               ║
-║   BUT:                                                       ║
-║                                                               ║
-║   • Accumulation can be slowed (lifestyle)                   ║
-║   • Samskaras can be cleared (reprogramming)                 ║
-║   • Ticks can be conserved (Pranayama)                       ║
-║   • Atman never ages (only body does)                        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   AGING = SAMSKARA ACCUMULATION                              |
+|                                                               |
+|   Epigenetic marks accumulate over time                      |
+|   Tamas gradually dominates Sattva                           |
+|   Repair capacity declines                                   |
+|   Eventually, body can't maintain order                      |
+|                                                               |
+|   BUT:                                                       |
+|                                                               |
+|   • Accumulation can be slowed (lifestyle)                   |
+|   • Samskaras can be cleared (reprogramming)                 |
+|   • Ticks can be conserved (Pranayama)                       |
+|   • Atman never ages (only body does)                        |
+|                                                               |
++===============================================================+
 ```
 
 ---

@@ -40,13 +40,13 @@ When particles become entangled:
 **Create two entangled photons:**
 ```
 Before measurement:
-Photon A: Spin = ↑ AND ↓ (superposition)
-Photon B: Spin = ↑ AND ↓ (superposition)
+Photon A: Spin = ^ AND v (superposition)
+Photon B: Spin = ^ AND v (superposition)
 Relationship: ALWAYS OPPOSITE
 
-After measuring A (result: ↑):
-Photon A: Spin = ↑ (definite)
-Photon B: Spin = ↓ (INSTANTLY determined)
+After measuring A (result: ^):
+Photon A: Spin = ^ (definite)
+Photon B: Spin = v (INSTANTLY determined)
 ```
 
 ### 1.3 The Strangeness
@@ -89,8 +89,8 @@ OPTION 2: Hidden Variables
 ### 3.1 The Test
 
 **John Bell created a mathematical test:**
-- If hidden variables exist → Certain statistical limit (Bell inequality)
-- If quantum mechanics is correct → Inequality violated
+- If hidden variables exist -> Certain statistical limit (Bell inequality)
+- If quantum mechanics is correct -> Inequality violated
 
 ### 3.2 The Result
 
@@ -148,7 +148,7 @@ Meaning:
 
 ```
 INDRA'S NET:
-════════════
+============
 • Infinite net in all directions
 • At each vertex, a jewel
 • Each jewel reflects ALL other jewels
@@ -186,19 +186,19 @@ INDRA'S NET:
 
 ```
 THE NETWORK VIEW:
-═════════════════
+=================
 
 BRAHMAN (Consciousness substrate)
-    │
-    └── Creates "particles" as nodes
-        │
-        └── Nodes are NOT separate
-            │
-            └── ALL nodes in ONE substrate
-                │
-                └── "Distance" is rendering artifact
-                    │
-                    └── Correlation is NATURAL (same source)
+    |
+    +-- Creates "particles" as nodes
+        |
+        +-- Nodes are NOT separate
+            |
+            +-- ALL nodes in ONE substrate
+                |
+                +-- "Distance" is rendering artifact
+                    |
+                    +-- Correlation is NATURAL (same source)
 ```
 
 ### 6.2 The Backend Connection

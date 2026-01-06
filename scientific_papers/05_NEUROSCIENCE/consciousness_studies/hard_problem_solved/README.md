@@ -1,12 +1,12 @@
 # 🧠 HARD PROBLEM SOLVED — You're Not In The Game, You're The Player
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 88%  
 > **DIFFICULTY:** Philosophy-friendly
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 For 50+ years and billions in funding, neuroscience has failed to answer:
 
@@ -58,29 +58,29 @@ The **receiver model** explains all anomalies. The **generator model** can't.
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 THE COMMON ASSUMPTION (Generator Model):
-┌────────────────────────────────────────────────┐
-│  Brain neurons firing                          │
-│       ↓                                        │
-│  Somehow produces... consciousness???          │
-│       ↓                                        │
-│  "Experience" emerges from computation         │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Brain neurons firing                          |
+|       v                                        |
+|  Somehow produces... consciousness???          |
+|       v                                        |
+|  "Experience" emerges from computation         |
++------------------------------------------------+
 (Nobody can explain the "somehow" part)
 
 WHAT'S ACTUALLY HAPPENING (Receiver Model):
-┌────────────────────────────────────────────────┐
-│  PLAYER (Consciousness/Purusha)                │
-│       ↓                                        │
-│  VR HEADSET (Brain) receives & filters         │
-│       ↓                                        │
-│  AVATAR (Body) is what player experiences AS   │
-│       ↓                                        │
-│  GAME WORLD (Reality) is rendered around       │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  PLAYER (Consciousness/Purusha)                |
+|       v                                        |
+|  VR HEADSET (Brain) receives & filters         |
+|       v                                        |
+|  AVATAR (Body) is what player experiences AS   |
+|       v                                        |
+|  GAME WORLD (Reality) is rendered around       |
++------------------------------------------------+
 ```
 
 **You're not the avatar. You're the player USING the avatar.**
@@ -150,7 +150,7 @@ If you're the player, not the character:
 
 ## 🔗 NEXT PAPER
 
-**[Brain as Receiver →](../../brain_mind/brain_as_receiver/README.md)**  
+**[Brain as Receiver ->](../../brain_mind/brain_as_receiver/README.md)**  
 *"If brain doesn't create consciousness, what does it do?"*  
 *Spoiler: It's your VR headset with bandwidth limits.*
 

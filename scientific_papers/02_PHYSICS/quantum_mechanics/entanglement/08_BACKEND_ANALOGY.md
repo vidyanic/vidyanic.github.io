@@ -6,7 +6,7 @@
 
 ```
 INDRAJALA (इन्द्रजाल):
-═════════════════════
+=====================
 
 STRUCTURE:
 • Infinite net
@@ -28,7 +28,7 @@ MEANING:
 
 ```
 ADVAITA (अद्वैत):
-═════════════════
+=================
 
 NOT: "All is one" (implies merger)
 BUT: "Not two" (denies separation)

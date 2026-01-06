@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [81-Grid — 14 Lokas](../../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)
 
 ---
@@ -14,31 +14,31 @@
 Backend Architecture describes reality as rendered across 14 frequency bands called Lokas (लोक/realms):
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    14 LOKAS (Frequency Bands)                 ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  UPPER LOKAS (Higher Frequency, More Sattva):                 ║
-║  ─────────────────────────────────────────────                ║
-║  14. Satya Loka (सत्य/Truth) — Highest                        ║
-║  13. Tapa Loka (तप/Austerity)                                 ║
-║  12. Jana Loka (जन/Creation)                                  ║
-║  11. Mahar Loka (महर्/Greatness)                              ║
-║  10. Svarga Loka (स्वर्ग/Heaven)                               ║
-║  9.  Bhuvar Loka (भुवर्/Atmosphere)                           ║
-║  8.  BHULOKA ← WE ARE HERE (भूलोक/Visible universe)           ║
-║                                                               ║
-║  LOWER LOKAS (Lower Frequency, More Tamas):                   ║
-║  ─────────────────────────────────────────────                ║
-║  7.  Atala (अतल)                                              ║
-║  6.  Vitala (वितल)                                            ║
-║  5.  Sutala (सुतल)                                            ║
-║  4.  Talatala (तलातल)                                         ║
-║  3.  Mahatala (महातल)                                         ║
-║  2.  Rasatala (रसातल)                                         ║
-║  1.  Patala (पाताल) — Lowest                                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    14 LOKAS (Frequency Bands)                 |
++===============================================================+
+|                                                               |
+|  UPPER LOKAS (Higher Frequency, More Sattva):                 |
+|  ---------------------------------------------                |
+|  14. Satya Loka (सत्य/Truth) — Highest                        |
+|  13. Tapa Loka (तप/Austerity)                                 |
+|  12. Jana Loka (जन/Creation)                                  |
+|  11. Mahar Loka (महर्/Greatness)                              |
+|  10. Svarga Loka (स्वर्ग/Heaven)                               |
+|  9.  Bhuvar Loka (भुवर्/Atmosphere)                           |
+|  8.  BHULOKA <- WE ARE HERE (भूलोक/Visible universe)           |
+|                                                               |
+|  LOWER LOKAS (Lower Frequency, More Tamas):                   |
+|  ---------------------------------------------                |
+|  7.  Atala (अतल)                                              |
+|  6.  Vitala (वितल)                                            |
+|  5.  Sutala (सुतल)                                            |
+|  4.  Talatala (तलातल)                                         |
+|  3.  Mahatala (महातल)                                         |
+|  2.  Rasatala (रसातल)                                         |
+|  1.  Patala (पाताल) — Lowest                                  |
+|                                                               |
++===============================================================+
 ```
 
 #### 🎯 Understanding 14 Lokas — 5 Perspectives
@@ -79,12 +79,12 @@ class Universe:
 Think of Lokas as **microservices running on different ports**:
 
 ```
-PORT 1  (Patala)   ← Highest Tamas
+PORT 1  (Patala)   <- Highest Tamas
 PORT 2  (Rasatala)
 ...
-PORT 8  (Bhuloka)  ← OUR PORT (visible to us)
+PORT 8  (Bhuloka)  <- OUR PORT (visible to us)
 ...
-PORT 14 (Satya)    ← Highest Sattva
+PORT 14 (Satya)    <- Highest Sattva
 
 NETWORK BEHAVIOR:
 • Each port runs its own service (rendering reality)
@@ -195,7 +195,7 @@ We cannot see the source.
 = "Dark matter"
 ```
 
-> **🔗 Related:** [Gravity = Tamas](../../gravity/gravity_tamas/) — Why mass curves spacetime
+> **🔗 Related:** [Gravity = Tamas](../../gravity/gravity_tamas) — Why mass curves spacetime
 
 ---
 
@@ -215,13 +215,13 @@ We cannot see the source.
 
 ```
 UPPER LOKAS (High Sattva):
-• Less Tamas → Less mass
+• Less Tamas -> Less mass
 • More expansion tendency
 • "Lighter" reality
 • May contribute to dark energy (expansion)
 
 LOWER LOKAS (High Tamas):
-• More Tamas → More mass
+• More Tamas -> More mass
 • More contraction tendency
 • "Heavier" reality
 • Major contributor to dark matter (mass)
@@ -259,15 +259,15 @@ M_dark = M_total - M_visible = Σ(Tamas_other_Lokas)
 ```
 Imagine 14 rooms with varying amounts of gold:
 
-Room 8 (Bhuloka):  5 kg gold  ← We can SEE this room
-Room 1-7 (Lower):  20 kg total  ← We can't see these
-Room 9-14 (Upper): 7 kg total  ← We can't see these
-─────────────────────────────────
+Room 8 (Bhuloka):  5 kg gold  <- We can SEE this room
+Room 1-7 (Lower):  20 kg total  <- We can't see these
+Room 9-14 (Upper): 7 kg total  <- We can't see these
+---------------------------------
 TOTAL:             32 kg
 
 WHAT WE SEE:       5 kg (visible matter ≈ 5%)
 WHAT WE FEEL:     27 kg (dark matter ≈ 27%)
-                   ↑ We feel the weight but can't see the gold!
+                   ^ We feel the weight but can't see the gold!
 
 The remaining 68% (dark energy) comes from 
 Sattva-expansion in upper Lokas.
@@ -299,8 +299,8 @@ Discrepancy may be due to uneven Tamas distribution
 DARK ENERGY HYPOTHESIS:
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-TAMAS → Contraction, gravity, attraction
-SATTVA → Expansion, lightness, repulsion
+TAMAS -> Contraction, gravity, attraction
+SATTVA -> Expansion, lightness, repulsion
 
 At cosmic scale:
 • Tamas creates gravitational attraction
@@ -311,7 +311,7 @@ At cosmic scale:
 DARK ENERGY = Cosmic Sattva dominance
 ```
 
-> **🔗 Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas/) — Why Tamas is associated with contraction
+> **🔗 Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Why Tamas is associated with contraction
 
 #### 🎯 For Everyone: The Expansion Tug-of-War
 
@@ -319,9 +319,9 @@ DARK ENERGY = Cosmic Sattva dominance
 COSMIC TUG-OF-WAR:
 ━━━━━━━━━━━━━━━━━
 
-       ← TAMAS (pulls in)    SATTVA (pushes out) →
-       ← Gravity             Expansion →
-       ← 32%                 68% →
+       <- TAMAS (pulls in)    SATTVA (pushes out) ->
+       <- Gravity             Expansion ->
+       <- 32%                 68% ->
 
 CURRENT WINNER: Sattva (universe expanding faster)
 
@@ -341,9 +341,9 @@ Reintroduced for accelerating expansion.
 
 BACKEND:
 Λ = Sattva pressure - Tamas contraction
-Λ > 0 → Universe expands (Sattva dominant)
-Λ < 0 → Universe contracts (Tamas dominant)
-Λ = 0 → Universe static (perfect balance)
+Λ > 0 -> Universe expands (Sattva dominant)
+Λ < 0 -> Universe contracts (Tamas dominant)
+Λ = 0 -> Universe static (perfect balance)
 ```
 
 ---
@@ -469,7 +469,7 @@ Some halos show asymmetry (consistent with multi-Loka model).
 | Dark energy | Cosmological constant | Sattva expansion | [§6](./06_RESULTS.md) |
 | 27%/68%/5% | Unexplained ratio | Loka distribution | [Validation](./10_VALIDATION.md) |
 | Non-detection | Awaiting discovery | Expected (wrong frequency) | [Discussion](./09_DISCUSSION.md) |
-| Gravity crosses | Assumed | Geometry is universal | [Gravity = Tamas](../../gravity/gravity_tamas/) |
+| Gravity crosses | Assumed | Geometry is universal | [Gravity = Tamas](../../gravity/gravity_tamas) |
 | Light doesn't | Assumed | Frequency-specific | [Rendering Laws](../../../../vishnu_engine/spec/frontend_rendering/02_RENDERING_LAWS.md) |
 
 ---
@@ -481,8 +481,8 @@ Some halos show asymmetry (consistent with multi-Loka model).
 ## 📚 References for This Section
 
 - **Foundation:** [81-Grid — 14 Lokas](../../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)
-- **Related:** [Gravity = Tamas](../../gravity/gravity_tamas/) — Why mass curves spacetime
-- **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas/) — Tamas properties
+- **Related:** [Gravity = Tamas](../../gravity/gravity_tamas) — Why mass curves spacetime
+- **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Tamas properties
 - **Principles:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

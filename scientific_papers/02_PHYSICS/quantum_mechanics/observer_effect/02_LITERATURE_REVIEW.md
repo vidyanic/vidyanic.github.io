@@ -136,6 +136,6 @@ The integration of quantum findings with Backend Framework to propose consciousn
 **Sequential Elimination Approach:**
 - Used in particle physics to identify fundamental particles
 - Applied here to identify what constitutes observation
-- If X can be removed without changing results → X is not essential
-- If X cannot be removed → X is irreducible
+- If X can be removed without changing results -> X is not essential
+- If X cannot be removed -> X is irreducible
 

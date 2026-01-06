@@ -18,7 +18,7 @@
 
 ```
 THE FUNDAMENTAL OBSERVATION:
-════════════════════════════
+============================
 
 Rich, coherent, verifiable experiences occur
 when the brain has no measurable activity.
@@ -38,7 +38,7 @@ This is:
 1. **Consciousness may be non-local**
    - Not produced by brain
    - Brain as receiver/filter
-   - See [Brain as Receiver](../../brain_mind/brain_as_receiver/)
+   - See [Brain as Receiver](../../brain_mind/brain_as_receiver)
 
 2. **New research paradigm needed**
    - Study consciousness directly
@@ -48,7 +48,7 @@ This is:
 3. **Physics implications**
    - Non-local consciousness = Non-local causation?
    - Connection to quantum mechanics?
-   - See [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/)
+   - See [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 
 ### 9.2.2 For Medicine
 
@@ -72,7 +72,7 @@ This is:
 1. **Mind-body problem**
    - Evidence for dualism (at minimum)
    - Consciousness may be fundamental
-   - See [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
+   - See [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
 
 2. **Death and meaning**
    - Death may be transition, not end
@@ -173,9 +173,9 @@ Parnia's follow-up study with:
 
 | Paper | Connection |
 |-------|------------|
-| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/) | NDEs support consciousness as axiom |
-| [Brain as Receiver](../../brain_mind/brain_as_receiver/) | NDEs support receiver model |
-| [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/) | Non-local consciousness affects physics |
+| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) | NDEs support consciousness as axiom |
+| [Brain as Receiver](../../brain_mind/brain_as_receiver) | NDEs support receiver model |
+| [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) | Non-local consciousness affects physics |
 
 ---
 

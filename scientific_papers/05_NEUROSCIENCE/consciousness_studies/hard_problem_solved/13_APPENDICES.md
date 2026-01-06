@@ -19,8 +19,8 @@ CONCLUSION:
 Consciousness is not identical to physical processes.
 
 RESPONSE TO OBJECTORS:
-"Inconceivable" → But we can conceive it, so...
-"Not really possible" → Possibility follows from conceivability for fundamental concepts
+"Inconceivable" -> But we can conceive it, so...
+"Not really possible" -> Possibility follows from conceivability for fundamental concepts
 ```
 
 ### A.2 The Knowledge Argument (Jackson)
@@ -178,18 +178,18 @@ E = Explanation
 P = Presupposition
 
 AXIOM 1:
-∀x: E(x) → C exists (All explanation requires consciousness)
+∀x: E(x) -> C exists (All explanation requires consciousness)
 
 AXIOM 2:
-E(C) → P(C) (Explaining consciousness presupposes consciousness)
+E(C) -> P(C) (Explaining consciousness presupposes consciousness)
 
 THEOREM:
 ¬∃e: e = E(C) ∧ ¬P(C) (No explanation of C without presupposing C)
 
 PROOF:
 Assume ∃e: e = E(C) ∧ ¬P(C)
-By Axiom 2: E(C) → P(C)
-Therefore: E(C) → ¬(¬P(C))
+By Axiom 2: E(C) -> P(C)
+Therefore: E(C) -> ¬(¬P(C))
 Contradiction with assumption
 Therefore: ¬∃e: e = E(C) ∧ ¬P(C)
 QED
@@ -208,7 +208,7 @@ G(x,y) = x generates y
 F(x,y) = x filters y
 
 IF G(B,C):
-dB/dt < 0 → dC/dt < 0 (less brain → less consciousness)
+dB/dt < 0 -> dC/dt < 0 (less brain -> less consciousness)
 
 OBSERVATION:
 ∃ cases: dB/dt < 0 ∧ dC/dt > 0
@@ -217,7 +217,7 @@ CONTRADICTION:
 Therefore: ¬G(B,C)
 
 ALTERNATIVE:
-F(B,C): dB/dt < 0 → (filter decreases → C access increases)
+F(B,C): dB/dt < 0 -> (filter decreases -> C access increases)
 This fits observations.
 
 CONCLUSION:

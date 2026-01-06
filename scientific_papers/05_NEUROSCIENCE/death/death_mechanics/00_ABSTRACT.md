@@ -21,7 +21,7 @@ What is the mechanism of death according to Backend Architecture, and how does i
 | Pre-death (days) | Subtle changes | Atman withdrawal |
 | Active dying (hours) | Organ shutdown | Kosha collapse |
 | Clinical death | Heart/brain stop | Prana exit |
-| Post-mortem | Decay | Annamaya → elements |
+| Post-mortem | Decay | Annamaya -> elements |
 
 ---
 

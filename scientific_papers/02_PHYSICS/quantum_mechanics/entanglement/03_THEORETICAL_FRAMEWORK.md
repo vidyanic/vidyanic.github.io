@@ -6,7 +6,7 @@
 
 ```
 ENTANGLEMENT LOGIC:
-════════════════════
+====================
 
 BEFORE MEASUREMENT:
 Both particles in superposition
@@ -42,7 +42,7 @@ class EntangledPair:
         return result
         
     def measure_B(self):
-        # Same shared state → correlated result
+        # Same shared state -> correlated result
         return self._shared_state.get_correlated()
 
 # Not two objects communicating — one object with two names
@@ -71,7 +71,7 @@ But quantum is stranger:
 
 ```
 ALL JEWELS ARE ONE NET:
-══════════════════════
+======================
 
 • Apparent separation = Maya
 • True nature = Non-dual (Advaita)

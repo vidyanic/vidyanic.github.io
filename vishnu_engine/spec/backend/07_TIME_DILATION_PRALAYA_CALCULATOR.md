@@ -27,18 +27,18 @@ Before diving into formulas, let's understand what we're talking about:
 
 **When Time SLOWS DOWN:**
 ```
-- Childhood summer vacation → Felt like 3 months
-- First day at new job → Felt like a week
-- Meditation for 10 min → Feels peaceful, spacious
-- Watching sunset → Moment feels eternal
+- Childhood summer vacation -> Felt like 3 months
+- First day at new job -> Felt like a week
+- Meditation for 10 min -> Feels peaceful, spacious
+- Watching sunset -> Moment feels eternal
 ```
 
 **When Time SPEEDS UP:**
 ```
-- Scrolling social media 2 hours → Felt like 10 minutes
-- Busy work week → Friday arrives "already?!"
-- Year in routine job → "Where did 2024 go?"
-- Watching loved one age → "They were just 40 yesterday!"
+- Scrolling social media 2 hours -> Felt like 10 minutes
+- Busy work week -> Friday arrives "already?!"
+- Year in routine job -> "Where did 2024 go?"
+- Watching loved one age -> "They were just 40 yesterday!"
 ```
 
 **Why This Happens (Simple Version):**
@@ -57,8 +57,8 @@ Before diving into formulas, let's understand what we're talking about:
 
 **The Medical Reality:**
 - Two patients, same age (50), vastly different "biological age"
-- One looks 40, energetic, healthy → Biological age: 40
-- One looks 60, tired, diseased → Biological age: 60
+- One looks 40, energetic, healthy -> Biological age: 40
+- One looks 60, tired, diseased -> Biological age: 60
 - **Time isn't passing at same rate for them biologically!**
 
 **Clinical Observations:**
@@ -66,22 +66,22 @@ Before diving into formulas, let's understand what we're talking about:
 **Time Dilation in Disease:**
 ```
 CHRONIC STRESS PATIENT:
-- Cortisol high → Cellular aging accelerated
-- Telomeres shortening faster → Biological time 1.5x
-- Mitochondrial function decreased → Energy/time compressed
+- Cortisol high -> Cellular aging accelerated
+- Telomeres shortening faster -> Biological time 1.5x
+- Mitochondrial function decreased -> Energy/time compressed
 - Result: 40-year-old has 55-year-old cells
 
 MEDITATIVE/HEALTHY PATIENT:
-- Cortisol low → Cellular repair optimized
-- Telomeres preserved → Biological time 0.8x
-- Mitochondrial function enhanced → Energy abundant
+- Cortisol low -> Cellular repair optimized
+- Telomeres preserved -> Biological time 0.8x
+- Mitochondrial function enhanced -> Energy abundant
 - Result: 60-year-old has 50-year-old cells
 ```
 
 **What This Calculator Measures:**
-- **Guna Imbalance** → Predicts biological age acceleration
-- **Tamas Load** → Calculates disease risk trajectory
-- **Sattva Level** → Estimates lifespan extension potential
+- **Guna Imbalance** -> Predicts biological age acceleration
+- **Tamas Load** -> Calculates disease risk trajectory
+- **Sattva Level** -> Estimates lifespan extension potential
 
 **Clinical Application:**
 ```
@@ -119,7 +119,7 @@ PRESCRIPTION:
 t' = t / √(1 - v²/c²)      [Special Relativity]
 t' = t / √(1 - 2GM/rc²)    [General Relativity]
 
-Fast motion or strong gravity → Time slows objectively
+Fast motion or strong gravity -> Time slows objectively
 Measurable with atomic clocks
 ```
 
@@ -127,8 +127,8 @@ Measurable with atomic clocks
 ```
 t_experienced = t_objective × (Rajas + 2×Tamas) / Sattva
 
-High Tamas → Time "disappears" (life rushes by)
-High Sattva → Time "expands" (presence, depth)
+High Tamas -> Time "disappears" (life rushes by)
+High Sattva -> Time "expands" (presence, depth)
 Measurable via cognitive tests, perception studies
 ```
 
@@ -258,11 +258,11 @@ HUMAN LIFESPAN = SYSTEM LIFESPAN
 
 If you run your "system" (body/mind) at:
 - 100% load, no maintenance, accumulating debt
-→ Predict failure at 50-60 years (heart disease, burnout)
+-> Predict failure at 50-60 years (heart disease, burnout)
 
 If you run your "system" with:
 - 70% load, daily maintenance, debt paid regularly
-→ Predict graceful operation to 90-100 years
+-> Predict graceful operation to 90-100 years
 
 THE CALCULATOR TELLS YOU WHICH PATH YOU'RE ON.
 ```
@@ -272,23 +272,23 @@ THE CALCULATOR TELLS YOU WHICH PATH YOU'RE ON.
 ## 📊 THE CORE MESSAGE (ALL 5 PERSPECTIVES)
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   TIME IS NOT THE SAME FOR EVERYONE                           ║
-║                                                               ║
-║   Two people live 80 years:                                   ║
-║   • One experiences 64 years of LIFE (high presence)          ║
-║   • One experiences 16 years of LIFE (low presence)           ║
-║                                                               ║
-║   This calculator shows:                                      ║
-║   1. How much time you're LOSING (due to Tamas/Rajas)         ║
-║   2. When your personal "end" arrives (Pralaya calculation)   ║
-║   3. How to EXPAND your experienced time (increase Sattva)    ║
-║                                                               ║
-║   This isn't philosophy. It's mathematics.                    ║
-║   The formulas below let you CALCULATE your trajectory.       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   TIME IS NOT THE SAME FOR EVERYONE                           |
+|                                                               |
+|   Two people live 80 years:                                   |
+|   • One experiences 64 years of LIFE (high presence)          |
+|   • One experiences 16 years of LIFE (low presence)           |
+|                                                               |
+|   This calculator shows:                                      |
+|   1. How much time you're LOSING (due to Tamas/Rajas)         |
+|   2. When your personal "end" arrives (Pralaya calculation)   |
+|   3. How to EXPAND your experienced time (increase Sattva)    |
+|                                                               |
+|   This isn't philosophy. It's mathematics.                    |
+|   The formulas below let you CALCULATE your trajectory.       |
+|                                                               |
++===============================================================+
 ```
 
 **Now, let's get into the technical details...**
@@ -305,20 +305,20 @@ THE CALCULATOR TELLS YOU WHICH PATH YOU'RE ON.
 ### ⚠️ THE SHRAPA (Sacred Warning)
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║   ⚠️  TIME IS NOT A LINEAR CONSTANT — IT IS A FREQUENCY-DEPENDENT VARIABLE  ⚠️    ║
-║                                                                                   ║
-║   YOUR SUBJECTIVE TIME EXPERIENCE DEPENDS ON YOUR GUNA COMPOSITION               ║
-║                                                                                   ║
-║   IF YOU DO NOT SYNC YOUR GUNAS WITH COSMIC KALA:                                ║
-║   • High Tamas = Accelerated subjective time = Life feels "rushed"               ║
-║   • High Rajas = Chaotic time = Life feels "unstable"                            ║
-║   • High Sattva = Expanded time = Life feels "spacious"                          ║
-║                                                                                   ║
-║   FAILURE TO SYNC = INDIVIDUAL PRALAYA (PREMATURE DEATH/COLLAPSE)                ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
++===================================================================================+
+|                                                                                   |
+|   ⚠️  TIME IS NOT A LINEAR CONSTANT — IT IS A FREQUENCY-DEPENDENT VARIABLE  ⚠️    |
+|                                                                                   |
+|   YOUR SUBJECTIVE TIME EXPERIENCE DEPENDS ON YOUR GUNA COMPOSITION               |
+|                                                                                   |
+|   IF YOU DO NOT SYNC YOUR GUNAS WITH COSMIC KALA:                                |
+|   • High Tamas = Accelerated subjective time = Life feels "rushed"               |
+|   • High Rajas = Chaotic time = Life feels "unstable"                            |
+|   • High Sattva = Expanded time = Life feels "spacious"                          |
+|                                                                                   |
+|   FAILURE TO SYNC = INDIVIDUAL PRALAYA (PREMATURE DEATH/COLLAPSE)                |
+|                                                                                   |
++===================================================================================+
 ```
 
 > **"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"**
@@ -327,9 +327,9 @@ THE CALCULATOR TELLS YOU WHICH PATH YOU'RE ON.
 > — Bhagavad Gita 2.47
 
 **Translation for Time Context:**
-- Act in the present (Sattva) → Time expands
-- Act for future reward (Rajas) → Time compresses, anxiety increases
-- Act with laziness/avoidance (Tamas) → Time speeds up, life "disappears"
+- Act in the present (Sattva) -> Time expands
+- Act for future reward (Rajas) -> Time compresses, anxiety increases
+- Act with laziness/avoidance (Tamas) -> Time speeds up, life "disappears"
 
 ---
 
@@ -419,7 +419,7 @@ Think of `L_m` as your "time multiplier" — how much life experience you get pe
    - `D` = The "cosmic frequency" of the current age we're in
      - Satya Yuga (D=4): Highest frequency, time flows most spaciously
      - Treta Yuga (D=3): High frequency
-     - Dvapara Yuga (D=2): Medium frequency ← We're transitioning here NOW
+     - Dvapara Yuga (D=2): Medium frequency <- We're transitioning here NOW
      - Kali Yuga (D=1): Lowest frequency
    - `S` = Your personal Sattva level (clarity, peace, awareness)
      - 0.0 = Zero clarity (completely confused)
@@ -465,7 +465,7 @@ L_m = (2 × 0.1) / (0.4 + 2×0.5)
 
 MEANING: Every 1 calendar year feels like only 0.14 years (7 weeks!) of experience!
 If they live 50 more years: 50 × 0.14 = 7 experiential years total!
-"Where did my life go?!" ← This is why!
+"Where did my life go?!" <- This is why!
 ```
 
 **Key Insight:** Two people can live the same number of calendar years, but one experiences 45× MORE LIFE than the other! This is why Sattvic people seem "wise beyond their years" and Tamasic people feel "life passed in a blur."
@@ -482,7 +482,7 @@ If they live 50 more years: 50 × 0.14 = 7 experiential years total!
 | # | Concept | Check | Formula Compliance |
 |---|---------|-------|-------------------|
 | 1 | **Conservation** | ✅ | S + R + T = 1 (Energy conserved) |
-| 2 | **Entropy** | ✅ | High T → Low L_m (Time speeds up, entropy increases) |
+| 2 | **Entropy** | ✅ | High T -> Low L_m (Time speeds up, entropy increases) |
 | 3 | **Fractal** | ✅ | Formula applies at ALL scales (individual, society, planet) |
 | 4 | **Karma** | ✅ | Guna composition IS karma result |
 | 5 | **Observer** | ✅ | Subjective time = observer-dependent |
@@ -590,10 +590,10 @@ F_personal = Individual operating frequency (Hz)
 F_yuga     = Cosmic Yuga frequency (Hz)
 
 IF Frequency_Mismatch > Threshold:
-    → Increased Prana drain
-    → Accelerated aging
-    → Higher disease risk
-    → Premature Pralaya
+    -> Increased Prana drain
+    -> Accelerated aging
+    -> Higher disease risk
+    -> Premature Pralaya
 ```
 
 ### The Sync Check Formula
@@ -638,9 +638,9 @@ IF Sync_Status ≥ 1.0:  ✅  OPTIMAL — Synchronized with Kala
 **Scoring:** Count indicators for each. Normalize to sum = 1.0
 
 **Example:**
-- Sattva: 3/10 → 0.3
-- Rajas: 5/10 → 0.5
-- Tamas: 2/10 → 0.2
+- Sattva: 3/10 -> 0.3
+- Rajas: 5/10 -> 0.5
+- Tamas: 2/10 -> 0.2
 - Total: 1.0 ✅
 
 ---
@@ -714,26 +714,26 @@ Sync_Status = (0.3 × 0.5) / (0.5 + 0.2)
 ## 🔥 THE WARNING MESSAGE
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║   ⏰  YOUR CLOCK IS TICKING FASTER THAN YOU THINK  ⏰                              ║
-║                                                                                   ║
-║   BASED ON YOUR CURRENT GUNAS:                                                    ║
-║                                                                                   ║
-║   • You are experiencing time at a COMPRESSED rate                                ║
-║   • Your frequency is MISMATCHED with cosmic Kala                                 ║
-║   • If you do NOT sync, individual Pralaya will come prematurely                  ║
-║                                                                                   ║
-║   SYMPTOMS OF DESYNC:                                                             ║
-║   • Life feels "rushed" — never enough time                                       ║
-║   • Chronic stress, anxiety, insomnia                                             ║
-║   • Accelerated aging, disease                                                    ║
-║   • Feeling "disconnected" from reality                                           ║
-║   • Depression, meaninglessness                                                   ║
-║                                                                                   ║
-║   THE SOLUTION: GUNA CORRECTION (See below)                                       ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
++===================================================================================+
+|                                                                                   |
+|   ⏰  YOUR CLOCK IS TICKING FASTER THAN YOU THINK  ⏰                              |
+|                                                                                   |
+|   BASED ON YOUR CURRENT GUNAS:                                                    |
+|                                                                                   |
+|   • You are experiencing time at a COMPRESSED rate                                |
+|   • Your frequency is MISMATCHED with cosmic Kala                                 |
+|   • If you do NOT sync, individual Pralaya will come prematurely                  |
+|                                                                                   |
+|   SYMPTOMS OF DESYNC:                                                             |
+|   • Life feels "rushed" — never enough time                                       |
+|   • Chronic stress, anxiety, insomnia                                             |
+|   • Accelerated aging, disease                                                    |
+|   • Feeling "disconnected" from reality                                           |
+|   • Depression, meaninglessness                                                   |
+|                                                                                   |
+|   THE SOLUTION: GUNA CORRECTION (See below)                                       |
+|                                                                                   |
++===================================================================================+
 ```
 
 > **"उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥"**
@@ -894,20 +894,20 @@ Guna-Composition   = S/R/T ratio (Vedic contribution)
 ### What Happens in Sandhya
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║   SANDHYA = SYSTEM REBOOT IN PROGRESS                                             ║
-║                                                                                   ║
-║   • Old Kali rules breaking down                                                  ║
-║   • New Dvapara rules not yet stable                                              ║
-║   • Accelerated Karma manifestation (10x faster)                                  ║
-║   • Siddhi accessibility increasing                                               ║
-║   • Confusion and chaos for unprepared                                            ║
-║   • MAXIMUM OPPORTUNITY for prepared                                              ║
-║                                                                                   ║
-║   THIS IS YOUR WINDOW — USE IT OR LOSE IT                                         ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
++===================================================================================+
+|                                                                                   |
+|   SANDHYA = SYSTEM REBOOT IN PROGRESS                                             |
+|                                                                                   |
+|   • Old Kali rules breaking down                                                  |
+|   • New Dvapara rules not yet stable                                              |
+|   • Accelerated Karma manifestation (10x faster)                                  |
+|   • Siddhi accessibility increasing                                               |
+|   • Confusion and chaos for unprepared                                            |
+|   • MAXIMUM OPPORTUNITY for prepared                                              |
+|                                                                                   |
+|   THIS IS YOUR WINDOW — USE IT OR LOSE IT                                         |
+|                                                                                   |
++===================================================================================+
 ```
 
 ---
@@ -924,8 +924,8 @@ Guna-Composition   = S/R/T ratio (Vedic contribution)
 **Trigunatita = Beyond the Three Gunas = Time-Transcendent**
 
 ```
-When S, R, T → 0 (Transcended):
-L_m → ∞ (Infinite temporal expansion)
+When S, R, T -> 0 (Transcended):
+L_m -> ∞ (Infinite temporal expansion)
 
 This is TURIYA (तुरीय) — The Fourth State
 • Not bound by Yuga cycles
@@ -947,27 +947,27 @@ This is TURIYA (तुरीय) — The Fourth State
 
 ```
 MORNING (Brahmamuhurta — 4:30-5:30 AM):
-├── Cold water face wash (+S, -T)
-├── Pranayama: 10 min Nadi Shodhana (+S, -R)
-├── Meditation: 20 min (+S)
-├── Gayatri Mantra: 108x (+S)
-└── Sankalpa (Intention): "I sync with cosmic Kala"
++-- Cold water face wash (+S, -T)
++-- Pranayama: 10 min Nadi Shodhana (+S, -R)
++-- Meditation: 20 min (+S)
++-- Gayatri Mantra: 108x (+S)
++-- Sankalpa (Intention): "I sync with cosmic Kala"
 
 DAY:
-├── Sattvic food only (+S, -T)
-├── Nishkama Karma (desireless action) (-R)
-├── Minimal screen time (-R)
-└── Silent Japa (continuous Om) (+S)
++-- Sattvic food only (+S, -T)
++-- Nishkama Karma (desireless action) (-R)
++-- Minimal screen time (-R)
++-- Silent Japa (continuous Om) (+S)
 
 EVENING:
-├── Sunset meditation 10 min (+S)
-├── Gratitude practice (+S)
-├── No screens 2 hours before sleep (-R)
-└── Sleep by 10 PM (-T)
++-- Sunset meditation 10 min (+S)
++-- Gratitude practice (+S)
++-- No screens 2 hours before sleep (-R)
++-- Sleep by 10 PM (-T)
 
 WEEKLY:
-├── Ekadashi fast (+S, -T)
-└── Satsang/Knowledge study (+S)
++-- Ekadashi fast (+S, -T)
++-- Satsang/Knowledge study (+S)
 ```
 
 ---
@@ -1056,9 +1056,9 @@ You've seen the formulas. Now here's how EACH perspective can immediately use th
 MORNING ASSESSMENT:
 
 1. HOW DO YOU FEEL RIGHT NOW?
-   □ Calm, clear, present → High Sattva
-   □ Rushed, anxious, busy → High Rajas
-   □ Dull, foggy, tired → High Tamas
+   □ Calm, clear, present -> High Sattva
+   □ Rushed, anxious, busy -> High Rajas
+   □ Dull, foggy, tired -> High Tamas
 
 2. ESTIMATE YOUR RATIOS (Must add to 1.0):
    Sattva: ____ (0.0 to 1.0)
@@ -1104,23 +1104,23 @@ You'll have "slept through" 60 years!
 **Step 4: Take Action TODAY**
 ```
 INCREASE SATTVA (Expand time):
-□ 10 min morning meditation → +0.05 Sattva daily
-□ 5 min evening gratitude → +0.03 Sattva daily
-□ 1 hour nature walk weekly → +0.02 Sattva daily
-□ Eat sattvic foods (fresh, light) → +0.05 Sattva daily
+□ 10 min morning meditation -> +0.05 Sattva daily
+□ 5 min evening gratitude -> +0.03 Sattva daily
+□ 1 hour nature walk weekly -> +0.02 Sattva daily
+□ Eat sattvic foods (fresh, light) -> +0.05 Sattva daily
 
 DECREASE RAJAS (Reduce rushing):
-□ Say "no" to 1 commitment → -0.1 Rajas weekly
-□ Turn off notifications → -0.05 Rajas daily
-□ Stop multitasking → -0.1 Rajas daily
+□ Say "no" to 1 commitment -> -0.1 Rajas weekly
+□ Turn off notifications -> -0.05 Rajas daily
+□ Stop multitasking -> -0.1 Rajas daily
 
 DECREASE TAMAS (Wake up):
-□ Sleep before 10pm → -0.1 Tamas daily
-□ Exercise 20 min → -0.08 Tamas daily
-□ No TV/social media before bed → -0.05 Tamas daily
+□ Sleep before 10pm -> -0.1 Tamas daily
+□ Exercise 20 min -> -0.08 Tamas daily
+□ No TV/social media before bed -> -0.05 Tamas daily
 
 GOAL: Reach Sattva 0.6, Rajas 0.3, Tamas 0.1
-→ Time Dilation drops to 0.83 (time EXPANDS!)
+-> Time Dilation drops to 0.83 (time EXPANDS!)
 ```
 
 ---
@@ -1134,17 +1134,17 @@ GOAL: Reach Sattva 0.6, Rajas 0.3, Tamas 0.1
 PATIENT INTERVIEW (10 minutes):
 
 Questions to ask:
-1. "Does time feel like it's flying by?" → High Tamas/Rajas
-2. "Do you feel present during meals?" → Low Sattva indicator
-3. "How often do you feel calm?" → Sattva frequency
-4. "Do you wake up tired?" → High Tamas
-5. "Can you sit still for 5 minutes?" → Rajas/Tamas balance
+1. "Does time feel like it's flying by?" -> High Tamas/Rajas
+2. "Do you feel present during meals?" -> Low Sattva indicator
+3. "How often do you feel calm?" -> Sattva frequency
+4. "Do you wake up tired?" -> High Tamas
+5. "Can you sit still for 5 minutes?" -> Rajas/Tamas balance
 
 Objective Measures:
-- Resting heart rate (>80 → High Rajas)
-- Breath rate (>18/min → High Rajas/Tamas)
-- Cortisol levels (High → Rajas)
-- HRV (Low → Low Sattva)
+- Resting heart rate (>80 -> High Rajas)
+- Breath rate (>18/min -> High Rajas/Tamas)
+- Cortisol levels (High -> Rajas)
+- HRV (Low -> Low Sattva)
 ```
 
 **Step 2: Calculate Biological Age Acceleration**
@@ -1172,7 +1172,7 @@ Rx:
 4. Reduce heavy foods: No fried, processed foods
 5. Breathing: Bhastrika pranayama (stimulating)
 
-Expected: Tamas 0.5 → 0.2 in 3 months
+Expected: Tamas 0.5 -> 0.2 in 3 months
 Biological aging slows by 30%
 
 For HIGH RAJAS Patient (Anxious, Inflamed):
@@ -1183,7 +1183,7 @@ Rx:
 4. Digital detox: No screens 2 hours before bed
 5. Breathing: Nadi shodhana (balancing)
 
-Expected: Rajas 0.6 → 0.3 in 3 months
+Expected: Rajas 0.6 -> 0.3 in 3 months
 Inflammatory markers decrease, HRV improves
 ```
 
@@ -1201,7 +1201,7 @@ Remeasure:
 Recalculate:
 Bio_Age_Factor each visit
 Goal: Reach 1.0 (biological = chronological)
-Optimal: Reach 0.8 (biological < chronological → longevity)
+Optimal: Reach 0.8 (biological < chronological -> longevity)
 ```
 
 ---
@@ -1229,9 +1229,9 @@ TEST:
    - Breath rate
 
 HYPOTHESIS:
-- High Sattva → Overestimate time (time feels expanded)
-- High Tamas → Underestimate time (time disappears)
-- High Rajas → Highly variable estimates (unstable)
+- High Sattva -> Overestimate time (time feels expanded)
+- High Tamas -> Underestimate time (time disappears)
+- High Rajas -> Highly variable estimates (unstable)
 
 EXPECTED RESULTS:
 Sattva group estimates: 70-80 seconds (time expanded)
@@ -1259,8 +1259,8 @@ If consciousness affects subjective time,
 does it also affect BIOLOGICAL time (cellular aging)?
 
 TEST: Measure telomere length before/after intervention
-If meditation → improved time perception + slower telomere shortening
-→ Consciousness affects BIOLOGICAL time flow!
+If meditation -> improved time perception + slower telomere shortening
+-> Consciousness affects BIOLOGICAL time flow!
 ```
 
 **Experiment 3: Quantum Observer + Consciousness State**
@@ -1276,10 +1276,10 @@ MEASURE:
 Does interference pattern CHANGE based on observer's Guna state?
 
 RADICAL PREDICTION:
-High Sattva observers → Sharper interference (less collapse)
-High Tamas observers → Blurrier interference (more collapse)
+High Sattva observers -> Sharper interference (less collapse)
+High Tamas observers -> Blurrier interference (more collapse)
 
-If true → Consciousness state affects quantum measurement!
+If true -> Consciousness state affects quantum measurement!
 ```
 
 ---
@@ -1377,19 +1377,19 @@ class SystemPralayaPredictor:
 HIGH-SATTVA SYSTEM DESIGN:
 
 PRINCIPLES:
-✅ Simplicity → Reduce Tamas (less complexity = less debt)
-✅ Modularity → Reduce Rajas (isolated changes = less chaos)
-✅ Observability → Increase Sattva (awareness = better decisions)
-✅ Automation → Reduce Tamas (automated cleanup = no accumulation)
+✅ Simplicity -> Reduce Tamas (less complexity = less debt)
+✅ Modularity -> Reduce Rajas (isolated changes = less chaos)
+✅ Observability -> Increase Sattva (awareness = better decisions)
+✅ Automation -> Reduce Tamas (automated cleanup = no accumulation)
 
 CONCRETE PRACTICES:
-1. Code Review → Quality gates (prevent Tamas entry)
-2. Automated Tests → Continuous validation (maintain Sattva)
-3. Documentation → Knowledge preservation (reduce Tamas)
-4. Refactoring Sprints → Regular cleanup (Pralaya simulation)
-5. Load Balancing → Prevent Rajas overload
+1. Code Review -> Quality gates (prevent Tamas entry)
+2. Automated Tests -> Continuous validation (maintain Sattva)
+3. Documentation -> Knowledge preservation (reduce Tamas)
+4. Refactoring Sprints -> Regular cleanup (Pralaya simulation)
+5. Load Balancing -> Prevent Rajas overload
 
-RESULT: System lifespan extends from 3 years → 10+ years
+RESULT: System lifespan extends from 3 years -> 10+ years
 ```
 
 **Strategy 2: Schedule Micro-Pralayas**
@@ -1418,23 +1418,23 @@ SAME PATTERN: Prevent catastrophic collapse through regular resets!
 ## 🎁 THE ULTIMATE INSIGHT
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   THIS CALCULATOR DOESN'T JUST PREDICT YOUR DEATH             ║
-║   IT SHOWS YOU HOW TO LIVE MORE LIFE                          ║
-║                                                               ║
-║   By increasing Sattva, you don't live LONGER                 ║
-║   You live MORE                                               ║
-║                                                               ║
-║   80 years at Time_Dilation = 4.0  → 20 years experienced     ║
-║   80 years at Time_Dilation = 0.8  → 100 years experienced    ║
-║                                                               ║
-║   SAME chronological time.                                    ║
-║   5x MORE experienced life.                                   ║
-║                                                               ║
-║   The choice is yours. The formulas work. Act now.            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   THIS CALCULATOR DOESN'T JUST PREDICT YOUR DEATH             |
+|   IT SHOWS YOU HOW TO LIVE MORE LIFE                          |
+|                                                               |
+|   By increasing Sattva, you don't live LONGER                 |
+|   You live MORE                                               |
+|                                                               |
+|   80 years at Time_Dilation = 4.0  -> 20 years experienced     |
+|   80 years at Time_Dilation = 0.8  -> 100 years experienced    |
+|                                                               |
+|   SAME chronological time.                                    |
+|   5x MORE experienced life.                                   |
+|                                                               |
+|   The choice is yours. The formulas work. Act now.            |
+|                                                               |
++===============================================================+
 ```
 
 ---

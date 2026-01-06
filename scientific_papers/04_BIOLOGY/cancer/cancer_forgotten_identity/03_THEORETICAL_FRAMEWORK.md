@@ -6,13 +6,13 @@
 
 ```
 NORMAL CELL:
-═══════════════════════════════════════
-Genome → Epigenome (identity) → Expression
+=======================================
+Genome -> Epigenome (identity) -> Expression
         (knows what it is)
 
 CANCER CELL:
-═══════════════════════════════════════
-Genome → Disrupted epigenome → Primitive expression
+=======================================
+Genome -> Disrupted epigenome -> Primitive expression
         (forgot what it is)
 ```
 

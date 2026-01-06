@@ -10,34 +10,34 @@
 
 ```
 DEATH SEQUENCE (Backend Architecture):
-══════════════════════════════════════
+======================================
 
 DAYS BEFORE:
-├── Atman (consciousness) begins withdrawal
-├── Internal Prana weakens
-└── Subtle signs (change in eyes, behavior)
++-- Atman (consciousness) begins withdrawal
++-- Internal Prana weakens
++-- Subtle signs (change in eyes, behavior)
 
 HOURS BEFORE:
-├── Anandamaya Kosha thinning
-├── Vijnanamaya releasing
-└── Manomaya fragmenting
++-- Anandamaya Kosha thinning
++-- Vijnanamaya releasing
++-- Manomaya fragmenting
 
 MOMENT OF DEATH:
-├── Pranamaya collapses (last breath)
-├── Annamaya abandoned (body)
-└── Atman + Sukshma Sharira depart
++-- Pranamaya collapses (last breath)
++-- Annamaya abandoned (body)
++-- Atman + Sukshma Sharira depart
 
 AFTER:
-├── Atman with causal body continues
-├── Enters Loka based on Karma/Guna
-└── Body decays (Annamaya → elements)
++-- Atman with causal body continues
++-- Enters Loka based on Karma/Guna
++-- Body decays (Annamaya -> elements)
 ```
 
 ### 8.1.2 NDE as Interrupted Death
 
 ```
 NDE SEQUENCE:
-═════════════
+=============
 
 1. Physical death begins (Annamaya releasing)
 2. Pranamaya weakening but not collapsed
@@ -71,14 +71,14 @@ KEY: Not full death — Prarabdha karma not exhausted
 
 ```
 BACKEND LOGIC:
-══════════════
+==============
 
 DEATH IS NOT ARBITRARY.
 
 PRARABDHA KARMA:
 • The karma allotted for this life
-• When exhausted → Death occurs
-• When not exhausted → Return possible
+• When exhausted -> Death occurs
+• When not exhausted -> Return possible
 
 NDE EXPERIENCER:
 • Prarabdha not complete
@@ -98,10 +98,10 @@ Not arbitrary — precisely calculated
 
 ```
 BACKEND INTERPRETATION:
-═══════════════════════
+=======================
 
 THE LIGHT = ATMAN/BRAHMAN GLIMPSE
-═════════════════════════════════
+=================================
 
 Normal state:
 • Atman "covered" by 5 Koshas
@@ -136,7 +136,7 @@ The sun was always there — clouds parted
 
 ```
 CHITRAGUPTA (चित्रगुप्त):
-═════════════════════════
+=========================
 
 THE COSMIC RECORDER:
 • Every action recorded
@@ -169,7 +169,7 @@ LIFE REVIEW:
 
 ```
 14 FREQUENCY BANDS:
-════════════════════
+====================
 
 Upper (7):
 Satya, Tapa, Jana, Mahar, Svarga, Bhuvar, Bhuloka
@@ -188,7 +188,7 @@ DECEASED BEINGS:
 
 ```
 FAMILIARITY PRINCIPLE:
-═══════════════════════
+=======================
 
 • Consciousness recognizes consciousness
 • Karmic connections persist
@@ -215,26 +215,26 @@ FAMILIARITY PRINCIPLE:
 ## 8.7 Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              NDE ↔ BACKEND ARCHITECTURE                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  NDE is PARTIAL KOSHA DISSOLUTION:                           ║
-║  • Physical body releasing                                    ║
-║  • Subtle body temporarily free                               ║
-║  • Consciousness experiences without filter                   ║
-║  • Return when karma incomplete                               ║
-║                                                               ║
-║  EVERY NDE FEATURE HAS BACKEND EQUIVALENT:                   ║
-║  • OBE = Sukshma Sharira separation                          ║
-║  • Light = Atman glimpse                                      ║
-║  • Life review = Chitragupta access                          ║
-║  • Deceased = Loka inhabitants                                ║
-║  • Return = Prarabdha incomplete                             ║
-║                                                               ║
-║  THE BACKEND MODEL PREDICTED ALL OF THIS.                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              NDE ↔ BACKEND ARCHITECTURE                       |
++===============================================================+
+|                                                               |
+|  NDE is PARTIAL KOSHA DISSOLUTION:                           |
+|  • Physical body releasing                                    |
+|  • Subtle body temporarily free                               |
+|  • Consciousness experiences without filter                   |
+|  • Return when karma incomplete                               |
+|                                                               |
+|  EVERY NDE FEATURE HAS BACKEND EQUIVALENT:                   |
+|  • OBE = Sukshma Sharira separation                          |
+|  • Light = Atman glimpse                                      |
+|  • Life review = Chitragupta access                          |
+|  • Deceased = Loka inhabitants                                |
+|  • Return = Prarabdha incomplete                             |
+|                                                               |
+|  THE BACKEND MODEL PREDICTED ALL OF THIS.                    |
+|                                                               |
++===============================================================+
 ```
 
 ---

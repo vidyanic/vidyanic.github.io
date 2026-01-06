@@ -39,12 +39,12 @@
 |   This one question is about the questioner.                          |
 |                                                                       |
 |   When you ask "What is the universe?"                                |
-|       → You get knowledge about objects                               |
+|       -> You get knowledge about objects                               |
 |                                                                       |
 |   When you ask "Who am I?"                                            |
-|       → You find the Subject who knows all objects                    |
-|       → You find what NEVER changes                                   |
-|       → You find what you ALWAYS were                                 |
+|       -> You find the Subject who knows all objects                    |
+|       -> You find what NEVER changes                                   |
+|       -> You find what you ALWAYS were                                 |
 |                                                                       |
 +-----------------------------------------------------------------------+
 ```
@@ -53,10 +53,10 @@
 
 ```
 Q: "Who am I?"
-A: "I am the body" → Who knows the body? → I do
-A: "I am the mind" → Who knows the mind? → I do
-A: "I am the ego" → Who knows the ego? → I do
-A: "I am consciousness" → Who knows consciousness? → ...silence...
+A: "I am the body" -> Who knows the body? -> I do
+A: "I am the mind" -> Who knows the mind? -> I do
+A: "I am the ego" -> Who knows the ego? -> I do
+A: "I am consciousness" -> Who knows consciousness? -> ...silence...
 
 The question dissolves into the questioner.
 The seeker IS what is sought.
@@ -173,27 +173,27 @@ You always were.
 
 ```
 "I am the body"
-→ But I can observe the body
-→ The observer is different from the observed
-→ I am NOT the body (Neti)
+-> But I can observe the body
+-> The observer is different from the observed
+-> I am NOT the body (Neti)
 
 "I am the breath"
-→ But I can observe the breath
-→ I am NOT the breath (Neti)
+-> But I can observe the breath
+-> I am NOT the breath (Neti)
 
 "I am the mind"
-→ But I can observe thoughts
-→ I am NOT the mind (Neti)
+-> But I can observe thoughts
+-> I am NOT the mind (Neti)
 
 "I am the ego"
-→ But I can observe the ego-sense
-→ I am NOT the ego (Neti)
+-> But I can observe the ego-sense
+-> I am NOT the ego (Neti)
 
 "I am consciousness"
-→ Can I observe consciousness?
-→ No... I AM consciousness
-→ This is the limit of Neti Neti
-→ What remains after all negation is YOU
+-> Can I observe consciousness?
+-> No... I AM consciousness
+-> This is the limit of Neti Neti
+-> What remains after all negation is YOU
 ```
 
 ### Method 3: Who is the Witness?
@@ -318,7 +318,7 @@ PRACTICE (20 minutes):
 |   • Mind is active                                                    |
 |   • World appears solid                                               |
 |   • "I am a person in the world"                                      |
-|   • WHO IS AWARE OF WAKING? → I am                                    |
+|   • WHO IS AWARE OF WAKING? -> I am                                    |
 |                                                                       |
 |   STATE 2: DREAMING (स्वप्न / Svapna)                                  |
 |   -----------------------------------                                 |
@@ -326,7 +326,7 @@ PRACTICE (20 minutes):
 |   • Mind creates entire world                                         |
 |   • Dream seems completely real                                       |
 |   • "I am the dream character"                                        |
-|   • WHO IS AWARE OF DREAMING? → I am                                  |
+|   • WHO IS AWARE OF DREAMING? -> I am                                  |
 |                                                                       |
 |   STATE 3: DEEP SLEEP (सुषुप्ति / Sushupti)                            |
 |   -----------------------------------------                           |
@@ -334,7 +334,7 @@ PRACTICE (20 minutes):
 |   • No mind activity                                                  |
 |   • No world                                                          |
 |   • No sense of "I"                                                   |
-|   • WHO KNOWS YOU SLEPT WELL? → I do!                                 |
+|   • WHO KNOWS YOU SLEPT WELL? -> I do!                                 |
 |                                                                       |
 |   THE FOURTH (तुरीय / Turiya)                                          |
 |   ---------------------------                                         |

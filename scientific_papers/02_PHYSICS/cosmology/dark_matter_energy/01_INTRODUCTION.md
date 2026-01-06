@@ -10,8 +10,8 @@ In 1933, Fritz Zwicky observed galaxies in the Coma cluster moving too fast. Bas
 ZWICKY'S CALCULATION:
 ━━━━━━━━━━━━━━━━━━━━━
 
-Visible mass → Predicts galaxy velocity
-Observed velocity → 400× faster than predicted
+Visible mass -> Predicts galaxy velocity
+Observed velocity -> 400× faster than predicted
 
 CONCLUSION:
 There must be invisible mass ("dunkle Materie")

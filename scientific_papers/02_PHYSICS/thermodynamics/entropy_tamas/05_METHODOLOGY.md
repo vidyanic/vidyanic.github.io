@@ -25,7 +25,7 @@ METHODOLOGY:
 | Disorder measure | Counts microstates | S = k·ln(W) |
 | Always increases | Second Law | dS/dt ≥ 0 |
 | Equilibrium maximum | Thermal equilibrium | S_max at equilibrium |
-| Defines time | Arrow of time | Past → Future |
+| Defines time | Arrow of time | Past -> Future |
 | Statistical | Probability-based | Boltzmann statistics |
 
 ### 5.2.2 Tamas Properties (Backend)
@@ -99,7 +99,7 @@ Tamas dominates without intervention
 
 | Phenomenon | Entropy Prediction | Tamas Prediction | Match? |
 |------------|-------------------|------------------|--------|
-| Hot → Cold | S increases | T increases | ✓ |
+| Hot -> Cold | S increases | T increases | ✓ |
 | Decay | S increases | T increases | ✓ |
 | Diffusion | S increases | T increases | ✓ |
 | Life | S_local decreases | S_local increases | ✓ |
@@ -168,7 +168,7 @@ S_max = Maximum entropy for system
 
 EXAMPLES:
 Crystal at 0K: T ≈ 0 (pure Sattva)
-Gas at equilibrium: T → 1 (pure Tamas)
+Gas at equilibrium: T -> 1 (pure Tamas)
 Living cell: T ≈ 0.3 (Sattva dominant)
 ```
 
@@ -184,7 +184,7 @@ T_temperature = Absolute temperature
 T_max = Reference maximum
 
 AT ABSOLUTE ZERO:
-R → 0 (no activity)
+R -> 0 (no activity)
 ```
 
 ### 5.6.3 Sattva Residual

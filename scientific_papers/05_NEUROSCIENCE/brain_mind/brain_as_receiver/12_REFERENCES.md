@@ -1,6 +1,6 @@
 # 12. References
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -148,10 +148,10 @@
 
 ## 12.10 Related Papers in This Series
 
-38. [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
-39. [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/)
-40. [Entropy = Tamas](../../../02_PHYSICS/thermodynamics/entropy_tamas/)
-41. [Dark Matter/Energy](../../../02_PHYSICS/cosmology/dark_matter_energy/)
+38. [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
+39. [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
+40. [Entropy = Tamas](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
+41. [Dark Matter/Energy](../../../../scientific_papers/02_PHYSICS/cosmology/dark_matter_energy/)
 
 ---
 

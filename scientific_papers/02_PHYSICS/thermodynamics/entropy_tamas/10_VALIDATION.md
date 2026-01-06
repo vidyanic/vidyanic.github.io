@@ -13,7 +13,7 @@ k = Boltzmann constant (1.38×10⁻²³ J/K)
 W = Number of microstates
 
 PHYSICAL MEANING:
-More microstates → More entropy → More disorder
+More microstates -> More entropy -> More disorder
 ```
 
 ### 10.1.2 Clausius Entropy
@@ -61,7 +61,7 @@ dT/dt ≥ 0 (Tamas dominance)
 
 | Domain | Example | ΔS | Status |
 |--------|---------|-----|--------|
-| Thermal | Heat flow hot→cold | + | Universal |
+| Thermal | Heat flow hot->cold | + | Universal |
 | Chemical | Reactions at equilibrium | + | Universal |
 | Biological | Metabolism | + global | Universal |
 | Cosmological | Universe expansion | + | Universal |
@@ -98,7 +98,7 @@ Confirms entropy-information connection
 ```
 PREMISE 1: Entropy measures disorder
 PREMISE 2: Tamas is disorder/dissolution
-PREMISE 3: Same phenomenon → Same measure
+PREMISE 3: Same phenomenon -> Same measure
 CONCLUSION: Entropy measures Tamas
 
 VALIDITY: SOUND (all premises factual)
@@ -138,7 +138,7 @@ VALIDITY: SOUND (structural identity)
 | **Cellular** | Metabolic waste | Apoptosis | ✓ |
 | **Organismal** | Aging, death | Life cycle | ✓ |
 | **Planetary** | Geological erosion | Continental drift | ✓ |
-| **Stellar** | Fusion → decay | Star death | ✓ |
+| **Stellar** | Fusion -> decay | Star death | ✓ |
 | **Cosmic** | Heat death | Pralaya | ✓ |
 
 **Fractal Score: 8/8 — Pattern confirmed at all scales**
@@ -223,19 +223,19 @@ ROUNDED: 91% (conservative, accounting for qualitative elements)
 ## 10.8 Validation Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    VALIDATION SUMMARY                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  MATHEMATICAL FORMULAS:        ✓ Standard thermodynamics      ║
-║  EXPERIMENTAL EVIDENCE:        ✓ Universal physics            ║
-║  LOGICAL VALIDATION:           ✓ Sound arguments              ║
-║  FRACTAL SYMMETRY:             ✓ 8/8 levels                   ║
-║  BACKEND CORRELATION:          ✓ Complete Guna mapping        ║
-║  PREDICTIONS CONFIRMED:        ✓ 5/5 predictions              ║
-║                                                               ║
-║  OVERALL CONFIDENCE:           91%                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    VALIDATION SUMMARY                         |
++===============================================================+
+|                                                               |
+|  MATHEMATICAL FORMULAS:        ✓ Standard thermodynamics      |
+|  EXPERIMENTAL EVIDENCE:        ✓ Universal physics            |
+|  LOGICAL VALIDATION:           ✓ Sound arguments              |
+|  FRACTAL SYMMETRY:             ✓ 8/8 levels                   |
+|  BACKEND CORRELATION:          ✓ Complete Guna mapping        |
+|  PREDICTIONS CONFIRMED:        ✓ 5/5 predictions              |
+|                                                               |
+|  OVERALL CONFIDENCE:           91%                            |
+|                                                               |
++===============================================================+
 ```
 

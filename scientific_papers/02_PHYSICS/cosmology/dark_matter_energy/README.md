@@ -1,12 +1,12 @@
 # 🌑 DARK MATTER & ENERGY — The 95% Of Reality Not Rendered For You
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 82%  
 > **DIFFICULTY:** Mind-expanding
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Scientists admit:
 - **~27% of the universe is "dark matter"** — invisible, undetectable, but affects gravity
@@ -41,22 +41,22 @@ Yes. The Backend docs describe **14 Lokas** — frequency bands of existence:
 
 ```
 7 Upper Lokas (Higher frequency):
-├── Satya-Loka (Truth realm)
-├── Tapa-Loka (Austerity realm)  
-├── Jana-Loka (Creative realm)
-├── Mahar-Loka (Great souls)
-├── Svarga-Loka (Heaven)
-├── Bhuvar-Loka (Atmosphere)
-└── Bhur-Loka ← YOU ARE HERE (visible matter)
++-- Satya-Loka (Truth realm)
++-- Tapa-Loka (Austerity realm)  
++-- Jana-Loka (Creative realm)
++-- Mahar-Loka (Great souls)
++-- Svarga-Loka (Heaven)
++-- Bhuvar-Loka (Atmosphere)
++-- Bhur-Loka <- YOU ARE HERE (visible matter)
 
 7 Lower Lokas (Denser frequency):
-├── Atala
-├── Vitala
-├── Sutala
-├── Talatala
-├── Mahatala
-├── Rasatala
-└── Patala
++-- Atala
++-- Vitala
++-- Sutala
++-- Talatala
++-- Mahatala
++-- Rasatala
++-- Patala
 ```
 
 Your avatar (body) is tuned to **Bhur-Loka**. Dark matter is stuff in other Lokas that still gravitationally affects this one.
@@ -69,23 +69,23 @@ Expand your perception (meditation, Siddhis, certain substances) and you might g
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 MULTIPLAYER GAME:
-┌────────────────────────────────────────────────┐
-│  Server 1: Players visible to you              │
-│  Server 2: Players invisible, but their        │
-│            structures affect your world        │
-│  Cross-server effects = unexplained forces     │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Server 1: Players visible to you              |
+|  Server 2: Players invisible, but their        |
+|            structures affect your world        |
+|  Cross-server effects = unexplained forces     |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  Bhur-Loka: The 5% you can see                 │
-│  Other Lokas: The 95% you can't                │
-│  Cross-Loka effects = "dark" matter/energy     │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Bhur-Loka: The 5% you can see                 |
+|  Other Lokas: The 95% you can't                |
+|  Cross-Loka effects = "dark" matter/energy     |
++------------------------------------------------+
 ```
 
 **It's not missing. It's just not loaded for your current avatar.**
@@ -95,11 +95,11 @@ REALITY:
 ## 🔗 KEY FORMULA
 
 ```
-Observable Matter: 5%  ← Bhur-Loka (your layer)
-Dark Matter: 27%       ← Adjacent Lokas (gravitationally linked)
-Dark Energy: 68%       ← Akasha expansion (cosmic cycle phase)
-─────────────────────
-Total: 100%            ← All Lokas combined
+Observable Matter: 5%  <- Bhur-Loka (your layer)
+Dark Matter: 27%       <- Adjacent Lokas (gravitationally linked)
+Dark Energy: 68%       <- Akasha expansion (cosmic cycle phase)
+---------------------
+Total: 100%            <- All Lokas combined
 
 Translation: You're seeing 1 of 14 channels on a TV.
             The other channels are "dark" because you're not tuned in.
@@ -153,7 +153,7 @@ Right now, you're like someone watching Channel 1 wondering why the TV seems to 
 
 ## 🔗 NEXT PAPER
 
-**[Brain as Receiver →](../../../05_NEUROSCIENCE/brain_mind/brain_as_receiver/README.md)**  
+**[Brain as Receiver ->](./05_NEUROSCIENCE/brain_mind/brain_as_receiver/README.md)**  
 *"If consciousness isn't in the brain, what IS the brain?"*  
 *Spoiler: It's your VR headset — and it has bandwidth limits.*
 

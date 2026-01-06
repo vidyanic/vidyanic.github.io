@@ -1,7 +1,7 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)  
-> **🔗 Foundation:** [Brain as Receiver](../../brain_mind/brain_as_receiver/) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **🔗 Foundation:** [Brain as Receiver](../../brain_mind/brain_as_receiver) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---
 
@@ -11,9 +11,9 @@
 
 ```
 MATERIALIST (Generator) MODEL:
-══════════════════════════════
+==============================
 
-Brain → Consciousness
+Brain -> Consciousness
 
 PREDICTIONS FOR CARDIAC ARREST:
 • No brain activity = No experience
@@ -26,9 +26,9 @@ PREDICTIONS FOR CARDIAC ARREST:
 
 ```
 NON-LOCAL (Receiver) MODEL:
-═══════════════════════════
+===========================
 
-Consciousness → (filtered by) → Brain
+Consciousness -> (filtered by) -> Brain
 
 PREDICTIONS FOR CARDIAC ARREST:
 • Experience possible without brain activity
@@ -45,7 +45,7 @@ PREDICTIONS FOR CARDIAC ARREST:
 
 ```
 CARDIAC ARREST SEQUENCE:
-════════════════════════
+========================
 
 T=0: Heart stops
 T=4-6s: Unconsciousness begins
@@ -95,7 +95,7 @@ reported_experience = "Vivid, coherent, memorable experience"
 
 ```
 SYSTEM SHUTDOWN SCENARIO:
-═════════════════════════
+=========================
 
 Server Status:
 • Power: OFF
@@ -124,7 +124,7 @@ The paradox is analogous to detecting photons with no light source:
 
 | Standard Model | NDE Observation |
 |----------------|-----------------|
-| No source → No detection | No brain activity → No experience |
+| No source -> No detection | No brain activity -> No experience |
 | Photon requires emission | Experience requires neural activity |
 | Can't detect nothing | Can't experience nothing |
 
@@ -177,18 +177,18 @@ Backend Architecture describes consciousness as wrapped in five sheaths:
 
 ```
 PANCHA KOSHA (Five Sheaths):
-════════════════════════════
+============================
 
 ATMAN (आत्मन्) — Pure Consciousness (innermost)
-    ↓ wrapped in
+    v wrapped in
 ANANDAMAYA KOSHA (आनन्दमय) — Bliss sheath
-    ↓ wrapped in
+    v wrapped in
 VIJNANAMAYA KOSHA (विज्ञानमय) — Wisdom sheath
-    ↓ wrapped in
+    v wrapped in
 MANOMAYA KOSHA (मनोमय) — Mind sheath
-    ↓ wrapped in
+    v wrapped in
 PRANAMAYA KOSHA (प्राणमय) — Life-force sheath
-    ↓ wrapped in
+    v wrapped in
 ANNAMAYA KOSHA (अन्नमय) — Physical body (outermost)
 ```
 
@@ -196,12 +196,12 @@ ANNAMAYA KOSHA (अन्नमय) — Physical body (outermost)
 
 ```
 NORMAL STATE:
-All 5 Koshas active → Consciousness filtered through all layers
+All 5 Koshas active -> Consciousness filtered through all layers
 
 NDE STATE:
-Annamaya (physical) releasing → Pranamaya weakening
-Manomaya still active → Experience continues
-Atman intact → Consciousness never stops
+Annamaya (physical) releasing -> Pranamaya weakening
+Manomaya still active -> Experience continues
+Atman intact -> Consciousness never stops
 
 WHAT NDE EXPERIENCER PERCEIVES:
 • Leaving physical body (Annamaya detaching)
@@ -236,10 +236,10 @@ How can someone perceive accurate details during cardiac arrest?
 
 ```
 NORMAL PERCEPTION:
-Physical eyes → Brain processing → Limited, local view
+Physical eyes -> Brain processing -> Limited, local view
 
 NDE PERCEPTION:
-Sukshma Sharira (subtle body) → Direct knowing → Non-local access
+Sukshma Sharira (subtle body) -> Direct knowing -> Non-local access
 
 ANALOGY:
 Looking through keyhole (normal) vs Standing in room (NDE)
@@ -300,24 +300,24 @@ NDE STATE:
 ## 3.7 Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              THEORETICAL FRAMEWORK SUMMARY                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  MATERIALIST MODEL:                                          ║
-║  • NDEs are dying brain artifacts                            ║
-║  • Fails to explain veridical perceptions                    ║
-║  • Fails to explain blind sight                              ║
-║  • Alternative explanations don't work                       ║
-║                                                               ║
-║  NON-LOCAL/BACKEND MODEL:                                    ║
-║  • NDEs are genuine experiences                              ║
-║  • Consciousness independent of brain                        ║
-║  • Kosha dissolution explains features                       ║
-║  • Sukshma Sharira enables non-local perception              ║
-║  • All observations explained                                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              THEORETICAL FRAMEWORK SUMMARY                    |
++===============================================================+
+|                                                               |
+|  MATERIALIST MODEL:                                          |
+|  • NDEs are dying brain artifacts                            |
+|  • Fails to explain veridical perceptions                    |
+|  • Fails to explain blind sight                              |
+|  • Alternative explanations don't work                       |
+|                                                               |
+|  NON-LOCAL/BACKEND MODEL:                                    |
+|  • NDEs are genuine experiences                              |
+|  • Consciousness independent of brain                        |
+|  • Kosha dissolution explains features                       |
+|  • Sukshma Sharira enables non-local perception              |
+|  • All observations explained                                |
+|                                                               |
++===============================================================+
 ```
 
 ---

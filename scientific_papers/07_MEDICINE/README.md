@@ -20,9 +20,9 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [integrative/](./integrative/) | Mind-body medicine | Placebo = Sankalpa |
-| [cardiology/](./cardiology/) | Heart science | Heart has 40,000 neurons |
-| [chronobiology/](./chronobiology/) | Body rhythms | Circadian = Cosmic cycles |
+| [integrative/](../integrative) | Mind-body medicine | Placebo = Sankalpa |
+| [cardiology/](../cardiology) | Heart science | Heart has 40,000 neurons |
+| [chronobiology/](../chronobiology) | Body rhythms | Circadian = Cosmic cycles |
 
 ---
 
@@ -73,7 +73,7 @@
 ```
 MODERN MEDICINE         ↔     AYURVEDA
 ━━━━━━━━━━━━━━━            ━━━━━━━━━
-Symptoms → Drugs           Dosha imbalance → Restore balance
+Symptoms -> Drugs           Dosha imbalance -> Restore balance
 Body = mechanism           Body = vehicle of Atman
 Placebo = trick            Sankalpa = healing power
 Circadian = biology        Circadian = cosmic alignment
@@ -81,7 +81,7 @@ Circadian = biology        Circadian = cosmic alignment
 
 ---
 
-**Start with:** [Placebo = Sankalpa](./integrative/placebo_sankalpa.md)
+**Start with:** [Placebo = Sankalpa](../../integrative/placebo_sankalpa.md)
 
 **ॐ धन्वन्तरये नमः**  
 *Salutations to Dhanvantari (Divine Physician)*

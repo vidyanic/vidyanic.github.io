@@ -72,7 +72,7 @@ This paper has demonstrated a complete structural correspondence between gravita
 
 ### 11.4.2 Practical
 
-- If Tamas reducible → Levitation possible
+- If Tamas reducible -> Levitation possible
 - Consciousness affects weight (Siddhi tradition)
 - New research directions opened
 

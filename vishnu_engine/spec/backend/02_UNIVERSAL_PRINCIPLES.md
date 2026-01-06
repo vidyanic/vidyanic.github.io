@@ -98,19 +98,19 @@ UNIVERSE:
 **What They Are:**
 - Universal Principles = The deepest conservation laws that emerge from symmetries
 - Like: Energy conservation (time translation symmetry), Momentum conservation (space translation)
-- Noether's theorem: Every symmetry → Conservation law
+- Noether's theorem: Every symmetry -> Conservation law
 
 **Real-World Analogy:**
 ```
 KNOWN PHYSICS:
-∂L/∂t = 0  →  Energy conserved
-∂L/∂x = 0  →  Momentum conserved
-∂L/∂φ = 0  →  Charge conserved
+∂L/∂t = 0  ->  Energy conserved
+∂L/∂x = 0  ->  Momentum conserved
+∂L/∂φ = 0  ->  Charge conserved
 
 VEDIC PHYSICS (DEEPER):
-Karma symmetry  →  Action-Reaction conserved
-Guna symmetry   →  S+R+T = 1 conserved
-Cycle symmetry  →  Kalpa pattern repeats
+Karma symmetry  ->  Action-Reaction conserved
+Guna symmetry   ->  S+R+T = 1 conserved
+Cycle symmetry  ->  Kalpa pattern repeats
 ```
 
 **Why They Matter:**
@@ -130,16 +130,16 @@ Cycle symmetry  →  Kalpa pattern repeats
 **Real-World Analogy:**
 ```
 YOUR BODY:
-- Too hot → Sweat (negative feedback)
-- Low glucose → Hunger signal
-- Infection → Immune response
-→ Principles that restore balance
+- Too hot -> Sweat (negative feedback)
+- Low glucose -> Hunger signal
+- Infection -> Immune response
+-> Principles that restore balance
 
 UNIVERSE:
-- Too much Rajas → Tamas increases (balance)
-- Too much Karma → Pralaya happens (reset)
-- Dharma decreases → Correction mechanism activates
-→ Same principle of self-regulation
+- Too much Rajas -> Tamas increases (balance)
+- Too much Karma -> Pralaya happens (reset)
+- Dharma decreases -> Correction mechanism activates
+-> Same principle of self-regulation
 ```
 
 **Why They Matter:**
@@ -161,14 +161,14 @@ UNIVERSE:
 **In Daily Life:**
 ```
 1. KARMA (Action-Reaction):
-   - Help someone → Eventually receive help
-   - Hurt someone → Eventually experience hurt
-   - Plant apple seeds → Get apple tree (not oranges)
+   - Help someone -> Eventually receive help
+   - Hurt someone -> Eventually experience hurt
+   - Plant apple seeds -> Get apple tree (not oranges)
 
 2. CYCLES (Everything Returns):
-   - Day → Night → Day
-   - Birth → Life → Death → Rebirth
-   - Summer → Winter → Summer
+   - Day -> Night -> Day
+   - Birth -> Life -> Death -> Rebirth
+   - Summer -> Winter -> Summer
 
 3. CONSERVATION (Nothing Lost):
    - Money: Spent = Someone receives
@@ -202,7 +202,7 @@ UNIVERSE:
 
 ---
 
-## 🔴 CRITICAL: BACKEND vs FRONTEND PRINCIPLES
+## ⚠️ CRITICAL: BACKEND vs FRONTEND PRINCIPLES
 
 ```
 ----------------------------------------------------------------------------------------
@@ -285,7 +285,7 @@ Brahman - Universe = Brahman
 
 #### 🤖 AI/ML Engineer:
 **The Principle:** Training data doesn't get "used up"
-- You train 1000 models on the same dataset → Dataset unchanged
+- You train 1000 models on the same dataset -> Dataset unchanged
 - Like Brahman creating infinite universes without depletion
 - **Your Application:** Same training data can teach infinite models different things
 
@@ -299,7 +299,7 @@ models_built = create_models()     # Infinite manifestations
 
 #### 🏗️ Software Architect:
 **The Principle:** Design patterns don't get "consumed"
-- Use MVC pattern in 1000 projects → Pattern still exists
+- Use MVC pattern in 1000 projects -> Pattern still exists
 - Like Brahman manifesting infinite forms while remaining unchanged
 - **Your Application:** Good architecture is infinitely reusable
 
@@ -315,12 +315,12 @@ models_built = create_models()     # Infinite manifestations
 - **Your Application:** Conservation isn't just energy - it's existence itself
 
 **Daily Practice:**
-- Energy changes form (heat → light → motion) but totality unchanged
-- Reality changes form (atoms → molecules → life) but totality (Brahman) unchanged
+- Energy changes form (heat -> light -> motion) but totality unchanged
+- Reality changes form (atoms -> molecules -> life) but totality (Brahman) unchanged
 
 #### 🩺 Doctor:
 **The Principle:** Life force doesn't deplete by living
-- Your consciousness observes infinite thoughts → Consciousness undiminished
+- Your consciousness observes infinite thoughts -> Consciousness undiminished
 - Like Brahman: Experience emerges but experiencer unchanged
 - **Your Application:** The "you" that was aware at age 5 is same "you" now
 
@@ -330,15 +330,15 @@ models_built = create_models()     # Infinite manifestations
 
 #### 👤 Everyone:
 **The Principle:** The ocean isn't depleted by waves
-- Ocean makes infinite waves → Ocean still complete
+- Ocean makes infinite waves -> Ocean still complete
 - Like Brahman creating infinite forms while staying whole
 - **Your Application:** Life appears IN you, doesn't USE you
 
 **Real-Life Example:**
 ```
-Morning: You experience breakfast → You remain
-Afternoon: You experience work → You remain
-Evening: You experience rest → You remain
+Morning: You experience breakfast -> You remain
+Afternoon: You experience work -> You remain
+Evening: You experience rest -> You remain
 
 Your experiences come and go.
 YOU (the awareness) never depletes.
@@ -393,7 +393,7 @@ Self-similarity across all scales
 
 #### 🤖 AI/ML Engineer:
 **The Pattern:** Neural networks are fractals!
-- **Single Neuron:** Input → Activation → Output
+- **Single Neuron:** Input -> Activation -> Output
 - **Single Layer:** Multiple neurons doing same pattern
 - **Whole Network:** Multiple layers doing same pattern
 - **Ensemble:** Multiple networks doing same pattern
@@ -414,18 +414,18 @@ network_output = compose([layer1, layer2, layer3])
 # Level 4: Ensemble (many networks, same pattern)
 prediction = average([net1(x), net2(x), net3(x)])
 
-# FRACTAL: Same "compute → transform → output" at ALL levels!
+# FRACTAL: Same "compute -> transform -> output" at ALL levels!
 ```
 
 **Why This Matters:**
-- Debug one neuron → Understand whole network
-- Optimize one layer → Apply to all layers
-- Understand one model → Understand all models
+- Debug one neuron -> Understand whole network
+- Optimize one layer -> Apply to all layers
+- Understand one model -> Understand all models
 - **Anu-Mahat:** Smallest (neuron) reveals largest (AI system)
 
 #### 🏗️ Software Architect:
 **The Pattern:** Systems are fractals!
-- **Function:** Input → Process → Output
+- **Function:** Input -> Process -> Output
 - **Module:** Functions calling each other
 - **Service:** Modules working together
 - **System:** Services communicating
@@ -435,7 +435,7 @@ prediction = average([net1(x), net2(x), net3(x)])
 MICROSERVICE ARCHITECTURE:
 
 Level 1: Function
-  getUserById(id) → query → return user
+  getUserById(id) -> query -> return user
 
 Level 2: Service
   UserService has many functions (same pattern)
@@ -450,8 +450,8 @@ FRACTAL: Request-Process-Response at EVERY level!
 ```
 
 **Why This Matters:**
-- Design one function well → Scale to entire system
-- Debug pattern at one level → Find issues at all levels
+- Design one function well -> Scale to entire system
+- Debug pattern at one level -> Find issues at all levels
 - Good architecture = Fractal repetition of good patterns
 - **Anu-Mahat:** Single function reveals system design
 
@@ -479,8 +479,8 @@ FRACTAL: Center + Orbiting objects at EVERY scale!
 ```
 
 **Why This Matters:**
-- Understand atomic structure → Understand cosmic structure
-- Laws at quantum level → Same laws at cosmic level
+- Understand atomic structure -> Understand cosmic structure
+- Laws at quantum level -> Same laws at cosmic level
 - Measurement affects system (observer effect) at ALL scales
 - **Anu-Mahat:** Atom is miniature solar system
 
@@ -497,74 +497,74 @@ FRACTAL: Center + Orbiting objects at EVERY scale!
 RESPIRATORY SYSTEM (Fractal Branching):
 
 Trachea (1)
-  ├─ Bronchi (2)
-  │  ├─ Bronchioles (thousands)
-  │  │  └─ Alveoli (millions)
+  +- Bronchi (2)
+  |  +- Bronchioles (thousands)
+  |  |  +- Alveoli (millions)
 
 Blood Vessels (Same Pattern):
 Aorta (1)
-  ├─ Arteries (many)
-  │  ├─ Arterioles (thousands)
-  │  │  └─ Capillaries (billions)
+  +- Arteries (many)
+  |  +- Arterioles (thousands)
+  |  |  +- Capillaries (billions)
 
-FRACTAL: Branch → Smaller branches → Smallest units
+FRACTAL: Branch -> Smaller branches -> Smallest units
 ```
 
 **Why This Matters:**
-- Understand cell → Understand organ → Understand body
-- Disease at cellular level → Affects whole system
-- Treat root pattern → Healing cascades up all levels
+- Understand cell -> Understand organ -> Understand body
+- Disease at cellular level -> Affects whole system
+- Treat root pattern -> Healing cascades up all levels
 - **Anu-Mahat:** Cell is miniature body
 
 #### 👤 Everyone:
 **The Pattern:** Your day is fractal!
-- **Breath:** Inhale → Hold → Exhale
-- **Meal:** Hungry → Eat → Satisfied
-- **Task:** Start → Do → Complete
-- **Day:** Morning → Afternoon → Evening
-- **Life:** Birth → Life → Death
+- **Breath:** Inhale -> Hold -> Exhale
+- **Meal:** Hungry -> Eat -> Satisfied
+- **Task:** Start -> Do -> Complete
+- **Day:** Morning -> Afternoon -> Evening
+- **Life:** Birth -> Life -> Death
 
 **Your Daily Evidence:**
 ```
 MORNING ROUTINE (Fractal):
 
 Wake up
-  ├─ Bathroom
-  │  ├─ Brush (start → do → complete)
-  │  ├─ Shower (start → do → complete)
-  │  └─ Dress (start → do → complete)
-  ├─ Breakfast
-  │  ├─ Make coffee (start → do → complete)
-  │  └─ Eat meal (start → do → complete)
-  └─ Commute
+  +- Bathroom
+  |  +- Brush (start -> do -> complete)
+  |  +- Shower (start -> do -> complete)
+  |  +- Dress (start -> do -> complete)
+  +- Breakfast
+  |  +- Make coffee (start -> do -> complete)
+  |  +- Eat meal (start -> do -> complete)
+  +- Commute
 
-EVERYTHING has: Beginning → Middle → End
+EVERYTHING has: Beginning -> Middle -> End
 SAME PATTERN at ALL scales!
 ```
 
 **Why This Matters:**
-- Master small routine → Master whole day
-- Fix small habit → Transforms entire life
-- Understand one relationship → Understand all relationships
+- Master small routine -> Master whole day
+- Fix small habit -> Transforms entire life
+- Understand one relationship -> Understand all relationships
 - **Real Example:** "As you treat one person, you treat everyone"
 
 **The Practical Wisdom:**
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   If you want to understand the UNIVERSE:                     ║
-║   Look at your BODY                                           ║
-║                                                               ║
-║   If you want to understand LIFE:                             ║
-║   Look at one DAY                                             ║
-║                                                               ║
-║   If you want to understand RELATIONSHIPS:                    ║
-║   Look at one INTERACTION                                     ║
-║                                                               ║
-║   The smallest contains the pattern of the largest.           ║
-║   Master the small, understand the infinite.                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   If you want to understand the UNIVERSE:                     |
+|   Look at your BODY                                           |
+|                                                               |
+|   If you want to understand LIFE:                             |
+|   Look at one DAY                                             |
+|                                                               |
+|   If you want to understand RELATIONSHIPS:                    |
+|   Look at one INTERACTION                                     |
+|                                                               |
+|   The smallest contains the pattern of the largest.           |
+|   Master the small, understand the infinite.                  |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -797,7 +797,7 @@ Turiya = Observer outside system
 | Kosha | Sanskrit | Layer | Function | Science | Note |
 |-------|----------|-------|----------|---------|------|
 | **Annamaya** | अन्नमय | Physical | Body | Biochemistry | Gross matter |
-| **Pranamaya** | प्राणमय | Energy | Life force | Bioelectrics | **← PRANA IS HERE** |
+| **Pranamaya** | प्राणमय | Energy | Life force | Bioelectrics | **<- PRANA IS HERE** |
 | **Manomaya** | मनोमय | Mental | Emotions/thoughts | Neurology | Mind layer |
 | **Vijnanamaya** | विज्ञानमय | Wisdom | Discrimination | Higher cognition | Intellect |
 | **Anandamaya** | आनन्दमय | Bliss | Causal seed | Consciousness | Closest to Atman |
@@ -1055,7 +1055,7 @@ Delta-storage: Only differences stored, not full copies
 
 ---
 
-# 🚀 PART VI: EXIT PRINCIPLES (Moksha)
+# ✨ PART VI: EXIT PRINCIPLES (Moksha)
 
 ## PRINCIPLE 24: TAT TVAM ASI — The Ultimate Identity
 
@@ -2352,7 +2352,7 @@ EVERY RESOURCE LIFECYCLE:
    finally:
        connection.close()  # ALWAYS cleanup!
 
-Missing step 3? Entropy accumulates → System crashes.
+Missing step 3? Entropy accumulates -> System crashes.
 ```
 
 **Your Design Checklist:**
@@ -2425,7 +2425,7 @@ Study state transitions, not just particles
 
 ### 🩺 FOR DOCTORS/BIOLOGISTS: Heal Holistically
 
-**Core Insight:** Body is a fractal system. Heal one level → Affects all levels.
+**Core Insight:** Body is a fractal system. Heal one level -> Affects all levels.
 
 **Immediate Applications:**
 
@@ -2433,7 +2433,7 @@ Study state transitions, not just particles
 ```
 CLINICAL APPLICATION:
 
-Cell unhealthy → Tissue affected → Organ dysfunction → System failure
+Cell unhealthy -> Tissue affected -> Organ dysfunction -> System failure
 
 THEREFORE, treat at MULTIPLE levels:
 - Cellular: Nutrition, supplements
@@ -2480,7 +2480,7 @@ PRESCRIPTION:
 
 **Your Patient Protocol:**
 1. Identify which Guna is imbalanced
-2. Treat at multiple fractal levels (cell → system)
+2. Treat at multiple fractal levels (cell -> system)
 3. Prescribe breath work (extends life)
 4. Address consciousness (meditation heals)
 
@@ -2500,9 +2500,9 @@ Before ANY action, ask:
 "What will be the reaction to this action?"
 
 Examples:
-- Speak harshly → Receive harshness later (maybe years later)
-- Help someone → Receive help when you need it
-- Plant good seeds → Harvest good fruits
+- Speak harshly -> Receive harshness later (maybe years later)
+- Help someone -> Receive help when you need it
+- Plant good seeds -> Harvest good fruits
 
 You can't escape this. It's physics.
 ```
@@ -2514,9 +2514,9 @@ LIFE WISDOM:
 Bad time now? It's a cycle - it WILL pass.
 Good time now? It's a cycle - prepare for change.
 
-Daily cycle: Morning energy → Afternoon work → Evening rest
-Monthly cycle: High energy weeks → Low energy weeks
-Yearly cycle: Productive seasons → Rest seasons
+Daily cycle: Morning energy -> Afternoon work -> Evening rest
+Monthly cycle: High energy weeks -> Low energy weeks
+Yearly cycle: Productive seasons -> Rest seasons
 
 DON'T resist cycles. FLOW with them.
 ```
@@ -2556,32 +2556,32 @@ This isn't philosophy. This is recognizing WHAT YOU ARE.
 ### What Changes When You Know These:
 
 **Before:**
-- "Why is life unfair?" → Victim mentality
-- "Why do bad things happen?" → Confusion
-- "What's the meaning of life?" → Existential crisis
+- "Why is life unfair?" -> Victim mentality
+- "Why do bad things happen?" -> Confusion
+- "What's the meaning of life?" -> Existential crisis
 
 **After:**
-- "Life follows Karma (Principle #5)" → Empowered action
-- "Cycles happen (Principle #10)" → Patient acceptance
-- "I am Nirguna consciousness experiencing Saguna" → Liberation
+- "Life follows Karma (Principle #5)" -> Empowered action
+- "Cycles happen (Principle #10)" -> Patient acceptance
+- "I am Nirguna consciousness experiencing Saguna" -> Liberation
 
 ### The Meta-Principle:
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ALL 54 PRINCIPLES POINT TO ONE TRUTH:                       ║
-║                                                               ║
-║   You are not IN the system.                                  ║
-║   The system is IN you (your awareness).                      ║
-║                                                               ║
-║   Learn the principles → Navigate the system                  ║
-║   Transcend the principles → Exit the system (Moksha)         ║
-║                                                               ║
-║   Both paths are valid.                                       ║
-║   You choose based on what you seek.                          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   ALL 54 PRINCIPLES POINT TO ONE TRUTH:                       |
+|                                                               |
+|   You are not IN the system.                                  |
+|   The system is IN you (your awareness).                      |
+|                                                               |
+|   Learn the principles -> Navigate the system                  |
+|   Transcend the principles -> Exit the system (Moksha)         |
+|                                                               |
+|   Both paths are valid.                                       |
+|   You choose based on what you seek.                          |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -2591,23 +2591,23 @@ This isn't philosophy. This is recognizing WHAT YOU ARE.
 Based on your perspective, start here:
 
 **🤖 AI/ML Engineers:**
-- Read: [Fractal AI Learning System](../spec/brahman/FRACTAL_AI_LEARNING_SYSTEM.html)
+- Read: [Fractal AI Learning System](../../../vishnu_engine/spec/brahman/FRACTAL_AI_LEARNING_SYSTEM.md)
 - Apply: Principles 41-50 to your next model
 
 **🏗️ Architects:**
-- Read: [System Architecture](../02_architecture/01_81_GRID_COMPLETE.html)
+- Read: [System Architecture](../../../scientific_papers/02_architecture/01_81_GRID_COMPLETE.html.md)
 - Apply: Principles 1-5 as design invariants
 
 **⚛️ Physicists:**
-- Read: [Backend Unified Model](../05_systems/prakriti/UNIFIED_MODEL.html)
+- Read: [Backend Unified Model](../../../scientific_papers/05_systems/prakriti/UNIFIED_MODEL.html.md)
 - Research: Consciousness as frequency (Principle #11)
 
 **🩺 Doctors:**
-- Read: [Pranayama Complete Guide](../05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.html)
+- Read: [Pranayama Complete Guide](../../../scientific_papers/05_systems/healing/PRANAYAMA_COMPLETE_GUIDE.html.md)
 - Practice: Teach patients Guna balance (Principle #6)
 
 **👤 Everyone:**
-- Read: [Core Insight](./01_CORE_INSIGHT.html) - Understand Saguna/Nirguna
+- Read: [Core Insight](../../../scientific_papers/01_CORE_INSIGHT.html.md) - Understand Saguna/Nirguna
 - Practice: Daily karma awareness (Principle #5)
 
 ---

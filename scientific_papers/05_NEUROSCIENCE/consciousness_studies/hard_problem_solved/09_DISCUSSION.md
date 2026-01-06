@@ -122,7 +122,7 @@ Consciousness is not computational
 ### 9.5.1 If Brain Generates
 
 ```
-Brain death → Consciousness ends
+Brain death -> Consciousness ends
 Death is final
 Nothing after
 ```
@@ -130,7 +130,7 @@ Nothing after
 ### 9.5.2 If Consciousness is Primary
 
 ```
-Brain death → Filter removed
+Brain death -> Filter removed
 Consciousness continues
 Death = Liberation from localization
 ```

@@ -1,0 +1,102 @@
+# =============================================================================
+# PROJECT SHUNYA-0 GITIGNORE
+# =============================================================================
+
+# Meta files (internal project tracking - not for public repo)
+_meta
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories and files
+.idea/
+.cursorignore
+.cursorrules
+.cursorrules_links
+# Keep .vscode settings but ignore workspace-specific files
+.vscode/*.code-workspace
+.vscode/launch.json
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Large media files (keep originals elsewhere)
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+
+# Binary files
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+build/
+.gradle/
+
+# Node.js (if ever used)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Build outputs
+dist/
+out/
+
+# Jekyll (GitHub Pages)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Ruby/Bundler
+vendor/
+.bundle/
+

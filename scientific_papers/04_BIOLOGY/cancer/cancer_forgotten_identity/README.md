@@ -59,21 +59,21 @@ If cancer is identity-loss (Svadharma-Bhramsha), treatment is identity-restorati
 
 ```
 NORMAL NPC:
-┌────────────────────────────────────────────────┐
-│  Role: Shopkeeper                              │
-│  Behavior: Stay at shop, trade with players   │
-│  Boundaries: Don't leave shop, don't attack   │
-│  Quest marker: ✅ Active                       │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Role: Shopkeeper                              |
+|  Behavior: Stay at shop, trade with players   |
+|  Boundaries: Don't leave shop, don't attack   |
+|  Quest marker: ✅ Active                       |
++------------------------------------------------+
 
 CORRUPTED NPC (CANCER):
-┌────────────────────────────────────────────────┐
-│  Role: ???                                     │
-│  Behavior: Wander, consume resources, multiply│
-│  Boundaries: None, ignores all limits          │
-│  Quest marker: ❌ Lost                         │
-│  Disguise: Equipped (immune system can't see) │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Role: ???                                     |
+|  Behavior: Wander, consume resources, multiply|
+|  Boundaries: None, ignores all limits          |
+|  Quest marker: ❌ Lost                         |
+|  Disguise: Equipped (immune system can't see) |
++------------------------------------------------+
 ```
 
 **Cancer is NPC identity corruption.**
@@ -84,19 +84,19 @@ CORRUPTED NPC (CANCER):
 
 ```
 Normal Cell State:
-├── Svadharma (स्वधर्म) = ACTIVE (knows its purpose)
-├── Differentiation = COMPLETE (specialized)
-├── Replication = LIMITED (controlled)
-└── Immune visibility = NORMAL
++-- Svadharma (स्वधर्म) = ACTIVE (knows its purpose)
++-- Differentiation = COMPLETE (specialized)
++-- Replication = LIMITED (controlled)
++-- Immune visibility = NORMAL
 
 Cancer Cell State:
-├── Svadharma = LOST (forgot purpose)
-├── Differentiation = REVERSED (de-specialized)
-├── Replication = UNLIMITED (no brakes)
-└── Immune visibility = HIDDEN (disguised)
++-- Svadharma = LOST (forgot purpose)
++-- Differentiation = REVERSED (de-specialized)
++-- Replication = UNLIMITED (no brakes)
++-- Immune visibility = HIDDEN (disguised)
 
-Transition: Svadharma-loss → Tamas dominance → Uncontrolled replication
-Treatment: Svadharma-restoration → Sattva re-establishment → Re-differentiation
+Transition: Svadharma-loss -> Tamas dominance -> Uncontrolled replication
+Treatment: Svadharma-restoration -> Sattva re-establishment -> Re-differentiation
 ```
 
 ---
@@ -145,7 +145,7 @@ Are YOU living your Svadharma? Or are you a cancer to the social body?
 
 ## 🔗 NEXT PAPER
 
-**[Aging = Samskara Accumulation →](../../aging/aging_samskara/README.md)**  
+**[Aging = Samskara Accumulation ->](./aging/aging_samskara/README.md)**  
 *"Why does the body degrade over time?"*  
 *Spoiler: Save file corruption accumulates until reboot is needed.*
 

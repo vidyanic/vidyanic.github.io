@@ -131,10 +131,10 @@ PURPOSE OF CONSCIOUSNESS:
 
 ```
 STANDARD COSMOLOGY:
-Universe → Heat death → End
+Universe -> Heat death -> End
 
 GUNA COSMOLOGY:
-Universe → Pralaya → New Srishti → Repeat
+Universe -> Pralaya -> New Srishti -> Repeat
 
 KEY DIFFERENCE:
 Pralaya contains compressed Sattva potential
@@ -267,7 +267,7 @@ But consciousness-directed Guna transformation
 2. **Physics describes Guna dynamics** (measuring what Backend names)
 3. **Life is Sattva engineering** (local order at global cost)
 4. **Consciousness opposes entropy** (creates local Sattva)
-5. **Cosmology may be cyclical** (Pralaya → Srishti)
+5. **Cosmology may be cyclical** (Pralaya -> Srishti)
 6. **Purpose exists** (Sattva creation against Tamas)
 
 **The Guna framework doesn't replace physics — it explains why physics works this way.**

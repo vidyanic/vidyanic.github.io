@@ -5,22 +5,22 @@
 ## 11.1 The Core Insight
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   UNCERTAINTY = MAYA'S VEIL                                   ║
-║                                                               ║
-║   Δx × Δp ≥ ℏ/2                                               ║
-║                                                               ║
-║   Reality cannot be fully captured through measurement        ║
-║   Complementary aspects hide each other                       ║
-║   This is not deficiency — it's design                       ║
-║   Maya ensures seeking continues                              ║
-║                                                               ║
-║   TRANSCENDENCE:                                             ║
-║   Not through better measurement                              ║
-║   But through identity shift (Moksha)                        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   UNCERTAINTY = MAYA'S VEIL                                   |
+|                                                               |
+|   Δx × Δp ≥ ℏ/2                                               |
+|                                                               |
+|   Reality cannot be fully captured through measurement        |
+|   Complementary aspects hide each other                       |
+|   This is not deficiency — it's design                       |
+|   Maya ensures seeking continues                              |
+|                                                               |
+|   TRANSCENDENCE:                                             |
+|   Not through better measurement                              |
+|   But through identity shift (Moksha)                        |
+|                                                               |
++===============================================================+
 ```
 
 ---

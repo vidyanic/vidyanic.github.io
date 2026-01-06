@@ -126,7 +126,7 @@ v(r) ≈ constant (flat rotation curve)
 
 IMPLICATION:
 M(r) ∝ r (mass increases with radius)
-Where is this mass? → "Dark matter"
+Where is this mass? -> "Dark matter"
 ```
 
 ### D.2 Dark Matter Distribution
@@ -212,7 +212,7 @@ Event horizon
 
 | Black Hole Property | Tamas Interpretation |
 |---------------------|---------------------|
-| Singularity (r → 0) | T → ∞ |
+| Singularity (r -> 0) | T -> ∞ |
 | Event horizon | Tamas boundary |
 | No escape | Maximum binding |
 | Time stops | Maximum inertia |

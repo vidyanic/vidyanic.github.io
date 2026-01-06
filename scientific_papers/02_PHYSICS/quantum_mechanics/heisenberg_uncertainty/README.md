@@ -1,12 +1,12 @@
 # 🎯 HEISENBERG UNCERTAINTY — The Engine Has Render Resolution Limits
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 89%  
 > **DIFFICULTY:** Counter-intuitive
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 You **cannot know** a particle's exact position AND exact momentum simultaneously.
 
@@ -32,8 +32,8 @@ Same reason games have resolution limits: **efficiency**.
 
 Rendering infinite precision costs infinite resources. The Backend optimizes by keeping things **defined only to the precision needed**.
 
-When you're not looking closely → waves of probability (efficient)  
-When you look closely → collapses to precision you need (on-demand render)
+When you're not looking closely -> waves of probability (efficient)  
+When you look closely -> collapses to precision you need (on-demand render)
 
 ### "So the universe is... pixelated?"
 
@@ -54,24 +54,24 @@ The world isn't "really there" in infinite detail. It's **rendered on-demand** t
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 VIDEO GAME RENDERING:
-┌────────────────────────────────────────────────┐
-│  Screen resolution: 1920 x 1080                │
-│  Zoom in too much: Pixels visible              │
-│  No "real" detail below pixel level            │
-│  Detail is GENERATED when needed               │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Screen resolution: 1920 x 1080                |
+|  Zoom in too much: Pixels visible              |
+|  No "real" detail below pixel level            |
+|  Detail is GENERATED when needed               |
++------------------------------------------------+
 
 REALITY RENDERING:
-┌────────────────────────────────────────────────┐
-│  Space resolution: Planck length               │
-│  Measure too precisely: Uncertainty appears    │
-│  No "real" value below Planck scale            │
-│  Position/momentum GENERATED when observed     │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Space resolution: Planck length               |
+|  Measure too precisely: Uncertainty appears    |
+|  No "real" value below Planck scale            |
+|  Position/momentum GENERATED when observed     |
++------------------------------------------------+
 ```
 
 **You're hitting the render limits of the engine.**
@@ -140,7 +140,7 @@ Understanding reality's resolution limits means:
 
 ## 🔗 NEXT PAPER
 
-**[Entanglement →](../entanglement/README.md)**  
+**[Entanglement ->](../entanglement/README.md)**  
 *"How are particles connected instantly across space?"*  
 *Spoiler: They're the same object in the backend — no distance to cross.*
 

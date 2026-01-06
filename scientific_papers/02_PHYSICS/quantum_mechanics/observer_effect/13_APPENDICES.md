@@ -36,7 +36,7 @@ Possible outcomes are eigenvalues aₙ of A.
 Probability of outcome aₙ is P(aₙ) = |⟨φₙ|ψ⟩|².
 
 **Postulate 5 (Collapse):**
-After measurement, |ψ⟩ → |φₙ⟩ (the eigenstate of outcome).
+After measurement, |ψ⟩ -> |φₙ⟩ (the eigenstate of outcome).
 
 ### A.3 Density Matrix Formalism
 
@@ -84,8 +84,8 @@ EXPECTATION:
 
 **Apparatus:**
 - BBO crystal (produces entangled photon pairs)
-- Signal photon path → Screen (D0)
-- Idler photon path → Detectors (D1-D4)
+- Signal photon path -> Screen (D0)
+- Idler photon path -> Detectors (D1-D4)
 - Beam splitters and mirrors
 
 **Key Feature:**
@@ -95,8 +95,8 @@ Choice made AFTER signal photon recorded
 
 **Results:**
 Sorting D0 data by idler detector shows:
-- D1/D2 correlation → No interference
-- D3/D4 correlation → Interference pattern
+- D1/D2 correlation -> No interference
+- D3/D4 correlation -> Interference pattern
 
 ### B.3 Proietti et al. Wigner's Friend (2019)
 

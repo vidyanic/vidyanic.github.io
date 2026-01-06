@@ -43,8 +43,8 @@
 
 | Study | Finding | Samskara Parallel |
 |-------|---------|-------------------|
-| Kaliman (2014) | 8-hr meditation → epigenetic changes | Sadhana effect |
-| Chaix (2017) | Long-term practice → different patterns | Samskara Shuddhi |
+| Kaliman (2014) | 8-hr meditation -> epigenetic changes | Sadhana effect |
+| Chaix (2017) | Long-term practice -> different patterns | Samskara Shuddhi |
 
 ### 6.3.2 Lifestyle Studies
 

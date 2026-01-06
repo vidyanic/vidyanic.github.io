@@ -60,7 +60,7 @@ Not random forms, but specific ratios, patterns, and structures repeat at every 
 
 ```
 DEFINITION:
-═══════════
+===========
 a/b = (a+b)/a = φ
 
 If you divide a line so the ratio of the
@@ -89,7 +89,7 @@ that ratio is φ.
 Each number = Sum of previous two.
 
 **Connection to φ:**
-- Ratio of consecutive Fibonacci numbers → φ
+- Ratio of consecutive Fibonacci numbers -> φ
 - 21/13 = 1.615, 89/55 = 1.618...
 
 ---
@@ -138,7 +138,7 @@ Each number = Sum of previous two.
 
 ```
 THE PATTERN:
-════════════
+============
     ○○○
    ○○○○
   ○○○○○
@@ -252,7 +252,7 @@ THE PATTERN:
 ### 7.3 Cymatics Connection
 
 **Sound creates sacred geometry:**
-- Specific frequencies → Specific patterns
+- Specific frequencies -> Specific patterns
 - Many patterns match sacred geometry
 - Sound IS the generator
 

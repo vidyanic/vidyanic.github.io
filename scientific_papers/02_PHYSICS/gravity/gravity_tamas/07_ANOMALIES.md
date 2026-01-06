@@ -166,7 +166,7 @@ AND Tamas can be reduced through practice
 THEN weight can be reduced
 
 Laghima Siddhi:
-Reduce local Tamas → Reduce weight → Levitate
+Reduce local Tamas -> Reduce weight -> Levitate
 
 NOT "anti-gravity"
 But Tamas reduction

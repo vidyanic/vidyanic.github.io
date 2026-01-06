@@ -26,10 +26,10 @@ These papers explore phenomena that mainstream science is skeptical about. We pr
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [nde_research/](./nde_research/) | Near-death experiences | Consciousness beyond body |
-| [reincarnation/](./reincarnation/) | Past life memories | Memory crosses death |
-| [synchronicity/](./synchronicity/) | Meaningful coincidence | Acausal connection |
-| [precognition/](./precognition/) | Future knowing | Time is permeable |
+| [nde_research/](../nde_research) | Near-death experiences | Consciousness beyond body |
+| [reincarnation/](../reincarnation) | Past life memories | Memory crosses death |
+| [synchronicity/](../synchronicity) | Meaningful coincidence | Acausal connection |
+| [precognition/](../precognition) | Future knowing | Time is permeable |
 
 ---
 
@@ -80,24 +80,24 @@ These papers explore phenomena that mainstream science is skeptical about. We pr
 **Why study frontier sciences?**
 
 If even ONE of these is real:
-- NDE → Consciousness survives death
-- Reincarnation → Karma is real
-- Synchronicity → Everything is connected
-- Precognition → Time is not linear
+- NDE -> Consciousness survives death
+- Reincarnation -> Karma is real
+- Synchronicity -> Everything is connected
+- Precognition -> Time is not linear
 
 **These aren't fringe topics — they're central to understanding reality.**
 
 ```
 MAINSTREAM SCIENCE:
-Consciousness = brain → Death = end
+Consciousness = brain -> Death = end
 
 FRONTIER EVIDENCE + VEDIC KNOWLEDGE:
-Consciousness = primary → Death = transition
+Consciousness = primary -> Death = transition
 ```
 
 ---
 
-**Start with:** [NDE Evidence](./nde_research/nde_evidence.md)
+**Start with:** [NDE Evidence](../../nde_research/nde_evidence.md)
 
 **ॐ मृत्योर्मा अमृतं गमय**  
 *From death lead me to Immortality*

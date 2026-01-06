@@ -218,20 +218,20 @@ Not contradiction but different description.
 REMAINING MYSTERIES:
 
 1. Why exactly 27%/68%/5%?
-   → Needs detailed Loka Tamas calculation
+   -> Needs detailed Loka Tamas calculation
 
 2. Can we detect Loka boundaries?
-   → Unknown, needs new physics
+   -> Unknown, needs new physics
 
 3. Do Lokas have different physical constants?
-   → Speculative
+   -> Speculative
 
 4. Can consciousness access other Lokas?
-   → Backend tradition says yes (Samadhi)
-   → Not scientifically verified
+   -> Backend tradition says yes (Samadhi)
+   -> Not scientifically verified
 
 5. Is dark matter consciousness-dependent?
-   → Unknown
+   -> Unknown
 ```
 
 ---

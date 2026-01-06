@@ -63,7 +63,7 @@ NDE experiencer meets deceased person whose death was unknown to them:
 
 ```
 THE LOGIC:
-═══════════
+===========
 
 1. Patient is unconscious
 2. Meets person in NDE
@@ -113,7 +113,7 @@ CONCLUSION: Information from non-physical source
 
 ```
 BACKEND EXPLANATION:
-════════════════════
+====================
 
 • Lower Lokas (frequency bands) exist
 • Atala, Vitala, etc. — "hellish" realms

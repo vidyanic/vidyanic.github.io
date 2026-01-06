@@ -1,6 +1,6 @@
 # 8. Backend Analogy
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
 > **🔗 Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---
@@ -15,30 +15,30 @@ The Backend Architecture describes the mind not as a producer of consciousness, 
 
 ```
 ANTAHKARANA = THE INTERFACE
-═══════════════════════════
+===========================
 
 COMPONENTS:
-┌─────────────────────────────────────────────────┐
-│ MANAS (मनस्)                                    │
-│ • Sense processing                              │
-│ • Receives input from 5 Jnanendriyas (senses)   │
-│ • First filter layer                            │
-├─────────────────────────────────────────────────┤
-│ BUDDHI (बुद्धि)                                 │
-│ • Discrimination                                │
-│ • Decides relevant vs irrelevant                │
-│ • Second filter layer                           │
-├─────────────────────────────────────────────────┤
-│ CHITTA (चित्त)                                  │
-│ • Memory storage                                │
-│ • Holds filtered patterns                       │
-│ • Third filter layer                            │
-├─────────────────────────────────────────────────┤
-│ AHAMKARA (अहंकार)                              │
-│ • Ego-sense                                     │
-│ • Creates "I" boundary                          │
-│ • Final filter: "me" vs "not me"                │
-└─────────────────────────────────────────────────┘
++-------------------------------------------------+
+| MANAS (मनस्)                                    |
+| • Sense processing                              |
+| • Receives input from 5 Jnanendriyas (senses)   |
+| • First filter layer                            |
++-------------------------------------------------+
+| BUDDHI (बुद्धि)                                 |
+| • Discrimination                                |
+| • Decides relevant vs irrelevant                |
+| • Second filter layer                           |
++-------------------------------------------------+
+| CHITTA (चित्त)                                  |
+| • Memory storage                                |
+| • Holds filtered patterns                       |
+| • Third filter layer                            |
++-------------------------------------------------+
+| AHAMKARA (अहंकार)                              |
+| • Ego-sense                                     |
+| • Creates "I" boundary                          |
+| • Final filter: "me" vs "not me"                |
++-------------------------------------------------+
 ```
 
 > **🔗 See:** [Human (N) — Antahkarana](../../../../vishnu_engine/spec/entities/human/N_HUMAN.md)
@@ -84,20 +84,20 @@ ATMAN IS:
 
 ```
 ATMAN uses ANTAHKARANA to interface with BODY
-══════════════════════════════════════════════
+==============================================
 
 ATMAN (Consciousness)
-    │
-    │ Uses
-    ↓
-ANTAHKARANA (Brain-Mind) ← THE RECEIVER/FILTER
-    │
-    │ Controls
-    ↓
+    |
+    | Uses
+    v
+ANTAHKARANA (Brain-Mind) <- THE RECEIVER/FILTER
+    |
+    | Controls
+    v
 BODY (Prana + Physical)
-    │
-    │ Interacts with
-    ↓
+    |
+    | Interacts with
+    v
 WORLD (Prakriti)
 
 ANTAHKARANA IS THE BRAIN
@@ -112,7 +112,7 @@ ATMAN IS NOT THE BRAIN
 
 ```
 PROBLEM: Infinite consciousness is unusable for action
-═══════════════════════════════════════════════════════
+=======================================================
 
 UNFILTERED STATE:
 • Access to all information
@@ -154,7 +154,7 @@ SOLUTION: ANTAHKARANA
 
 ```
 DEATH SEQUENCE:
-═══════════════
+===============
 
 DAY -2 to -1: ATMAN WITHDRAWAL
 • Atman begins disengaging
@@ -181,13 +181,13 @@ AFTER DEATH:
 
 ```
 TERMINAL LUCIDITY = FILTER FAILING BEFORE DEATH
-═══════════════════════════════════════════════
+===============================================
 
 Normal Dementia:
-Antahkarana damaged → Poor filtering → Confused experience
+Antahkarana damaged -> Poor filtering -> Confused experience
 
 Terminal Lucidity:
-Antahkarana DISSOLVING → LESS filtering → CLARITY
+Antahkarana DISSOLVING -> LESS filtering -> CLARITY
 
 As death approaches:
 • Body prepares to release Atman
@@ -204,7 +204,7 @@ As death approaches:
 
 ```
 NDE IN BACKEND MODEL:
-════════════════════
+====================
 
 • Clinical death = Antahkarana temporarily offline
 • Atman still present (not yet fully withdrawn)
@@ -218,7 +218,7 @@ NDE IN BACKEND MODEL:
 
 ```
 PSYCHEDELICS IN BACKEND MODEL:
-═════════════════════════════
+=============================
 
 • Chemical disruption of Antahkarana
 • Ahamkara (ego/DMN) particularly affected
@@ -231,7 +231,7 @@ PSYCHEDELICS IN BACKEND MODEL:
 
 ```
 SAVANT IN BACKEND MODEL:
-═══════════════════════
+=======================
 
 • Damage to specific filter component
 • Less inhibition of information access
@@ -245,25 +245,25 @@ SAVANT IN BACKEND MODEL:
 ## 8.6 The Complete Mapping
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║            BACKEND ↔ RECEIVER MODEL MAPPING                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  BACKEND                    RECEIVER MODEL                   ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║  Atman (आत्मन्)            Consciousness (signal)           ║
-║  Antahkarana (अन्तःकरण)    Brain (receiver/filter)          ║
-║  Ahamkara (अहंकार)         Default Mode Network             ║
-║  Filter reduction          Less brain activity              ║
-║  Death                     Receiver off, signal continues   ║
-║                                                               ║
-║  FORMULA:                                                    ║
-║  Experience = Atman × (1 - Antahkarana_filter)              ║
-║  Experience = Consciousness × (1 - Brain_filtering)         ║
-║                                                               ║
-║  SAME MODEL, DIFFERENT VOCABULARY                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|            BACKEND ↔ RECEIVER MODEL MAPPING                   |
++===============================================================+
+|                                                               |
+|  BACKEND                    RECEIVER MODEL                   |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|  Atman (आत्मन्)            Consciousness (signal)           |
+|  Antahkarana (अन्तःकरण)    Brain (receiver/filter)          |
+|  Ahamkara (अहंकार)         Default Mode Network             |
+|  Filter reduction          Less brain activity              |
+|  Death                     Receiver off, signal continues   |
+|                                                               |
+|  FORMULA:                                                    |
+|  Experience = Atman × (1 - Antahkarana_filter)              |
+|  Experience = Consciousness × (1 - Brain_filtering)         |
+|                                                               |
+|  SAME MODEL, DIFFERENT VOCABULARY                           |
+|                                                               |
++===============================================================+
 ```
 
 ---

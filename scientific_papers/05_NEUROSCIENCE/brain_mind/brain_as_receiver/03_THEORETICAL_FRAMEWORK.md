@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---
@@ -11,9 +11,9 @@
 
 ```
 GENERATOR MODEL:
-════════════════
+================
 
-Brain Activity → Consciousness
+Brain Activity -> Consciousness
 
 WHERE:
 • C = f(B)
@@ -22,16 +22,16 @@ WHERE:
 • f = Unknown production function
 
 PREDICTIONS:
-• More B → More C
-• Less B → Less C
-• No B → No C
+• More B -> More C
+• Less B -> Less C
+• No B -> No C
 ```
 
 ### 3.1.2 The Fundamental Problem
 
 ```
 THE HARD PROBLEM (Chalmers, 1995):
-══════════════════════════════════
+==================================
 
 We can explain:
 • How brain processes information
@@ -46,7 +46,7 @@ We CANNOT explain:
 f(B) = C is undefined for Anubhava (subjective experience)
 ```
 
-> **🔗 See:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/) for complete treatment
+> **🔗 See:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) for complete treatment
 
 ---
 
@@ -56,9 +56,9 @@ f(B) = C is undefined for Anubhava (subjective experience)
 
 ```
 RECEIVER MODEL:
-═══════════════
+===============
 
-Consciousness → (filtered by) → Brain → Local Experience
+Consciousness -> (filtered by) -> Brain -> Local Experience
 
 WHERE:
 • C_∞ = Infinite consciousness (source)
@@ -66,10 +66,10 @@ WHERE:
 • C_local = C_∞ × F(B)
 
 PREDICTIONS:
-• Better B → Better reception
-• Damaged B → Distorted reception
-• Less filtering → More experience
-• No B → No LOCAL manifestation (but C_∞ continues)
+• Better B -> Better reception
+• Damaged B -> Distorted reception
+• Less filtering -> More experience
+• No B -> No LOCAL manifestation (but C_∞ continues)
 ```
 
 ### 3.2.2 The Radio Analogy
@@ -115,18 +115,18 @@ The signal (consciousness) is like a global variable that exists independently o
 
 ```
 MICROSERVICE ARCHITECTURE:
-══════════════════════════
+==========================
 
 CONSCIOUSNESS SERVICE (Backend):
-├── Always running
-├── Infinite capacity
-└── Not dependent on any client
++-- Always running
++-- Infinite capacity
++-- Not dependent on any client
 
 BRAIN SERVICE (Client):
-├── Connects to Consciousness Service
-├── Applies local processing
-├── Filters for survival needs
-└── When client crashes, service continues
++-- Connects to Consciousness Service
++-- Applies local processing
++-- Filters for survival needs
++-- When client crashes, service continues
 
 API CALL:
 brain.connect(consciousness_service)
@@ -184,15 +184,15 @@ Imagine you've never seen a radio. Someone shows you one, and music plays.
 **Right conclusion:** "The radio receives music from elsewhere."
 
 Evidence:
-- Break the radio → Music stops HERE (but radio station continues)
-- Tune to different station → Different music (same radio)
-- Better radio → Clearer reception (not more music)
+- Break the radio -> Music stops HERE (but radio station continues)
+- Tune to different station -> Different music (same radio)
+- Better radio -> Clearer reception (not more music)
 
 **Your brain is like that radio.**
 
-- Damage the brain → Experience changes HERE
-- Different brain state → Different experience
-- Better brain → Clearer experience (not more consciousness)
+- Damage the brain -> Experience changes HERE
+- Different brain state -> Different experience
+- Better brain -> Clearer experience (not more consciousness)
 
 The question: Is your brain a radio or a record player?
 - Record player: Music is IN the device
@@ -208,7 +208,7 @@ The question: Is your brain a radio or a record player?
 
 ```
 PROBLEM: Infinite information is unusable
-═════════════════════════════════════════
+=========================================
 
 UNFILTERED CONSCIOUSNESS:
 • Access to all information
@@ -251,13 +251,13 @@ C_local = C_∞ × F(brain_state)
 
 WHERE:
 F ∈ (0, 1)  — Filter value between 0 and 1
-F = 1 → Full filtering (normal waking)
-F = 0 → No filtering (pure consciousness)
+F = 1 -> Full filtering (normal waking)
+F = 0 -> No filtering (pure consciousness)
 
 PREDICTIONS:
-• Psychedelics reduce F → More experience
-• Meditation reduces F → Expanded awareness
-• Terminal lucidity: F → 0 before death
+• Psychedelics reduce F -> More experience
+• Meditation reduces F -> Expanded awareness
+• Terminal lucidity: F -> 0 before death
 • Death: Local receiver off, C_∞ continues
 ```
 
@@ -284,16 +284,16 @@ PREDICTIONS:
 
 ```
 BACKEND ARCHITECTURE:
-════════════════════
+====================
 
 PURUSHA (पुरुष) — Pure Consciousness
-    │
-    │ Uses
-    ↓
+    |
+    | Uses
+    v
 ANTAHKARANA (अन्तःकरण) — Inner Instrument (Brain-Mind)
-    │
-    │ Creates
-    ↓
+    |
+    | Creates
+    v
 LOCAL EXPERIENCE — What "you" experience
 
 PURUSHA does not come FROM Antahkarana.
@@ -309,7 +309,7 @@ Car doesn't create driver.
 
 ```
 DEATH SEQUENCE (Backend):
-═════════════════════════
+=========================
 
 1. Atman (आत्मन्) begins withdrawal (days before)
 2. Internal Prana (प्राण) weakens
@@ -348,7 +348,7 @@ PSYCHEDELIC STATE:
 F ≈ 0.2 (minimal filtering)
 
 SAMADHI:
-F → 0 (filter dissolved, pure consciousness)
+F -> 0 (filter dissolved, pure consciousness)
 ```
 
 ### 3.6.2 Predictions
@@ -367,30 +367,30 @@ F → 0 (filter dissolved, pure consciousness)
 ## 3.7 Framework Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              THE BRAIN AS RECEIVER FRAMEWORK                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  CONSCIOUSNESS:                                               ║
-║  • Fundamental, not emergent                                  ║
-║  • Exists independently of brain                              ║
-║  • Infinite in scope                                          ║
-║                                                               ║
-║  BRAIN:                                                       ║
-║  • Receives and filters consciousness                         ║
-║  • Creates bounded local experience                           ║
-║  • Is INSTRUMENT, not SOURCE                                  ║
-║                                                               ║
-║  EVIDENCE:                                                    ║
-║  • NDEs, psychedelics, terminal lucidity, savants            ║
-║  • All support receiver over generator                        ║
-║                                                               ║
-║  BACKEND:                                                     ║
-║  • Atman (consciousness) uses Antahkarana (brain-mind)       ║
-║  • Car-driver relationship                                    ║
-║  • Death = Driver exits car                                   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              THE BRAIN AS RECEIVER FRAMEWORK                  |
++===============================================================+
+|                                                               |
+|  CONSCIOUSNESS:                                               |
+|  • Fundamental, not emergent                                  |
+|  • Exists independently of brain                              |
+|  • Infinite in scope                                          |
+|                                                               |
+|  BRAIN:                                                       |
+|  • Receives and filters consciousness                         |
+|  • Creates bounded local experience                           |
+|  • Is INSTRUMENT, not SOURCE                                  |
+|                                                               |
+|  EVIDENCE:                                                    |
+|  • NDEs, psychedelics, terminal lucidity, savants            |
+|  • All support receiver over generator                        |
+|                                                               |
+|  BACKEND:                                                     |
+|  • Atman (consciousness) uses Antahkarana (brain-mind)       |
+|  • Car-driver relationship                                    |
+|  • Death = Driver exits car                                   |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -400,7 +400,7 @@ F → 0 (filter dissolved, pure consciousness)
 - **Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 - **Entities:** [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 - **Entities:** [Human (N) — Antahkarana](../../../../vishnu_engine/spec/entities/human/N_HUMAN.md)
-- **Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
+- **Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)
 

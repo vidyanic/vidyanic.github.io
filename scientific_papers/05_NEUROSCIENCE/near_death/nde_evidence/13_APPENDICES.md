@@ -183,15 +183,15 @@
 ## Appendix G: Navigation
 
 **Phase 3 Papers:**
-- [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
-- [Brain as Receiver](../../brain_mind/brain_as_receiver/)
+- [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
+- [Brain as Receiver](../../brain_mind/brain_as_receiver)
 - **NDE Evidence** (this paper)
 
 **Next Phase:**
 - Phase 4: Life as Sattva Engineering
 
 **Root:**
-- [Scientific Papers README](../../../README.md)
+- [Scientific Papers README](../../../../README.md)
 
 ---
 

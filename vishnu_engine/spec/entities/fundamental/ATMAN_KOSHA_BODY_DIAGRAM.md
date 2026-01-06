@@ -1,4 +1,4 @@
-# 🕉️ ATMAN → 5 KOSHAS → BODY — Complete Layering Diagram
+# 🕉️ ATMAN -> 5 KOSHAS -> BODY — Complete Layering Diagram
 
 > **"पञ्च-कोशमयः पुरुषः"**
 > "Pancha-koshamayah purushah"
@@ -14,104 +14,104 @@
 ## 🎨 VISUAL DIAGRAM (Concentric Layers)
 
 ```
-═══════════════════════════════════════════════════════════════════════════
+===========================================================================
                     THE FIVE-SHEATH MODEL
-═══════════════════════════════════════════════════════════════════════════
+===========================================================================
 
                                 ✦ ATMAN ✦
                             (Pure Consciousness)
                             The Eternal Witness
                                Nirguna (निर्गुण)
                            Beyond all sheaths
-                                   │
-                                   │ reflects through
-                                   ▼
-              ╔═══════════════════════════════════════════════╗
-              ║                                               ║
-              ║    ⑤ ANANDAMAYA KOSHA (आनन्दमय कोश)          ║
-              ║       The Bliss Sheath                        ║
-              ║       • Color: Pure White/Gold                ║
-              ║       • Nature: Causal body (Karana Sharira)  ║
-              ║       • Experience: Pure bliss, oneness       ║
-              ║       • Thickness: Subtlest (like light mist) ║
-              ║                                               ║
-              ║    ╔═══════════════════════════════════════╗  ║
-              ║    ║                                       ║  ║
-              ║    ║  ④ VIJNANAMAYA KOSHA (विज्ञानमय कोश)  ║  ║
-              ║    ║     The Wisdom Sheath                 ║  ║
-              ║    ║     • Color: Deep blue/indigo         ║  ║
-              ║    ║     • Nature: Subtle body (Sukshma)   ║  ║
-              ║    ║     • Experience: Intuition, knowing  ║  ║
-              ║    ║     • Thickness: Very subtle          ║  ║
-              ║    ║                                       ║  ║
-              ║    ║  ╔════════════════════════════════╗   ║  ║
-              ║    ║  ║                                ║   ║  ║
-              ║    ║  ║  ③ MANOMAYA KOSHA (मनोमय कोश)   ║   ║  ║
-              ║    ║  ║     The Mental Sheath          ║   ║  ║
-              ║    ║  ║     • Color: Silver/gray       ║   ║  ║
-              ║    ║  ║     • Nature: Subtle body      ║   ║  ║
-              ║    ║  ║     • Experience: Thoughts,    ║   ║  ║
-              ║    ║  ║       emotions, memories       ║   ║  ║
-              ║    ║  ║     • Thickness: Moderate      ║   ║  ║
-              ║    ║  ║                                ║   ║  ║
-              ║    ║  ║  ╔═════════════════════════╗   ║   ║  ║
-              ║    ║  ║  ║                         ║   ║   ║  ║
-              ║    ║  ║  ║  ② PRANAMAYA KOSHA      ║   ║   ║  ║
-              ║    ║  ║  ║     (प्राणमय कोश)        ║   ║   ║  ║
-              ║    ║  ║  ║     The Life Force      ║   ║   ║  ║
-              ║    ║  ║  ║     Sheath ⚡           ║   ║   ║  ║
-              ║    ║  ║  ║                         ║   ║   ║  ║
-              ║    ║  ║  ║  ╔══════════════════╗   ║   ║   ║  ║
-              ║    ║  ║  ║  ║                  ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║  ① ANNAMAYA     ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║     KOSHA       ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║  (अन्नमय कोश)   ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║  Physical Body  ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║                  ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║  🧍 (Bones,      ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║   muscles,       ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║   organs, etc.)  ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ║                  ║   ║   ║   ║  ║
-              ║    ║  ║  ║  ╚══════════════════╝   ║   ║   ║  ║
-              ║    ║  ║  ║                         ║   ║   ║  ║
-              ║    ║  ║  ║  [PRANA flows here]     ║   ║   ║  ║
-              ║    ║  ║  ║  - 72,000 Nadis        ║   ║   ║  ║
-              ║    ║  ║  ║  - 5 Pranas (Prana,    ║   ║   ║  ║
-              ║    ║  ║  ║    Apana, Samana,      ║   ║   ║  ║
-              ║    ║  ║  ║    Udana, Vyana)       ║   ║   ║  ║
-              ║    ║  ║  ║  - Internal sun here   ║   ║   ║  ║
-              ║    ║  ║  ║    (solar plexus/heart)║   ║   ║  ║
-              ║    ║  ║  ║                         ║   ║   ║  ║
-              ║    ║  ║  ╚═════════════════════════╝   ║   ║  ║
-              ║    ║  ║                                ║   ║  ║
-              ║    ║  ║  [MIND operates here]          ║   ║  ║
-              ║    ║  ║  - Manas (sensory mind)        ║   ║  ║
-              ║    ║  ║  - Emotions                    ║   ║  ║
-              ║    ║  ║  - Memories (Chitta)           ║   ║  ║
-              ║    ║  ║                                ║   ║  ║
-              ║    ║  ╚════════════════════════════════╝   ║  ║
-              ║    ║                                       ║  ║
-              ║    ║  [INTELLECT operates here]            ║  ║
-              ║    ║  - Buddhi (discernment)               ║  ║
-              ║    ║  - Viveka (discrimination)            ║  ║
-              ║    ║  - Intuition                          ║  ║
-              ║    ║                                       ║  ║
-              ║    ╚═══════════════════════════════════════╝  ║
-              ║                                               ║
-              ║    [BLISS experienced here]                   ║
-              ║    - Ananda (pure joy)                        ║
-              ║    - Samadhi states                           ║
-              ║    - Connection to Atman                      ║
-              ║                                               ║
-              ╚═══════════════════════════════════════════════╝
-                                   │
-                                   │ All sheaths reflect
-                                   ▼
+                                   |
+                                   | reflects through
+                                   v
+              +===============================================+
+              |                                               |
+              |    ⑤ ANANDAMAYA KOSHA (आनन्दमय कोश)          |
+              |       The Bliss Sheath                        |
+              |       • Color: Pure White/Gold                |
+              |       • Nature: Causal body (Karana Sharira)  |
+              |       • Experience: Pure bliss, oneness       |
+              |       • Thickness: Subtlest (like light mist) |
+              |                                               |
+              |    +=======================================+  |
+              |    |                                       |  |
+              |    |  ④ VIJNANAMAYA KOSHA (विज्ञानमय कोश)  |  |
+              |    |     The Wisdom Sheath                 |  |
+              |    |     • Color: Deep blue/indigo         |  |
+              |    |     • Nature: Subtle body (Sukshma)   |  |
+              |    |     • Experience: Intuition, knowing  |  |
+              |    |     • Thickness: Very subtle          |  |
+              |    |                                       |  |
+              |    |  +================================+   |  |
+              |    |  |                                |   |  |
+              |    |  |  ③ MANOMAYA KOSHA (मनोमय कोश)   |   |  |
+              |    |  |     The Mental Sheath          |   |  |
+              |    |  |     • Color: Silver/gray       |   |  |
+              |    |  |     • Nature: Subtle body      |   |  |
+              |    |  |     • Experience: Thoughts,    |   |  |
+              |    |  |       emotions, memories       |   |  |
+              |    |  |     • Thickness: Moderate      |   |  |
+              |    |  |                                |   |  |
+              |    |  |  +=========================+   |   |  |
+              |    |  |  |                         |   |   |  |
+              |    |  |  |  ② PRANAMAYA KOSHA      |   |   |  |
+              |    |  |  |     (प्राणमय कोश)        |   |   |  |
+              |    |  |  |     The Life Force      |   |   |  |
+              |    |  |  |     Sheath ⚡           |   |   |  |
+              |    |  |  |                         |   |   |  |
+              |    |  |  |  +==================+   |   |   |  |
+              |    |  |  |  |                  |   |   |   |  |
+              |    |  |  |  |  ① ANNAMAYA     |   |   |   |  |
+              |    |  |  |  |     KOSHA       |   |   |   |  |
+              |    |  |  |  |  (अन्नमय कोश)   |   |   |   |  |
+              |    |  |  |  |  Physical Body  |   |   |   |  |
+              |    |  |  |  |                  |   |   |   |  |
+              |    |  |  |  |  🧍 (Bones,      |   |   |   |  |
+              |    |  |  |  |   muscles,       |   |   |   |  |
+              |    |  |  |  |   organs, etc.)  |   |   |   |  |
+              |    |  |  |  |                  |   |   |   |  |
+              |    |  |  |  +==================+   |   |   |  |
+              |    |  |  |                         |   |   |  |
+              |    |  |  |  [PRANA flows here]     |   |   |  |
+              |    |  |  |  - 72,000 Nadis        |   |   |  |
+              |    |  |  |  - 5 Pranas (Prana,    |   |   |  |
+              |    |  |  |    Apana, Samana,      |   |   |  |
+              |    |  |  |    Udana, Vyana)       |   |   |  |
+              |    |  |  |  - Internal sun here   |   |   |  |
+              |    |  |  |    (solar plexus/heart)|   |   |  |
+              |    |  |  |                         |   |   |  |
+              |    |  |  +=========================+   |   |  |
+              |    |  |                                |   |  |
+              |    |  |  [MIND operates here]          |   |  |
+              |    |  |  - Manas (sensory mind)        |   |  |
+              |    |  |  - Emotions                    |   |  |
+              |    |  |  - Memories (Chitta)           |   |  |
+              |    |  |                                |   |  |
+              |    |  +================================+   |  |
+              |    |                                       |  |
+              |    |  [INTELLECT operates here]            |  |
+              |    |  - Buddhi (discernment)               |  |
+              |    |  - Viveka (discrimination)            |  |
+              |    |  - Intuition                          |  |
+              |    |                                       |  |
+              |    +=======================================+  |
+              |                                               |
+              |    [BLISS experienced here]                   |
+              |    - Ananda (pure joy)                        |
+              |    - Samadhi states                           |
+              |    - Connection to Atman                      |
+              |                                               |
+              +===============================================+
+                                   |
+                                   | All sheaths reflect
+                                   v
                               ✦ ATMAN ✦
                         (Always unchanged,
                          always witnessing)
 
-═══════════════════════════════════════════════════════════════════════════
+===========================================================================
 ```
 
 ---
@@ -413,17 +413,17 @@ ACCESSIBILITY: Direct perception
 
 ```
 ATMAN (Pure Consciousness)
-    ↓ reflects through
+    v reflects through
 ANANDAMAYA KOSHA (Background bliss)
-    ↓ reflects through
+    v reflects through
 VIJNANAMAYA KOSHA (Intuitive knowing)
-    ↓ reflects through
+    v reflects through
 MANOMAYA KOSHA (Thoughts and emotions)
-    ↓ reflects through
+    v reflects through
 PRANAMAYA KOSHA (Vitality and energy)
-    ↓ reflects through
+    v reflects through
 ANNAMAYA KOSHA (Physical sensations)
-    ↓ interacts with
+    v interacts with
 EXTERNAL WORLD (Objects, people, events)
 ```
 
@@ -434,66 +434,66 @@ EXTERNAL WORLD (Objects, people, events)
 ### **ATMAN vs INTERNAL SUN vs PRANA:**
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ATMAN (आत्मन्):                                                         ║
-║   • Pure consciousness                                                    ║
-║   • The WITNESS                                                           ║
-║   • Beyond all 5 Koshas                                                   ║
-║   • Nirguna (without qualities)                                           ║
-║   • Never dies                                                            ║
-║   • The SUN itself                                                        ║
-║                                                                           ║
-║   ≠ (NOT EQUAL TO)                                                        ║
-║                                                                           ║
-║   INTERNAL SUN:                                                           ║
-║   • Prana concentration                                                   ║
-║   • Located in Pranamaya Kosha                                            ║
-║   • At solar plexus/heart                                                 ║
-║   • Powers biological functions                                           ║
-║   • Can be strengthened/depleted                                          ║
-║   • SUNLIGHT (reflection of Atman)                                        ║
-║                                                                           ║
-║   ≠ (NOT EQUAL TO)                                                        ║
-║                                                                           ║
-║   PRANA (प्राण):                                                          ║
-║   • Life force, vitality                                                  ║
-║   • Resides IN Pranamaya Kosha                                            ║
-║   • Saguna (with qualities)                                               ║
-║   • Has beginning and end                                                 ║
-║   • The Om sound/vibration                                                ║
-║   • Exits at death (last breath)                                          ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   ATMAN (आत्मन्):                                                         |
+|   • Pure consciousness                                                    |
+|   • The WITNESS                                                           |
+|   • Beyond all 5 Koshas                                                   |
+|   • Nirguna (without qualities)                                           |
+|   • Never dies                                                            |
+|   • The SUN itself                                                        |
+|                                                                           |
+|   ≠ (NOT EQUAL TO)                                                        |
+|                                                                           |
+|   INTERNAL SUN:                                                           |
+|   • Prana concentration                                                   |
+|   • Located in Pranamaya Kosha                                            |
+|   • At solar plexus/heart                                                 |
+|   • Powers biological functions                                           |
+|   • Can be strengthened/depleted                                          |
+|   • SUNLIGHT (reflection of Atman)                                        |
+|                                                                           |
+|   ≠ (NOT EQUAL TO)                                                        |
+|                                                                           |
+|   PRANA (प्राण):                                                          |
+|   • Life force, vitality                                                  |
+|   • Resides IN Pranamaya Kosha                                            |
+|   • Saguna (with qualities)                                               |
+|   • Has beginning and end                                                 |
+|   • The Om sound/vibration                                                |
+|   • Exits at death (last breath)                                          |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
 
-## 💀 DEATH SEQUENCE THROUGH THE KOSHAS
+## ☯️ DEATH SEQUENCE THROUGH THE KOSHAS
 
 ### **How Death Unfolds Layer by Layer:**
 
 ```
 PHASE 1: ATMAN WITHDRAWAL (Days before clinical death)
-═══════════════════════════════════════════════════════════════════════
+=======================================================================
 • Atman (consciousness) begins withdrawing from Anandamaya Kosha
 • Subtle decay starts (not visible externally)
 • Person may sense "something leaving"
 • Anandamaya Kosha (bliss sheath) thinning
 
 PHASE 2: HIGHER KOSHA COLLAPSE (Hours before death)
-═══════════════════════════════════════════════════════════════════════
+=======================================================================
 • Vijnanamaya Kosha (wisdom) collapses
-  → Loss of clarity, confusion
+  -> Loss of clarity, confusion
 • Manomaya Kosha (mind) fragments
-  → Memories fade, mental coherence lost
+  -> Memories fade, mental coherence lost
 • Pranamaya Kosha (Prana) destabilizing
-  → Internal sun dimming, energy dropping
+  -> Internal sun dimming, energy dropping
 • Annamaya Kosha (physical) still intact
-  → Body looks "fine" from outside
+  -> Body looks "fine" from outside
 
 PHASE 3: PRANA EXIT (At moment of death)
-═══════════════════════════════════════════════════════════════════════
+=======================================================================
 • Last breath = Prana exits Pranamaya Kosha
 • Internal sun goes dark (0% power)
 • Pranamaya Kosha collapses completely
@@ -501,7 +501,7 @@ PHASE 3: PRANA EXIT (At moment of death)
 • Clinical death occurs
 
 PHASE 4: ANNAMAYA DECAY (After death)
-═══════════════════════════════════════════════════════════════════════
+=======================================================================
 • Physical body (Annamaya Kosha) now empty shell
 • Returns to Pancha Mahabhutas (5 elements)
 • Decomposition begins
@@ -521,14 +521,14 @@ KEY INSIGHT:
 
 ```
 TO EXPERIENCE ANNAMAYA KOSHA (Physical Body):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Hatha Yoga (physical postures)
 • Body scan meditation
 • Mindful movement
 • Physical sensations awareness
 
 TO EXPERIENCE PRANAMAYA KOSHA (Life Force):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Pranayama (breath control)
   - Anulom-Vilom (alternate nostril)
   - Kapalbhati (skull-shining breath)
@@ -537,28 +537,28 @@ TO EXPERIENCE PRANAMAYA KOSHA (Life Force):
 • Feel the "internal sun" warmth
 
 TO EXPERIENCE MANOMAYA KOSHA (Mental Sheath):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Meditation (Dhyana)
 • Thought observation
 • Journaling
 • Emotional awareness
 
 TO EXPERIENCE VIJNANAMAYA KOSHA (Wisdom Sheath):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Self-inquiry (Atma Vichara)
 • Contemplation (Nididhyasana)
 • Viveka (discrimination practice)
 • Intuition development
 
 TO EXPERIENCE ANANDAMAYA KOSHA (Bliss Sheath):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Deep meditation (Samadhi)
 • Yoga Nidra (conscious deep sleep)
 • Surrender practices
 • Grace (Kripa)
 
 TO RECOGNIZE ATMAN (Pure Consciousness):
-══════════════════════════════════════════════════════════════
+==============================================================
 • Jnana Yoga (path of knowledge)
 • "Who am I?" inquiry
 • Witnessing the witness
@@ -595,28 +595,28 @@ TO RECOGNIZE ATMAN (Pure Consciousness):
 
 ```
 1. ATMAN is BEYOND all 5 Koshas
-   → Pure consciousness, the eternal witness
-   → Never contained IN the body
+   -> Pure consciousness, the eternal witness
+   -> Never contained IN the body
 
 2. PRANA is WITHIN Pranamaya Kosha (2nd sheath)
-   → Life force, vitality, Om sound
-   → Has beginning and end
+   -> Life force, vitality, Om sound
+   -> Has beginning and end
 
 3. INTERNAL SUN = Prana concentration
-   → NOT Atman itself
-   → Located in Pranamaya Kosha
-   → Can strengthen/weaken
+   -> NOT Atman itself
+   -> Located in Pranamaya Kosha
+   -> Can strengthen/weaken
 
 4. DEATH happens layer by layer:
-   → Atman withdraws (days before)
-   → Koshas collapse (hours before)
-   → Prana exits (death moment)
-   → Body decays (after death)
+   -> Atman withdraws (days before)
+   -> Koshas collapse (hours before)
+   -> Prana exits (death moment)
+   -> Body decays (after death)
 
 5. YOU are not the 5 Koshas:
-   → You are Atman
-   → Koshas are temporary vehicles
-   → "Neti neti" — Not this, not this
+   -> You are Atman
+   -> Koshas are temporary vehicles
+   -> "Neti neti" — Not this, not this
 ```
 
 ---

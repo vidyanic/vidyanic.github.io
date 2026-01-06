@@ -387,10 +387,10 @@ Bathing in Ganga = re-syncing with source code.
 
 ## ð Related Files
 
-- [Bhu-Mandala Complete](./mahavishnu/brahmanda/spacetime/BHU_MANDALA_COMPLETE.md)
-- [Meru Fractal Axis](./mahavishnu/brahmanda/spacetime/MERU_FRACTAL_AXIS.md)
-- [Loka Tick Scaling](./mahavishnu/brahmanda/spacetime/LOKA_TICK_SCALING.md)
-- [Universal Principles](./01_UNIVERSAL_PRINCIPLES.md)
-- [Fractal Constant Relativity](./FRACTAL_CONSTANT_RELATIVITY.md)
+- [Bhu-Mandala Complete](../../../mahavishnu/brahmanda/spacetime/BHU_MANDALA_COMPLETE.md)
+- [Meru Fractal Axis](../../../mahavishnu/brahmanda/spacetime/MERU_FRACTAL_AXIS.md)
+- [Loka Tick Scaling](../../../mahavishnu/brahmanda/spacetime/LOKA_TICK_SCALING.md)
+- [Universal Principles](../../../scientific_papers/01_UNIVERSAL_PRINCIPLES.md)
+- [Fractal Constant Relativity](../../../FRACTAL_CONSTANT_RELATIVITY.md)
 
 

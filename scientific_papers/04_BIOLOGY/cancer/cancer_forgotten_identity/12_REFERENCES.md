@@ -26,9 +26,9 @@
 
 ## 12.4 Related Papers
 
-8. [Epigenetics = Samskaras](../../epigenetics/epigenetics_samskaras/)
-9. [Aging = Samskara Accumulation](../../aging/aging_samskara/)
-10. [Entropy = Tamas](../../../02_PHYSICS/thermodynamics/entropy_tamas/)
+8. [Epigenetics = Samskaras](./epigenetics/epigenetics_samskaras/)
+9. [Aging = Samskara Accumulation](./aging/aging_samskara/)
+10. [Entropy = Tamas](./02_PHYSICS/thermodynamics/entropy_tamas/)
 
 ---
 

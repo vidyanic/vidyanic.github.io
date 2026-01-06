@@ -5,22 +5,22 @@
 ## 11.1 The Core Insight
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   CANCER = FORGOTTEN IDENTITY                                 ║
-║                                                               ║
-║   A cell that forgot what it's supposed to be                ║
-║   Lost its Svadharma (own-duty)                              ║
-║   Reverted to primitive survival mode                        ║
-║   Tamas without Sattva                                       ║
-║                                                               ║
-║   TREATMENT = RESTORATION                                    ║
-║                                                               ║
-║   Remind the cell of its identity                            ║
-║   Restore differentiation                                    ║
-║   Rebalance Gunas                                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   CANCER = FORGOTTEN IDENTITY                                 |
+|                                                               |
+|   A cell that forgot what it's supposed to be                |
+|   Lost its Svadharma (own-duty)                              |
+|   Reverted to primitive survival mode                        |
+|   Tamas without Sattva                                       |
+|                                                               |
+|   TREATMENT = RESTORATION                                    |
+|                                                               |
+|   Remind the cell of its identity                            |
+|   Restore differentiation                                    |
+|   Rebalance Gunas                                            |
+|                                                               |
++===============================================================+
 ```
 
 ---

@@ -10,7 +10,7 @@
 
 ---
 
-## 🔴 CORE INSIGHT: Newton Discovered FRONTEND Rendering of BACKEND Karma
+## ⚠️ CORE INSIGHT: Newton Discovered FRONTEND Rendering of BACKEND Karma
 
 ```
 WHAT NEWTON SAW (Frontend):

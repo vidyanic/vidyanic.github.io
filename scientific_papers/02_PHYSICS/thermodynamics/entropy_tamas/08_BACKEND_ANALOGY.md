@@ -38,7 +38,7 @@ Sattva + Rajas + Tamas = 1
 PROPERTIES:
 • Always normalized to unity
 • Transformation, not creation
-• One increases → Others decrease
+• One increases -> Others decrease
 • Energy-like conservation
 ```
 
@@ -67,9 +67,9 @@ Total = Sattva + Rajas + Tamas = 1
 (conserved)
 
 MAPPING:
-Ordered energy (potential) → Sattva
-Active energy (kinetic) → Rajas
-Disordered energy (thermal) → Tamas
+Ordered energy (potential) -> Sattva
+Active energy (kinetic) -> Rajas
+Disordered energy (thermal) -> Tamas
 ```
 
 ---
@@ -227,7 +227,7 @@ Would require global Tamas decrease
 Against natural tendency
 Only possible through massive Sattva injection
 
-THIS IS PRALAYA → SRISHTI:
+THIS IS PRALAYA -> SRISHTI:
 Cosmic reset, not time reversal
 New cycle, not backward motion
 ```
@@ -240,7 +240,7 @@ New cycle, not backward motion
 
 ```
 PREDICTION:
-Universe → Maximum entropy
+Universe -> Maximum entropy
 All energy uniformly distributed
 No work possible
 No structure, no life
@@ -251,7 +251,7 @@ No structure, no life
 
 ```
 DESCRIPTION:
-Universe → Maximum Tamas
+Universe -> Maximum Tamas
 All differentiation dissolved
 Complete uniformity
 Return to unmanifest state
@@ -294,9 +294,9 @@ Life maintenance: dS_local/dt > 0
 Global: dT_global/dt > 0
 
 TRANSFORMATIONS:
-S → R: Order becomes activity
-R → T: Activity becomes inertia
-T → S: Requires conscious effort
+S -> R: Order becomes activity
+R -> T: Activity becomes inertia
+T -> S: Requires conscious effort
 ```
 
 ### 8.8.2 Guna-Energy Bridge

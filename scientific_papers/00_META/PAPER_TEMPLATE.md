@@ -8,21 +8,21 @@
 
 ```
 paper_name/
-├── 00_ABSTRACT.md           ← 250 words summary
-├── 01_INTRODUCTION.md       ← Problem statement, context
-├── 02_LITERATURE_REVIEW.md  ← Scientific + Backend sources
-├── 03_THEORETICAL_FRAMEWORK.md ← Core theory
-├── 04_HYPOTHESIS.md         ← Testable claims
-├── 05_METHODOLOGY.md        ← How we validate
-├── 06_RESULTS.md            ← Evidence and findings
-├── 07_ANOMALIES.md          ← Glitches and edge cases
-├── 08_BACKEND_ANALOGY.md    ← Backend Architecture parallel
-├── 09_DISCUSSION.md         ← Implications
-├── 10_VALIDATION.md         ← Formulas, proofs, references
-├── 11_CONCLUSION.md         ← Summary and future work
-├── 12_REFERENCES.md         ← Full bibliography
-├── 13_APPENDICES.md         ← Additional material
-├── README.md                ← Navigation + Q&A summary
++-- 00_ABSTRACT.md           <- 250 words summary
++-- 01_INTRODUCTION.md       <- Problem statement, context
++-- 02_LITERATURE_REVIEW.md  <- Scientific + Backend sources
++-- 03_THEORETICAL_FRAMEWORK.md <- Core theory
++-- 04_HYPOTHESIS.md         <- Testable claims
++-- 05_METHODOLOGY.md        <- How we validate
++-- 06_RESULTS.md            <- Evidence and findings
++-- 07_ANOMALIES.md          <- Glitches and edge cases
++-- 08_BACKEND_ANALOGY.md    <- Backend Architecture parallel
++-- 09_DISCUSSION.md         <- Implications
++-- 10_VALIDATION.md         <- Formulas, proofs, references
++-- 11_CONCLUSION.md         <- Summary and future work
++-- 12_REFERENCES.md         <- Full bibliography
++-- 13_APPENDICES.md         <- Additional material
++-- README.md                <- Navigation + Q&A summary
 ```
 
 ---
@@ -75,8 +75,8 @@ Word count: ~250 words
 ## 📁 Paper Sections
 | # | Section | File | Summary |
 |---|---------|------|---------|
-| 00 | Abstract | [00_ABSTRACT.md](./00_ABSTRACT.md) | 250-word summary |
-| 01 | Introduction | [01_INTRODUCTION.md](./01_INTRODUCTION.md) | Problem & context |
+| 00 | Abstract | [00_ABSTRACT.md](../../scientific_papers/00_ABSTRACT.md) | 250-word summary |
+| 01 | Introduction | [01_INTRODUCTION.md](../../scientific_papers/01_INTRODUCTION.md) | Problem & context |
 ...
 
 ## 🎯 Key Insight

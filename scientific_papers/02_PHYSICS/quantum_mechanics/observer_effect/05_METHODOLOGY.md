@@ -9,8 +9,8 @@ METHODOLOGY:
 ━━━━━━━━━━━
 1. Identify all candidates for "observer"
 2. For each candidate, ask: Can we remove it while preserving collapse?
-3. If YES → Not essential
-4. If NO → Potentially irreducible
+3. If YES -> Not essential
+4. If NO -> Potentially irreducible
 5. The irreducible element = True observer
 ```
 
@@ -29,8 +29,8 @@ METHODOLOGY:
 FOR EACH CANDIDATE:
 1. Design experiment where candidate is present/absent
 2. Check if collapse occurs
-3. If collapse occurs without candidate → Eliminated
-4. If collapse fails without candidate → Essential
+3. If collapse occurs without candidate -> Eliminated
+4. If collapse fails without candidate -> Essential
 
 FINAL OBSERVER = Candidate(s) that cannot be eliminated
 ```
@@ -117,32 +117,32 @@ Examine logical consistency of different observer perspectives.
 
 ```
 START: What is the observer?
-│
-├─► Is detector alone sufficient?
-│   │
-│   ├─ YES → Detector = Observer (FALSIFIED by delayed choice)
-│   │
-│   └─ NO → Continue
-│
-├─► Is decoherence sufficient?
-│   │
-│   ├─ YES → Environment = Observer (FALSIFIED - no definite outcome)
-│   │
-│   └─ NO → Continue
-│
-├─► Is recording sufficient?
-│   │
-│   ├─ YES → Information = Observer (FALSIFIED by quantum eraser)
-│   │
-│   └─ NO → Continue
-│
-├─► Is consciousness sufficient?
-│   │
-│   ├─ NO → ??? (No alternative found)
-│   │
-│   └─ YES → Consciousness = Observer (CURRENT STATUS)
-│
-└─► RESULT: Consciousness is irreducible in observation
+|
++-> Is detector alone sufficient?
+|   |
+|   +- YES -> Detector = Observer (FALSIFIED by delayed choice)
+|   |
+|   +- NO -> Continue
+|
++-> Is decoherence sufficient?
+|   |
+|   +- YES -> Environment = Observer (FALSIFIED - no definite outcome)
+|   |
+|   +- NO -> Continue
+|
++-> Is recording sufficient?
+|   |
+|   +- YES -> Information = Observer (FALSIFIED by quantum eraser)
+|   |
+|   +- NO -> Continue
+|
++-> Is consciousness sufficient?
+|   |
+|   +- NO -> ??? (No alternative found)
+|   |
+|   +- YES -> Consciousness = Observer (CURRENT STATUS)
+|
++-> RESULT: Consciousness is irreducible in observation
 ```
 
 ---
@@ -157,10 +157,10 @@ START: What is the observer?
 |ψ⟩ = α|0⟩ + β|1⟩ (Initial state)
 
 DETECTOR INTERACTION:
-|ψ⟩|D₀⟩ → α|0⟩|D_0⟩ + β|1⟩|D_1⟩ (Entangled, still superposition!)
+|ψ⟩|D₀⟩ -> α|0⟩|D_0⟩ + β|1⟩|D_1⟩ (Entangled, still superposition!)
 
 CONSCIOUSNESS OBSERVATION:
-α|0⟩|D_0⟩ + β|1⟩|D_1⟩ → |0⟩|D_0⟩ OR |1⟩|D_1⟩ (Collapse!)
+α|0⟩|D_0⟩ + β|1⟩|D_1⟩ -> |0⟩|D_0⟩ OR |1⟩|D_1⟩ (Collapse!)
 
 CONCLUSION:
 Detector alone doesn't collapse — consciousness does.
@@ -172,10 +172,10 @@ Detector alone doesn't collapse — consciousness does.
 
 ```
 PRESERVED INFORMATION:
-Particle → Which-path known → No interference
+Particle -> Which-path known -> No interference
 
 ERASED INFORMATION:
-Particle → Which-path erased → Interference returns!
+Particle -> Which-path erased -> Interference returns!
 
 CONCLUSION:
 It's not detection that collapses — it's knowledge.

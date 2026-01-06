@@ -20,8 +20,8 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [transpersonal/](./transpersonal/) | Beyond ego | States mapped by Yoga |
-| [depth_psychology/](./depth_psychology/) | The unconscious | Jung meets Vedanta |
+| [transpersonal/](../transpersonal) | Beyond ego | States mapped by Yoga |
+| [depth_psychology/](../depth_psychology) | The unconscious | Jung meets Vedanta |
 
 ---
 
@@ -70,19 +70,19 @@
 ```
 WESTERN CATEGORIES    ↔     VEDIC CATEGORIES
 ━━━━━━━━━━━━━━━━━━          ━━━━━━━━━━━━━━━━━
-Conscious mind         ←     Manas (processing)
-Ego                    ←     Ahamkara (I-maker)
-Reasoning              ←     Buddhi (discriminator)
-Unconscious            ←     Chitta (memory/storage)
-Collective unconscious ←     Samasti Chitta
-Self                   ←     Atman
+Conscious mind         <-     Manas (processing)
+Ego                    <-     Ahamkara (I-maker)
+Reasoning              <-     Buddhi (discriminator)
+Unconscious            <-     Chitta (memory/storage)
+Collective unconscious <-     Samasti Chitta
+Self                   <-     Atman
 ```
 
 **The map is already drawn. Psychology is rediscovering it.**
 
 ---
 
-**Start with:** [Transpersonal Psychology](./transpersonal/transpersonal_psychology.md)
+**Start with:** [Transpersonal Psychology](../../transpersonal/transpersonal_psychology.md)
 
 **ॐ चित्तशुद्धिः**  
 *Purification of the mind*

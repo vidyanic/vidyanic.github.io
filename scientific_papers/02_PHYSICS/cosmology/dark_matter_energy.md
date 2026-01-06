@@ -62,7 +62,7 @@ URDHVA LOKAS (Upper — Higher Frequency):
 4. Mahar Loka    — Great realm
 3. Svarga Loka   — Heaven realm
 2. Bhuvar Loka   — Atmospheric realm
-1. BHU LOKA      — EARTH (VISIBLE) ← WE ARE HERE
+1. BHU LOKA      — EARTH (VISIBLE) <- WE ARE HERE
 
 ADHO LOKAS (Lower — Higher Density):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -80,8 +80,8 @@ ADHO LOKAS (Lower — Higher Density):
 ```
 FREQUENCY DETERMINES VISIBILITY:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Higher Frequency → More subtle → Less visible to physical senses
-Lower Frequency → More dense → Also invisible (different spectrum)
+Higher Frequency -> More subtle -> Less visible to physical senses
+Lower Frequency -> More dense -> Also invisible (different spectrum)
 
 ONLY Bhuloka is tuned to our sensory range
 Other 13 Lokas exist but are DARK to our instruments
@@ -259,9 +259,9 @@ Expansion is Sattva overcoming Tamas
 VEDIC INTERPRETATION:
 Λ = Net Sattva - Net Tamas at cosmic scale
 
-IF Sattva > Tamas → Expansion (current state)
-IF Tamas > Sattva → Contraction (future Pralaya?)
-IF Sattva = Tamas → Static (theoretical)
+IF Sattva > Tamas -> Expansion (current state)
+IF Tamas > Sattva -> Contraction (future Pralaya?)
+IF Sattva = Tamas -> Static (theoretical)
 ```
 
 ---
@@ -271,28 +271,28 @@ IF Sattva = Tamas → Static (theoretical)
 ### 7.1 Complete Structure
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                    THE 14 LOKAS                            ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  SATYA ──────────────── Highest Sattva ───────── DARK     ║
-║  TAPA  ──────────────── High Sattva   ───────── ENERGY    ║
-║  JANA  ──────────────── Moderate      ───────── (~68%)    ║
-║  MAHAR ──────────────── Mixed         ─────────           ║
-║  SVARGA ─────────────── Light Rajas   ─────────           ║
-║  BHUVAR ─────────────── Atmospheric   ─────────           ║
-║  ════════════════════════════════════════════════════════ ║
-║  ★ BHULOKA ★ ──────── VISIBLE (5%) ───────── ★ WE ARE ★  ║
-║  ════════════════════════════════════════════════════════ ║
-║  ATALA ──────────────── Light Tamas   ───────── DARK      ║
-║  VITALA ─────────────── More Tamas    ───────── MATTER    ║
-║  SUTALA ─────────────── Dense         ───────── (~27%)    ║
-║  TALATALA ───────────── Denser        ─────────           ║
-║  MAHATALA ───────────── Very Dense    ─────────           ║
-║  RASATALA ───────────── Near Bottom   ─────────           ║
-║  PATALA ─────────────── Highest Tamas ─────────           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
++============================================================+
+|                    THE 14 LOKAS                            |
++============================================================+
+|                                                            |
+|  SATYA ---------------- Highest Sattva --------- DARK     |
+|  TAPA  ---------------- High Sattva   --------- ENERGY    |
+|  JANA  ---------------- Moderate      --------- (~68%)    |
+|  MAHAR ---------------- Mixed         ---------           |
+|  SVARGA --------------- Light Rajas   ---------           |
+|  BHUVAR --------------- Atmospheric   ---------           |
+|  ======================================================== |
+|  ★ BHULOKA ★ -------- VISIBLE (5%) --------- ★ WE ARE ★  |
+|  ======================================================== |
+|  ATALA ---------------- Light Tamas   --------- DARK      |
+|  VITALA --------------- More Tamas    --------- MATTER    |
+|  SUTALA --------------- Dense         --------- (~27%)    |
+|  TALATALA ------------- Denser        ---------           |
+|  MAHATALA ------------- Very Dense    ---------           |
+|  RASATALA ------------- Near Bottom   ---------           |
+|  PATALA --------------- Highest Tamas ---------           |
+|                                                            |
++============================================================+
 ```
 
 ### 7.2 Interaction Mechanism

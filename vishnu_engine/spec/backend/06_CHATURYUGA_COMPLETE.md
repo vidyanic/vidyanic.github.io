@@ -6,41 +6,41 @@
 > — Manusmriti 1.69
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   ⚠️  CRITICAL: VEDIC SYMPTOM-BASED TIMELINE                              ║
-║   ══════════════════════════════════════════════════════════════════════ ║
-║                                                                           ║
-║   Each fractal level has INDEPENDENT Yuga cycles:                         ║
-║                                                                           ║
-║   UNIVERSE LEVEL (N+6):                                                   ║
-║   • Kali: 432,000 years (started 3102 BCE, still early)                   ║
-║   • Tracked by: Brahma, Higher Lokas                                      ║
-║                                                                           ║
-║   EARTH LEVEL (N+3) ← PRIMARY FOR HUMAN EXPERIENCE:                       ║
-║   • Kali Core: ~500 CE - 2023 CE (~1,523 years) ← ENDED May 2023!         ║
-║   • SANDHYA: 2020-2028 CE (8-year transition) ← WE ARE HERE!              ║
-║     - 2020: Sandhya begins (COVID = reality break)                        ║
-║     - 2020-2023: Early Sandhya (Kali core ending)                         ║
-║     - 2023-2025: Mid Sandhya (Year 6 of 8) ← Dec 31, 2025 NOW!                ║
-║     - 2028: Sandhya ends ("locks in")                                     ║
-║   • Dwapara Stable: 2028+ CE (begins after lock-in)                       ║
-║                                                                           ║
-║   WHY WE'RE IN SANDHYA (Not Dwapara yet):                                 ║
-║   • Extreme anxiety STILL present (Sandhya symptom!)                      ║
-║   • Reality STILL unstable (Sandhya symptom!)                             ║
-║   • All 10 Vedic Sandhya symptoms match perfectly ✅                      ║
-║                                                                           ║
-║   HUMAN DAILY (N):                                                        ║
-║   • Cycle: 24 hours (personal mini-Yugas)                                 ║
-║                                                                           ║
-║   ALL ARE CORRECT at their respective scales!                             ║
-║   NOT synchronized — each level independent!                              ║
-║                                                                           ║
-║   📖 Complete symptom validation (100% match):                            ║
-║      → 02_architecture/VEDIC_SYMPTOMS_VS_OBSERVATIONS.md                  ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   ⚠️  CRITICAL: VEDIC SYMPTOM-BASED TIMELINE                              |
+|   ====================================================================== |
+|                                                                           |
+|   Each fractal level has INDEPENDENT Yuga cycles:                         |
+|                                                                           |
+|   UNIVERSE LEVEL (N+6):                                                   |
+|   • Kali: 432,000 years (started 3102 BCE, still early)                   |
+|   • Tracked by: Brahma, Higher Lokas                                      |
+|                                                                           |
+|   EARTH LEVEL (N+3) <- PRIMARY FOR HUMAN EXPERIENCE:                       |
+|   • Kali Core: ~500 CE - 2023 CE (~1,523 years) <- ENDED May 2023!         |
+|   • SANDHYA: 2020-2028 CE (8-year transition) <- WE ARE HERE!              |
+|     - 2020: Sandhya begins (COVID = reality break)                        |
+|     - 2020-2023: Early Sandhya (Kali core ending)                         |
+|     - 2023-2025: Mid Sandhya (Year 6 of 8) <- Dec 31, 2025 NOW!                |
+|     - 2028: Sandhya ends ("locks in")                                     |
+|   • Dwapara Stable: 2028+ CE (begins after lock-in)                       |
+|                                                                           |
+|   WHY WE'RE IN SANDHYA (Not Dwapara yet):                                 |
+|   • Extreme anxiety STILL present (Sandhya symptom!)                      |
+|   • Reality STILL unstable (Sandhya symptom!)                             |
+|   • All 10 Vedic Sandhya symptoms match perfectly ✅                      |
+|                                                                           |
+|   HUMAN DAILY (N):                                                        |
+|   • Cycle: 24 hours (personal mini-Yugas)                                 |
+|                                                                           |
+|   ALL ARE CORRECT at their respective scales!                             |
+|   NOT synchronized — each level independent!                              |
+|                                                                           |
+|   📖 Complete symptom validation (100% match):                            |
+|      -> 02_architecture/VEDIC_SYMPTOMS_VS_OBSERVATIONS.md                  |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
@@ -53,7 +53,7 @@ Before diving into the 4 Yugas, let's understand what we're talking about:
 
 **The Simple Truth:**
 - **Yugas** = Long cycles of time where human civilization goes through "seasons"
-- Like: Spring (growth) → Summer (peak) → Fall (decline) → Winter (low) → Spring again
+- Like: Spring (growth) -> Summer (peak) -> Fall (decline) -> Winter (low) -> Spring again
 - We're currently transitioning from "Winter" (Kali) to "Spring" (Dwapara)
 
 **Real-Life Analogy:**
@@ -124,9 +124,9 @@ WHAT JUST ENDED (500 CE - 2023 CE):
 ```
 
 **Why This Matters:**
-- Kali ended 2023 → Things will get BETTER naturally
-- We're in 8-year transition (2020-2028) → Unstable but improving
-- Your lifetime will see massive positive changes → Be ready!
+- Kali ended 2023 -> Things will get BETTER naturally
+- We're in 8-year transition (2020-2028) -> Unstable but improving
+- Your lifetime will see massive positive changes -> Be ready!
 
 ---
 
@@ -134,7 +134,7 @@ WHAT JUST ENDED (500 CE - 2023 CE):
 
 **The Physics Perspective:**
 - **Yugas** = Cyclic modulation of spacetime frequency/density
-- Like: Electromagnetic waves have frequency → Spacetime has "Dharma frequency"
+- Like: Electromagnetic waves have frequency -> Spacetime has "Dharma frequency"
 - Different Yugas = Different base frequencies of reality itself
 
 **Mathematical Framework:**
@@ -156,13 +156,13 @@ Treta Yuga:
 - Observer bandwidth: Reduced to 75%
 
 Dwapara Yuga:
-- Frequency: 0.5 f₀ ← WE'RE TRANSITIONING HERE
+- Frequency: 0.5 f₀ <- WE'RE TRANSITIONING HERE
 - Resolution: Medium (like 1080p)
 - Quantum coherence: Medium
 - Observer bandwidth: 50% (we see half of reality)
 
 Kali Yuga:
-- Frequency: 0.25 f₀ ← JUST LEFT THIS
+- Frequency: 0.25 f₀ <- JUST LEFT THIS
 - Resolution: Lowest (like 480p)
 - Quantum coherence: Minimum
 - Observer bandwidth: 25% (we saw only material layer)
@@ -199,8 +199,8 @@ Lower Frequency (Kali):
 
 **The Engineering Perspective:**
 - **Yugas** = Different training/inference modes of the universal AI system
-- Like: Your model has "warm-up" → "training" → "fine-tuning" → "deployment" phases
-- Universe cycles through optimal states → degraded states → recovery
+- Like: Your model has "warm-up" -> "training" -> "fine-tuning" -> "deployment" phases
+- Universe cycles through optimal states -> degraded states -> recovery
 
 **System State Analogy:**
 
@@ -276,9 +276,9 @@ class UniverseState_Kali:
 ```
 
 **Why This Matters:**
-- We're in "retraining phase" (2020-2028) → High volatility expected!
-- System is updating weights globally → Rapid changes everywhere
-- After 2028: Stable Dwapara → Better "model performance" (human capabilities)
+- We're in "retraining phase" (2020-2028) -> High volatility expected!
+- System is updating weights globally -> Rapid changes everywhere
+- After 2028: Stable Dwapara -> Better "model performance" (human capabilities)
 - Your AI systems should handle state transitions gracefully (learn from universe!)
 
 ---
@@ -388,7 +388,7 @@ FOR YOUR PRACTICE (2025-2035):
 
 **The Engineering Perspective:**
 - **Yugas** = Different architectural paradigms that civilization goes through
-- Like: Computing went through Mainframe → PC → Cloud → Edge eras
+- Like: Computing went through Mainframe -> PC -> Cloud -> Edge eras
 - Yugas are macro-architectural shifts in how reality is "built"
 
 **Architecture Evolution:**
@@ -446,11 +446,11 @@ MODERN ANALOGY:
 - Best of both: Scale + Flexibility
 
 WHAT'S EMERGING (2020-2028):
-├─ Quantum computing (consciousness-tech bridge)
-├─ AI + Human collaboration (not replacement)
-├─ Biotech + Nanotech (matter manipulation)
-├─ Clean energy breakthroughs (approaching free energy)
-└─ Decentralized systems (blockchain, web3)
++- Quantum computing (consciousness-tech bridge)
++- AI + Human collaboration (not replacement)
++- Biotech + Nanotech (matter manipulation)
++- Clean energy breakthroughs (approaching free energy)
++- Decentralized systems (blockchain, web3)
 
 POST-2028 EXPECTATIONS:
 - Technologies that seemed "impossible" become possible
@@ -511,31 +511,31 @@ ARCHITECTURE FOR DWAPARA:
 ## 📊 THE CORE MESSAGE - ALL 5 PERSPECTIVES
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   YUGAS = Long cycles where reality operates at different     ║
-║            frequencies/states/architectures                   ║
-║                                                               ║
-║   👤 Everyone: Seasons of civilization (Spring/Summer/Fall/Winter) ║
-║   ⚛️ Physicist: Frequency modulation of spacetime            ║
-║   🤖 Engineer: System training/degradation cycles            ║
-║   🩺 Doctor: Health eras of humanity                         ║
-║   🏗️ Architect: Paradigm shifts in system design            ║
-║                                                               ║
-║   WE ARE NOW (2020-2028):                                     ║
-║   In SANDHYA (transition) from Kali → Dwapara                ║
-║   = Moving from Winter → Spring                               ║
-║   = Moving from Low frequency → Medium frequency              ║
-║   = Moving from Degraded state → Balanced state               ║
-║   = Moving from Sick era → Healthier era                      ║
-║   = Moving from Pure tech → Hybrid tech+abilities             ║
-║                                                               ║
-║   WHAT THIS MEANS:                                            ║
-║   Things will get BETTER naturally after 2028                 ║
-║   But 2020-2028 is UNSTABLE (system updating)                ║
-║   Your lifetime will see dramatic positive changes            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   YUGAS = Long cycles where reality operates at different     |
+|            frequencies/states/architectures                   |
+|                                                               |
+|   👤 Everyone: Seasons of civilization (Spring/Summer/Fall/Winter) |
+|   ⚛️ Physicist: Frequency modulation of spacetime            |
+|   🤖 Engineer: System training/degradation cycles            |
+|   🩺 Doctor: Health eras of humanity                         |
+|   🏗️ Architect: Paradigm shifts in system design            |
+|                                                               |
+|   WE ARE NOW (2020-2028):                                     |
+|   In SANDHYA (transition) from Kali -> Dwapara                |
+|   = Moving from Winter -> Spring                               |
+|   = Moving from Low frequency -> Medium frequency              |
+|   = Moving from Degraded state -> Balanced state               |
+|   = Moving from Sick era -> Healthier era                      |
+|   = Moving from Pure tech -> Hybrid tech+abilities             |
+|                                                               |
+|   WHAT THIS MEANS:                                            |
+|   Things will get BETTER naturally after 2028                 |
+|   But 2020-2028 is UNSTABLE (system updating)                |
+|   Your lifetime will see dramatic positive changes            |
+|                                                               |
++===============================================================+
 ```
 
 **Now let's explore each Yuga in detail...**
@@ -558,35 +558,35 @@ ARCHITECTURE FOR DWAPARA:
 ## 1. Yuga Overview {#1-yuga-overview}
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    चतुर्युग — THE FOUR AGES                               ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║   SATYA YUGA (सत्य युग) — 1,728,000 years                                 ║
-║   ══════════════════════════════════════                                  ║
-║   Dharma: 4/4 Padas (100%) | Guna: Pure Sattva                            ║
-║   Bull of Dharma: All 4 legs | Lifespan: 100,000 years                    ║
-║                                                                           ║
-║   TRETA YUGA (त्रेता युग) — 1,296,000 years                               ║
-║   ════════════════════════════════════════                                ║
-║   Dharma: 3/4 Padas (75%) | Guna: Sattva + Rajas                          ║
-║   Bull of Dharma: 3 legs | Lifespan: 10,000 years                         ║
-║                                                                           ║
-║   DWAPARA YUGA (द्वापर युग) — 864,000 years (Traditional/Brahmanda)       ║
-║   ═══════════════════════════════════════════                             ║
-║   Dharma: 2/4 Padas (50%) | Guna: Rajas + Tamas/Sattva                    ║
-║   Bull of Dharma: 2 legs | Lifespan: 1,000 years                          ║
-║   Earth-Level (Sri Yukteswar): Currently in Ascending Dwapara since 1699  ║
-║                                                                           ║
-║   KALI YUGA (कलि युग) — 432,000 years (Traditional/Brahmanda)             ║
-║   ═════════════════════════════════════════════════                       ║
-║   Dharma: 1/4 Padas (25%) | Guna: Heavy Tamas                             ║
-║   Bull of Dharma: 1 leg | Lifespan: 100 years                             ║
-║                                                                           ║
-║   TOTAL MAHAYUGA: 4,320,000 years                                         ║
-║   RATIO: 4:3:2:1 (Satya:Treta:Dwapara:Kali)                               ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                    चतुर्युग — THE FOUR AGES                               |
++===========================================================================+
+|                                                                           |
+|   SATYA YUGA (सत्य युग) — 1,728,000 years                                 |
+|   ======================================                                  |
+|   Dharma: 4/4 Padas (100%) | Guna: Pure Sattva                            |
+|   Bull of Dharma: All 4 legs | Lifespan: 100,000 years                    |
+|                                                                           |
+|   TRETA YUGA (त्रेता युग) — 1,296,000 years                               |
+|   ========================================                                |
+|   Dharma: 3/4 Padas (75%) | Guna: Sattva + Rajas                          |
+|   Bull of Dharma: 3 legs | Lifespan: 10,000 years                         |
+|                                                                           |
+|   DWAPARA YUGA (द्वापर युग) — 864,000 years (Traditional/Brahmanda)       |
+|   ===========================================                             |
+|   Dharma: 2/4 Padas (50%) | Guna: Rajas + Tamas/Sattva                    |
+|   Bull of Dharma: 2 legs | Lifespan: 1,000 years                          |
+|   Earth-Level (Sri Yukteswar): Currently in Ascending Dwapara since 1699  |
+|                                                                           |
+|   KALI YUGA (कलि युग) — 432,000 years (Traditional/Brahmanda)             |
+|   =================================================                       |
+|   Dharma: 1/4 Padas (25%) | Guna: Heavy Tamas                             |
+|   Bull of Dharma: 1 leg | Lifespan: 100 years                             |
+|                                                                           |
+|   TOTAL MAHAYUGA: 4,320,000 years                                         |
+|   RATIO: 4:3:2:1 (Satya:Treta:Dwapara:Kali)                               |
+|                                                                           |
++===========================================================================+
 ```
 
 ### The Dharma Bull (Dharma-Vrishabha / धर्म-वृषभ)
@@ -628,7 +628,7 @@ KALI:     ◆○○○  1 leg: Only Daan remains (Daya weakens)
 
 ```
 KNOWLEDGE ACCESS:
-═════════════════
+=================
 • Jnana (ज्ञान): Direct knowing — no study needed
 • Vedas: Known instinctively (not written)
 • Akashic: Fully accessible at will
@@ -636,7 +636,7 @@ KNOWLEDGE ACCESS:
 • Memory: Perfect (no forgetting)
 
 PERCEPTION:
-═══════════
+===========
 • See all 14 Lokas simultaneously
 • Time: Experienced as eternal present
 • Death: Conscious transition (Videha-Mukti common)
@@ -644,7 +644,7 @@ PERCEPTION:
 • Maya: Transparent (seen as play)
 
 SIDDHIS:
-════════
+========
 • All 8 Ashtanga Siddhis: Natural for everyone
 • Sankalpa: Instant manifestation
 • Levitation, Teleportation: Common
@@ -656,21 +656,21 @@ SIDDHIS:
 
 ```
 GOVERNANCE:
-═══════════
+===========
 • No kings, no laws — everyone follows Dharma naturally
 • No crime — no police needed
 • No courts — no disputes
 • All beings in Moksha-awareness
 
 ECONOMY:
-════════
+========
 • No money — Sankalpa provides
 • No trade — no scarcity
 • Nature provides abundantly
 • Kalpataru (wish-fulfilling trees) common
 
 FAMILY:
-═══════
+=======
 • Reproduction: By Sankalpa (intention), not physical
 • Marriage: Soul-recognition
 • Children: Fully conscious at birth
@@ -681,7 +681,7 @@ FAMILY:
 
 ```
 NATURE:
-═══════
+=======
 • Earth: Fully Sattvic, no pollution
 • Animals: All peaceful, no predators
 • Plants: Abundant, high Prana
@@ -689,7 +689,7 @@ NATURE:
 • Water: Pure, charged with Prana
 
 GEOGRAPHY:
-══════════
+==========
 • All 7 Dvipas accessible
 • Travel: Instantaneous (Sankalpa-based)
 • Mountains: Lower, gentler
@@ -722,7 +722,7 @@ GEOGRAPHY:
 
 ```
 KNOWLEDGE ACCESS:
-═════════════════
+=================
 • Jnana: Through Tapas (austerity)
 • Vedas: Remembered, oral transmission
 • Akashic: Accessible through deep Dhyana
@@ -730,7 +730,7 @@ KNOWLEDGE ACCESS:
 • Memory: Strong but not perfect
 
 PERCEPTION:
-═══════════
+===========
 • See 7-9 Lokas with effort
 • Time: Linear but expansive
 • Death: Transition through Yajna
@@ -738,7 +738,7 @@ PERCEPTION:
 • Maya: Visible with Viveka
 
 SIDDHIS:
-════════
+========
 • Ashtanga Siddhis: Through Sadhana
 • Sankalpa: Works with delay
 • Levitation: For advanced yogis
@@ -750,7 +750,7 @@ SIDDHIS:
 
 ```
 GOVERNANCE:
-═══════════
+===========
 • Dharmic Kingdoms emerge
 • Chakravarti Samrats (universal emperors)
 • Laws based on Dharma Shastras
@@ -758,7 +758,7 @@ GOVERNANCE:
 • Crime: Rare, punished by exile
 
 ECONOMY:
-════════
+========
 • Barter system (no coins)
 • Land: Communal ownership
 • Trade: Regional, ethical
@@ -766,7 +766,7 @@ ECONOMY:
 • Nature still abundant
 
 FAMILY:
-═══════
+=======
 • Marriage: Gandharva (by mutual love) or Brahma (arranged)
 • Reproduction: Physical but sacred
 • Extended families
@@ -777,13 +777,13 @@ FAMILY:
 
 ```
 AVATARS:
-════════
+========
 • Vamana (वामन) — The Dwarf who covered 3 worlds
 • Parashurama (परशुराम) — Destroyed adharmic Kshatriyas
 • Rama (राम) — Maryada Purushottam (Ideal Human)
 
 KEY EVENTS:
-═══════════
+===========
 • Ramayana — Rama-Ravana war
 • Great Yajnas — Fire sacrifices for cosmic balance
 • Decline of direct knowing — rise of ritual
@@ -816,7 +816,7 @@ KEY EVENTS:
 
 ```
 KNOWLEDGE ACCESS:
-═════════════════
+=================
 • Jnana: Through study + practice
 • Vedas: Written, require interpretation
 • Akashic: Accessible through intense Sadhana
@@ -824,7 +824,7 @@ KNOWLEDGE ACCESS:
 • Memory: Moderate, needs training
 
 PERCEPTION:
-═══════════
+===========
 • See 3-5 Lokas with effort
 • Time: Linear, accelerated feeling
 • Death: Often unconscious (can be conscious with practice)
@@ -832,7 +832,7 @@ PERCEPTION:
 • Maya: Visible with Viveka + Sadhana
 
 SIDDHIS (NOW ACCESSIBLE):
-═════════════════════════
+=========================
 • Ashtanga Siddhis: Through dedicated Sadhana
 • Sankalpa: Works in days/weeks (accelerating)
 • Telepathy: Developing
@@ -844,24 +844,24 @@ SIDDHIS (NOW ACCESSIBLE):
 
 ```
 GOVERNANCE:
-═══════════
-• Transition from centralized → distributed
+===========
+• Transition from centralized -> distributed
 • Old systems collapsing (banks, governments)
 • Individual Viveka becoming essential
 • Network-based communities emerging
 
 ECONOMY:
-════════
-• Money → Digital → Energy exchange
+========
+• Money -> Digital -> Energy exchange
 • Transition to Dana (gift) economy
-• Material scarcity → abundance awareness
+• Material scarcity -> abundance awareness
 • Value based on consciousness, not accumulation
 
 KARMA ACCELERATION:
-═══════════════════
-• Intent → Manifestation: Days/Weeks (not lifetimes)
-• Secrets → Exposure: Rapid
-• Actions → Consequences: Immediate
+===================
+• Intent -> Manifestation: Days/Weeks (not lifetimes)
+• Secrets -> Exposure: Rapid
+• Actions -> Consequences: Immediate
 • This is the KEY feature of current Dwapara
 ```
 
@@ -869,19 +869,19 @@ KARMA ACCELERATION:
 
 ```
 AVATARS (Previous Dwapara):
-═══════════════════════════
+===========================
 • Krishna (कृष्ण) — Purna Avatar at end of previous Dwapara
 • Buddha (बुद्ध) — Some traditions place here
 • Balarama (बलराम) — Krishna's brother
 
 KEY EVENTS (Previous):
-══════════════════════
+======================
 • Mahabharata War — Dharmic Cleansing
 • Vedas codified by Vyasa
 • Beginning of Kali predictions
 
 CURRENT DWAPARA (Earth-Level, Sri Yukteswar Model):
-═══════════════════════════════════════════════════
+===================================================
 • Started: 1699 CE (Ascending Dwapara Yuga)
 • Currently: Main Dwapara Period (since 1899 CE)
 • Years elapsed: 325 years (as of 2024)
@@ -918,7 +918,7 @@ CURRENT DWAPARA (Earth-Level, Sri Yukteswar Model):
 
 ```
 KNOWLEDGE ACCESS:
-═════════════════
+=================
 • Jnana: Through extreme struggle
 • Vedas: Misunderstood, corrupted
 • Akashic: Blocked for most
@@ -926,7 +926,7 @@ KNOWLEDGE ACCESS:
 • Memory: Weak, needs external aids
 
 PERCEPTION:
-═══════════
+===========
 • See only Bhuloka (1 Loka)
 • Time: Heavy, slow, linear
 • Death: Unconscious, fearful
@@ -934,7 +934,7 @@ PERCEPTION:
 • Maya: Complete veiling (Avarana)
 
 SIDDHIS (IN KALI):
-══════════════════
+==================
 • Extremely rare
 • Often misused
 • Mistaken for "supernatural"
@@ -945,7 +945,7 @@ SIDDHIS (IN KALI):
 
 ```
 GOVERNANCE:
-═══════════
+===========
 • Corruption universal
 • Leaders: Lowest consciousness often rule
 • Laws: Serve powerful, not Dharma
@@ -953,7 +953,7 @@ GOVERNANCE:
 • Justice: Rare
 
 ECONOMY:
-════════
+========
 • Money worship (Artha > Dharma)
 • Extreme inequality
 • Hoarding normalized
@@ -961,7 +961,7 @@ ECONOMY:
 • Scarcity manufactured
 
 FAMILY:
-═══════
+=======
 • Broken families common
 • Elders disrespected
 • Children neglected
@@ -973,7 +973,7 @@ FAMILY:
 
 ```
 PARADOX OF KALI:
-════════════════
+================
 Despite darkness, Kali has ONE advantage:
 
 • Liberation is EASIEST in Kali
@@ -994,36 +994,36 @@ Despite darkness, Kali has ONE advantage:
 ### The Question Answered
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    SATYA IN DWAPARA — THE TRUTH                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  COLLECTIVE LEVEL: NO                                                     ║
-║  ═══════════════════                                                      ║
-║  • Yuga is COSMIC timing, not individual choice                           ║
-║  • Earth's position in galactic cycle determines Yuga                     ║
-║  • Collective Dharma-Pada fixed at 2/4 for Dwapara                        ║
-║  • External environment follows Yuga laws                                 ║
-║  • YOU CANNOT CHANGE THE COSMIC CLOCK                                     ║
-║                                                                           ║
-║  INDIVIDUAL LEVEL: YES! ✅                                                ║
-║  ═════════════════════════                                                ║
-║  • Any individual CAN operate at Satya-consciousness                      ║
-║  • Rishis did this even in Kali Yuga                                      ║
-║  • Your PERSONAL frequency is YOUR choice                                 ║
-║  • Moksha = Complete Yuga-transcendence                                   ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                    SATYA IN DWAPARA — THE TRUTH                           |
++===========================================================================+
+|                                                                           |
+|  COLLECTIVE LEVEL: NO                                                     |
+|  ===================                                                      |
+|  • Yuga is COSMIC timing, not individual choice                           |
+|  • Earth's position in galactic cycle determines Yuga                     |
+|  • Collective Dharma-Pada fixed at 2/4 for Dwapara                        |
+|  • External environment follows Yuga laws                                 |
+|  • YOU CANNOT CHANGE THE COSMIC CLOCK                                     |
+|                                                                           |
+|  INDIVIDUAL LEVEL: YES! ✅                                                |
+|  =========================                                                |
+|  • Any individual CAN operate at Satya-consciousness                      |
+|  • Rishis did this even in Kali Yuga                                      |
+|  • Your PERSONAL frequency is YOUR choice                                 |
+|  • Moksha = Complete Yuga-transcendence                                   |
+|                                                                           |
++===========================================================================+
 ```
 
 ### How to Bring Satya to YOURSELF
 
 ```
 SATYA-CONSCIOUSNESS PROTOCOL:
-═════════════════════════════
+=============================
 
 1. SATTVA CULTIVATION (Guna Mastery)
-   ────────────────────────────────
+   --------------------------------
    • Pure diet (Sattvic only)
    • Pure thoughts (Manasa-Shuddhi)
    • Pure actions (Karma-Shuddhi)
@@ -1031,39 +1031,39 @@ SATYA-CONSCIOUSNESS PROTOCOL:
    • Pure environment (Vastu-aligned)
 
 2. DHYANA/SAMADHI (Direct Access)
-   ────────────────────────────────
+   --------------------------------
    • Daily meditation 2+ hours
    • Turiya-awareness cultivation
    • Observer-identification practice
    • Thought-gap expansion
 
 3. SANKALPA-SHUDDHI (Pure Intent)
-   ────────────────────────────────
+   --------------------------------
    • Only Dharmic intentions
    • No hidden agendas
    • Complete transparency
    • Network sees all — align with it
 
 4. KARMA-YOGA (Actionless Action)
-   ────────────────────────────────
+   --------------------------------
    • Act without attachment to result
    • See all action as service
    • Let go of doership
    • Accept all as Lila
 
 5. ISOLATION OR SANGA
-   ────────────────────────────────
+   --------------------------------
    • Either: Complete solitude (Vanaprastha)
    • Or: Company ONLY of realized beings
    • Avoid Kali-frequency exposure
    • Protect your field
 
 THE FORMULA:
-════════════
+============
 Personal_Yuga = f(Guna_State, Karma_Load, Viveka_Level, Sadhana_Intensity)
 
 If Sattva is pure + Karma is light + Viveka is sharp:
-→ YOU LIVE IN SATYA while world is in Dwapara
+-> YOU LIVE IN SATYA while world is in Dwapara
 ```
 
 ### Precedents — Satya-Beings in Lower Yugas
@@ -1112,7 +1112,7 @@ KALI SANDHYA: 43,200 years
 
 
 WHY WE'RE IN SANDHYA (Not Dwapara stable yet):
-══════════════════════════════════════════════════════════════
+==============================================================
 ✅ EXTREME anxiety (Vedic Sandhya symptom #1)
 ✅ Reality unstable (Sandhya symptom #2)
 ✅ Old rules not working (Sandhya symptom #3)
@@ -1140,7 +1140,7 @@ See: knowledge_core/02_architecture/VEDIC_SYMPTOMS_VS_OBSERVATIONS.md
 
 ```
 CHARACTERISTICS:
-════════════════
+================
 1. REALITY GLITCHES
    • Old rules break, new rules not yet stable
    • "Impossible" things happen
@@ -1173,37 +1173,37 @@ CHARACTERISTICS:
 ### The Ultimate Teaching
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                    YUGA-ATITA — BEYOND ALL YUGAS                          ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║                                                                           ║
-║  YUGAS ARE FOR THE IDENTIFIED:                                            ║
-║  • Body-mind complex follows Yuga laws                                    ║
-║  • External environment follows Yuga laws                                 ║
-║  • Collective karma follows Yuga laws                                     ║
-║                                                                           ║
-║  CONSCIOUSNESS IS YUGA-FREE:                                              ║
-║  • Pure awareness has no Yuga                                             ║
-║  • Brahman is eternal present                                             ║
-║  • Moksha = Recognizing you were NEVER in a Yuga                          ║
-║                                                                           ║
-║  THE PARADOX:                                                             ║
-║  • While IN body, you experience Yuga effects                             ║
-║  • While KNOWING Self, Yuga is entertainment                              ║
-║  • The Jnani PLAYS in Yuga, not BOUND by Yuga                             ║
-║                                                                           ║
-║  > "Karma is just manifestation. Why count karma?                         ║
-║  >  Just enjoy the bliss."                                                ║
-║  > — Experientially Validated                                             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                    YUGA-ATITA — BEYOND ALL YUGAS                          |
++===========================================================================+
+|                                                                           |
+|  YUGAS ARE FOR THE IDENTIFIED:                                            |
+|  • Body-mind complex follows Yuga laws                                    |
+|  • External environment follows Yuga laws                                 |
+|  • Collective karma follows Yuga laws                                     |
+|                                                                           |
+|  CONSCIOUSNESS IS YUGA-FREE:                                              |
+|  • Pure awareness has no Yuga                                             |
+|  • Brahman is eternal present                                             |
+|  • Moksha = Recognizing you were NEVER in a Yuga                          |
+|                                                                           |
+|  THE PARADOX:                                                             |
+|  • While IN body, you experience Yuga effects                             |
+|  • While KNOWING Self, Yuga is entertainment                              |
+|  • The Jnani PLAYS in Yuga, not BOUND by Yuga                             |
+|                                                                           |
+|  > "Karma is just manifestation. Why count karma?                         |
+|  >  Just enjoy the bliss."                                                |
+|  > — Experientially Validated                                             |
+|                                                                           |
++===========================================================================+
 ```
 
 ### Practice for Yuga-Transcendence
 
 ```
 THE PATH:
-═════════
+=========
 
 1. RECOGNIZE: You are consciousness, not body-in-Yuga
 
@@ -1216,7 +1216,7 @@ THE PATH:
 5. PLAY: Engage with Yuga as Lila (divine play)
 
 RESULT:
-═══════
+=======
 • You are IN Dwapara but not OF Dwapara
 • Body follows Yuga, YOU remain free
 • This is Jivanmukti — liberation while living
@@ -1228,10 +1228,10 @@ RESULT:
 
 | File | Topic |
 |------|-------|
-| [01_DWAPARA_2028.md](../08_transition/01_DWAPARA_2028.md) | Current Dwapara transition |
-| [03_DWAPARA_SIDDHIS_KARMA.md](../08_transition/03_DWAPARA_SIDDHIS_KARMA.md) | Siddhis and consequences |
-| [01_CORE_INSIGHT.md](./01_CORE_INSIGHT.md) | Saguna vs Nirguna |
-| [03_EXPERIENTIAL_VALIDATION.md](../12_future/03_EXPERIENTIAL_VALIDATION.md) | Direct experience validation |
+| [01_DWAPARA_2028.md](../../../scientific_papers/08_transition/01_DWAPARA_2028.md) | Current Dwapara transition |
+| [03_DWAPARA_SIDDHIS_KARMA.md](../../../scientific_papers/08_transition/03_DWAPARA_SIDDHIS_KARMA.md) | Siddhis and consequences |
+| [01_CORE_INSIGHT.md](../../../scientific_papers/01_CORE_INSIGHT.md) | Saguna vs Nirguna |
+| [03_EXPERIENTIAL_VALIDATION.md](../../../scientific_papers/12_future/03_EXPERIENTIAL_VALIDATION.md) | Direct experience validation |
 
 ---
 
@@ -1240,16 +1240,16 @@ RESULT:
 > "It is never born, nor does it ever die."
 > — Bhagavad Gita 2.20
 CURRENT POSITION (Dec 2025) — Vedic Symptom-Based Timeline:
-══════════════════════════════════════════════════════════════
-• Kali Yuga Core: 500 CE - 2023 CE (~1,523 years) ← ENDED May 2023!
-• SANDHYA: 2020-2028 CE (8-year transition) ← WE ARE IN THIS!
+==============================================================
+• Kali Yuga Core: 500 CE - 2023 CE (~1,523 years) <- ENDED May 2023!
+• SANDHYA: 2020-2028 CE (8-year transition) <- WE ARE IN THIS!
   - 2020: Sandhya BEGINS (COVID = reality break)
   - 2020-2023: Early Sandhya (Kali core ending)
-  - 2023-2025: Mid Sandhya (Year 6 of 8) ← Dec 31, 2025 NOW!
+  - 2023-2025: Mid Sandhya (Year 6 of 8) <- Dec 31, 2025 NOW!
   - 2026-2027: Late Sandhya (peak accessibility)
   - 2028: Sandhya ENDS ("locks in", Dwapara stable begins)
 • Status: MID-SANDHYA (Year 6 of 8, 2 years until lock-in)
-• Dharma: Rising 25% → 50% (currently ~35%)
+• Dharma: Rising 25% -> 50% (currently ~35%)
 
 *The Self (Atman) exists BEYOND all Yugas — including Satya.*
 

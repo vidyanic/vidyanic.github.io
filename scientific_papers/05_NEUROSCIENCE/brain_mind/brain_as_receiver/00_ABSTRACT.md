@@ -1,6 +1,6 @@
 # 0. Abstract
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms
 
 ---
 

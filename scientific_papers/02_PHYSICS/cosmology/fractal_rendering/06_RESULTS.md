@@ -19,11 +19,11 @@
 
 | Scale | Branches | Flow |
 |-------|----------|------|
-| Lung | Bronchi → bronchioles | Air |
-| Tree | Trunk → branches → twigs | Water/nutrients |
-| River | Main → tributaries | Water |
-| Lightning | Main bolt → branches | Electrons |
-| Neuron | Soma → dendrites | Signals |
+| Lung | Bronchi -> bronchioles | Air |
+| Tree | Trunk -> branches -> twigs | Water/nutrients |
+| River | Main -> tributaries | Water |
+| Lightning | Main bolt -> branches | Electrons |
+| Neuron | Soma -> dendrites | Signals |
 
 ---
 

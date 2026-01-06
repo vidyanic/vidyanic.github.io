@@ -167,7 +167,7 @@ VALIDITY: ✅ SOUND
 | **No signaling** | Maya limits causal action | ⭐⭐⭐ |
 | **Measurement creates outcome** | Sankalpa manifests | ⭐⭐⭐ |
 | **Wholeness** | Brahman is undivided | ⭐⭐⭐ |
-| **Many from One** | Brahman → Maya → multiplicity | ⭐⭐⭐ |
+| **Many from One** | Brahman -> Maya -> multiplicity | ⭐⭐⭐ |
 
 ---
 
@@ -175,7 +175,7 @@ VALIDITY: ✅ SOUND
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

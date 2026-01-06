@@ -10,7 +10,7 @@
 
 ---
 
-## 🔴 PART 1: SANKALPA FAILURE MODES
+## ⚠️ PART 1: SANKALPA FAILURE MODES
 
 ### 1.1 Complete Failure Classification
 
@@ -327,7 +327,7 @@ def get_chakra_symptoms(jiva) -> dict:
 
 ---
 
-## 🔴 PART 2: RINA BLOCKING MECHANISMS
+## ⚠️ PART 2: RINA BLOCKING MECHANISMS
 
 ### 2.1 How Rinas Block Progress
 
@@ -633,7 +633,7 @@ def get_rina_clearing_order(jiva) -> list:
 
 ---
 
-## 🔴 PART 3: SAMSKARA RESISTANCE PATTERNS
+## ⚠️ PART 3: SAMSKARA RESISTANCE PATTERNS
 
 ### 3.1 How Samskaras Block Sankalpas
 
@@ -841,8 +841,8 @@ SAMSKARA RESISTANCE
 
 ## 📁 Related Files
 
-- [Rina Debt System](./RINA_DEBT_SYSTEM_COMPLETE.md)
-- [Sankalpa Pralaya Audit](./SANKALPA_PRALAYA_AUDIT_COMPLETE.md)
-- [Chakra System](../entities/chakra_system.md)
-- [Samskara Management](../purusha/samskaras.md)
+- [Rina Debt System](../../../../RINA_DEBT_SYSTEM_COMPLETE.md)
+- [Sankalpa Pralaya Audit](../../../../SANKALPA_PRALAYA_AUDIT_COMPLETE.md)
+- [Chakra System](../../../../entities/chakra_system.md)
+- [Samskara Management](../../../../purusha/samskaras.md)
 

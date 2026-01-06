@@ -92,7 +92,7 @@ Curvature = κ × Tamas_concentration
 
 Interpretation:
 Tamas concentration IS the stress-energy tensor
-More Tamas → More curvature
+More Tamas -> More curvature
 ```
 
 ### 5.3.3 Equivalence Mapping
@@ -133,7 +133,7 @@ Same phenomenon = Same measurement (automatic)
 | Vayu (Air) | Sattva-Rajas | Very low | Rises |
 | Akasha (Space) | Sattva | None | N/A |
 
-**Pattern:** More Tamas → Heavier → Falls faster
+**Pattern:** More Tamas -> Heavier -> Falls faster
 
 ---
 

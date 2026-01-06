@@ -190,7 +190,7 @@ This document maps ALL scientific subjects to Vedic-scientific topics for compre
 ### 5.2 CYMATICS & VIBRATIONAL SCIENCE
 | Sub-discipline | Vedic Correlation | Paper Topics |
 |----------------|-------------------|--------------|
-| **Cymatics** | Shabda → Rupa | Sound creating form |
+| **Cymatics** | Shabda -> Rupa | Sound creating form |
 | **Resonance Studies** | Nada-yoga | Sympathetic vibration |
 | **Harmonic Analysis** | Swara | Overtone structure |
 | **Frequency Medicine** | Nada-chikitsa | Healing frequencies |
@@ -247,127 +247,127 @@ This document maps ALL scientific subjects to Vedic-scientific topics for compre
 
 ```
 scientific_papers/
-├── 00_FOUNDATION.md
-├── 00_PRIORITY_LIST.md
-├── 00_SUBJECT_TAXONOMY.md (THIS FILE)
-│
-├── 01_physics/
-│   ├── quantum_mechanics/
-│   ├── classical_mechanics/
-│   ├── thermodynamics/
-│   ├── electromagnetism/
-│   ├── acoustics_sound/        ← NEW
-│   ├── optics/                  ← NEW
-│   ├── relativity/
-│   ├── particle_physics/        ← NEW
-│   └── astrophysics/
-│
-├── 02_chemistry/                 ← NEW FOLDER
-│   ├── biochemistry/
-│   ├── physical_chemistry/
-│   ├── electrochemistry/        ← NEW
-│   ├── photochemistry/          ← NEW
-│   ├── alchemy_transmutation/   ← NEW
-│   └── geochemistry/            ← NEW
-│
-├── 03_biology/
-│   ├── molecular_biology/
-│   ├── cell_biology/
-│   ├── genetics_epigenetics/
-│   ├── microbiology/
-│   ├── botany/                  ← NEW
-│   ├── ecology/
-│   ├── evolution/
-│   └── developmental/           ← NEW
-│
-├── 04_neuroscience/
-│   ├── consciousness_studies/
-│   ├── brain_mind/
-│   ├── altered_states/
-│   ├── neuroplasticity/         ← NEW
-│   ├── psychedelic_neuroscience/ ← NEW
-│   └── computational_neuro/     ← NEW
-│
-├── 05_psychology/
-│   ├── cognitive/
-│   ├── transpersonal/
-│   ├── parapsychology/
-│   ├── depth_psychology/        ← NEW
-│   └── developmental/           ← NEW
-│
-├── 06_medicine/
-│   ├── pathology/               ← NEW
-│   ├── oncology/
-│   ├── immunology/
-│   ├── cardiology/              ← NEW
-│   ├── neurology/               ← NEW
-│   ├── psychiatry/              ← NEW
-│   ├── regenerative/
-│   ├── integrative/
-│   └── chronobiology/           ← NEW
-│
-├── 07_earth_sciences/
-│   ├── geology/
-│   ├── climatology/
-│   ├── oceanography/            ← NEW
-│   ├── meteorology/             ← NEW
-│   ├── ecology/
-│   └── gaia_hypothesis/
-│
-├── 08_astronomy/
-│   ├── cosmology/
-│   ├── stellar/                 ← NEW
-│   ├── planetary/               ← NEW
-│   ├── black_holes/
-│   ├── galactic/                ← NEW
-│   └── astrobiology/
-│
-├── 09_mathematics/
-│   ├── number_theory/           ← NEW
-│   ├── geometry_sacred/         ← NEW
-│   ├── fractals/
-│   ├── information_theory/
-│   ├── topology/                ← NEW
-│   └── statistics_probability/  ← NEW
-│
-├── 10_computer_science/         ← NEW FOLDER
-│   ├── simulation_theory/
-│   ├── ai_rai/
-│   ├── neural_networks/
-│   ├── quantum_computing/       ← NEW
-│   └── information_systems/     ← NEW
-│
-├── 11_acoustics_vibration/      ← NEW FOLDER
-│   ├── cymatics/
-│   ├── sound_healing/
-│   ├── frequency_medicine/
-│   ├── musical_acoustics/
-│   └── bioacoustics/
-│
-├── 12_chronobiology/            ← NEW FOLDER
-│   ├── circadian/
-│   ├── seasonal/
-│   ├── lunar/
-│   ├── biorhythms/
-│   └── chronotherapy/
-│
-├── 13_frontier_sciences/        ← NEW FOLDER
-│   ├── nde_research/
-│   ├── reincarnation/
-│   ├── precognition/
-│   ├── remote_viewing/
-│   ├── psychokinesis/
-│   └── synchronicity/
-│
-├── 14_synthesis/
-│   └── unified_model/
-│
-└── 99_vedic_sciences/           ← LOW PRIORITY
-    ├── ayurveda/
-    ├── jyotisha/
-    ├── yoga/
-    ├── vastu/
-    └── mantra/
++-- 00_FOUNDATION.md
++-- 00_PRIORITY_LIST.md
++-- 00_SUBJECT_TAXONOMY.md (THIS FILE)
+|
++-- 01_physics/
+|   +-- quantum_mechanics/
+|   +-- classical_mechanics/
+|   +-- thermodynamics/
+|   +-- electromagnetism/
+|   +-- acoustics_sound/        <- NEW
+|   +-- optics/                  <- NEW
+|   +-- relativity/
+|   +-- particle_physics/        <- NEW
+|   +-- astrophysics/
+|
++-- 02_chemistry/                 <- NEW FOLDER
+|   +-- biochemistry/
+|   +-- physical_chemistry/
+|   +-- electrochemistry/        <- NEW
+|   +-- photochemistry/          <- NEW
+|   +-- alchemy_transmutation/   <- NEW
+|   +-- geochemistry/            <- NEW
+|
++-- 03_biology/
+|   +-- molecular_biology/
+|   +-- cell_biology/
+|   +-- genetics_epigenetics/
+|   +-- microbiology/
+|   +-- botany/                  <- NEW
+|   +-- ecology/
+|   +-- evolution/
+|   +-- developmental/           <- NEW
+|
++-- 04_neuroscience/
+|   +-- consciousness_studies/
+|   +-- brain_mind/
+|   +-- altered_states/
+|   +-- neuroplasticity/         <- NEW
+|   +-- psychedelic_neuroscience/ <- NEW
+|   +-- computational_neuro/     <- NEW
+|
++-- 05_psychology/
+|   +-- cognitive/
+|   +-- transpersonal/
+|   +-- parapsychology/
+|   +-- depth_psychology/        <- NEW
+|   +-- developmental/           <- NEW
+|
++-- 06_medicine/
+|   +-- pathology/               <- NEW
+|   +-- oncology/
+|   +-- immunology/
+|   +-- cardiology/              <- NEW
+|   +-- neurology/               <- NEW
+|   +-- psychiatry/              <- NEW
+|   +-- regenerative/
+|   +-- integrative/
+|   +-- chronobiology/           <- NEW
+|
++-- 07_earth_sciences/
+|   +-- geology/
+|   +-- climatology/
+|   +-- oceanography/            <- NEW
+|   +-- meteorology/             <- NEW
+|   +-- ecology/
+|   +-- gaia_hypothesis/
+|
++-- 08_astronomy/
+|   +-- cosmology/
+|   +-- stellar/                 <- NEW
+|   +-- planetary/               <- NEW
+|   +-- black_holes/
+|   +-- galactic/                <- NEW
+|   +-- astrobiology/
+|
++-- 09_mathematics/
+|   +-- number_theory/           <- NEW
+|   +-- geometry_sacred/         <- NEW
+|   +-- fractals/
+|   +-- information_theory/
+|   +-- topology/                <- NEW
+|   +-- statistics_probability/  <- NEW
+|
++-- 10_computer_science/         <- NEW FOLDER
+|   +-- simulation_theory/
+|   +-- ai_rai/
+|   +-- neural_networks/
+|   +-- quantum_computing/       <- NEW
+|   +-- information_systems/     <- NEW
+|
++-- 11_acoustics_vibration/      <- NEW FOLDER
+|   +-- cymatics/
+|   +-- sound_healing/
+|   +-- frequency_medicine/
+|   +-- musical_acoustics/
+|   +-- bioacoustics/
+|
++-- 12_chronobiology/            <- NEW FOLDER
+|   +-- circadian/
+|   +-- seasonal/
+|   +-- lunar/
+|   +-- biorhythms/
+|   +-- chronotherapy/
+|
++-- 13_frontier_sciences/        <- NEW FOLDER
+|   +-- nde_research/
+|   +-- reincarnation/
+|   +-- precognition/
+|   +-- remote_viewing/
+|   +-- psychokinesis/
+|   +-- synchronicity/
+|
++-- 14_synthesis/
+|   +-- unified_model/
+|
++-- 99_vedic_sciences/           <- LOW PRIORITY
+    +-- ayurveda/
+    +-- jyotisha/
+    +-- yoga/
+    +-- vastu/
+    +-- mantra/
 ```
 
 ---

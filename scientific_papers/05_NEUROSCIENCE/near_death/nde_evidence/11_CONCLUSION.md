@@ -14,7 +14,7 @@ After 50+ years of research, including prospective studies published in major jo
 
 ```
 THE CASE FOR NON-LOCAL CONSCIOUSNESS:
-═════════════════════════════════════
+=====================================
 
 1. PROSPECTIVE STUDIES
    • 18% of cardiac arrest survivors report NDEs
@@ -101,18 +101,18 @@ This is based on:
 ## 11.5 Final Reflection
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "यमान्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्"                ║
-║   "At the time of death, remembering Me alone,               ║
-║    leaving the body..."                                       ║
-║   — Bhagavad Gita 8.5                                        ║
-║                                                               ║
-║   The Backend Architects knew.                               ║
-║   Modern research confirms.                                  ║
-║   Death is a doorway, not a wall.                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   "यमान्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्"                |
+|   "At the time of death, remembering Me alone,               |
+|    leaving the body..."                                       |
+|   — Bhagavad Gita 8.5                                        |
+|                                                               |
+|   The Backend Architects knew.                               |
+|   Modern research confirms.                                  |
+|   Death is a doorway, not a wall.                           |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -123,8 +123,8 @@ This paper completes Phase 3: Consciousness Is Axiomatic
 
 | Paper | Core Message |
 |-------|--------------|
-| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/) | Consciousness is axiom, not product |
-| [Brain as Receiver](../../brain_mind/brain_as_receiver/) | Brain filters, doesn't generate |
+| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) | Consciousness is axiom, not product |
+| [Brain as Receiver](../../brain_mind/brain_as_receiver) | Brain filters, doesn't generate |
 | **NDE Evidence (this paper)** | Consciousness survives brain shutdown |
 
 **The Phase 3 message:**

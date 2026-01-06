@@ -45,8 +45,8 @@ WHERE:
 t = Time of light exposure
 I = Intensity
 
-Morning light → Phase advance
-Evening light → Phase delay
+Morning light -> Phase advance
+Evening light -> Phase delay
 
 VEDIC: Sandhya (सन्ध्या) times are phase transition points
 ```
@@ -173,7 +173,7 @@ VALIDITY: ✅ SOUND
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

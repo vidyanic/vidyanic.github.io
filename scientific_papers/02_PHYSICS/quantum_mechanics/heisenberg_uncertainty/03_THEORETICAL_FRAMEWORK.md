@@ -6,7 +6,7 @@
 
 ```
 MAYA = AVARANA + VIKSHEPA
-══════════════════════════
+==========================
 
 AVARANA (Veiling):
 • Hides the true nature

@@ -19,7 +19,7 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [gaia_hypothesis/](./gaia_hypothesis/) | Earth as organism | Prithvi consciousness |
+| [gaia_hypothesis/](../gaia_hypothesis) | Earth as organism | Prithvi consciousness |
 
 ---
 
@@ -74,7 +74,7 @@ Ecology = Dharmic responsibility
 
 ---
 
-**Start with:** [Gaia = Prithvi](./gaia_hypothesis/gaia_earth_consciousness.md)
+**Start with:** [Gaia = Prithvi](../../gaia_hypothesis/gaia_earth_consciousness.md)
 
 **ॐ पृथ्व्यै नमः**  
 *Salutations to Mother Earth*

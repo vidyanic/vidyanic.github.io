@@ -472,9 +472,9 @@ Total electrons lost = Total electrons gained
 
 ## ð Related Files
 
-- [Chemistry Validation Python](../../../../validation/analysis/chemistry_validation.py)
-- [Bhu-Mandala Complete](../spacetime/BHU_MANDALA_COMPLETE.md)
-- [Meru Fractal Axis](../spacetime/MERU_FRACTAL_AXIS.md)
-- [Fractal Validation Principles](../../FRACTAL_VALIDATION_PRINCIPLES.md)
+- [Chemistry Validation Python](../../../../validation/analysis/chemistry_validation.py.md)
+- [Bhu-Mandala Complete](../../../../spacetime/BHU_MANDALA_COMPLETE.md)
+- [Meru Fractal Axis](../../../../spacetime/MERU_FRACTAL_AXIS.md)
+- [Fractal Validation Principles](../../../../FRACTAL_VALIDATION_PRINCIPLES.md)
 
 

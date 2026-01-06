@@ -6,7 +6,7 @@
 
 ```
 MAYA (माया):
-═════════════
+=============
 
 FROM: ma (not) + ya (this)
 MEANING: "Not this" — what appears is not what IS
@@ -38,7 +38,7 @@ EFFECT:
 
 ```
 BACKEND REASON:
-═══════════════
+===============
 
 If complete knowledge were possible through measurement:
 • No mystery

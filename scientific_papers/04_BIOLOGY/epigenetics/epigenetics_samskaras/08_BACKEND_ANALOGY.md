@@ -8,7 +8,7 @@
 
 ```
 SAMSKARAS (संस्कार):
-═══════════════════
+===================
 
 FROM: sam (together) + kri (to do)
 MEANING: "Impressions formed together"
@@ -38,7 +38,7 @@ NATURE:
 
 ```
 CHITTA = EPIGENOME
-════════════════════
+====================
 
 CHITTA:
 • Repository of mental impressions
@@ -71,28 +71,28 @@ SAME FUNCTIONAL ROLE
 
 ```
 KARMA TRANSMISSION:
-═══════════════════
+===================
 
 LIFE N:
-Actions → Samskaras → Stored in Karmashaya
+Actions -> Samskaras -> Stored in Karmashaya
 
 DEATH:
 Karmashaya transfers with Sukshma Sharira
 
 LIFE N+1:
-Karmashaya → Prarabdha → Expression
+Karmashaya -> Prarabdha -> Expression
 
 EPIGENETIC PARALLEL:
-═════════════════════
+=====================
 
 GENERATION N:
-Experiences → Epigenetic marks → Some in gametes
+Experiences -> Epigenetic marks -> Some in gametes
 
 REPRODUCTION:
 Some marks escape reprogramming
 
 GENERATION N+1:
-Inherited marks → Gene expression
+Inherited marks -> Gene expression
 ```
 
 ---
@@ -122,22 +122,22 @@ Inherited marks → Gene expression
 ## 8.5 Summary Mapping
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              EPIGENETICS ↔ SAMSKARA MAPPING                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  TERM                 EPIGENETIC          BACKEND            ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║  Substrate            Genome              Atman               ║
-║  Overlay              Epigenome           Samskaras           ║
-║  Storage              Chromatin           Chitta              ║
-║  Expression           Gene activity       Behavior            ║
-║  Inheritance          Transgenerational   Karma transfer      ║
-║  Clearing             Reprogramming       Samskara Shuddhi    ║
-║                                                               ║
-║  THE SAME SYSTEM AT DIFFERENT SCALES                         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              EPIGENETICS ↔ SAMSKARA MAPPING                   |
++===============================================================+
+|                                                               |
+|  TERM                 EPIGENETIC          BACKEND            |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|  Substrate            Genome              Atman               |
+|  Overlay              Epigenome           Samskaras           |
+|  Storage              Chromatin           Chitta              |
+|  Expression           Gene activity       Behavior            |
+|  Inheritance          Transgenerational   Karma transfer      |
+|  Clearing             Reprogramming       Samskara Shuddhi    |
+|                                                               |
+|  THE SAME SYSTEM AT DIFFERENT SCALES                         |
+|                                                               |
++===============================================================+
 ```
 
 ---

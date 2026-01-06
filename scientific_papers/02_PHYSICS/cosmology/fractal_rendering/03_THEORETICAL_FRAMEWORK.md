@@ -6,7 +6,7 @@
 
 ```
 FRACTAL RENDERING ENGINE:
-══════════════════════════
+==========================
 
 TEMPLATE: 81-Grid
 

@@ -41,7 +41,7 @@
 |-----------|-------------|
 | **Transmutation** | Elements can change |
 | **Purification** | Matter can be refined |
-| **Perfection** | Base → Noble is possible |
+| **Perfection** | Base -> Noble is possible |
 | **Unity** | All matter is One, differently arranged |
 
 ### 1.3 Why It Was Dismissed
@@ -62,23 +62,23 @@
 
 **Rutherford (1917):**
 - First artificial transmutation
-- Nitrogen → Oxygen via alpha particles
+- Nitrogen -> Oxygen via alpha particles
 - Elements CAN change!
 
 ### 2.2 How It Works
 
 ```
 NUCLEAR TRANSMUTATION:
-═════════════════════
+=====================
 
 NUCLEUS (Protons + Neutrons)
-    │
-    ↓ Add/remove protons
+    |
+    v Add/remove protons
     
 DIFFERENT ELEMENT!
 
-14N + 4He → 17O + 1H
-(Nitrogen + Alpha → Oxygen + Proton)
+14N + 4He -> 17O + 1H
+(Nitrogen + Alpha -> Oxygen + Proton)
 ```
 
 ### 2.3 Modern Examples
@@ -183,7 +183,7 @@ DIFFERENT ELEMENT!
 LEAD (Heavy Tamas):
 S: 5%  R: 10%  T: 85%
 
-        ↓ Rasayana process
+        v Rasayana process
 
 GOLD (Balanced, noble):
 S: 40%  R: 30%  T: 30%
@@ -258,7 +258,7 @@ In Rasashastra (Vedic alchemy):
 
 ### 8.2 For Energy
 
-- If LENR works → Unlimited clean energy
+- If LENR works -> Unlimited clean energy
 - Element creation = Resource creation
 - Nuclear without radiation possible
 - Energy paradigm shift

@@ -20,8 +20,8 @@
 
 ## 12.3 Related Papers
 
-7. [Observer Effect](../observer_effect/)
-8. [Entanglement](../entanglement/)
+7. [Observer Effect](../observer_effect)
+8. [Entanglement](../entanglement)
 
 ---
 

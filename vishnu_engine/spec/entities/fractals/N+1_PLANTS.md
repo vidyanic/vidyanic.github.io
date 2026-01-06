@@ -39,9 +39,9 @@
                                                                               
    THE STEP-DOWN TRANSFORMER ROLE:                                            
    Sun (N+3) -> [Too hot for humans to absorb directly]                       
-       ↓                                                                      
+       v                                                                      
    Plant (N+1) -> [Converts solar energy into bio-available fuel]             
-       ↓                                                                      
+       v                                                                      
    Human (N) -> [Consumes fruits/leaves = "Liquid Sunlight"]                  
                                                                               
    SHRUTI PRAMANA:                                                            

@@ -10,7 +10,7 @@
 
 ---
 
-## 🔴 CORE INSIGHT: Einstein Discovered ARCHITECTURE CONSTANTS
+## ⚠️ CORE INSIGHT: Einstein Discovered ARCHITECTURE CONSTANTS
 
 ```
 WHAT EINSTEIN SAW (Frontend):

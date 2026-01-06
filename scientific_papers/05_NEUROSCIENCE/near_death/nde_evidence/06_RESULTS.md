@@ -52,7 +52,7 @@
 
 ```
 VERIFIED PERCEPTION:
-════════════════════
+====================
 
 PATIENT STATUS:
 • Cardiac arrest

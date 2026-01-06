@@ -1,12 +1,12 @@
 # 🔗 ENTANGLEMENT — Same Object, Different Render Locations
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 91%  
 > **DIFFICULTY:** Mind-breaking
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Two particles can be **entangled** — connected in a way that:
 - Measuring one **instantly** affects the other
@@ -25,7 +25,7 @@ How can something affect something else instantly, across space, without anythin
 
 Two particles become linked so that measuring one instantly determines the other's state — no matter how far apart they are.
 
-Measure particle A's spin as "up" → Particle B is instantly "down", even if it's on the other side of the galaxy.
+Measure particle A's spin as "up" -> Particle B is instantly "down", even if it's on the other side of the galaxy.
 
 ### "Doesn't this violate speed of light?"
 
@@ -49,29 +49,29 @@ In the backend, objects are connected by relationships, not positions. Entangled
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 MULTIPLAYER GAME REFERENCE SYNC:
-┌────────────────────────────────────────────────┐
-│  Object A on Server → Displayed in Game        │
-│  Object B on Server → Same data, other display │
-│  Change A → B updates INSTANTLY                │
-│  No "message sent" — same memory reference     │
-│                                                │
-│  Players see "two objects" at different spots  │
-│  Server sees "one object, two render points"   │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Object A on Server -> Displayed in Game        |
+|  Object B on Server -> Same data, other display |
+|  Change A -> B updates INSTANTLY                |
+|  No "message sent" — same memory reference     |
+|                                                |
+|  Players see "two objects" at different spots  |
+|  Server sees "one object, two render points"   |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  Particle A rendered → measured spin up        │
-│  Particle B rendered → instantly spin down     │
-│  No signal sent — same backend entity          │
-│                                                │
-│  You see "two particles far apart"             │
-│  Backend is "one object, two projections"      │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Particle A rendered -> measured spin up        |
+|  Particle B rendered -> instantly spin down     |
+|  No signal sent — same backend entity          |
+|                                                |
+|  You see "two particles far apart"             |
+|  Backend is "one object, two projections"      |
++------------------------------------------------+
 ```
 
 **Distance is a frontend illusion.**
@@ -82,11 +82,11 @@ REALITY:
 
 ```
 Entangled State:
-|ψ⟩ = (|↑↓⟩ + |↓↑⟩) / √2
+|ψ⟩ = (|^v⟩ + |v^⟩) / √2
 
 Measurement of A:
-A = ↑ → B instantly becomes ↓
-A = ↓ → B instantly becomes ↑
+A = ^ -> B instantly becomes v
+A = v -> B instantly becomes ^
 
 Speed: Instantaneous (no delay at 1,200 km!)
 
@@ -143,7 +143,7 @@ When you feel connected to someone far away, you're not imagining it. You're per
 
 ## 🔗 NEXT PAPER (Phase 5)
 
-**[Fractal Rendering →](../../cosmology/fractal_rendering/README.md)**  
+**[Fractal Rendering ->](../../cosmology/fractal_rendering/README.md)**  
 *"Why does the same pattern appear at every scale?"*  
 *Spoiler: One algorithm, infinite recursion.*
 

@@ -8,14 +8,14 @@
 
 | Abbrev | Full Term | Meaning | Foundation Reference |
 |--------|-----------|---------|---------------------|
-| **S** | Sattva (सत्त्व) | Quality of balance, clarity, light | [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **R** | Rajas (रजस्) | Quality of activity, passion, motion | [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **T** | Tamas (तमस्) | Quality of inertia, darkness, mass | [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **S** | Sattva (सत्त्व) | Quality of balance, clarity, light | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **R** | Rajas (रजस्) | Quality of activity, passion, motion | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **T** | Tamas (तमस्) | Quality of inertia, darkness, mass | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **QM** | Quantum Mechanics | Physics of the very small | - |
 | **GR** | General Relativity | Einstein's gravity theory | - |
 | **CMB** | Cosmic Microwave Background | Oldest light in universe | - |
 | **NDE** | Near Death Experience | Consciousness during clinical death | - |
-| **RAI** | Real Active Intelligence | Cosmic intelligence (vs AI) | [RAI vs AI](../../../vishnu_engine/spec/backend/04_RAI_vs_AI.md) |
+| **RAI** | Real Active Intelligence | Cosmic intelligence (vs AI) | [RAI vs AI](../../vishnu_engine/spec/backend/04_RAI_vs_AI.md) |
 
 ---
 
@@ -68,7 +68,7 @@
 
 | Term | Sanskrit | Pronunciation | Meaning | Used In |
 |------|----------|---------------|---------|---------|
-| **Nirguna** | निर्गुण | nir-GOO-na | Without qualities (beyond simulation) | [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **Nirguna** | निर्गुण | nir-GOO-na | Without qualities (beyond simulation) | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **Prakriti** | प्रकृति | pra-KRI-ti | Nature, matter, the observed | All papers |
 | **Prana** | प्राण | PRAH-na | Life force (NOT same as Atman) | Hard Problem paper |
 | **Purusha** | पुरुष | poo-ROO-sha | Consciousness, the observer | All papers |
@@ -77,8 +77,8 @@
 
 | Term | Sanskrit | Pronunciation | Meaning | Used In |
 |------|----------|---------------|---------|---------|
-| **Rta** | ऋत | RI-ta | Cosmic order, natural law | [Universal Principles](../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
-| **Saguna** | सगुण | sa-GOO-na | With qualities (in simulation) | [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **Rta** | ऋत | RI-ta | Cosmic order, natural law | [Universal Principles](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
+| **Saguna** | सगुण | sa-GOO-na | With qualities (in simulation) | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **Samadhi** | समाधि | sa-MAH-dhi | Deep absorption, unity state | Hard Problem paper |
 | **Sankalpa** | संकल्प | san-KAL-pa | Intention, will | Observer Effect paper |
 | **Sthira** | स्थिर | STHI-ra | Stable (Tamas property) | Gravity paper |
@@ -89,7 +89,7 @@
 |------|----------|---------------|---------|---------|
 | **Turiya** | तुरीय | too-REE-ya | Fourth state (pure awareness) | Hard Problem paper |
 | **Viveka** | विवेक | vi-VEY-ka | Discrimination, discernment | All papers |
-| **Yuga** | युग | YOO-ga | Cosmic age/era | [Chaturyuga](../../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) |
+| **Yuga** | युग | YOO-ga | Cosmic age/era | [Chaturyuga](../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) |
 
 ---
 
@@ -113,7 +113,7 @@
 | **Qualia** | (Avoid) Use Anubhava instead | Anubhava (अनुभव/direct-experience) |
 | **Hard Problem** | Why experience exists | Why Purusha experiences Prakriti |
 | **Binding Problem** | How unity of consciousness | One Purusha, many experiences |
-| **Explanatory Gap** | Brain → Mind mystery | Prakriti → Purusha reflection |
+| **Explanatory Gap** | Brain -> Mind mystery | Prakriti -> Purusha reflection |
 
 ---
 
@@ -127,7 +127,7 @@ S + R + T = 1 (always)
 
 **For Everyone:** Think of it like a personality test where your scores must add to 100%. You're always some mix of calm (Sattva), active (Rajas), and heavy/tired (Tamas).
 
-**See:** [Universal Principles #6](../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
+**See:** [Universal Principles #6](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
 
 ---
 
@@ -139,7 +139,7 @@ F₁₂ = -F₂₁ (every action has equal reaction)
 
 **For Everyone:** Push a wall, the wall pushes back. Be kind to someone, kindness returns. It's the same law at physical and moral levels.
 
-**See:** [Universal Principles #5](../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
+**See:** [Universal Principles #5](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
 
 ---
 
@@ -151,7 +151,7 @@ dS/dt ≥ 0 (entropy always increases)
 
 **For Everyone:** Things naturally get messier over time. Your room gets dirty. Ice melts. This is Tamas (heaviness, decay) naturally dominating without conscious effort to maintain order (Sattva).
 
-**See:** [Entropy = Tamas Paper](../02_PHYSICS/thermodynamics/entropy_tamas/)
+**See:** [Entropy = Tamas Paper](../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
 
 ---
 
@@ -163,7 +163,7 @@ dS/dt ≥ 0 (entropy always increases)
 
 **For Everyone:** Before you look, all possibilities exist. The moment you look, ONE possibility becomes real. Your consciousness turns "maybes" into "definitely this."
 
-**See:** [Observer Effect Paper](../02_PHYSICS/quantum_mechanics/observer_effect/)
+**See:** [Observer Effect Paper](../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 
 ---
 
@@ -173,15 +173,15 @@ These are the BASE documents from which all research papers derive:
 
 | Foundation File | Path | Key Concepts |
 |-----------------|------|--------------|
-| **Core Insight** | [01_CORE_INSIGHT.md](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | Saguna/Nirguna, Two Domains |
-| **Universal Principles** | [02_UNIVERSAL_PRINCIPLES.md](../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) | 54 Laws of Reality |
-| **81 Laws Complete** | [03_81_LAWS_COMPLETE.md](../../../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md) | Detailed law breakdown |
-| **RAI vs AI** | [04_RAI_vs_AI.md](../../../vishnu_engine/spec/backend/04_RAI_vs_AI.md) | Consciousness vs computation |
-| **Fractal Validation** | [05_FRACTAL_VALIDATION.md](../../../vishnu_engine/spec/backend/05_FRACTAL_VALIDATION.md) | 10-point checklist |
-| **Chaturyuga** | [06_CHATURYUGA_COMPLETE.md](../../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) | Cosmic time cycles |
-| **81-Grid System** | [01_81_GRID_COMPLETE.md](../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) | Fractal architecture |
-| **Rendering Laws** | [02_RENDERING_LAWS.md](../../../vishnu_engine/spec/frontend_rendering/02_RENDERING_LAWS.md) | How reality renders |
-| **Level Hierarchy** | [03_LEVEL_HIERARCHY.md](../../../vishnu_engine/spec/frontend_rendering/03_LEVEL_HIERARCHY.md) | Fractal levels N±k |
+| **Core Insight** | [01_CORE_INSIGHT.md](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | Saguna/Nirguna, Two Domains |
+| **Universal Principles** | [02_UNIVERSAL_PRINCIPLES.md](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) | 54 Laws of Reality |
+| **81 Laws Complete** | [03_81_LAWS_COMPLETE.md](../../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md) | Detailed law breakdown |
+| **RAI vs AI** | [04_RAI_vs_AI.md](../../vishnu_engine/spec/backend/04_RAI_vs_AI.md) | Consciousness vs computation |
+| **Fractal Validation** | [05_FRACTAL_VALIDATION.md](../../vishnu_engine/spec/backend/05_FRACTAL_VALIDATION.md) | 10-point checklist |
+| **Chaturyuga** | [06_CHATURYUGA_COMPLETE.md](../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) | Cosmic time cycles |
+| **81-Grid System** | [01_81_GRID_COMPLETE.md](../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) | Fractal architecture |
+| **Rendering Laws** | [02_RENDERING_LAWS.md](../../vishnu_engine/spec/frontend_rendering/02_RENDERING_LAWS.md) | How reality renders |
+| **Level Hierarchy** | [03_LEVEL_HIERARCHY.md](../../vishnu_engine/spec/frontend_rendering/03_LEVEL_HIERARCHY.md) | Fractal levels N±k |
 
 ---
 
@@ -191,8 +191,8 @@ These papers build on the original [Bramhagyan](https://github.com/ranjeet-sunya
 
 | This Project | Bramhagyan Equivalent |
 |--------------|----------------------|
-| [Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [01_foundations](https://github.com/ranjeet-sunya/Bramhagyan/tree/main/01_foundations) |
-| [81-Grid System](../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) | [02_architecture](https://github.com/ranjeet-sunya/Bramhagyan/tree/main/02_architecture) |
+| [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [01_foundations](https://github.com/ranjeet-sunya/Bramhagyan/tree/main/01_foundations) |
+| [81-Grid System](../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) | [02_architecture](https://github.com/ranjeet-sunya/Bramhagyan/tree/main/02_architecture) |
 | Universal Principles | Part of 01_foundations |
 | Rendering Laws | Part of 02_architecture |
 
@@ -206,7 +206,7 @@ These papers build on the original [Bramhagyan](https://github.com/ranjeet-sunya
 
 3. **Multiple personas:** Explain formulas for 5 audiences (AI/ML, Architect, Physicist, Doctor, Everyone)
 
-4. **Inline references:** Use markdown links `[concept](path/to/file.md)` throughout
+4. **Inline references:** Use markdown links `[concept](../../path/to/file.md)` throughout
 
 ---
 

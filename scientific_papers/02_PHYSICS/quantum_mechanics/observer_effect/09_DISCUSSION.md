@@ -75,15 +75,15 @@ The ocean IS wet.
 Current QM:
 
 ```
-|ψ⟩ → ??? → |φ⟩
-(Superposition → Unknown mechanism → Definite state)
+|ψ⟩ -> ??? -> |φ⟩
+(Superposition -> Unknown mechanism -> Definite state)
 ```
 
 Proposed completion:
 
 ```
-|ψ⟩ →(Consciousness)→ |φ⟩
-(Superposition → Conscious observation → Definite state)
+|ψ⟩ ->(Consciousness)-> |φ⟩
+(Superposition -> Conscious observation -> Definite state)
 ```
 
 ### 9.3.3 Unification Implications
@@ -101,15 +101,15 @@ If consciousness is fundamental:
 
 ```
 STANDARD VIEW:
-Brain activity → Consciousness (emerges)
+Brain activity -> Consciousness (emerges)
 
 REVISED VIEW:
-Consciousness → Brain receives → Experience (filtered)
+Consciousness -> Brain receives -> Experience (filtered)
 
 EVIDENCE:
-• Terminal lucidity (dying brain → clear consciousness)
-• Acquired savants (brain damage → enhanced function)
-• NDEs (flat EEG → rich experience)
+• Terminal lucidity (dying brain -> clear consciousness)
+• Acquired savants (brain damage -> enhanced function)
+• NDEs (flat EEG -> rich experience)
 ```
 
 ### 9.4.2 Research Direction

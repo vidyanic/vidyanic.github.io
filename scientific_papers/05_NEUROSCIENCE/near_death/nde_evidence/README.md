@@ -1,12 +1,12 @@
-# 💀➡️👁️ NDE EVIDENCE — When The VR Headset Comes Off
+# ☯️➡️👁️ NDE EVIDENCE — When The VR Headset Comes Off
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 80%  
 > **DIFFICULTY:** Reality-shattering
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Thousands of people have **clinically died** — heart stopped, EEG flat, zero brain activity — and then been revived.
 
@@ -65,30 +65,30 @@ It's like when your VR headset glitches and you see the room you're actually sit
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 VR HEADSET GLITCH:
-┌────────────────────────────────────────────────┐
-│  Playing VR game → headset crashes             │
-│  For a moment: See the REAL room               │
-│  Way more vivid than the game                  │
-│  Can see your body lying there                 │
-│  Then headset reboots → back in game           │
-│                                                │
-│  That's an NDE.                                │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Playing VR game -> headset crashes             |
+|  For a moment: See the REAL room               |
+|  Way more vivid than the game                  |
+|  Can see your body lying there                 |
+|  Then headset reboots -> back in game           |
+|                                                |
+|  That's an NDE.                                |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  Living life → body clinically dies            │
-│  For a moment: See ACTUAL reality              │
-│  Unfiltered, vivid, "more real"                │
-│  Can see your body on table                    │
-│  Body revived → consciousness re-enters        │
-│                                                │
-│  That's what 15+ million people describe.      │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Living life -> body clinically dies            |
+|  For a moment: See ACTUAL reality              |
+|  Unfiltered, vivid, "more real"                |
+|  Can see your body on table                    |
+|  Body revived -> consciousness re-enters        |
+|                                                |
+|  That's what 15+ million people describe.      |
++------------------------------------------------+
 ```
 
 ---
@@ -148,7 +148,7 @@ When body shuts down, consciousness doesn't. It just stops being filtered throug
 
 ## 🔗 NEXT PAPER
 
-**[Epigenetics = Samskaras →](../../../04_BIOLOGY/epigenetics/epigenetics_samskaras/README.md)**  
+**[Epigenetics = Samskaras ->](./04_BIOLOGY/epigenetics/epigenetics_samskaras/README.md)**  
 *"What if your ancestors' experiences are stored in your cells?"*  
 *Spoiler: Your DNA is your karmic save file.*
 

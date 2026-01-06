@@ -16,11 +16,11 @@ During cardiac arrest, some patients report:
 
 ```
 GENERATOR MODEL PREDICTS:
-No brain activity → No consciousness
+No brain activity -> No consciousness
 Flat EEG = No experience
 
 OBSERVED:
-Flat EEG → Rich, detailed experiences
+Flat EEG -> Rich, detailed experiences
 Some experiences verifiable
 ```
 
@@ -51,7 +51,7 @@ Some experiences verifiable
 
 ```
 IF brain filters consciousness:
-- Brain off → Filter off → More access
+- Brain off -> Filter off -> More access
 - Near-death = "veil thinning"
 - Rich experience makes sense
 
@@ -76,11 +76,11 @@ Patients with severe brain damage (Alzheimer's, tumor, stroke) suddenly become l
 
 ```
 GENERATOR MODEL PREDICTS:
-Damaged brain → Reduced consciousness
-More damage → Less function
+Damaged brain -> Reduced consciousness
+More damage -> Less function
 
 OBSERVED:
-Severely damaged brain → Sudden full lucidity
+Severely damaged brain -> Sudden full lucidity
 This should be impossible if brain generates.
 ```
 
@@ -98,7 +98,7 @@ This should be impossible if brain generates.
 IF brain filters consciousness:
 - Dying = Filter releasing
 - Consciousness "breaks through"
-- Damage to filter → Consciousness flows more freely
+- Damage to filter -> Consciousness flows more freely
 
 Terminal lucidity = Final filter breakdown
 ```
@@ -119,12 +119,12 @@ Under psilocybin, LSD, DMT:
 
 ```
 GENERATOR MODEL PREDICTS:
-More brain activity → More experience
-Less brain activity → Less experience
+More brain activity -> More experience
+Less brain activity -> Less experience
 
 OBSERVED:
-Less brain activity → MORE experience
-Default mode down → Experience up
+Less brain activity -> MORE experience
+Default mode down -> Experience up
 ```
 
 ### 7.3.3 Key Studies
@@ -140,7 +140,7 @@ Default mode down → Experience up
 IF brain filters consciousness:
 - Default mode = Filter
 - Psychedelics reduce filter activity
-- Less filtering → More experience
+- Less filtering -> More experience
 
 This matches observations perfectly.
 ```
@@ -161,11 +161,11 @@ After brain injury, some develop extraordinary abilities:
 
 ```
 GENERATOR MODEL PREDICTS:
-Brain damage → Less function
-More damage → Less ability
+Brain damage -> Less function
+More damage -> Less ability
 
 OBSERVED:
-Specific damage → New abilities appear
+Specific damage -> New abilities appear
 Where was this ability hiding?
 ```
 
@@ -208,9 +208,9 @@ Deep meditation:
 
 ```
 MEDITATION:
-Quieting the mind → Enhanced awareness
-Less thought → More consciousness
-Reduced brain activity → Expanded experience
+Quieting the mind -> Enhanced awareness
+Less thought -> More consciousness
+Reduced brain activity -> Expanded experience
 
 GENERATOR MODEL:
 Less activity should mean less experience
@@ -222,7 +222,7 @@ But the opposite is reported.
 ```
 YOGA SUTRAS:
 "Chitta vritti nirodha" — Cessation of mental modifications
-When mind quiets → Pure consciousness revealed
+When mind quiets -> Pure consciousness revealed
 
 Less mental activity ≠ Less consciousness
 Mental activity = Noise covering consciousness
@@ -263,29 +263,29 @@ The receiver model explains anomalies better than generator model.
 ## 7.8 Anomaly Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    ANOMALY PATTERN                            ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  GENERATOR MODEL:                                             ║
-║  More brain activity → More consciousness                    ║
-║  Brain damage → Less consciousness                           ║
-║  Brain death → No consciousness                              ║
-║                                                               ║
-║  OBSERVED ANOMALIES:                                          ║
-║  Flat EEG → Rich NDEs                                        ║
-║  Brain damage → Terminal lucidity                            ║
-║  Reduced activity → Enhanced experience                      ║
-║  Specific damage → New abilities                             ║
-║                                                               ║
-║  RECEIVER MODEL:                                              ║
-║  Less filtering → More consciousness access                  ║
-║  Brain damage → Reduced filtering                            ║
-║  Brain death → Filter removed                                ║
-║                                                               ║
-║  ALL ANOMALIES FIT RECEIVER MODEL.                           ║
-║  GENERATOR MODEL CONTRADICTED BY ALL.                        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    ANOMALY PATTERN                            |
++===============================================================+
+|                                                               |
+|  GENERATOR MODEL:                                             |
+|  More brain activity -> More consciousness                    |
+|  Brain damage -> Less consciousness                           |
+|  Brain death -> No consciousness                              |
+|                                                               |
+|  OBSERVED ANOMALIES:                                          |
+|  Flat EEG -> Rich NDEs                                        |
+|  Brain damage -> Terminal lucidity                            |
+|  Reduced activity -> Enhanced experience                      |
+|  Specific damage -> New abilities                             |
+|                                                               |
+|  RECEIVER MODEL:                                              |
+|  Less filtering -> More consciousness access                  |
+|  Brain damage -> Reduced filtering                            |
+|  Brain death -> Filter removed                                |
+|                                                               |
+|  ALL ANOMALIES FIT RECEIVER MODEL.                           |
+|  GENERATOR MODEL CONTRADICTED BY ALL.                        |
+|                                                               |
++===============================================================+
 ```
 

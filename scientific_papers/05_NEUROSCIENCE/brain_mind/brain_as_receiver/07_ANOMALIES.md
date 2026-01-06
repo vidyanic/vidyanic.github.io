@@ -1,6 +1,6 @@
 # 7. Anomalies & Glitches
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -22,12 +22,12 @@ Some NDE experiencers report accurate perceptions of events that occurred while 
 
 ```
 GENERATOR MODEL CANNOT EXPLAIN:
-═══════════════════════════════
+===============================
 
-1. Brain offline → No perception possible
-2. Eyes closed/covered → No visual input
-3. Specific details → Cannot be confabulation
-4. Verifiable accuracy → Not guess or dream
+1. Brain offline -> No perception possible
+2. Eyes closed/covered -> No visual input
+3. Specific details -> Cannot be confabulation
+4. Verifiable accuracy -> Not guess or dream
 
 HOW CAN BRAIN PERCEIVE WHEN NOT FUNCTIONING?
 ```
@@ -36,7 +36,7 @@ HOW CAN BRAIN PERCEIVE WHEN NOT FUNCTIONING?
 
 ```
 RECEIVER EXPLANATION:
-════════════════════
+====================
 
 • Consciousness (Purusha/पुरुष) is non-local
 • Brain is normally the INTERFACE for perception
@@ -56,7 +56,7 @@ People develop extraordinary abilities AFTER brain injury — not before.
 **Derek Amato Case:**
 - Shallow dive, hit head on pool bottom
 - Severe concussion, memory problems
-- Sat at piano (never played) → Performed like virtuoso
+- Sat at piano (never played) -> Performed like virtuoso
 - Sees "black and white squares" in visual field
 - Composes music without training
 
@@ -64,19 +64,19 @@ People develop extraordinary abilities AFTER brain injury — not before.
 
 ```
 GENERATOR MODEL CANNOT EXPLAIN:
-═══════════════════════════════
+===============================
 
 1. Damage should REDUCE ability
-2. Ability not learned → Where did it come from?
+2. Ability not learned -> Where did it come from?
 3. Access to information not previously available
-4. Consistent pattern: Damage → Revealed ability
+4. Consistent pattern: Damage -> Revealed ability
 ```
 
 ### 7.2.3 Receiver Model Explanation
 
 ```
 RECEIVER EXPLANATION:
-════════════════════
+====================
 
 • Brain normally FILTERS access to information
 • Damage to filter = More information flows through
@@ -102,7 +102,7 @@ People present at a death sometimes share the dying person's experience:
 
 ```
 GENERATOR MODEL CANNOT EXPLAIN:
-═══════════════════════════════
+===============================
 
 1. How can TWO brains share ONE experience?
 2. How can witness see deceased they never knew?
@@ -113,7 +113,7 @@ GENERATOR MODEL CANNOT EXPLAIN:
 
 ```
 RECEIVER EXPLANATION:
-════════════════════
+====================
 
 • Consciousness field is shared (Brahman/ब्रह्मन्)
 • Individual brains tune to this field
@@ -144,18 +144,18 @@ Studied 31 blind individuals with NDEs:
 
 ```
 GENERATOR MODEL CANNOT EXPLAIN:
-═══════════════════════════════
+===============================
 
-1. No visual cortex experience → How visual content?
-2. Never learned visual concepts → How visual categories?
-3. Accurate visual details → Not imagination
+1. No visual cortex experience -> How visual content?
+2. Never learned visual concepts -> How visual categories?
+3. Accurate visual details -> Not imagination
 ```
 
 ### 7.4.4 Receiver Model Explanation
 
 ```
 RECEIVER EXPLANATION:
-════════════════════
+====================
 
 • Vision is one MODALITY of consciousness
 • Normally requires visual cortex to interface
@@ -215,7 +215,7 @@ Without body, consciousness not bound to location
 
 ```
 BACKEND FRAMEWORK:
-══════════════════
+==================
 
 Normal state:
 • Atman (consciousness) identified with body

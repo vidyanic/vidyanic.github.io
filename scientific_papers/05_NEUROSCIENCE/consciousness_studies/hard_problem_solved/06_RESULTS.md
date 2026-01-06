@@ -40,7 +40,7 @@
 |-----------|-------|--------|
 | Explanatory | ✗ | "Emergence" is a label, not mechanism |
 | Logical | ~ | No contradiction, but no content |
-| Thought experiments | ✗ | No reason complexity → experience |
+| Thought experiments | ✗ | No reason complexity -> experience |
 
 **Verdict:** Fails (explains nothing)
 
@@ -78,7 +78,7 @@ The gap persists because it's not an empirical gap but a **logical gap**.
 
 ```
 PHYSICAL DESCRIPTION:
-Wavelength 700nm → Retina → V1 → V4 → etc.
+Wavelength 700nm -> Retina -> V1 -> V4 -> etc.
 
 EXPERIENTIAL DESCRIPTION:
 "It looks RED. This is what red feels like."
@@ -128,7 +128,7 @@ Brain may filter rather than generate.
 - More experience with less activity
 
 **Key Finding:**
-Less brain activity → More experience.
+Less brain activity -> More experience.
 
 **Implication:**
 Brain may restrict rather than produce.
@@ -227,32 +227,32 @@ Therefore: Consciousness is axiomatic.
 ## 6.7 Key Results Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    KEY FINDINGS                               ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  1. ALL MATERIALIST THEORIES FAIL                            ║
-║     • Identity, Functionalism, Emergentism all fail          ║
-║     • 50+ years, no progress on explanatory gap              ║
-║                                                               ║
-║  2. CONSCIOUSNESS IS AXIOMATIC                               ║
-║     • All explanations presuppose consciousness              ║
-║     • Cannot step outside consciousness to explain it        ║
-║                                                               ║
-║  3. BRAIN RECEIVES, NOT GENERATES                            ║
-║     • NDEs during flat EEG                                   ║
-║     • Terminal lucidity contradicts damage model             ║
-║     • Psychedelics: less activity → more experience          ║
-║                                                               ║
-║  4. BACKEND FRAMEWORK IS ACCURATE                            ║
-║     • Purusha-Prakriti maps exactly                          ║
-║     • Drashta-Drishya maps exactly                           ║
-║     • All predictions confirmed                              ║
-║                                                               ║
-║  CONCLUSION:                                                  ║
-║  The Hard Problem is not unsolvable — it's wrongly framed.  ║
-║  Consciousness is primary. The problem dissolves.            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    KEY FINDINGS                               |
++===============================================================+
+|                                                               |
+|  1. ALL MATERIALIST THEORIES FAIL                            |
+|     • Identity, Functionalism, Emergentism all fail          |
+|     • 50+ years, no progress on explanatory gap              |
+|                                                               |
+|  2. CONSCIOUSNESS IS AXIOMATIC                               |
+|     • All explanations presuppose consciousness              |
+|     • Cannot step outside consciousness to explain it        |
+|                                                               |
+|  3. BRAIN RECEIVES, NOT GENERATES                            |
+|     • NDEs during flat EEG                                   |
+|     • Terminal lucidity contradicts damage model             |
+|     • Psychedelics: less activity -> more experience          |
+|                                                               |
+|  4. BACKEND FRAMEWORK IS ACCURATE                            |
+|     • Purusha-Prakriti maps exactly                          |
+|     • Drashta-Drishya maps exactly                           |
+|     • All predictions confirmed                              |
+|                                                               |
+|  CONCLUSION:                                                  |
+|  The Hard Problem is not unsolvable — it's wrongly framed.  |
+|  Consciousness is primary. The problem dissolves.            |
+|                                                               |
++===============================================================+
 ```
 

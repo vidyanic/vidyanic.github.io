@@ -152,14 +152,14 @@
    ----------------------------------------                                    
                                                                               
    ∞ Mahavishnus (N+4)                                                        
-      ├── Each containing ∞ Brahmandas                                        
-      │      ├── Each with 14 Lokas                                           
-      │      │      ├── Each with 81-Grid structures                          
-      │      │      │      ├── Each with ∞ Jivas                              
-      │      │      │      └── Each Jiva with ∞ cells                         
-      │      │      └── ... (recursive to N-∞)                                
-      │      └── ... (parallel universes)                                     
-      └── ... (other Mahavishnus)                                             
+      +-- Each containing ∞ Brahmandas                                        
+      |      +-- Each with 14 Lokas                                           
+      |      |      +-- Each with 81-Grid structures                          
+      |      |      |      +-- Each with ∞ Jivas                              
+      |      |      |      +-- Each Jiva with ∞ cells                         
+      |      |      +-- ... (recursive to N-∞)                                
+      |      +-- ... (parallel universes)                                     
+      +-- ... (other Mahavishnus)                                             
                                                                               
    YET BRAHMAN IS NOT "LARGER" THAN ALL THIS                                  
    BRAHMAN IS THE SUBSTRATE IN WHICH ALL THIS APPEARS                         

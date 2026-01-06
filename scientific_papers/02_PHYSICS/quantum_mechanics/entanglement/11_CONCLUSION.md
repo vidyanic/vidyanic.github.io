@@ -5,23 +5,23 @@
 ## 11.1 The Core Insight
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ENTANGLEMENT = INDRA'S NET                                 ║
-║                                                               ║
-║   Particles are not separate                                  ║
-║   Distance is appearance                                      ║
-║   Connection is fundamental                                   ║
-║   Reality is non-local                                        ║
-║                                                               ║
-║   IMPLICATION:                                                ║
-║   If matter is interconnected at quantum level               ║
-║   And consciousness is fundamental                            ║
-║   Then all consciousness is connected                         ║
-║                                                               ║
-║   You are Indra's Net.                                       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   ENTANGLEMENT = INDRA'S NET                                 |
+|                                                               |
+|   Particles are not separate                                  |
+|   Distance is appearance                                      |
+|   Connection is fundamental                                   |
+|   Reality is non-local                                        |
+|                                                               |
+|   IMPLICATION:                                                |
+|   If matter is interconnected at quantum level               |
+|   And consciousness is fundamental                            |
+|   Then all consciousness is connected                         |
+|                                                               |
+|   You are Indra's Net.                                       |
+|                                                               |
++===============================================================+
 ```
 
 ---

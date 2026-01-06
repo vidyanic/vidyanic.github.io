@@ -29,7 +29,7 @@ Before exploring the detailed laws, let's understand what these "81 Laws" really
 - 81 Laws = Complete specification of the universe's architecture
 - Like: The full API documentation + system design + deployment rules
 - Every subsystem (hardware, OS, application) has exactly 27 rules
-- **Why 81?** Because 3⁴ = 81 (Base-3 progression: 1→3→9→27→81)
+- **Why 81?** Because 3⁴ = 81 (Base-3 progression: 1->3->9->27->81)
 
 **Real-World Analogy:**
 ```python
@@ -60,10 +60,10 @@ UNIVERSE = Same structure, but for REALITY itself!
 ```
 
 **Why This Matters:**
-- Violate infrastructure rules → System won't run
-- Violate framework rules → Framework crashes
-- Violate application rules → Model fails
-- **Same with universe:** Violate these 81 laws → Reality breaks down
+- Violate infrastructure rules -> System won't run
+- Violate framework rules -> Framework crashes
+- Violate application rules -> Model fails
+- **Same with universe:** Violate these 81 laws -> Reality breaks down
 
 ---
 
@@ -79,19 +79,19 @@ UNIVERSE = Same structure, but for REALITY itself!
 YOUR ENTERPRISE SYSTEM:
 
 LAYER 1: INFRASTRUCTURE (27 invariants)
-├── Network: Latency limits, bandwidth caps, routing rules
-├── Storage: Consistency models, replication rules, backup policies
-└── Compute: CPU allocation, memory limits, scaling rules
++-- Network: Latency limits, bandwidth caps, routing rules
++-- Storage: Consistency models, replication rules, backup policies
++-- Compute: CPU allocation, memory limits, scaling rules
 
 LAYER 2: PLATFORM (27 invariants)
-├── APIs: REST contracts, GraphQL schemas, gRPC definitions
-├── Messaging: Queue guarantees, pub-sub patterns, event schemas
-└── Data: Database constraints, cache policies, index rules
++-- APIs: REST contracts, GraphQL schemas, gRPC definitions
++-- Messaging: Queue guarantees, pub-sub patterns, event schemas
++-- Data: Database constraints, cache policies, index rules
 
 LAYER 3: APPLICATION (27 invariants)
-├── Business Logic: Domain rules, workflow constraints
-├── Security: Auth/authz policies, encryption standards
-└── UX: Response time requirements, accessibility standards
++-- Business Logic: Domain rules, workflow constraints
++-- Security: Auth/authz policies, encryption standards
++-- UX: Response time requirements, accessibility standards
 
 UNIVERSE = Same layered architecture, but ACTUAL reality!
 ```
@@ -171,9 +171,9 @@ These are SPECIFIC INSTANCES of the universal 81 laws!
 ```
 
 **Why This Matters:**
-- Treat body without knowing universal laws → Symptom management
-- Treat body WITH universal laws → Root cause healing
-- Example: Law #30 (Guna Balance) → Every disease is Guna imbalance
+- Treat body without knowing universal laws -> Symptom management
+- Treat body WITH universal laws -> Root cause healing
+- Example: Law #30 (Guna Balance) -> Every disease is Guna imbalance
 
 ---
 
@@ -188,43 +188,43 @@ These are SPECIFIC INSTANCES of the universal 81 laws!
 
 **Layer 1: PHYSICS RULES (27 - You can't change these)**
 ```
-1. Gravity pulls you down → Can't float away
-2. Light has speed limit → Can't travel faster than light
-3. Time flows forward → Can't reverse time
-4. Energy conserved → Can't create/destroy energy
+1. Gravity pulls you down -> Can't float away
+2. Light has speed limit -> Can't travel faster than light
+3. Time flows forward -> Can't reverse time
+4. Energy conserved -> Can't create/destroy energy
 ... (27 total physics rules)
 ```
 
 **Layer 2: LIFE RULES (27 - How reality interfaces with you)**
 ```
-1. You need air to breathe → Survive ~3 min without
-2. You need water → Survive ~3 days without
-3. You need food → Survive ~3 weeks without
-4. You age over time → Can't stop aging
-5. You have 5 senses → Can't naturally see infrared
+1. You need air to breathe -> Survive ~3 min without
+2. You need water -> Survive ~3 days without
+3. You need food -> Survive ~3 weeks without
+4. You age over time -> Can't stop aging
+5. You have 5 senses -> Can't naturally see infrared
 ... (27 total life rules)
 ```
 
 **Layer 3: CONSCIOUSNESS RULES (27 - How your mind works)**
 ```
-1. Actions have consequences (Karma) → Can't escape
-2. What you focus on grows → Attention shapes reality
-3. Thoughts create emotions → Anger from angry thoughts
-4. Cycles repeat → Good times → Bad times → Good times
-5. You reap what you sow → Plant apple, get apple tree
+1. Actions have consequences (Karma) -> Can't escape
+2. What you focus on grows -> Attention shapes reality
+3. Thoughts create emotions -> Anger from angry thoughts
+4. Cycles repeat -> Good times -> Bad times -> Good times
+5. You reap what you sow -> Plant apple, get apple tree
 ... (27 total mind rules)
 ```
 
 **Why This Matters:**
-- You live IN reality → Subject to these 81 rules
-- Understand them → Navigate life better
-- Master them → Achieve extraordinary results
-- Transcend them → Moksha (liberation)
+- You live IN reality -> Subject to these 81 rules
+- Understand them -> Navigate life better
+- Master them -> Achieve extraordinary results
+- Transcend them -> Moksha (liberation)
 
 **Daily Examples:**
-- Law #5 (Karma): Help others → Get help when you need it
-- Law #30 (Gunas): Calm morning (Sattva) → Productive day
-- Law #52 (6 Stages): Everything born must die → Appreciate NOW
+- Law #5 (Karma): Help others -> Get help when you need it
+- Law #30 (Gunas): Calm morning (Sattva) -> Productive day
+- Law #52 (6 Stages): Everything born must die -> Appreciate NOW
 
 ---
 
@@ -244,7 +244,7 @@ These are SPECIFIC INSTANCES of the universal 81 laws!
 - These 81 laws aren't "spiritual" or "mystical"
 - They're the ACTUAL SOURCE CODE of reality
 - Every profession has found PARTS of these laws
-- Vedic science mapped ALL 81 laws, 5000+ years ago
+- Vedic science mapped ALL 81 laws, years ago
 
 ---
 
@@ -505,7 +505,7 @@ class ModelLifecycle:
     ]
     
     def check_stage(self, model):
-        """Identify current stage → Take appropriate action"""
+        """Identify current stage -> Take appropriate action"""
         if model.epochs == 0:
             return 'ASTI'  # Just created
         elif model.loss_improving():
@@ -556,12 +556,12 @@ RESULT: Full system traceability, forensic debugging capability
 DESIGN PATTERN: Consistent Abstraction
 
 YOUR SYSTEM:
-- Function: Input → Process → Output
-- Module: Functions → Orchestration → Results
-- Service: Modules → API → Responses
-- System: Services → Gateway → User Experience
+- Function: Input -> Process -> Output
+- Module: Functions -> Orchestration -> Results
+- Service: Modules -> API -> Responses
+- System: Services -> Gateway -> User Experience
 
-EVERY LEVEL: Same pattern (Input → Process → Output)
+EVERY LEVEL: Same pattern (Input -> Process -> Output)
 
 CODE EXAMPLE:
 class Component:  # Fractal interface
@@ -602,7 +602,7 @@ class KarmaCommand:
         
         return result
 
-# EVERY action → logged, executed, consequence recorded, cleanup scheduled
+# EVERY action -> logged, executed, consequence recorded, cleanup scheduled
 # This IS Karma implementation!
 ```
 
@@ -657,9 +657,9 @@ MISSING LAWS #14-18:
 - Law #18 (Entanglement) = Non-local correlation
 
 INSIGHT: Forces ARE unified through Guna framework!
-- Tamas (inertia) → Gravity
-- Rajas (activity) → EM + Strong + Weak
-- Sattva (order) → Fractal patterns
+- Tamas (inertia) -> Gravity
+- Rajas (activity) -> EM + Strong + Weak
+- Sattva (order) -> Fractal patterns
 
 RESEARCH: Reformulate Standard Model using Guna basis
 ```
@@ -672,7 +672,7 @@ Observer effect exists but no explanation
 LAWS #55-81 PROVIDE:
 - Law #55: Karma = Action-reaction (Newton's 3rd is SUBSET)
 - Law #62: Drashta-Drishya = Observer creates observed
-- Law #66: Sankalpa-Shakti = Intention → Manifestation
+- Law #66: Sankalpa-Shakti = Intention -> Manifestation
 
 IMPLICATION:
 Consciousness isn't emergent - it's FUNDAMENTAL!
@@ -684,7 +684,7 @@ RESEARCH PATH:
 
 TESTABLE PREDICTION:
 Run quantum experiments with observers in different mental states
-(meditative/calm vs anxious/active) → Results should vary!
+(meditative/calm vs anxious/active) -> Results should vary!
 ```
 
 **Your Research Questions:**
@@ -705,24 +705,24 @@ Run quantum experiments with observers in different mental states
 PATIENT DIAGNOSIS PROTOCOL:
 
 STEP 1: Identify Dominant Guna
-┌─────────────────────────────────────────────────────────────┐
-│ EXCESS SATTVA (Rare - Usually Balanced):                    │
-│ - Clear mind, good digestion, strong immunity               │
-│ - Slow pulse, deep breath, calm demeanor                    │
-│ - Treatment: Maintain current lifestyle                     │
-├─────────────────────────────────────────────────────────────┤
-│ EXCESS RAJAS (Common - Modern Life):                        │
-│ - Anxiety, inflammation, hyperactivity, insomnia            │
-│ - Fast pulse (>80), shallow breathing, agitation            │
-│ - High blood pressure, digestive inflammation               │
-│ - Treatment: Calming herbs, meditation, reduce stimulation  │
-├─────────────────────────────────────────────────────────────┤
-│ EXCESS TAMAS (Critical - Chronic Disease):                  │
-│ - Depression, lethargy, obesity, poor immunity              │
-│ - Sluggish metabolism, weak digestion, brain fog            │
-│ - Chronic diseases, tumors, accumulation                    │
-│ - Treatment: Activation, movement, detox, sunlight          │
-└─────────────────────────────────────────────────────────────┘
++-------------------------------------------------------------+
+| EXCESS SATTVA (Rare - Usually Balanced):                    |
+| - Clear mind, good digestion, strong immunity               |
+| - Slow pulse, deep breath, calm demeanor                    |
+| - Treatment: Maintain current lifestyle                     |
++-------------------------------------------------------------+
+| EXCESS RAJAS (Common - Modern Life):                        |
+| - Anxiety, inflammation, hyperactivity, insomnia            |
+| - Fast pulse (>80), shallow breathing, agitation            |
+| - High blood pressure, digestive inflammation               |
+| - Treatment: Calming herbs, meditation, reduce stimulation  |
++-------------------------------------------------------------+
+| EXCESS TAMAS (Critical - Chronic Disease):                  |
+| - Depression, lethargy, obesity, poor immunity              |
+| - Sluggish metabolism, weak digestion, brain fog            |
+| - Chronic diseases, tumors, accumulation                    |
+| - Treatment: Activation, movement, detox, sunlight          |
++-------------------------------------------------------------+
 
 PRESCRIPTION TEMPLATE:
 - If Rajas > 0.6: Prescribe calming (meditation, slow yoga, cooling foods)
@@ -735,22 +735,22 @@ PRESCRIPTION TEMPLATE:
 FIVE SENSES MAPPING:
 
 Law #37 (Pancha-Jnanendriya): 5 Input Systems
-┌─────────┬───────────────┬──────────────┬─────────────────┐
-│ Sense   │ Element       │ Organ        │ Test            │
-├─────────┼───────────────┼──────────────┼─────────────────┤
-│ Hearing │ Akasha        │ Ear          │ Audiometry      │
-│ Touch   │ Vayu          │ Skin         │ Sensation test  │
-│ Vision  │ Agni          │ Eyes         │ Visual acuity   │
-│ Taste   │ Jala          │ Tongue       │ Taste test      │
-│ Smell   │ Prithvi       │ Nose         │ Olfactory test  │
-└─────────┴───────────────┴──────────────┴─────────────────┘
++---------+---------------+--------------+-----------------+
+| Sense   | Element       | Organ        | Test            |
++---------+---------------+--------------+-----------------+
+| Hearing | Akasha        | Ear          | Audiometry      |
+| Touch   | Vayu          | Skin         | Sensation test  |
+| Vision  | Agni          | Eyes         | Visual acuity   |
+| Taste   | Jala          | Tongue       | Taste test      |
+| Smell   | Prithvi       | Nose         | Olfactory test  |
++---------+---------------+--------------+-----------------+
 
 DIAGNOSTIC PRINCIPLE:
-- Hearing loss → Akasha (space) element imbalanced
-- Touch numbness → Vayu (air) element imbalanced
-- Vision problems → Agni (fire) element imbalanced
-- Taste loss → Jala (water) element imbalanced
-- Smell loss → Prithvi (earth) element imbalanced
+- Hearing loss -> Akasha (space) element imbalanced
+- Touch numbness -> Vayu (air) element imbalanced
+- Vision problems -> Agni (fire) element imbalanced
+- Taste loss -> Jala (water) element imbalanced
+- Smell loss -> Prithvi (earth) element imbalanced
 
 TREATMENT: Balance the corresponding element, not just the organ!
 ```
@@ -762,9 +762,9 @@ CLINICAL INSIGHT:
 FORMULA: Lifespan ∝ 1 / Breath_Rate
 
 OBSERVATIONS:
-- Mouse: 150 breaths/min → Lifespan ~2 years
-- Human: 15 breaths/min → Lifespan ~80 years
-- Tortoise: 4 breaths/min → Lifespan ~150 years
+- Mouse: 150 breaths/min -> Lifespan ~2 years
+- Human: 15 breaths/min -> Lifespan ~80 years
+- Tortoise: 4 breaths/min -> Lifespan ~150 years
 
 PRESCRIPTION:
 1. Measure resting breath rate:
@@ -779,14 +779,14 @@ PRESCRIPTION:
 
 3. Monitor as vital sign:
    - Track breath rate like blood pressure
-   - Chronic >20/min → High mortality risk indicator
+   - Chronic >20/min -> High mortality risk indicator
 ```
 
 **Your Patient Protocol:**
-1. Assess Guna balance (Law #30) → Primary diagnosis
-2. Test all 5 senses (Laws #37-45) → Elemental imbalance
-3. Measure breath rate (Law #51) → Longevity indicator
-4. Treat at ALL fractal levels (cell → organ → system → consciousness)
+1. Assess Guna balance (Law #30) -> Primary diagnosis
+2. Test all 5 senses (Laws #37-45) -> Elemental imbalance
+3. Measure breath rate (Law #51) -> Longevity indicator
+4. Treat at ALL fractal levels (cell -> organ -> system -> consciousness)
 
 ---
 
@@ -807,18 +807,18 @@ Before ANY action today, ask:
 "What will be the CONSEQUENCE of this action?"
 
 Examples:
-- Snap at spouse? → They withdraw emotionally (Law #55)
-- Skip workout? → Body weakens incrementally (Law #52)
-- Lie to colleague? → Trust erodes, isolation grows (Law #55)
-- Help stranger? → Help appears when YOU need it (Law #55)
+- Snap at spouse? -> They withdraw emotionally (Law #55)
+- Skip workout? -> Body weakens incrementally (Law #52)
+- Lie to colleague? -> Trust erodes, isolation grows (Law #55)
+- Help stranger? -> Help appears when YOU need it (Law #55)
 
 EVENING (Review Karma):
 List 3 actions today and their consequences:
-1. Action: __________ → Consequence (observed/predicted): __________
-2. Action: __________ → Consequence (observed/predicted): __________
-3. Action: __________ → Consequence (observed/predicted): __________
+1. Action: __________ -> Consequence (observed/predicted): __________
+2. Action: __________ -> Consequence (observed/predicted): __________
+3. Action: __________ -> Consequence (observed/predicted): __________
 
-RESULT: Karma awareness → Better choices → Better life
+RESULT: Karma awareness -> Better choices -> Better life
 ```
 
 **2. Law #30 (Gunas): Manage Your State**
@@ -847,7 +847,7 @@ STRATEGY: Work WITH natural cycles, not against them
 
 **3. Law #52 (6 Stages): Accept Impermanence**
 ```
-THE LAW: Everything goes through 6 stages (birth → death)
+THE LAW: Everything goes through 6 stages (birth -> death)
 
 APPLY TO EVERYTHING:
 
@@ -860,15 +860,15 @@ YOUR RELATIONSHIPS:
 6. Vinashyati (Ends): Relationship ends or transforms
 
 WISDOM:
-- Stage 3? → Invest energy, nurture growth
-- Stage 5? → Either revive (back to stage 2) or accept ending
-- Stage 6? → Graceful closure, not bitterness
+- Stage 3? -> Invest energy, nurture growth
+- Stage 5? -> Either revive (back to stage 2) or accept ending
+- Stage 6? -> Graceful closure, not bitterness
 
 YOUR CAREER:
 Same 6 stages! Current job:
-- Stage 2-3? → Learn everything, grow skills
-- Stage 4-5? → Time to pivot or transform
-- Stage 6? → Leave gracefully, new beginning awaits
+- Stage 2-3? -> Learn everything, grow skills
+- Stage 4-5? -> Time to pivot or transform
+- Stage 6? -> Leave gracefully, new beginning awaits
 
 RESULT: Stop clinging to Stage 5-6. Embrace cycles.
 ```
@@ -894,37 +894,37 @@ RESULT: Stop clinging to Stage 5-6. Embrace cycles.
 ### What Changes When You Master These:
 
 **Before:**
-- Life feels random → "Why is this happening to me?"
-- Systems fail mysteriously → "It worked yesterday!"
-- Relationships break → "I don't understand people"
-- Health deteriorates → "Aging is inevitable"
-- Reality seems solid → "This is just how things are"
+- Life feels random -> "Why is this happening to me?"
+- Systems fail mysteriously -> "It worked yesterday!"
+- Relationships break -> "I don't understand people"
+- Health deteriorates -> "Aging is inevitable"
+- Reality seems solid -> "This is just how things are"
 
 **After:**
-- Life follows patterns → "I see the law operating here"
-- Systems are predictable → "This will fail because Law X is violated"
-- Relationships make sense → "Stage 4 transformation, that's normal"
-- Health is manageable → "Balance my Gunas, extend lifespan"
-- Reality is malleable → "I create my experience through consciousness (Laws #62-66)"
+- Life follows patterns -> "I see the law operating here"
+- Systems are predictable -> "This will fail because Law X is violated"
+- Relationships make sense -> "Stage 4 transformation, that's normal"
+- Health is manageable -> "Balance my Gunas, extend lifespan"
+- Reality is malleable -> "I create my experience through consciousness (Laws #62-66)"
 
 ### The Meta-Pattern:
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   81 LAWS = The Operating System of Reality                  ║
-║                                                               ║
-║   Layer 1 (27): Hardware - Can't change, must understand     ║
-║   Layer 2 (27): Interface - Can optimize, improve efficiency ║
-║   Layer 3 (27): Software - Can master, even transcend        ║
-║                                                               ║
-║   Most people: Live at Layer 2, unaware of Layers 1 & 3      ║
-║   Scientists: Discovered ~40% of Layer 1, studying Layer 2   ║
-║   Yogis: Mastered Layer 3, transcended all layers            ║
-║                                                               ║
-║   Your choice: Which layers will you understand?             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   81 LAWS = The Operating System of Reality                  |
+|                                                               |
+|   Layer 1 (27): Hardware - Can't change, must understand     |
+|   Layer 2 (27): Interface - Can optimize, improve efficiency |
+|   Layer 3 (27): Software - Can master, even transcend        |
+|                                                               |
+|   Most people: Live at Layer 2, unaware of Layers 1 & 3      |
+|   Scientists: Discovered ~40% of Layer 1, studying Layer 2   |
+|   Yogis: Mastered Layer 3, transcended all layers            |
+|                                                               |
+|   Your choice: Which layers will you understand?             |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -934,27 +934,27 @@ RESULT: Stop clinging to Stage 5-6. Embrace cycles.
 Based on your perspective, start here:
 
 **🤖 AI/ML Engineers:**
-- Read: [Fractal AI Learning System](../../spec/brahman/FRACTAL_AI_LEARNING_SYSTEM.html)
+- Read: [Fractal AI Learning System](../../../vishnu_engine/spec/brahman/FRACTAL_AI_LEARNING_SYSTEM.md)
 - Implement: 3-layer architecture (27+27+27) in your next project
 - Apply: Guna monitoring (Law #30) to track model states
 
 **🏗️ Architects:**
-- Read: [81-Grid Complete](./01_81_GRID_COMPLETE.html)
+- Read: [81-Grid Complete](../../../scientific_papers/01_81_GRID_COMPLETE.html.md)
 - Design: Systems with fractal patterns (Law #14)
 - Implement: Karma tracking for all actions (Laws #55-57)
 
 **⚛️ Physicists:**
-- Read: [Backend Unified Model](../../05_systems/prakriti/UNIFIED_MODEL.html)
+- Read: [Backend Unified Model](../../../scientific_papers/05_systems/prakriti/UNIFIED_MODEL.html.md)
 - Research: Test if "constants" vary across scales (Law #9)
 - Explore: Consciousness as fundamental field (Laws #62-66)
 
 **🩺 Doctors:**
-- Read: [Pancha Kosha Complete](../../04_entities/PANCHA_KOSHA_COMPLETE.html)
+- Read: [Pancha Kosha Complete](../../../scientific_papers/04_entities/PANCHA_KOSHA_COMPLETE.html.md)
 - Practice: Diagnose by Guna balance (Law #30)
 - Prescribe: Pranayama for longevity (Law #51)
 
 **👤 Everyone:**
-- Read: [Core Insight](./01_CORE_INSIGHT.html) - Understand what you really are
+- Read: [Core Insight](../../../scientific_papers/01_CORE_INSIGHT.html.md) - Understand what you really are
 - Practice: Daily Karma awareness (Law #55)
 - Track: Your Guna cycles throughout the day (Law #30)
 
@@ -1079,13 +1079,13 @@ Based on your perspective, start here:
    ----------------------------------------------------------------------- 
                                                                            
      Step 1: Sense Data (Raw Bits) -> Indriya receives Tanmatra            
-                       ↓                                                   
+                       v                                                   
      Step 2: Manas organizes (Wireframe) -> Sankalpa-Vikalpa               
-                       ↓                                                   
+                       v                                                   
      Step 3: Smriti applies Texture -> Memory Association                  
-                       ↓                                                   
+                       v                                                   
      Step 4: Ahamkara stamps "Mine" -> Personal ownership                  
-                       ↓                                                   
+                       v                                                   
      OUTPUT: Pratyaya (Perception/Object)                                 
                                                                            
    ----------------------------------------------------------------------- 
@@ -1114,8 +1114,8 @@ Based on your perspective, start here:
      Flow (J) = ------------------------------------------                 
                             Resistance (Tamas)                             
                                                                            
-     If Tamas ↑ -> Flow ↓ -> Disease                                        
-     If Tamas ↓ -> Flow ↑ -> Health                                         
+     If Tamas ^ -> Flow v -> Disease                                        
+     If Tamas v -> Flow ^ -> Health                                         
                                                                            
    ----------------------------------------------------------------------- 
                                                                               
@@ -1150,10 +1150,10 @@ Based on your perspective, start here:
                                                                            
      Karma_Net = Efficiency_Output - Noise_Generated                      
                                                                            
-     PUNYA (Merit): Actions that ↑ System Order (Negentropy)              
+     PUNYA (Merit): Actions that ^ System Order (Negentropy)              
                     Stored as "Ojas" (Battery/Reserve)                    
                                                                            
-     PAPA (Sin): Actions that ↑ System Noise (Entropy)                    
+     PAPA (Sin): Actions that ^ System Noise (Entropy)                    
                  Stored as "Ama" (Corrupt Data/Toxin)                     
                                                                            
    ----------------------------------------------------------------------- 

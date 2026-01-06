@@ -6,7 +6,7 @@
 
 ```
 SWASA-SANKHYA (श्वास-सङ्ख्या):
-═══════════════════════════════
+===============================
 
 PRINCIPLE:
 Each life has finite breath allocation
@@ -15,9 +15,9 @@ CALCULATION:
 ~778 million breaths average
 
 VARIATION:
-Tortoise: 4/min → ~150 years
-Human: 15/min → ~80 years  
-Mouse: 150/min → ~2 years
+Tortoise: 4/min -> ~150 years
+Human: 15/min -> ~80 years  
+Mouse: 150/min -> ~2 years
 
 CONSERVATION:
 Pranayama = Slow breathing = More time
@@ -54,7 +54,7 @@ Backend Architecture describes Rasayana (रसायन) — rejuvenation pract
 
 ```
 DEATH PROCESS:
-══════════════
+==============
 
 LIFE STATE:
 Sattva > Tamas
@@ -62,14 +62,14 @@ Repair > Damage
 Order maintained
 
 AGING:
-Sattva ↓, Tamas ↑
+Sattva v, Tamas ^
 Repair slowing
 Order declining
 
 DEATH:
 Tamas complete
 No more repair
-Body → 5 elements
+Body -> 5 elements
 ```
 
 ---
@@ -78,9 +78,9 @@ Body → 5 elements
 
 ```
 THE GOAL:
-═════════
+=========
 
-Aging → Death → Rebirth (cycle continues)
+Aging -> Death -> Rebirth (cycle continues)
 
 UNLESS:
 Moksha (liberation) = Escape from cycle

@@ -1,6 +1,6 @@
 # 11. Conclusion
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -14,7 +14,7 @@ This paper has argued that the brain functions as a **receiver and filter** of c
 
 ```
 EVIDENCE EXAMINED:
-══════════════════
+==================
 
 1. NEAR-DEATH EXPERIENCES
    • Rich experience during brain shutdown
@@ -41,9 +41,9 @@ EVIDENCE EXAMINED:
 
 ```
 CONSISTENT OBSERVATION:
-═══════════════════════
+=======================
 
-↓ Brain activity → ↑ Experience
+v Brain activity -> ^ Experience
 
 This is:
 • PARADOXICAL for generator model
@@ -110,19 +110,19 @@ If the receiver model is correct:
 
 ```
 THE RADIO:
-══════════
+==========
 • Receives signal from elsewhere
 • Signal exists before, during, after radio
-• Damage radio → Music changes locally
-• Destroy radio → Music stops locally
+• Damage radio -> Music changes locally
+• Destroy radio -> Music stops locally
 • Signal continues
 
 YOU:
-════
+====
 • Receive consciousness from beyond brain
 • Consciousness exists before, during, after body
-• Damage brain → Experience changes locally
-• Destroy brain (death) → Local experience ends
+• Damage brain -> Experience changes locally
+• Destroy brain (death) -> Local experience ends
 • Consciousness continues
 
 THE BRAIN IS NOT YOU.
@@ -139,7 +139,7 @@ YOU ARE CONSCIOUSNESS ITSELF.
 | Brain-experience correlation | Universal | 100% |
 | Correlation ≠ causation | Logical | 100% |
 | NDEs during brain shutdown | Research | 80% |
-| Psychedelics ↓ activity ↑ experience | fMRI | 85% |
+| Psychedelics v activity ^ experience | fMRI | 85% |
 | Terminal lucidity documented | Case studies | 75% |
 | Savant abilities from damage | Research | 75% |
 | **Overall receiver model** | | **84%** |
@@ -181,7 +181,7 @@ This paper is part of Phase 3: Consciousness Is Axiomatic
 
 | Paper | Contribution |
 |-------|--------------|
-| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/) | Consciousness is axiom |
+| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) | Consciousness is axiom |
 | **Brain as Receiver (this paper)** | Brain is interface, not source |
 | NDE Evidence (coming) | Detailed NDE research |
 

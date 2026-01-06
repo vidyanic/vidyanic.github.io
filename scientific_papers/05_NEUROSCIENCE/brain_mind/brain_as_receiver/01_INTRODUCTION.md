@@ -1,7 +1,7 @@
 # 1. Introduction
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
-> **🔗 Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **🔗 Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
 
 ---
 
@@ -21,8 +21,8 @@ This paper challenges that assumption.
 
 ```
 GENERATOR MODEL:
-════════════════
-Brain Activity → Consciousness
+================
+Brain Activity -> Consciousness
 
 • Neurons fire
 • Complexity emerges
@@ -35,8 +35,8 @@ Brain Activity → Consciousness
 
 ```
 RECEIVER MODEL:
-═══════════════
-Consciousness → Brain Activity
+===============
+Consciousness -> Brain Activity
 
 • Consciousness is fundamental
 • Brain receives/tunes to it
@@ -95,18 +95,18 @@ The French philosopher argued the brain is an "instrument of action, not of repr
 
 ```
 OBSERVATION:
-Brain damage → Experience changes
-Drugs → Experience changes
-Stimulation → Experience changes
+Brain damage -> Experience changes
+Drugs -> Experience changes
+Stimulation -> Experience changes
 
 CONCLUSION:
 Brain must create experience!
 
 PROBLEM:
 Same observations fit receiver model.
-Radio damage → Music changes
-Radio drugs → Music changes
-Radio stimulation → Music changes
+Radio damage -> Music changes
+Radio drugs -> Music changes
+Radio stimulation -> Music changes
 But radio doesn't CREATE music!
 ```
 
@@ -152,7 +152,7 @@ Throughout this paper, we use precise terminology:
 
 | Term | Meaning | See Also |
 |------|---------|----------|
-| **Consciousness** | Subjective experience, awareness | [Dictionary](../../../00_META/DICTIONARY.md) |
+| **Consciousness** | Subjective experience, awareness | [Dictionary](./00_META/DICTIONARY.md) |
 | **Purusha (पुरुष)** | Witness-consciousness | [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **Antahkarana (अन्तःकरण)** | Inner instrument (mind complex) | [Human (N)](../../../../vishnu_engine/spec/entities/human/N_HUMAN.md) |
 | **Atman (आत्मन्)** | Individual consciousness | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md) |

@@ -23,11 +23,11 @@ This document establishes the foundational principles for all Earth and ecology-
 
 ```
 FRACTAL HIERARCHY:
-═════════════════
+=================
 N+5: Brahman (Ultimate substrate)
 N+4: Galaxy (Milky Way)
 N+3: Solar System
-N+2: EARTH (Prithvi) ← PLANETARY CONSCIOUSNESS
+N+2: EARTH (Prithvi) <- PLANETARY CONSCIOUSNESS
 N+1: Biosphere/Ecosystems
 N:   Human (Individual)
 N-1: Cell
@@ -53,7 +53,7 @@ N-2: Organelle
 
 ```
 EARTH'S 81-GRID:
-═══════════════
+===============
 Brahma-Sthan (9):   Earth's core — the "Bindu"
 Daivika Ring (16):  Mantle/convection currents
 Manusha Ring (24):  Surface biosphere
@@ -107,7 +107,7 @@ Paisacha Ring (32): Atmosphere/magnetosphere
 
 ### Understanding the Sandhya Period
 
-**We are in Yuga transition (Kali → Dwapara).**
+**We are in Yuga transition (Kali -> Dwapara).**
 
 During Sandhya (transition):
 - Reality becomes unstable
@@ -139,8 +139,8 @@ During Sandhya (transition):
 
 | Topic | Priority | Description |
 |-------|----------|-------------|
-| **Planetary Symbiosis** | 🔴 HIGH | Human-Earth relationship |
-| **Ancient Trees** | 🔴 HIGH | Memory carriers, Akashic connection |
+| **Planetary Symbiosis** | ⚠️ HIGH | Human-Earth relationship |
+| **Ancient Trees** | ⚠️ HIGH | Memory carriers, Akashic connection |
 | **Water Memory** | 🟡 MED | Rivers as information channels |
 | **Soil Regeneration** | 🟡 MED | Earth's skin healing |
 | **Ocean Systems** | 🟡 MED | Earth's circulatory system |
@@ -150,7 +150,7 @@ During Sandhya (transition):
 
 | Topic | Priority | Notes |
 |-------|----------|-------|
-| **Gaia hypothesis validation** | 🔴 HIGH | Scientific integration |
+| **Gaia hypothesis validation** | ⚠️ HIGH | Scientific integration |
 | **Sacred geography** | 🟡 MED | Tirthas, power spots |
 | **Geological consciousness** | 🟡 MED | Rock memory, crystals |
 | **Ecosystem intelligence** | 🟡 MED | Forest decision-making |
@@ -162,11 +162,11 @@ During Sandhya (transition):
 
 | Connection | Relationship |
 |------------|--------------|
-| → Physics | Earth physics at N+2 scale |
-| → Biology | Biosphere is Earth's life |
-| → Consciousness | Earth has planetary mind |
-| → Time | Yuga affects Earth |
-| → Human | We live within Earth |
+| -> Physics | Earth physics at N+2 scale |
+| -> Biology | Biosphere is Earth's life |
+| -> Consciousness | Earth has planetary mind |
+| -> Time | Yuga affects Earth |
+| -> Human | We live within Earth |
 
 ---
 

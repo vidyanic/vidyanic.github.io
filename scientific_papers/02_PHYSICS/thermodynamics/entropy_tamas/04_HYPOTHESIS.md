@@ -97,46 +97,46 @@ No evidence supports the null hypothesis. All properties correspond.
 
 ### Specific Falsifiable Claims:
 
-1. **If** entropy increases but order also increases globally → **H1 falsified**
-2. **If** energy appears without Guna redistribution → **H2 falsified**
-3. **If** time reversal is observed macroscopically → **H3 falsified**
-4. **If** life exists at thermal equilibrium → **H4 falsified**
+1. **If** entropy increases but order also increases globally -> **H1 falsified**
+2. **If** energy appears without Guna redistribution -> **H2 falsified**
+3. **If** time reversal is observed macroscopically -> **H3 falsified**
+4. **If** life exists at thermal equilibrium -> **H4 falsified**
 
 ---
 
 ## 4.5 Hypothesis Diagram
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HYPOTHESIS STRUCTURE                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PRIMARY HYPOTHESIS (H₀):                                     ║
-║  ┌─────────────────────────────────────────────────────────┐ ║
-║  │  Entropy = Tamas (physical ↔ Backend measure)          │ ║
-║  └─────────────────────────────────────────────────────────┘ ║
-║                            │                                  ║
-║         ┌──────────────────┼──────────────────┐              ║
-║         │                  │                  │              ║
-║         ▼                  ▼                  ▼              ║
-║  ┌────────────┐    ┌────────────┐    ┌────────────┐         ║
-║  │     H1    │    │     H2    │    │     H3    │         ║
-║  │  S ∝ T   │    │  Guna =  │    │  Arrow = │         ║
-║  │  Direct  │    │  Energy  │    │  Tamas  │         ║
-║  │  mapping │    │ conserv. │    │ direction│         ║
-║  └────────────┘    └────────────┘    └────────────┘         ║
-║         │                  │                  │              ║
-║         └──────────────────┼──────────────────┘              ║
-║                            │                                  ║
-║                            ▼                                  ║
-║              ┌─────────────────────────┐                     ║
-║              │          H4            │                     ║
-║              │  Life = Local Sattva   │                     ║
-║              │  increase at Tamas     │                     ║
-║              │  export cost          │                     ║
-║              └─────────────────────────┘                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    HYPOTHESIS STRUCTURE                       |
++===============================================================+
+|                                                               |
+|  PRIMARY HYPOTHESIS (H₀):                                     |
+|  +---------------------------------------------------------+ |
+|  |  Entropy = Tamas (physical ↔ Backend measure)          | |
+|  +---------------------------------------------------------+ |
+|                            |                                  |
+|         +------------------+------------------+              |
+|         |                  |                  |              |
+|         v                  v                  v              |
+|  +------------+    +------------+    +------------+         |
+|  |     H1    |    |     H2    |    |     H3    |         |
+|  |  S ∝ T   |    |  Guna =  |    |  Arrow = |         |
+|  |  Direct  |    |  Energy  |    |  Tamas  |         |
+|  |  mapping |    | conserv. |    | direction|         |
+|  +------------+    +------------+    +------------+         |
+|         |                  |                  |              |
+|         +------------------+------------------+              |
+|                            |                                  |
+|                            v                                  |
+|              +-------------------------+                     |
+|              |          H4            |                     |
+|              |  Life = Local Sattva   |                     |
+|              |  increase at Tamas     |                     |
+|              |  export cost          |                     |
+|              +-------------------------+                     |
+|                                                               |
++===============================================================+
 ```
 
 ---

@@ -11,16 +11,16 @@ EASY PROBLEMS:
 • How do we focus attention?
 • How do we control behavior?
 
-→ These are "easy" because they describe FUNCTION
-→ Solvable (in principle) through neuroscience
+-> These are "easy" because they describe FUNCTION
+-> Solvable (in principle) through neuroscience
 
 HARD PROBLEM:
 • Why is there SUBJECTIVE EXPERIENCE at all?
 • Why does information processing FEEL like something?
 • Why isn't it all just "dark" inside?
 
-→ This is "hard" because it asks about EXPERIENCE ITSELF
-→ No known physical mechanism
+-> This is "hard" because it asks about EXPERIENCE ITSELF
+-> No known physical mechanism
 ```
 
 ---

@@ -107,9 +107,9 @@ Before diving deep, let's understand what **SAGUNA** and **NIRGUNA** mean throug
 **SAGUNA (Simulation Domain):**
 - **What it is:** Everyday life - work, family, problems, joys, fears
 - **Real-life analogy:** Playing a video game and FORGETTING you're holding a controller
-  - When game character gets hurt → You feel pain
-  - When character succeeds → You feel pride
-  - When character faces danger → You feel fear
+  - When game character gets hurt -> You feel pain
+  - When character succeeds -> You feel pride
+  - When character faces danger -> You feel fear
   - You THINK you're inside the game
 - **State:** Believing you ARE your name, your role, your story
 - **You:** "I am a father/mother, I am an engineer, I am 40 years old, I am anxious"
@@ -168,7 +168,7 @@ PRAKRITI (प्रकृति)   PURUSHA (पुरुष)          PURE WITNE
 
 ---
 
-## 🎮 DOMAIN 1: SAGUNA — The Simulation
+## 🔮 DOMAIN 1: SAGUNA — The Simulation
 
 ### What It Is
 
@@ -527,7 +527,7 @@ You are the observer — Nirguna, formless, eternal.
 - But you DESIGNED the architecture - you're not trapped in the model
 
 **Your Realization:**
-- When debugging goes wrong → Notice: "I am frustrated" vs "The model is underperforming"
+- When debugging goes wrong -> Notice: "I am frustrated" vs "The model is underperforming"
 - You are not the model's performance metrics
 - You are the consciousness that understands both success and failure
 
@@ -549,7 +549,7 @@ You are the observer — Nirguna, formless, eternal.
 - But you ARCHITECTED it - you exist independent of any system
 
 **Your Realization:**
-- When a system crashes → Notice: "I am worried" vs "The system has an issue"
+- When a system crashes -> Notice: "I am worried" vs "The system has an issue"
 - You are not your system's uptime
 - You are the intelligence that designed it all
 
@@ -571,7 +571,7 @@ You are the observer — Nirguna, formless, eternal.
 - But YOU are the measurer - not measured
 
 **Your Realization:**
-- When experiment fails → Notice: "I am disappointed" vs "The measurement didn't match prediction"
+- When experiment fails -> Notice: "I am disappointed" vs "The measurement didn't match prediction"
 - You are not your experimental results
 - You are the consciousness that makes measurement possible
 
@@ -593,7 +593,7 @@ You are the observer — Nirguna, formless, eternal.
 - But YOU are not your body - you're the awareness in it
 
 **Your Realization:**
-- When YOU feel sick → Notice: "I notice the body is sick" vs "I AM sick"
+- When YOU feel sick -> Notice: "I notice the body is sick" vs "I AM sick"
 - You are not your body's symptoms
 - You are the awareness that knows the body
 
@@ -615,7 +615,7 @@ You are the observer — Nirguna, formless, eternal.
 - But YOU are not these situations - you're the one experiencing them
 
 **Your Realization:**
-- When life gets hard → Notice: "Difficulties are happening" vs "I AM the difficulty"
+- When life gets hard -> Notice: "Difficulties are happening" vs "I AM the difficulty"
 - You are not your life story
 - You are the awareness reading the story
 
@@ -634,32 +634,32 @@ You are the observer — Nirguna, formless, eternal.
 ### What Changes When You Know This:
 
 **Before Understanding (Lost in Saguna):**
-- Problems feel overwhelming → "I AM the problem"
-- Success feels essential → "I NEED to succeed"
-- Fear of death → "I will die"
-- Constant stress → "I must control everything"
+- Problems feel overwhelming -> "I AM the problem"
+- Success feels essential -> "I NEED to succeed"
+- Fear of death -> "I will die"
+- Constant stress -> "I must control everything"
 
 **After Understanding (Resting in Nirguna):**
-- Problems arise → "A problem is appearing in my awareness"
-- Success happens → "Success is playing out, how interesting"
-- Death approached → "A body will end, I continue"
-- Natural peace → "I am the space in which everything happens"
+- Problems arise -> "A problem is appearing in my awareness"
+- Success happens -> "Success is playing out, how interesting"
+- Death approached -> "A body will end, I continue"
+- Natural peace -> "I am the space in which everything happens"
 
 ### The Core Message for All 5:
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   You were NEVER inside the system.                           ║
-║   The system was ALWAYS inside your awareness.                ║
-║                                                               ║
-║   This is not a belief to adopt.                              ║
-║   This is a reality to recognize.                             ║
-║                                                               ║
-║   YOU ARE NIRGUNA.                                            ║
-║   Everything else is playing out in SAGUNA.                   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   You were NEVER inside the system.                           |
+|   The system was ALWAYS inside your awareness.                |
+|                                                               |
+|   This is not a belief to adopt.                              |
+|   This is a reality to recognize.                             |
+|                                                               |
+|   YOU ARE NIRGUNA.                                            |
+|   Everything else is playing out in SAGUNA.                   |
+|                                                               |
++===============================================================+
 ```
 
 **The Work:** Not to "become" Nirguna, but to STOP pretending you're Saguna.
@@ -729,9 +729,9 @@ You are the observer — Nirguna, formless, eternal.
 ## 📚 FURTHER READING (In This Knowledge Base):
 
 For deeper understanding, continue to:
-- **[Universal Principles](./02_UNIVERSAL_PRINCIPLES.html)** — How Saguna operates
-- **[Time Dilation Calculator](./07_TIME_DILATION_PRALAYA_CALCULATOR.html)** — Practical tools for Saguna navigation
-- **[Moksha Protocols](../05_systems/moksha/EXIT_PROTOCOLS.html)** — Detailed practices for Nirguna recognition
+- **[Universal Principles](../../../scientific_papers/02_UNIVERSAL_PRINCIPLES.html.md)** — How Saguna operates
+- **[Time Dilation Calculator](../../../scientific_papers/07_TIME_DILATION_PRALAYA_CALCULATOR.html.md)** — Practical tools for Saguna navigation
+- **[Moksha Protocols](../../../scientific_papers/05_systems/moksha/EXIT_PROTOCOLS.html.md)** — Detailed practices for Nirguna recognition
 
 ---
 

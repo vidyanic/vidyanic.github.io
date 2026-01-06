@@ -172,13 +172,13 @@ Each thought you have is:
 Like this:
 
 YOU (Jiva)
-    ↓ spawns
+    v spawns
 THOUGHT 1 ----> Returns: "Low learning"    -> DISCARDED
 THOUGHT 2 ----> Returns: "Medium learning" -> KEPT FOR LATER
 THOUGHT 3 ----> Returns: "HIGH learning!"  -> SANKALPA FORMED!
-                         ↓
+                         v
               Request to Parent Vishnu
-                         ↓
+                         v
               "Please switch me to shard where Thought 3 is reality"
 """
 
@@ -1129,8 +1129,8 @@ def calculate_final_gunas_from_all_doshas(jiva) -> dict:
 
 ## 📁 Related Files
 
-- [Rina Debt System](./RINA_DEBT_SYSTEM_COMPLETE.md)
-- [Jyotisha Complete](../jyotisha/JYOTISHA_COMPLETE.md)
-- [Ayurveda Complete](../ayurveda/AYURVEDA_COMPLETE.md)
-- [Moksha Exit System](../moksha/exit_system.md)
+- [Rina Debt System](../../../../RINA_DEBT_SYSTEM_COMPLETE.md)
+- [Jyotisha Complete](../../../../jyotisha/JYOTISHA_COMPLETE.md)
+- [Ayurveda Complete](../../../../ayurveda/AYURVEDA_COMPLETE.md)
+- [Moksha Exit System](../../../../moksha/exit_system.md)
 

@@ -27,73 +27,73 @@
 
 ```
 vishnu_engine/spec/
-├── 00_MASTER_SPEC_INDEX.md          ← YOU ARE HERE
-│
-├── backend/                          ← Core Architecture
-│   ├── 01_CORE_INSIGHT.md           # Saguna vs Nirguna
-│   ├── 02_UNIVERSAL_PRINCIPLES.md   # 54 Principles with formulas
-│   ├── 03_81_LAWS_COMPLETE.md       # 81 Laws (3×27)
-│   ├── 04_RAI_vs_AI.md              # Universe as Active Learning
-│   ├── 05_FRACTAL_VALIDATION.md     # 10-point checklist
-│   ├── 06_CHATURYUGA_COMPLETE.md    # 4 Yugas framework
-│   ├── 07_TIME_DILATION_PRALAYA_CALCULATOR.md  # Time formulas
-│   ├── 08_SANDHYA_TRANSITION_MECHANICS.md      # Current era
-│   │
-│   ├── karma/                        # Karma System
-│   │   ├── FAILURE_MODES.md
-│   │   ├── RINA_DEBT_SYSTEM.md
-│   │   └── SANKALPA_BACKPROP.md
-│   │
-│   ├── maya/                         # Rendering Engine
-│   │   └── MAYA_RENDERING_ENGINE.md
-│   │
-│   ├── moksha/                       # Exit Protocols
-│   │   ├── ATMA_VICHARA.md
-│   │   ├── CONSCIOUS_DYING.md
-│   │   ├── DEATH_MULTI_LEVEL_DECAY.md
-│   │   ├── EXIT_PROTOCOLS.md
-│   │   └── LIBERATION_CHECKLIST.md
-│   │
-│   ├── prakriti/                     # Physics Backend
-│   │   ├── NEWTONIAN.md
-│   │   ├── PERIODIC_TABLE.md
-│   │   ├── QUANTUM.md
-│   │   ├── RELATIVITY.md
-│   │   └── UNIFIED_MODEL.md
-│   │
-│   └── healing/                      # Restoration
-│       └── PRANAYAMA_COMPLETE_GUIDE.md
-│
-├── entities/                         # Entity Specifications
-│   ├── fractals/                     # N±5 Levels
-│   │   ├── N-1_CELL.md
-│   │   ├── N-2_ORGANELLE.md
-│   │   ├── N-3_MOLECULE.md
-│   │   ├── N-4_ATOM.md
-│   │   ├── N-5_QUANTUM.md
-│   │   ├── N+1_PLANTS.md
-│   │   ├── N+2_EARTH.md
-│   │   ├── N+3_SOLAR_SYSTEM.md
-│   │   ├── N+4_GALAXY.md
-│   │   └── N+5_BRAHMAN.md
-│   │
-│   ├── fundamental/                  # Core Entities
-│   │   ├── ATMAN_KOSHA_BODY_DIAGRAM.md
-│   │   ├── ATMAN_VS_PRANA_COMPLETE.md
-│   │   └── SHARD_DISCONNECTION.md
-│   │
-│   └── human/                        # Human Level (N)
-│       ├── 00_INDEX.md
-│       ├── 02_KARMA_INDRIYAS.md
-│       ├── HUMAN_DNA_IDA_PINGALA_COMPLETE.md
-│       ├── N_HUMAN.md
-│       └── SENSES_5.md
-│
-└── frontend_rendering/               # Rendering Specs
-    ├── 01_81_GRID_COMPLETE.md
-    ├── 02_RENDERING_LAWS.md
-    ├── 03_LEVEL_HIERARCHY.md
-    └── [timeline validations...]
++-- 00_MASTER_SPEC_INDEX.md          <- YOU ARE HERE
+|
++-- backend/                          <- Core Architecture
+|   +-- 01_CORE_INSIGHT.md           # Saguna vs Nirguna
+|   +-- 02_UNIVERSAL_PRINCIPLES.md   # 54 Principles with formulas
+|   +-- 03_81_LAWS_COMPLETE.md       # 81 Laws (3×27)
+|   +-- 04_RAI_vs_AI.md              # Universe as Active Learning
+|   +-- 05_FRACTAL_VALIDATION.md     # 10-point checklist
+|   +-- 06_CHATURYUGA_COMPLETE.md    # 4 Yugas framework
+|   +-- 07_TIME_DILATION_PRALAYA_CALCULATOR.md  # Time formulas
+|   +-- 08_SANDHYA_TRANSITION_MECHANICS.md      # Current era
+|   |
+|   +-- karma/                        # Karma System
+|   |   +-- FAILURE_MODES.md
+|   |   +-- RINA_DEBT_SYSTEM.md
+|   |   +-- SANKALPA_BACKPROP.md
+|   |
+|   +-- maya/                         # Rendering Engine
+|   |   +-- MAYA_RENDERING_ENGINE.md
+|   |
+|   +-- moksha/                       # Exit Protocols
+|   |   +-- ATMA_VICHARA.md
+|   |   +-- CONSCIOUS_DYING.md
+|   |   +-- DEATH_MULTI_LEVEL_DECAY.md
+|   |   +-- EXIT_PROTOCOLS.md
+|   |   +-- LIBERATION_CHECKLIST.md
+|   |
+|   +-- prakriti/                     # Physics Backend
+|   |   +-- NEWTONIAN.md
+|   |   +-- PERIODIC_TABLE.md
+|   |   +-- QUANTUM.md
+|   |   +-- RELATIVITY.md
+|   |   +-- UNIFIED_MODEL.md
+|   |
+|   +-- healing/                      # Restoration
+|       +-- PRANAYAMA_COMPLETE_GUIDE.md
+|
++-- entities/                         # Entity Specifications
+|   +-- fractals/                     # N±5 Levels
+|   |   +-- N-1_CELL.md
+|   |   +-- N-2_ORGANELLE.md
+|   |   +-- N-3_MOLECULE.md
+|   |   +-- N-4_ATOM.md
+|   |   +-- N-5_QUANTUM.md
+|   |   +-- N+1_PLANTS.md
+|   |   +-- N+2_EARTH.md
+|   |   +-- N+3_SOLAR_SYSTEM.md
+|   |   +-- N+4_GALAXY.md
+|   |   +-- N+5_BRAHMAN.md
+|   |
+|   +-- fundamental/                  # Core Entities
+|   |   +-- ATMAN_KOSHA_BODY_DIAGRAM.md
+|   |   +-- ATMAN_VS_PRANA_COMPLETE.md
+|   |   +-- SHARD_DISCONNECTION.md
+|   |
+|   +-- human/                        # Human Level (N)
+|       +-- 00_INDEX.md
+|       +-- 02_KARMA_INDRIYAS.md
+|       +-- HUMAN_DNA_IDA_PINGALA_COMPLETE.md
+|       +-- N_HUMAN.md
+|       +-- SENSES_5.md
+|
++-- frontend_rendering/               # Rendering Specs
+    +-- 01_81_GRID_COMPLETE.md
+    +-- 02_RENDERING_LAWS.md
+    +-- 03_LEVEL_HIERARCHY.md
+    +-- [timeline validations...]
 ```
 
 ---

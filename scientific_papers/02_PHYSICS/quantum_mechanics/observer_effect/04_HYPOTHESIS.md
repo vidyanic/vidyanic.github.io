@@ -95,46 +95,46 @@ No evidence supports the null hypothesis. All attempts to define physical observ
 
 ### Specific Falsifiable Claims:
 
-1. **If** we can build a detector that collapses waves even when results are erased before observation → **H1 falsified**
-2. **If** we can specify exactly where measurement occurs physically → **H2 falsified**
-3. **If** delayed choice experiments stop showing retrocausal patterns → **H3 falsified**
-4. **If** experiments contradict Drashta-Drishya predictions → **H4 falsified**
+1. **If** we can build a detector that collapses waves even when results are erased before observation -> **H1 falsified**
+2. **If** we can specify exactly where measurement occurs physically -> **H2 falsified**
+3. **If** delayed choice experiments stop showing retrocausal patterns -> **H3 falsified**
+4. **If** experiments contradict Drashta-Drishya predictions -> **H4 falsified**
 
 ---
 
 ## 4.5 Hypothesis Diagram
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HYPOTHESIS STRUCTURE                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PRIMARY HYPOTHESIS (H₀):                                     ║
-║  ┌─────────────────────────────────────────────────────────┐ ║
-║  │ Consciousness is fundamental to wave function collapse  │ ║
-║  └─────────────────────────────────────────────────────────┘ ║
-║                            │                                  ║
-║         ┌──────────────────┼──────────────────┐              ║
-║         │                  │                  │              ║
-║         ▼                  ▼                  ▼              ║
-║  ┌────────────┐    ┌────────────┐    ┌────────────┐         ║
-║  │     H1    │    │     H2    │    │     H3    │         ║
-║  │ Detectors │    │ Heisenberg │    │ Retro-   │         ║
-║  │   alone   │    │    cut    │    │  causal  │         ║
-║  │  fail     │    │ undefined │    │ effects  │         ║
-║  └────────────┘    └────────────┘    └────────────┘         ║
-║         │                  │                  │              ║
-║         └──────────────────┼──────────────────┘              ║
-║                            │                                  ║
-║                            ▼                                  ║
-║              ┌─────────────────────────┐                     ║
-║              │          H4            │                     ║
-║              │  Backend Framework      │                     ║
-║              │  (Drashta-Drishya)     │                     ║
-║              │  Validates Model        │                     ║
-║              └─────────────────────────┘                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    HYPOTHESIS STRUCTURE                       |
++===============================================================+
+|                                                               |
+|  PRIMARY HYPOTHESIS (H₀):                                     |
+|  +---------------------------------------------------------+ |
+|  | Consciousness is fundamental to wave function collapse  | |
+|  +---------------------------------------------------------+ |
+|                            |                                  |
+|         +------------------+------------------+              |
+|         |                  |                  |              |
+|         v                  v                  v              |
+|  +------------+    +------------+    +------------+         |
+|  |     H1    |    |     H2    |    |     H3    |         |
+|  | Detectors |    | Heisenberg |    | Retro-   |         |
+|  |   alone   |    |    cut    |    |  causal  |         |
+|  |  fail     |    | undefined |    | effects  |         |
+|  +------------+    +------------+    +------------+         |
+|         |                  |                  |              |
+|         +------------------+------------------+              |
+|                            |                                  |
+|                            v                                  |
+|              +-------------------------+                     |
+|              |          H4            |                     |
+|              |  Backend Framework      |                     |
+|              |  (Drashta-Drishya)     |                     |
+|              |  Validates Model        |                     |
+|              +-------------------------+                     |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -174,9 +174,9 @@ Updated after each experimental result
 
 Based on our hypothesis, we predict:
 
-1. **Double-slit:** Observation → Particle pattern; No observation → Wave pattern ✓
+1. **Double-slit:** Observation -> Particle pattern; No observation -> Wave pattern ✓
 2. **Delayed choice:** Future observation affects past pattern ✓
-3. **Quantum eraser:** Erasing which-path → Interference returns ✓
+3. **Quantum eraser:** Erasing which-path -> Interference returns ✓
 4. **Wigner's friend:** Paradox resolved only by consciousness primacy ✓
 5. **Backend validation:** Drashta-Drishya exactly maps to findings ✓
 

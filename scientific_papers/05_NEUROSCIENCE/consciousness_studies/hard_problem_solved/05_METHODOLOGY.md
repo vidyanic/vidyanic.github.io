@@ -51,7 +51,7 @@ Imagine a being physically identical to you but with no experience.
 Is this conceivable?
 
 **Analysis:**
-- If conceivable → Consciousness not identical to physics
+- If conceivable -> Consciousness not identical to physics
 - Materialism claims they're identical
 - Therefore: Materialism challenged
 
@@ -70,7 +70,7 @@ Does she learn something new?
 
 **Analysis:**
 - Intuition: Yes, she learns what red looks like
-- If yes → Physical facts don't capture experience
+- If yes -> Physical facts don't capture experience
 - Therefore: Physicalism incomplete
 
 **Our Use:**
@@ -114,8 +114,8 @@ The gap shows categories are different.
 Can experience occur during verified flat EEG?
 
 **Analysis:**
-If yes → Brain activity not necessary for consciousness
-If no → Generator model intact
+If yes -> Brain activity not necessary for consciousness
+If no -> Generator model intact
 
 **Our Position:**
 Evidence supports experience during cardiac arrest.
@@ -130,7 +130,7 @@ Evidence supports experience during cardiac arrest.
 Can damaged brains produce clear consciousness?
 
 **Analysis:**
-If yes → Brain damage doesn't always reduce consciousness
+If yes -> Brain damage doesn't always reduce consciousness
 This challenges generator model
 
 ---
@@ -161,7 +161,7 @@ For each consciousness theory element, we:
 
 ## 5.6 Logical Proof Structure
 
-### 5.6.1 Axiom → Theorem Format
+### 5.6.1 Axiom -> Theorem Format
 
 ```
 AXIOM:

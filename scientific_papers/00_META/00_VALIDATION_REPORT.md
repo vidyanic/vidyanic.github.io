@@ -1,8 +1,10 @@
 # 📊 COMPREHENSIVE VALIDATION REPORT
 
-> **Last Updated:** January 2, 2026  
+> **Last Updated:** January 3, 2026  
 > **Project Status:** ✅ Ready for Publication  
 > **Overall Confidence:** 84%
+>
+> **Structure Cleanup Completed:** Removed 60+ empty/duplicate folders
 
 ---
 
@@ -95,10 +97,10 @@ ANOMALIES:     52+ explained
 
 ## ⚠️ AREAS REQUIRING YOUR INPUT
 
-### 🔴 HIGH PRIORITY
+### ⚠️ HIGH PRIORITY
 
 #### 1. Reincarnation Evidence (75% confidence)
-- **Location:** `05_NEUROSCIENCE/reincarnation/reincarnation_evidence/`
+- **Location:** `13_FRONTIER/reincarnation/reincarnation_evidence/`
 - **Issue:** Relies heavily on Ian Stevenson's research, some methodological critiques exist
 - **Question:** Should we add more caveats about evidence quality?
 - **Recommendation:** Keep as is — Stevenson's 2000+ case database is substantial
@@ -110,7 +112,7 @@ ANOMALIES:     52+ explained
 - **Recommendation:** Review 08_BACKEND_ANALOGY.md section
 
 #### 3. Black Holes = 15th Axis (78% confidence)
-- **Location:** `02_PHYSICS/cosmology/black_holes_15th_axis/`
+- **Location:** `09_ASTRONOMY/black_holes/black_hole_15th_axis/`
 - **Issue:** Novel interpretation — not mainstream physics
 - **Question:** Is the mapping to Meru-Danda accurate?
 - **Recommendation:** May need additional Vedic citations
@@ -119,7 +121,7 @@ ANOMALIES:     52+ explained
 
 #### 4. Dark Matter/Energy (82% confidence)
 - **Location:** `02_PHYSICS/cosmology/dark_matter_energy/`
-- **Issue:** 14 Lokas → frequency layers mapping is interpretive
+- **Issue:** 14 Lokas -> frequency layers mapping is interpretive
 - **Question:** Is the percentage breakdown (5% visible, 95% other Lokas) accurate to your understanding?
 
 #### 5. Cancer = Forgotten Identity (83% confidence)
@@ -189,7 +191,7 @@ ANOMALIES:     52+ explained
 
 ---
 
-## 🚀 PUBLICATION READINESS
+## ✨ PUBLICATION READINESS
 
 ### ✅ Ready for Publication
 

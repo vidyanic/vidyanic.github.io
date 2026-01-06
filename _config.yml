@@ -6,8 +6,11 @@ subtitle: "A Unified Framework Integrating Vedic Principles and Modern Physics"
 description: "Complete knowledge base documenting 50 Universal Principles, 52 anomalies explained, and the Vedic-Scientific unified framework."
 author: "Ranjeet (Shunya-0 Project)"
 email: ""
-baseurl: "/Bramhagyan" # Change if different
-url: "https://bramhagyan.github.io" # Your GitHub Pages URL
+baseurl: "/Bramhagyan" # GitHub Pages repository name
+url: "https://ranjeet-sunya.github.io" # Production URL
+
+# Source directory - root folder contains all content
+source: .
 
 # Repository
 repository: "ranjeet-sunya/Bramhagyan"
@@ -16,6 +19,9 @@ github_username: "ranjeet-sunya"
 # Build settings
 theme: jekyll-theme-cayman
 encoding: utf-8
+
+# Theme settings
+show_downloads: false
 # Alternative themes you can try:
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate
@@ -50,7 +56,9 @@ relative_links:
   collections: true
 
 # Permalink style - ensures clean URLs
-permalink: pretty
+# permalink: pretty - DISABLED: Causes relative image paths to break
+# Using default permalink which preserves file structure
+permalink: /:path:output_ext
 
 # Optional front matter
 optional_front_matter:
@@ -72,11 +80,10 @@ readme_index:
 # Include/Exclude files
 include:
   - README.md
-  - LICENSE.md
   - _config.yml
-  - "*/README.md"
-  - "**/*.md"
   - .gitattributes
+  - scientific_papers
+  - vishnu_engine
 
 exclude:
   - Gemfile
@@ -90,40 +97,14 @@ exclude:
   - "*.gemspec"
   - .git
   - .github
+  - serve.sh
+  - DEVELOPMENT.md
+  - _config_local.yml
+  - docker-compose.yml
+  - _meta
+  - SETUP_COMPLETE.md
 
-# Collections (for organizing content)
-collections_dir: .
-collections:
-  foundations:
-    output: true
-    permalink: /foundations/:name/
-  architecture:
-    output: true
-    permalink: /architecture/:name/
-  validation:
-    output: true
-    permalink: /validation/:name/
-  entities:
-    output: true
-    permalink: /entities/:name/
-  systems:
-    output: true
-    permalink: /systems/:name/
-  transition:
-    output: true
-    permalink: /transition/:name/
-  tools:
-    output: true
-    permalink: /tools/:name/
-  future:
-    output: true
-    permalink: /future/:name/
-  revelations:
-    output: true
-    permalink: /revelations/:name/
-  dharm_youdh:
-    output: true
-    permalink: /dharm_youdh/:name/
+# Collections removed - using standard pages structure
 
 # Default front matter
 defaults:
@@ -134,12 +115,16 @@ defaults:
       layout: "default"
       author: "Shunya-0 Project"
       encoding: "utf-8"
+      show_downloads: false
+      description: "Brahmanagyan - A Unified Framework Integrating Vedic Principles and Modern Physics"
   - scope:
       path: ""
     values:
       layout: "default"
       toc: true
       encoding: "utf-8"
+      show_downloads: false
+      description: "Brahmanagyan - Knowledge Base"
 
 # SEO
 lang: en_US

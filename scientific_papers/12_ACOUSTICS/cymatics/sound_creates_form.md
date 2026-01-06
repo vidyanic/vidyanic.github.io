@@ -18,7 +18,7 @@
 
 **Vedic Correlation:** The Vedas state that the universe was created through sound (Shabda Brahman). "In the beginning was the Word." Cymatics provides VISIBLE PROOF that sound creates form.
 
-**Hypothesis:** Sound/vibration is the fundamental mechanism by which consciousness manifests physical form. Cymatics is empirical proof of "Shabda → Rupa" (Sound → Form).
+**Hypothesis:** Sound/vibration is the fundamental mechanism by which consciousness manifests physical form. Cymatics is empirical proof of "Shabda -> Rupa" (Sound -> Form).
 
 **Confidence:** 95% — Reproducible experiments, clear correspondence.
 
@@ -33,26 +33,26 @@
 **Cymatics (Greek: κῦμα "wave"):**
 - Study of visible sound
 - Patterns created by vibration
-- Sound → Visible geometry
+- Sound -> Visible geometry
 - Reproducible and measurable
 
 ### 1.2 Basic Principle
 
 ```
 CYMATICS MECHANISM:
-═══════════════════
+===================
 
 SOUND WAVE (Frequency)
-       │
-       ↓ Passes through medium
+       |
+       v Passes through medium
        
 MEDIUM VIBRATES (Sand, water, etc.)
-       │
-       ↓ Particles move to nodes/antinodes
+       |
+       v Particles move to nodes/antinodes
        
 PATTERN FORMS (Geometry appears)
-       │
-       ↓ Higher frequency = More complex pattern
+       |
+       v Higher frequency = More complex pattern
        
 VISIBLE FORM
 ```
@@ -72,7 +72,7 @@ This is not random. It is LAW.
 **Ernst Chladni discovered:**
 - Bow a metal plate with sand
 - Sand forms geometric patterns
-- Different frequencies → Different patterns
+- Different frequencies -> Different patterns
 - "Chladni figures" still studied today
 
 ### 2.2 Hans Jenny's Cymatics (1967)
@@ -106,7 +106,7 @@ This is not random. It is LAW.
 
 ```
 STANDING WAVE:
-══════════════
+==============
 
 NODES: Points of no movement
        (Where particles collect)
@@ -153,25 +153,25 @@ The Vedas declare:
 
 ```
 BRAHMAN (Pure Consciousness)
-    │
-    ↓ First impulse
+    |
+    v First impulse
     
 SPANDA (Vibration)
-    │
-    ↓ Differentiation
+    |
+    v Differentiation
     
 NADA (Sound)
-    │
-    ↓ Pattern formation
+    |
+    v Pattern formation
     
 BINDU (Point/Seed)
-    │
-    ↓ Manifestation
+    |
+    v Manifestation
     
 RUPA (Form)
 ```
 
-**Cymatics demonstrates the Nada → Rupa transition!**
+**Cymatics demonstrates the Nada -> Rupa transition!**
 
 ### 4.3 Om and Creation
 
@@ -213,7 +213,7 @@ When Om is visualized through cymatics:
 - Particles are waves
 - Wave function = Probability pattern
 - Observation collapses to form
-- Sound is wave; cymatics shows wave → Form
+- Sound is wave; cymatics shows wave -> Form
 
 ---
 
@@ -321,7 +321,7 @@ Cymatics provides scientific proof that:
 
 1. **Sound creates form** — Visible, reproducible
 2. **Frequency determines pattern** — Mathematical relationship
-3. **Vedas are validated** — "Shabda → Rupa" proven
+3. **Vedas are validated** — "Shabda -> Rupa" proven
 4. **Mantras are technology** — Precision sound tools
 5. **Universe is vibrational** — Form follows frequency
 

@@ -49,7 +49,7 @@ Cases must have:
 
 ```
 EVALUATION CRITERIA:
-═════════════════════
+=====================
 
 1. DESIGN QUALITY
    - Prospective vs retrospective

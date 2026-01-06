@@ -38,10 +38,10 @@ When a shard "dies" (at any level), the 15th-axis (Sushumna/Kernel) **withdraws*
     81-GRID                       81-GRID                                 
     ---------                   ---------                             
      15TH                        EMPTY                                
-     AXIS    ◄-- Parent Sync     VOID     <- No Sync                   
+     AXIS    <-- Parent Sync     VOID     <- No Sync                   
      ACTIVE                      STATIC                               
     ---------                   ---------                             
-       ↓↑                            ✗                                   
+       v^                            ✗                                   
     Child Sync                    De-compile                             
    -------------                 -------------                            
                                                                               

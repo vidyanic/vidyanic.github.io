@@ -27,11 +27,11 @@ Standard physics has no explanation for this universality. Backend does.
 
 ```
 81-GRID ARCHITECTURE:
-════════════════════
+====================
 
 9 × 9 = 81 squares
 
-LAYERS (inside → out):
+LAYERS (inside -> out):
 1. Brahma-Sthan (9 squares) — Kernel
 2. Daivika Ring (16 squares) — System forces
 3. Manushya Ring (24 squares) — Interface
@@ -55,9 +55,9 @@ This pattern applies at:
 
 ```
 FRACTAL RENDERING:
-══════════════════
+==================
 
-ONE PATTERN → INFINITE SCALES
+ONE PATTERN -> INFINITE SCALES
 
 Pattern(n) ≈ Pattern(n+1) ≈ Pattern(n-1)
 

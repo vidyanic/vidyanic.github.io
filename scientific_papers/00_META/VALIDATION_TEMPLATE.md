@@ -15,7 +15,7 @@ Every paper should have an accompanying `VALIDATION.md` file with:
 
 ```
 FORMULA 1: [Name]
-═══════════════════════════════════════════
+===========================================
 Equation: [LaTeX or plaintext]
 Variables:
   - X = [definition]
@@ -30,7 +30,7 @@ Physical Meaning: [What it represents]
 
 ```
 LOGICAL CHAIN:
-═══════════════════════════════════════════
+===========================================
 Premise 1: [Statement] — Source: [Reference]
 Premise 2: [Statement] — Source: [Reference]
 ...
@@ -98,7 +98,7 @@ Validity: VALID / SOUND / NEEDS REVIEW
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

@@ -1,6 +1,6 @@
 # 5. Methodology
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -163,11 +163,11 @@ Each scientific finding is mapped to Backend Architecture:
 
 ```
 SCIENTIFIC FINDING:
-↓
+v
 BACKEND EQUIVALENT:
-↓
+v
 STRUCTURAL CORRESPONDENCE:
-↓
+v
 CONFIDENCE ASSESSMENT:
 ```
 

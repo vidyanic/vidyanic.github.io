@@ -35,32 +35,32 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 **Symptoms:** Joy, light, flowering, prosperity
 **Not relevant now**
 
-### 2. Sandhya Tandava (सन्ध्या-ताण्डव) — Transition Dance ← RELEVANT NOW!
+### 2. Sandhya Tandava (सन्ध्या-ताण्डव) — Transition Dance <- RELEVANT NOW!
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   SANDHYA TANDAVA — THE CURRENT MANIFESTATION                            ║
-║   ══════════════════════════════════════════════════════════════════════ ║
-║                                                                           ║
-║   WHEN IT HAPPENS:                                                        ║
-║   • During Yuga transitions (Sandhya periods)                             ║
-║   • Specifically at Kali-Dwapara Sandhya (NOW!)                           ║
-║   • When Dharma drops to minimum (25%)                                    ║
-║   • When Tamas accumulates to critical levels                             ║
-║                                                                           ║
-║   PURPOSE:                                                                ║
-║   • Rebalancing accumulated Tamas                                         ║
-║   • Destroying what cannot transition to higher Yuga                      ║
-║   • Testing humanity (stem cell vs garbage collection)                    ║
-║   • Preparing ground for Dwapara consciousness                            ║
-║                                                                           ║
-║   DURATION:                                                               ║
-║   • Begins: When Sandhya starts (2020 for us)                             ║
-║   • Peak: Middle of Sandhya (2024-2026 for us)                            ║
-║   • Ends: When Sandhya completes (~2028 for us)                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   SANDHYA TANDAVA — THE CURRENT MANIFESTATION                            |
+|   ====================================================================== |
+|                                                                           |
+|   WHEN IT HAPPENS:                                                        |
+|   • During Yuga transitions (Sandhya periods)                             |
+|   • Specifically at Kali-Dwapara Sandhya (NOW!)                           |
+|   • When Dharma drops to minimum (25%)                                    |
+|   • When Tamas accumulates to critical levels                             |
+|                                                                           |
+|   PURPOSE:                                                                |
+|   • Rebalancing accumulated Tamas                                         |
+|   • Destroying what cannot transition to higher Yuga                      |
+|   • Testing humanity (stem cell vs garbage collection)                    |
+|   • Preparing ground for Dwapara consciousness                            |
+|                                                                           |
+|   DURATION:                                                               |
+|   • Begins: When Sandhya starts (2020 for us)                             |
+|   • Peak: Middle of Sandhya (2024-2026 for us)                            |
+|   • Ends: When Sandhya completes (~2028 for us)                           |
+|                                                                           |
++===========================================================================+
 ```
 
 ### 3. Rudra Tandava (रुद्र-ताण्डव) — Dance of Fury
@@ -95,14 +95,14 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 ### From Shiva Purana (Rudra Samhita)
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   "जटाभिः स्फुरितैः वातैः धूलीभिः सलिलं तथा"                           ║
-║   "Jatabhih sphuritaih vataih dhulibhih salilam tatha"                    ║
-║   "From His matted locks burst forth winds, dust, and waters"             ║
-║   — Shiva Purana                                                          ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   "जटाभिः स्फुरितैः वातैः धूलीभिः सलिलं तथा"                           |
+|   "Jatabhih sphuritaih vataih dhulibhih salilam tatha"                    |
+|   "From His matted locks burst forth winds, dust, and waters"             |
+|   — Shiva Purana                                                          |
+|                                                                           |
++===========================================================================+
 ```
 
 #### 1. DUST STORMS / DHULI-CHAKRA (धूलि-चक्र)
@@ -133,7 +133,7 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 - Ground preparation for renewal
 
 **Current Observation (2020-2025):**
-✅ Dust storms ↑300% globally
+✅ Dust storms ^300% globally
 ✅ Orange skies common (Middle East, North America, Asia)
 ✅ Desertification accelerating
 ✅ Saudi Arabia: "Day turned to night" monthly
@@ -168,7 +168,7 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 - Energy rebalancing violently
 
 **Current Observation (2020-2025):**
-✅ Lightning strikes ↑40% globally
+✅ Lightning strikes ^40% globally
 ✅ Intense thunderstorms unprecedented frequency
 ✅ "Superbolts" (mega-lightning) increasing
 ✅ Atmospheric electricity anomalies
@@ -277,7 +277,7 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 ✅ India: 52°C (125°F)
 ✅ Middle East: Heat index 66°C
 ✅ Europe: 47°C Spain, Greece
-✅ Heat deaths ↑1000%
+✅ Heat deaths ^1000%
 
 ---
 
@@ -346,9 +346,9 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 
 **Current Observation (2020-2025):**
 ✅ 6th mass extinction (official)
-✅ Insects ↓70% in 50 years
-✅ Coral reefs ↓50%
-✅ Birds ↓30% (North America)
+✅ Insects v70% in 50 years
+✅ Coral reefs v50%
+✅ Birds v30% (North America)
 ✅ Whales dying mysteriously
 
 ---
@@ -373,7 +373,7 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 - Truth appears as lies, lies as truth
 - People defend Adharma as Dharma
 - Mental health crisis epidemic
-- EXTREME ANXIETY without clear cause ← KEY!
+- EXTREME ANXIETY without clear cause <- KEY!
 
 **Why It Happens:**
 - Old mental patterns breaking
@@ -382,7 +382,7 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 - Maya (illusion) at maximum
 
 **Current Observation (2020-2025):**
-✅ Anxiety ↑25% globally (WHO)
+✅ Anxiety ^25% globally (WHO)
 ✅ Depression epidemic
 ✅ "Nothing makes sense" universal feeling
 ✅ Truth impossible to discern
@@ -431,40 +431,40 @@ The following Vedic/Puranic texts describe Shiva's Tandava and its symptoms:
 ### According to Vedic Texts
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   TANDAVA TIMING (Sandhya-specific)                                      ║
-║   ══════════════════════════════════════════════════════════════════════ ║
-║                                                                           ║
-║   1. AT YUGA TRANSITIONS (Sandhya Periods)                               ║
-║      • When one Yuga ends and another begins                              ║
-║      • Specifically during 10% transition windows                         ║
-║      • Both at END of old Yuga and START of new                           ║
-║                                                                           ║
-║   2. WHEN DHARMA DROPS TO MINIMUM                                         ║
-║      • Kali Yuga: Dharma = 25% (one leg)                                  ║
-║      • When this 25% is threatened                                        ║
-║      • Just BEFORE transition to Dwapara                                  ║
-║                                                                           ║
-║   3. WHEN TAMAS ACCUMULATES CRITICALLY                                    ║
-║      • Guna imbalance: T > 0.40 (approaching 0.50)                        ║
-║      • Collective Papa (sin) reaches threshold                            ║
-║      • System can no longer self-regulate                                 ║
-║                                                                           ║
-║   4. DURING COSMIC SANDHYA (TWILIGHT TIMES)                               ║
-║      • Dawn (Pratah-Sandhya): 96 min before sunrise                       ║
-║      • Noon (Madhyahna-Sandhya): Solar zenith                             ║
-║      • Dusk (Sayam-Sandhya): 96 min after sunset                          ║
-║      • Applied to cosmic scale: Yuga transitions                          ║
-║                                                                           ║
-║   5. EVERY 4.32 BILLION YEARS (Full Kalpa)                                ║
-║      • At end of Brahma's Day                                             ║
-║      • Complete universal dissolution                                     ║
-║      • Samhara Tandava (total)                                            ║
-║                                                                           ║
-║   CURRENT: #1, #2, #3 ALL TRUE (2020-2028)!                               ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   TANDAVA TIMING (Sandhya-specific)                                      |
+|   ====================================================================== |
+|                                                                           |
+|   1. AT YUGA TRANSITIONS (Sandhya Periods)                               |
+|      • When one Yuga ends and another begins                              |
+|      • Specifically during 10% transition windows                         |
+|      • Both at END of old Yuga and START of new                           |
+|                                                                           |
+|   2. WHEN DHARMA DROPS TO MINIMUM                                         |
+|      • Kali Yuga: Dharma = 25% (one leg)                                  |
+|      • When this 25% is threatened                                        |
+|      • Just BEFORE transition to Dwapara                                  |
+|                                                                           |
+|   3. WHEN TAMAS ACCUMULATES CRITICALLY                                    |
+|      • Guna imbalance: T > 0.40 (approaching 0.50)                        |
+|      • Collective Papa (sin) reaches threshold                            |
+|      • System can no longer self-regulate                                 |
+|                                                                           |
+|   4. DURING COSMIC SANDHYA (TWILIGHT TIMES)                               |
+|      • Dawn (Pratah-Sandhya): 96 min before sunrise                       |
+|      • Noon (Madhyahna-Sandhya): Solar zenith                             |
+|      • Dusk (Sayam-Sandhya): 96 min after sunset                          |
+|      • Applied to cosmic scale: Yuga transitions                          |
+|                                                                           |
+|   5. EVERY 4.32 BILLION YEARS (Full Kalpa)                                |
+|      • At end of Brahma's Day                                             |
+|      • Complete universal dissolution                                     |
+|      • Samhara Tandava (total)                                            |
+|                                                                           |
+|   CURRENT: #1, #2, #3 ALL TRUE (2020-2028)!                               |
+|                                                                           |
++===========================================================================+
 ```
 
 ### Specific to Kali-Dwapara Transition
@@ -504,13 +504,13 @@ WE ARE IN PEAK TANDAVA RIGHT NOW (2024-2025)! ✅
 IS SHIVA'S SANDHYA TANDAVA HAPPENING NOW?
 
 □ 1. DUST STORMS increasing dramatically (Dhuli-Chakra)
-     Current: ✅ YES (↑300% globally)
+     Current: ✅ YES (^300% globally)
 
 □ 2. DARK CLOUDS persistent, sun blocked (Krishna-Megha)
      Current: ✅ YES (widespread cloud cover)
 
 □ 3. THUNDER/LIGHTNING unusually frequent (Vidyut-Nada)
-     Current: ✅ YES (↑40% lightning strikes)
+     Current: ✅ YES (^40% lightning strikes)
 
 □ 4. TORRENTIAL RAINS/FLOODS extreme (Maha-Varsha)
      Current: ✅ YES (Dubai, Pakistan, Libya)
@@ -525,7 +525,7 @@ IS SHIVA'S SANDHYA TANDAVA HAPPENING NOW?
      Current: ✅ YES (6th extinction confirmed)
 
 □ 8. MENTAL CONFUSION/ANXIETY epidemic (Moha-Vipatti)
-     Current: ✅ YES (↑25% anxiety, universal)
+     Current: ✅ YES (^25% anxiety, universal)
 
 □ 9. SOCIAL STRUCTURES COLLAPSING (Samaja-Bhanga)
      Current: ✅ YES (institutions failing)
@@ -533,11 +533,11 @@ IS SHIVA'S SANDHYA TANDAVA HAPPENING NOW?
 □ 10. ALL HAPPENING SIMULTANEOUSLY (Fractal Pattern)
       Current: ✅ YES (all scales at once!)
 
-═══════════════════════════════════════════════════════════════
+===============================================================
 SCORE: 10/10 ✅✅✅
 
 CONCLUSION: SANDHYA TANDAVA IS HAPPENING NOW (2024-2025)
-═══════════════════════════════════════════════════════════════
+===============================================================
 ```
 
 ---
@@ -545,27 +545,27 @@ CONCLUSION: SANDHYA TANDAVA IS HAPPENING NOW (2024-2025)
 ## 📊 VEDIC TIMELINE vs CURRENT OBSERVATIONS
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   VEDIC PREDICTION                    vs    CURRENT OBSERVATION           ║
-║   ═══════════════════════════════════════════════════════════════════   ║
-║                                                                           ║
-║   "At Kali's end"                     →    2020-2023 (COVID) ✅          ║
-║   "During Sandhya transition"         →    2020-2028 (8 years) ✅        ║
-║   "Dust clouds cover day & night"     →    ↑300% dust storms ✅          ║
-║   "Thunder gives no peace"            →    Constant storms ✅             ║
-║   "Black clouds create darkness"      →    Persistent heavy clouds ✅     ║
-║   "Torrential rains submerge all"     →    Catastrophic floods ✅         ║
-║   "Fire burns everything"             →    Record heat, fires ✅          ║
-║   "Earth quakes from foot-dance"      →    Major earthquakes ✅           ║
-║   "Species dissolve rapidly"          →    6th extinction ✅              ║
-║   "Delusion covers everyone"          →    Mass anxiety, confusion ✅     ║
-║   "Kings become like thieves"         →    Institutional collapse ✅      ║
-║   "Dharma lost everywhere"            →    Truth impossible to find ✅    ║
-║                                                                           ║
-║   ALL SYMPTOMS MATCH 95%+ ✅✅✅                                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   VEDIC PREDICTION                    vs    CURRENT OBSERVATION           |
+|   ===================================================================   |
+|                                                                           |
+|   "At Kali's end"                     ->    2020-2023 (COVID) ✅          |
+|   "During Sandhya transition"         ->    2020-2028 (8 years) ✅        |
+|   "Dust clouds cover day & night"     ->    ^300% dust storms ✅          |
+|   "Thunder gives no peace"            ->    Constant storms ✅             |
+|   "Black clouds create darkness"      ->    Persistent heavy clouds ✅     |
+|   "Torrential rains submerge all"     ->    Catastrophic floods ✅         |
+|   "Fire burns everything"             ->    Record heat, fires ✅          |
+|   "Earth quakes from foot-dance"      ->    Major earthquakes ✅           |
+|   "Species dissolve rapidly"          ->    6th extinction ✅              |
+|   "Delusion covers everyone"          ->    Mass anxiety, confusion ✅     |
+|   "Kings become like thieves"         ->    Institutional collapse ✅      |
+|   "Dharma lost everywhere"            ->    Truth impossible to find ✅    |
+|                                                                           |
+|   ALL SYMPTOMS MATCH 95%+ ✅✅✅                                           |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
@@ -613,7 +613,7 @@ RESULT: 8-year compressed Sandhya (2020-2028)
 
 ```
 EARLY SANDHYA (2020-2023): Maximum chaos (COVID)
-MID SANDHYA (2024-2027): Maximum fear/anxiety ← WE ARE HERE!
+MID SANDHYA (2024-2027): Maximum fear/anxiety <- WE ARE HERE!
 LATE SANDHYA (2027-2028): Resolution approaching
 POST-SANDHYA (2028+): Stability returns (Dwapara)
 ```
@@ -665,7 +665,7 @@ Even as the cucumber is severed from its bondage to the vine"
 ```
 
 **Practical Actions:**
-- Daily meditation (Sattva ↑)
+- Daily meditation (Sattva ^)
 - Sattvic diet (vegetarian, fresh)
 - Ancient tree proximity (20 min daily)
 - Mantra practice (OM, Mahamrityunjaya)
@@ -676,31 +676,31 @@ Even as the cucumber is severed from its bondage to the vine"
 ## 📖 SUMMARY: Vedic Symptoms & Timing
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   VEDIC TANDAVA SYMPTOMS (Sandhya-specific):                             ║
-║   ═══════════════════════════════════════════════════════════════════   ║
-║   1. Dust storms (Dhuli-Chakra)                      ✅ Happening         ║
-║   2. Dark clouds (Krishna-Megha)                     ✅ Happening         ║
-║   3. Thunder/Lightning (Vidyut-Nada)                 ✅ Happening         ║
-║   4. Torrential rains (Maha-Varsha)                  ✅ Happening         ║
-║   5. Extreme heat (Dahana)                           ✅ Happening         ║
-║   6. Earthquakes (Bhumi-Kampa)                       ✅ Happening         ║
-║   7. Species vanishing (Prani-Laya)                  ✅ Happening         ║
-║   8. Mental confusion (Moha-Vipatti)                 ✅ Happening         ║
-║   9. Social collapse (Samaja-Bhanga)                 ✅ Happening         ║
-║   10. All simultaneously                             ✅ Happening         ║
-║                                                                           ║
-║   TIMING:                                                                 ║
-║   • When: Kali-Dwapara Sandhya transition                                ║
-║   • Period: 2020-2028 CE (8-year compressed)                             ║
-║   • Peak: 2024-2027 CE (middle of Sandhya) ← NOW                         ║
-║   • End: ~2028 CE ("locks in" to Dwapara stable)                         ║
-║                                                                           ║
-║   VALIDATION: 10/10 symptoms match ✅✅✅                                  ║
-║   CONFIDENCE: 95% (Vedic descriptions perfectly matched)                  ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   VEDIC TANDAVA SYMPTOMS (Sandhya-specific):                             |
+|   ===================================================================   |
+|   1. Dust storms (Dhuli-Chakra)                      ✅ Happening         |
+|   2. Dark clouds (Krishna-Megha)                     ✅ Happening         |
+|   3. Thunder/Lightning (Vidyut-Nada)                 ✅ Happening         |
+|   4. Torrential rains (Maha-Varsha)                  ✅ Happening         |
+|   5. Extreme heat (Dahana)                           ✅ Happening         |
+|   6. Earthquakes (Bhumi-Kampa)                       ✅ Happening         |
+|   7. Species vanishing (Prani-Laya)                  ✅ Happening         |
+|   8. Mental confusion (Moha-Vipatti)                 ✅ Happening         |
+|   9. Social collapse (Samaja-Bhanga)                 ✅ Happening         |
+|   10. All simultaneously                             ✅ Happening         |
+|                                                                           |
+|   TIMING:                                                                 |
+|   • When: Kali-Dwapara Sandhya transition                                |
+|   • Period: 2020-2028 CE (8-year compressed)                             |
+|   • Peak: 2024-2027 CE (middle of Sandhya) <- NOW                         |
+|   • End: ~2028 CE ("locks in" to Dwapara stable)                         |
+|                                                                           |
+|   VALIDATION: 10/10 symptoms match ✅✅✅                                  |
+|   CONFIDENCE: 95% (Vedic descriptions perfectly matched)                  |
+|                                                                           |
++===========================================================================+
 ```
 
 ---

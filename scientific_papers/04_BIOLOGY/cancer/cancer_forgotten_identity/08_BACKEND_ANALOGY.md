@@ -6,12 +6,12 @@
 
 ```
 SVADHARMA (स्वधर्म):
-═══════════════════
+===================
 
 Every entity has its proper function:
-• Liver cell → Metabolize
-• Neuron → Transmit
-• Cancer cell → FORGOT
+• Liver cell -> Metabolize
+• Neuron -> Transmit
+• Cancer cell -> FORGOT
 
 "Better one's own Dharma poorly done
  than another's Dharma well done."

@@ -91,7 +91,7 @@ F ∝ T₁ × T₂ / r² (Tamas product)
 PREMISE 1: Gravitational mass = Source of gravity
 PREMISE 2: Inertial mass = Resistance to acceleration
 PREMISE 3: Both are Tamas (Backend)
-PREMISE 4: Same phenomenon → Same measurement
+PREMISE 4: Same phenomenon -> Same measurement
 
 CONCLUSION:
 m_gravitational = m_inertial (automatic)
@@ -204,21 +204,21 @@ ROUNDED: 87% (accounting for speculative elements)
 ## 10.8 Validation Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    VALIDATION SUMMARY                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  GRAVITATIONAL PHYSICS:       ✓ Completely confirmed         ║
-║  EQUIVALENCE PRINCIPLE:       ✓ Tested to 10⁻¹⁵              ║
-║  PROPERTY CORRESPONDENCE:     ✓ 6/6 properties match         ║
-║  MAHABHUTA PATTERN:           ✓ 5/5 elements match           ║
-║  FRACTAL CHECK:               ✓ 7/7 levels show gravity      ║
-║  BACKEND CORRELATION:         ✓ Complete mapping             ║
-║  DARK MATTER HYPOTHESIS:      ? Untested but coherent        ║
-║  SIDDHI PREDICTIONS:          ? Untested but coherent        ║
-║                                                               ║
-║  OVERALL CONFIDENCE:          87%                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    VALIDATION SUMMARY                         |
++===============================================================+
+|                                                               |
+|  GRAVITATIONAL PHYSICS:       ✓ Completely confirmed         |
+|  EQUIVALENCE PRINCIPLE:       ✓ Tested to 10⁻¹⁵              |
+|  PROPERTY CORRESPONDENCE:     ✓ 6/6 properties match         |
+|  MAHABHUTA PATTERN:           ✓ 5/5 elements match           |
+|  FRACTAL CHECK:               ✓ 7/7 levels show gravity      |
+|  BACKEND CORRELATION:         ✓ Complete mapping             |
+|  DARK MATTER HYPOTHESIS:      ? Untested but coherent        |
+|  SIDDHI PREDICTIONS:          ? Untested but coherent        |
+|                                                               |
+|  OVERALL CONFIDENCE:          87%                            |
+|                                                               |
++===============================================================+
 ```
 

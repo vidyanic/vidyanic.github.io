@@ -1,7 +1,7 @@
 # 1. Introduction
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)  
-> **🔗 Related:** [Brain as Receiver](../../brain_mind/brain_as_receiver/)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **🔗 Related:** [Brain as Receiver](../../brain_mind/brain_as_receiver)
 
 ---
 
@@ -37,7 +37,7 @@ Dr. Bruce Greyson developed a 16-item scale measuring:
 
 ```
 GREYSON NDE SCALE (0-32 points):
-════════════════════════════════
+================================
 
 COGNITIVE (0-8):
 • Time distortion
@@ -74,7 +74,7 @@ THRESHOLD: ≥7 points = NDE
 
 ```
 THE MATERIALIST PARADOX:
-════════════════════════
+========================
 
 PREMISE: Brain generates consciousness
 
@@ -98,7 +98,7 @@ If NDEs are genuine experiences during brain shutdown:
 - Consciousness is not brain-dependent
 - Death may not end consciousness
 - The materialist paradigm is incomplete
-- The receiver model (see [Brain as Receiver](../../brain_mind/brain_as_receiver/)) is supported
+- The receiver model (see [Brain as Receiver](../../brain_mind/brain_as_receiver)) is supported
 
 ---
 
@@ -134,10 +134,10 @@ Each explanation will be examined in [§6 Results](./06_RESULTS.md).
 ### 1.5.2 Current State
 
 NDE research has moved from:
-- Anecdotal → Systematic
-- Retrospective → Prospective
-- Descriptive → Quantitative
-- Marginalized → Peer-reviewed
+- Anecdotal -> Systematic
+- Retrospective -> Prospective
+- Descriptive -> Quantitative
+- Marginalized -> Peer-reviewed
 
 ---
 

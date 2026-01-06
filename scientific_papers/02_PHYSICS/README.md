@@ -21,12 +21,12 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [quantum_mechanics/](./quantum_mechanics/) | Reality's weirdness | Observer Effect |
-| [thermodynamics/](./thermodynamics/) | Energy & entropy | Entropy = Tamas |
-| [electromagnetism/](./electromagnetism/) | Fields & bioelectrics | Human energy field |
-| [gravity/](./gravity/) | Attraction & spacetime | Gravity = Tamas |
-| [cosmology/](./cosmology/) | Universe structure | Dark matter mystery |
-| [relativity/](./relativity/) | Time & space | Time dilation |
+| [quantum_mechanics/](../quantum_mechanics) | Reality's weirdness | Observer Effect |
+| [thermodynamics/](../thermodynamics) | Energy & entropy | Entropy = Tamas |
+| [electromagnetism/](../electromagnetism) | Fields & bioelectrics | Human energy field |
+| [gravity/](../gravity) | Attraction & spacetime | Gravity = Tamas |
+| [cosmology/](../cosmology) | Universe structure | Dark matter mystery |
+| [relativity/](../relativity) | Time & space | Time dilation |
 
 ---
 
@@ -89,15 +89,15 @@
 ```
 PHYSICS (Measures)     ↔     VEDAS (Explains)
 ━━━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━━
-Entropy increases      ←     Tamas grows
-Observation collapses  ←     Sankalpa manifests
-Particles entangled    ←     Indra's Net connects
-Gravity attracts       ←     Tamas pulls together
+Entropy increases      <-     Tamas grows
+Observation collapses  <-     Sankalpa manifests
+Particles entangled    <-     Indra's Net connects
+Gravity attracts       <-     Tamas pulls together
 ```
 
 ---
 
-**Start with:** [Observer Effect](./quantum_mechanics/observer_effect.md)
+**Start with:** [Observer Effect](../../quantum_mechanics/observer_effect.md)
 
 **ॐ सत्यं ज्ञानमनन्तं ब्रह्म**  
 *Brahman is Truth, Knowledge, Infinity*

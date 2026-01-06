@@ -22,8 +22,8 @@ From Tonomura et al. (1989):
 ```
 OBSERVATION:
 Single electrons, one at a time
-Each electron → Single dot on screen
-After 70,000 electrons → Interference pattern emerges
+Each electron -> Single dot on screen
+After 70,000 electrons -> Interference pattern emerges
 
 IMPLICATION:
 Each single electron "knew" where to land to form pattern
@@ -51,8 +51,8 @@ The variable is **information availability**, not physical interaction.
 
 **Setup:**
 1. Entangled photon pairs created
-2. Signal photon → Screen (position recorded)
-3. Idler photon → Delayed choice detector
+2. Signal photon -> Screen (position recorded)
+3. Idler photon -> Delayed choice detector
 4. Choice to preserve or erase which-path made AFTER signal photon arrives
 
 **Results:**
@@ -102,7 +102,7 @@ When total screen data analyzed:
 **Von Neumann Chain:**
 
 ```
-Particle → Detector → Recording → Brain → ???
+Particle -> Detector -> Recording -> Brain -> ???
 
 QUESTION: Where does quantum become classical?
 
@@ -135,10 +135,10 @@ The Heisenberg cut cannot be physically placed. Only consciousness provides a co
 
 ```
 IF cut is at detector:
-→ What observes detector?
-→ Another detector?
-→ What observes that?
-→ Infinite regress!
+-> What observes detector?
+-> Another detector?
+-> What observes that?
+-> Infinite regress!
 
 ONLY SOLUTION:
 Consciousness is NOT part of the physical chain
@@ -226,10 +226,10 @@ All experiments show:
 
 ```
 PATTERN:
-1. Physical interaction alone → Superposition persists
-2. Information availability to consciousness → Collapse occurs
-3. Information erasure → Superposition restored
-4. Timing of conscious observation → Determines past pattern
+1. Physical interaction alone -> Superposition persists
+2. Information availability to consciousness -> Collapse occurs
+3. Information erasure -> Superposition restored
+4. Timing of conscious observation -> Determines past pattern
 
 CONCLUSION:
 Consciousness is the irreducible variable.

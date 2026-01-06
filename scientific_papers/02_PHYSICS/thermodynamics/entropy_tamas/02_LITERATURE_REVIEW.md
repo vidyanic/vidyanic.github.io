@@ -108,7 +108,7 @@ TAMAS (तमस्):
 • Ignorance, delusion
 
 NATURAL TENDENCY:
-Without conscious effort → Tamas dominates
+Without conscious effort -> Tamas dominates
 This is the default direction
 ```
 

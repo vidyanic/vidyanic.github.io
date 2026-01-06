@@ -26,7 +26,7 @@ Backend: Time is cyclic by design. Linear time is Maya.
 
 ```
 CHATURYUGA (Four Ages):
-═══════════════════════
+=======================
 
 SATYA YUGA: 1,728,000 years (4 parts)
 TRETA YUGA: 1,296,000 years (3 parts)

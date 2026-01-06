@@ -10,7 +10,7 @@ Werner Heisenberg discovered that certain pairs of properties cannot be known si
 
 ```
 UNCERTAINTY RELATION:
-═════════════════════
+=====================
 
 Δx × Δp ≥ ℏ/2
 
@@ -62,7 +62,7 @@ In Backend Architecture:
 
 ```
 MAYA (माया):
-═════════════
+=============
 
 DEFINITION:
 The power that veils and projects

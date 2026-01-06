@@ -40,11 +40,11 @@ If anomalies show enhanced consciousness with reduced brain function,
 then brain does not generate consciousness.
 
 PROOF:
-1. If X generates Y, then less X → less Y
-2. Anomalies show: Less brain function → More consciousness
+1. If X generates Y, then less X -> less Y
+2. Anomalies show: Less brain function -> More consciousness
 3. This contradicts the generator model
 4. Alternative: Brain filters consciousness
-5. Less filter → More consciousness (consistent with anomalies)
+5. Less filter -> More consciousness (consistent with anomalies)
 QED
 ```
 
@@ -179,19 +179,19 @@ ROUNDED: 88% (conservative, accounting for philosophical nature)
 ## 10.8 Validation Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    VALIDATION SUMMARY                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  LOGICAL PROOFS:               ✓ 3/3 proofs valid            ║
-║  MATERIALIST FAILURES:         ✓ 4/4 theories fail           ║
-║  ANOMALY EVIDENCE:             ✓ 4/4 anomalies support       ║
-║  BACKEND CORRELATION:          ✓ 6/6 concepts match          ║
-║  FRACTAL CHECK:                ✓ 4/5 levels confirm          ║
-║  PREDICTIONS:                  ✓ 4/5 confirmed               ║
-║                                                               ║
-║  OVERALL CONFIDENCE:           88%                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    VALIDATION SUMMARY                         |
++===============================================================+
+|                                                               |
+|  LOGICAL PROOFS:               ✓ 3/3 proofs valid            |
+|  MATERIALIST FAILURES:         ✓ 4/4 theories fail           |
+|  ANOMALY EVIDENCE:             ✓ 4/4 anomalies support       |
+|  BACKEND CORRELATION:          ✓ 6/6 concepts match          |
+|  FRACTAL CHECK:                ✓ 4/5 levels confirm          |
+|  PREDICTIONS:                  ✓ 4/5 confirmed               |
+|                                                               |
+|  OVERALL CONFIDENCE:           88%                           |
+|                                                               |
++===============================================================+
 ```
 

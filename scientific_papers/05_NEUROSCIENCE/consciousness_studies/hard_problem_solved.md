@@ -11,7 +11,7 @@
 
 **This paper has been completely rewritten with the full 14-section academic format.**
 
-**👉 Go to:** [./hard_problem_solved/](./hard_problem_solved/)
+**👉 Go to:** [./hard_problem_solved/](../hard_problem_solved)
 
 The new version includes:
 - 14 complete sections (Abstract through Appendices)
@@ -56,12 +56,12 @@ The new version includes:
 
 ```
 WHAT WE CAN EXPLAIN:
-════════════════════
-Neurons fire → Signals propagate → Brain processes
+====================
+Neurons fire -> Signals propagate -> Brain processes
 
 WHAT WE CANNOT EXPLAIN:
-═══════════════════════
-...→ ??? → Subjective experience (the "redness" of red)
+=======================
+...-> ??? -> Subjective experience (the "redness" of red)
 
 The ??? is the Hard Problem.
 ```
@@ -112,12 +112,12 @@ The ??? is the Hard Problem.
 
 **Western assumption:**
 ```
-Matter (fundamental) → Consciousness (emergent)
+Matter (fundamental) -> Consciousness (emergent)
 ```
 
 **Vedic understanding:**
 ```
-Consciousness (fundamental) → Matter (appearance)
+Consciousness (fundamental) -> Matter (appearance)
 ```
 
 ### 3.2 Why This Dissolves the Problem
@@ -132,13 +132,13 @@ Consciousness (fundamental) → Matter (appearance)
 
 ```
 DREAMING:
-═════════
+=========
 In a dream, objects appear.
 You don't ask: "How do dream objects create the dreamer?"
 The dreamer is PRIOR; objects are IN the dream.
 
 WAKING:
-═══════
+=======
 In waking, objects appear.
 Don't ask: "How do objects create consciousness?"
 Consciousness is PRIOR; objects are IN consciousness.
@@ -190,14 +190,14 @@ Consciousness is PRIOR; objects are IN consciousness.
 
 ```
 BRAHMAN (Pure Consciousness)
-       │
-       └── Contains all possibilities
-           │
-           └── Projects appearances (Maya)
-               │
-               └── Appears as matter/mind
-                   │
-                   └── Individual experiences
+       |
+       +-- Contains all possibilities
+           |
+           +-- Projects appearances (Maya)
+               |
+               +-- Appears as matter/mind
+                   |
+                   +-- Individual experiences
 ```
 
 ### 5.2 Brain as Receiver
@@ -296,16 +296,16 @@ BRAHMAN (Pure Consciousness)
 
 ```
 Brahman (Consciousness)
-    │
-    ↓ Creative power (Shakti)
+    |
+    v Creative power (Shakti)
     
 Maya (Appearance mechanism)
-    │
-    ↓ Gunas differentiate (S/R/T)
+    |
+    v Gunas differentiate (S/R/T)
     
 Manifestation (Apparent world)
-    │
-    ↓ Individual perspectives
+    |
+    v Individual perspectives
     
 Experience (Individual consciousness)
 ```

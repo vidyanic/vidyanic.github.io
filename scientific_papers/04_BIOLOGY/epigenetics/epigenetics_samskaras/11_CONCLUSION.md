@@ -14,21 +14,21 @@ Epigenetics provides a molecular model for what Backend Architecture calls Samsk
 ## 11.2 The Core Insight
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   YOUR GENOME IS LIKE YOUR ATMAN:                            ║
-║   The unchanging potential                                    ║
-║                                                               ║
-║   YOUR EPIGENOME IS LIKE YOUR SAMSKARAS:                     ║
-║   The accumulated patterns shaping expression                 ║
-║                                                               ║
-║   NEITHER IS "YOU" — BOTH INFLUENCE YOU                       ║
-║                                                               ║
-║   AND BOTH CAN BE WORKED WITH:                               ║
-║   • You can't change your genome (Atman is unchanging)       ║
-║   • You CAN change your epigenome (Samskaras are purifiable) ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   YOUR GENOME IS LIKE YOUR ATMAN:                            |
+|   The unchanging potential                                    |
+|                                                               |
+|   YOUR EPIGENOME IS LIKE YOUR SAMSKARAS:                     |
+|   The accumulated patterns shaping expression                 |
+|                                                               |
+|   NEITHER IS "YOU" — BOTH INFLUENCE YOU                       |
+|                                                               |
+|   AND BOTH CAN BE WORKED WITH:                               |
+|   • You can't change your genome (Atman is unchanging)       |
+|   • You CAN change your epigenome (Samskaras are purifiable) |
+|                                                               |
++===============================================================+
 ```
 
 ---

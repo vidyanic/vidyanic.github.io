@@ -17,20 +17,20 @@
 ### The Fundamental Revelation
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   THE DOUBLE HELIX IS THE VISIBLE MANIFESTATION OF IDA-PINGALA            ║
-║                                                                            ║
-║   • DNA = Ida (Moon/Left) + Pingala (Sun/Right) spiraling                 ║
-║   • Sushumna (15th Axis) = INVISIBLE central axis (rendering law)         ║
-║   • Tree/Spine = Physical projection of 15th axis                          ║
-║   • Guna balance = Spiral handedness and geometry                          ║
-║   • Single DNA molecule created at fertilization = Original Ida-Pingala   ║
-║                                                                            ║
-║   YOU CANNOT SEE YOUR OWN IDA-PINGALA-SUSHUMNA                            ║
-║   (Rendering Law: No node can see its own substrate)                      ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
++============================================================================+
+|                                                                            |
+|   THE DOUBLE HELIX IS THE VISIBLE MANIFESTATION OF IDA-PINGALA            |
+|                                                                            |
+|   • DNA = Ida (Moon/Left) + Pingala (Sun/Right) spiraling                 |
+|   • Sushumna (15th Axis) = INVISIBLE central axis (rendering law)         |
+|   • Tree/Spine = Physical projection of 15th axis                          |
+|   • Guna balance = Spiral handedness and geometry                          |
+|   • Single DNA molecule created at fertilization = Original Ida-Pingala   |
+|                                                                            |
+|   YOU CANNOT SEE YOUR OWN IDA-PINGALA-SUSHUMNA                            |
+|   (Rendering Law: No node can see its own substrate)                      |
+|                                                                            |
++============================================================================+
 ```
 
 ---
@@ -41,7 +41,7 @@
 
 ```
 CRITICAL INSIGHT:
-═════════════════
+=================
 
 DNA requires MASSIVE energy to:
 • Replicate (cell division)
@@ -51,24 +51,24 @@ DNA requires MASSIVE energy to:
 • Synthesize proteins
 
 WHERE DOES THIS ENERGY COME FROM?
-══════════════════════════════════
+==================================
 
 Frontend (Science): "Mitochondria generate ATP"
-Backend (Vedic): "Internal Sun (Bindu) generates Prana → ATP"
+Backend (Vedic): "Internal Sun (Bindu) generates Prana -> ATP"
 
 THE INTERNAL SUN (Bindu):
-═════════════════════════
+=========================
 
 Location: Manipura (Solar Plexus) + Anahata (Heart)
 
 Function:
 • Generates Prana (life force) from consciousness
-• Powers mitochondria → ATP production
+• Powers mitochondria -> ATP production
 • Maintains DNA structure and function
 • Enables Ida-Pingala balanced spiral
-• When sun bright → DNA healthy (B-form)
-• When sun dims → DNA stressed (A/Z-forms)
-• When sun dies → DNA breaks down (death)
+• When sun bright -> DNA healthy (B-form)
+• When sun dims -> DNA stressed (A/Z-forms)
+• When sun dies -> DNA breaks down (death)
 
 ENERGY FORMULA:
 P_bindu = Atman_Intensity × (Dharma × Sattva) / (Rajas + 2×Tamas)
@@ -79,7 +79,7 @@ STATES:
 • Dying person: P = 0.002 (sun dying, DNA degrading)
 
 DNA-SUN CORRELATION:
-════════════════════
+====================
 
 BRIGHT SUN (High Sattva):
 • DNA in B-form (balanced, right-handed)
@@ -117,7 +117,7 @@ THIS IS WHY:
 • Meditators age slower (sun brighter)
 • Stressed people age faster (sun dimmer)
 • Disease correlates with low Sattva (dim sun)
-• Death = Sun extinction → DNA death
+• Death = Sun extinction -> DNA death
 ```
 
 ---
@@ -169,9 +169,9 @@ Z-DNA (LEFT-handed, reversed):
 
 ```
 AT FERTILIZATION (The Beginning):
-═══════════════════════════════════
+===================================
 
-Sperm + Egg → FIRST DNA molecule
+Sperm + Egg -> FIRST DNA molecule
 
 This is the ORIGINAL Ida-Pingala pair for this Jiva:
 • Egg (yin/moon) provides one strand = IDA
@@ -198,7 +198,7 @@ WHY INVISIBLE:
 
 ```
 CELL STRUCTURE:
-═══════════════
+===============
 
 Nucleus = Brahma-Sthan (Central sacred space)
 • Contains 46 chromosomes (23 pairs)
@@ -225,7 +225,7 @@ MITOTIC SPINDLE = Temporary Sushumna:
 
 ```
 ORGANS = SPECIALIZED KOSHA CLUSTERS:
-════════════════════════════════════
+====================================
 
 Each organ has specialized DNA expression:
 • Heart: Cardiovascular genes active
@@ -247,7 +247,7 @@ Organ System = Coordinated Ida-Pingala dance:
 
 ```
 NERVOUS SYSTEM = IDA-PINGALA VISIBLE NETWORK:
-══════════════════════════════════════════════
+==============================================
 
 SPINAL CORD = Physical manifestation of Sushumna:
 • Central axis of nervous system
@@ -277,7 +277,7 @@ CORPUS CALLOSUM = Ida-Pingala crossing point:
 
 ```
 THE COMPLETE HUMAN:
-═══════════════════
+===================
 
 SUSHUMNA (15th Axis) = SPINE/TREE:
 • Invisible consciousness channel
@@ -321,7 +321,7 @@ PLANETS AS CROSSING POINTS:
 
 ```
 PLANETS = LARGER IDA-PINGALA DANCE:
-════════════════════════════════════
+====================================
 
 SUN (Surya) = BINDU OF 15TH AXIS:
 • Central point of solar system
@@ -357,7 +357,7 @@ PLANETARY BALANCE = GUNA BALANCE:
 
 ```
 STAR = HUMAN AT GALACTIC SCALE:
-════════════════════════════════
+================================
 
 Star Core = Heart Chakra:
 • Nuclear fusion = Prana generation
@@ -381,7 +381,7 @@ Star Death = Pralaya:
 
 ```
 GALAXY = COSMIC HUMAN:
-══════════════════════
+======================
 
 GALACTIC CENTER = SAHASRARA:
 • Supermassive black hole = Sushumna entry to next level
@@ -412,8 +412,8 @@ HALO = Aura:
 ### The Universal Spiral Law
 
 ```
-BALANCED GUNAS → BALANCED SPIRAL:
-═════════════════════════════════
+BALANCED GUNAS -> BALANCED SPIRAL:
+=================================
 
 Sattva : Rajas : Tamas = Optimal ratio
 
@@ -446,11 +446,11 @@ AT GALACTIC LEVEL (N+3):
 
 ---
 
-### Imbalanced Gunas → Distorted Spiral
+### Imbalanced Gunas -> Distorted Spiral
 
 ```
-RAJAS DOMINANT → STRESSED SPIRAL:
-══════════════════════════════════
+RAJAS DOMINANT -> STRESSED SPIRAL:
+==================================
 
 AT DNA LEVEL:
 • A-DNA (wider, 11 bp/turn)
@@ -475,11 +475,11 @@ AT PLANETARY LEVEL:
 
 ---
 
-### Tamas Dominant → Reversed/Chaotic Spiral
+### Tamas Dominant -> Reversed/Chaotic Spiral
 
 ```
-TAMAS DOMINANT → Z-DNA:
-═══════════════════════
+TAMAS DOMINANT -> Z-DNA:
+=======================
 
 AT DNA LEVEL:
 • LEFT-HANDED helix (dharma violation!)
@@ -516,7 +516,7 @@ AT GALACTIC LEVEL:
 
 ```
 KALA CHAKRA ROTATION = DNA ROTATION RATE:
-══════════════════════════════════════════
+==========================================
 
 Satya Yuga (100% Dharma):
 • DNA: Perfect B-DNA, minimal mutations
@@ -563,7 +563,7 @@ Kali-Dvapara Sandhya (NOW: 2023-2028):
 
 ```
 DHARMA FORMULA:
-═══════════════
+===============
 
 Spiral_Balance = Dharma × Guna_Harmony
 
@@ -597,11 +597,11 @@ ADHARMA = Z-DNA TRIGGER:
 • Exploitation: Reverses natural flow (left-handed)
 
 EACH ADHARMIC ACT:
-→ Increases salt/toxicity in system
-→ Creates negative supercoiling (tension)
-→ Favors Z-DNA formation
-→ Accelerates aging and disease
-→ Inverts Ida-Pingala dance
+-> Increases salt/toxicity in system
+-> Creates negative supercoiling (tension)
+-> Favors Z-DNA formation
+-> Accelerates aging and disease
+-> Inverts Ida-Pingala dance
 ```
 
 ---
@@ -612,7 +612,7 @@ EACH ADHARMIC ACT:
 
 ```
 THE HUMAN AS TREE:
-══════════════════
+==================
 
 ROOTS (Muladhara):
 • Feet/legs planted in Earth (Prithvi)
@@ -650,18 +650,18 @@ SEASONAL CYCLES = YUGAS:
 • Summer (Treta): Fruit bearing, active growth
 • Autumn (Dvapara): Harvest, leaves falling
 • Winter (Kali): Dormant, survival mode
-• → Spring returns (Dwapara rising)
+• -> Spring returns (Dwapara rising)
 ```
 
 ---
 
 ## 🔬 RENDERING LAW VALIDATION: WHY YOU CAN'T SEE YOUR OWN IDA-PINGALA
 
-### Universal Law #38: Parinamana-Bheda (Backend→Frontend Transform)
+### Universal Law #38: Parinamana-Bheda (Backend->Frontend Transform)
 
 ```
 THE INVISIBILITY PRINCIPLE:
-═══════════════════════════
+===========================
 
 NO NODE CAN SEE ITS OWN SUBSTRATE:
 
@@ -671,7 +671,7 @@ Level N cannot see Level N-1:
 • Atom (N-4) cannot see own quantum state (N-5)
 
 WHY DNA IS "VISIBLE" BUT IDA-PINGALA IS NOT:
-═════════════════════════════════════════════
+=============================================
 
 DNA (N-4) is visible FROM Level N:
 • Through electron microscope (tool at level N)
@@ -685,7 +685,7 @@ Ida-Pingala (N-1) is invisible FROM Level N:
 • Sushumna is your consciousness AXIS itself
 
 WHAT YOU SEE vs WHAT IS:
-════════════════════════
+========================
 
 What Scientist Sees:
 • DNA double helix (physical structure)
@@ -713,24 +713,24 @@ BOTH ARE SAME REALITY:
 
 ```
 PREDICTION 1: GUNA STATE AFFECTS DNA CONFORMATION
-═════════════════════════════════════════════════
+=================================================
 
 Test: Measure DNA structure in different mental states
 
 Sattvic State (Meditation, Peace):
-→ Predict: More B-DNA, less A-DNA/Z-DNA
-→ Measure: DNA conformation in blood cells
-→ Expected: Optimal 10.5 bp/turn ratio
+-> Predict: More B-DNA, less A-DNA/Z-DNA
+-> Measure: DNA conformation in blood cells
+-> Expected: Optimal 10.5 bp/turn ratio
 
 Rajasic State (Stress, Activity):
-→ Predict: More A-DNA (11 bp/turn)
-→ Measure: Increased cortisol = dehydration
-→ Expected: Wider helix structure
+-> Predict: More A-DNA (11 bp/turn)
+-> Measure: Increased cortisol = dehydration
+-> Expected: Wider helix structure
 
 Tamasic State (Depression, Numbness):
-→ Predict: Increased Z-DNA markers
-→ Measure: Inflammation markers, high salt
-→ Expected: Some Z-DNA in diseased cells
+-> Predict: Increased Z-DNA markers
+-> Measure: Inflammation markers, high salt
+-> Expected: Some Z-DNA in diseased cells
 
 STATUS: Partially validated! Studies show:
 • Stress DOES alter DNA methylation patterns
@@ -742,24 +742,24 @@ STATUS: Partially validated! Studies show:
 
 ```
 PREDICTION 2: LEFT/RIGHT NOSTRIL BREATHING AFFECTS DNA
-═══════════════════════════════════════════════════════
+=======================================================
 
 Test: Pranayama effect on DNA structure
 
 Ida (Left Nostril) Dominant:
-→ Activates right brain (cooling)
-→ Predict: More relaxed DNA conformation
-→ Measure: Gene expression changes
+-> Activates right brain (cooling)
+-> Predict: More relaxed DNA conformation
+-> Measure: Gene expression changes
 
 Pingala (Right Nostril) Dominant:
-→ Activates left brain (heating)
-→ Predict: More active DNA expression
-→ Measure: Metabolic gene activation
+-> Activates left brain (heating)
+-> Predict: More active DNA expression
+-> Measure: Metabolic gene activation
 
 Balanced (Nadi Shodhana):
-→ Balances both hemispheres
-→ Predict: Optimal B-DNA throughout
-→ Measure: Reduced inflammation markers
+-> Balances both hemispheres
+-> Predict: Optimal B-DNA throughout
+-> Measure: Reduced inflammation markers
 
 STATUS: Needs formal study
 • Yogic tradition reports immediate effects
@@ -771,24 +771,24 @@ STATUS: Needs formal study
 
 ```
 PREDICTION 3: YUGA TRANSITION AFFECTS DNA MUTATION RATE
-════════════════════════════════════════════════════════
+========================================================
 
 Kali Yuga (Low Dharma):
-→ High background radiation (Tamas)
-→ More DNA damage/mutations
-→ Shorter lifespans
-→ More Z-DNA in population
+-> High background radiation (Tamas)
+-> More DNA damage/mutations
+-> Shorter lifespans
+-> More Z-DNA in population
 
 Kali-Dvapara Sandhya (2023-2028):
-→ Frequency shift affects DNA
-→ Those who sync: DNA repairs, optimizes
-→ Those who don't: DNA destabilizes
+-> Frequency shift affects DNA
+-> Those who sync: DNA repairs, optimizes
+-> Those who don't: DNA destabilizes
 
 Dvapara Yuga (Rising Dharma):
-→ Lower mutation rate
-→ Longer lifespans (predicted: 200-500 years by 2100)
-→ Less disease
-→ More B-DNA dominant
+-> Lower mutation rate
+-> Longer lifespans (predicted: 200-500 years by 2100)
+-> Less disease
+-> More B-DNA dominant
 
 STATUS: Watch and validate
 • Cannot test directly (need decades)
@@ -804,20 +804,20 @@ STATUS: Watch and validate
 
 ```
 VISUAL LAYOUT (Vertical):
-═════════════════════════
+=========================
 
 TOP (Level N+3 - Galaxy):
-─────────────────────────
+-------------------------
 [Spiral Galaxy]
 • Two spiral arms (Ida-Pingala)
 • Central black hole (Sushumna entry)
 • Rotating clockwise/dharmic
 • Label: "Galactic Sushumna, Ida, Pingala"
 
-↓ ↓ ↓ (Connection lines)
+v v v (Connection lines)
 
 MIDDLE-TOP (Level N+1 - Solar System):
-───────────────────────────────────────
+---------------------------------------
 [Sun at center with planets orbiting]
 • Sun = Bindu, radiating OM (Sanskrit: ॐ)
 • Planets in elliptical orbits
@@ -825,10 +825,10 @@ MIDDLE-TOP (Level N+1 - Solar System):
 • Chakra symbols at planetary positions
 • Label: "Sun as Bindu on 15th Axis"
 
-↓ ↓ ↓ (Connection lines)
+v v v (Connection lines)
 
 CENTER (Level N - Human):
-─────────────────────────
+-------------------------
 [Human figure, transparent, showing internal structure]
 
 SPINE/TREE VISUALIZATION:
@@ -851,13 +851,13 @@ PINGALA (Red/Sun spiral):
 
 CHAKRAS (7 points where Ida-Pingala cross):
 • Each shown as spinning vortex
-• Colors: Red→Orange→Yellow→Green→Blue→Indigo→Violet
+• Colors: Red->Orange->Yellow->Green->Blue->Indigo->Violet
 • Planets associated with each
 
-↓ ↓ ↓ (Connection lines)
+v v v (Connection lines)
 
 BOTTOM (Level N-4 - DNA):
-──────────────────────────
+--------------------------
 [DNA double helix magnified]
 
 THREE DNA FORMS SHOWN:
@@ -879,11 +879,11 @@ THREE DNA FORMS SHOWN:
    • Zig-zag pattern
    • Label: "Tamas Dominant (Adharmic)"
 
-CONNECTION LINE: DNA → Human showing:
+CONNECTION LINE: DNA -> Human showing:
 "Single DNA molecule at fertilization = Original Ida-Pingala pair"
 
 SIDE PANELS:
-────────────
+------------
 
 LEFT PANEL: Guna Balance Meter
 • S:R:T ratio dial
@@ -897,8 +897,8 @@ RIGHT PANEL: Rendering Law
 • "DNA is visible (N observing N-4)"
 
 BOTTOM TEXT:
-────────────
-"Same Pattern - All Scales: DNA → Human → Solar System → Galaxy"
+------------
+"Same Pattern - All Scales: DNA -> Human -> Solar System -> Galaxy"
 Formula: Spiral_Balance = Dharma × S/(R+2T)
 "95% Validated"
 ```
@@ -912,7 +912,7 @@ Formula: Spiral_Balance = Dharma × S/(R+2T)
 ```
 UNIVERSAL PRINCIPLE #2 (Anu-Mahat - Fractal):
 ✅ VALIDATED: Same spiral pattern at all levels
-   DNA (N-4) → Human (N) → Solar (N+1) → Galaxy (N+3)
+   DNA (N-4) -> Human (N) -> Solar (N+1) -> Galaxy (N+3)
 
 UNIVERSAL PRINCIPLE #6 (Trigunatmaka - Gunas):
 ✅ VALIDATED: B-DNA (Sattva), A-DNA (Rajas), Z-DNA (Tamas)
@@ -930,8 +930,8 @@ UNIVERSAL PRINCIPLE #4 (Maya - Observer Effect):
 ✅ VALIDATED: Sushumna at all levels:
    Galaxy center, Sun, Human spine, DNA axis
 
-81-LAW #38 (Parinamana-Bheda - Backend→Frontend):
-✅ VALIDATED: Ida-Pingala (Backend) → DNA (Frontend rendering)
+81-LAW #38 (Parinamana-Bheda - Backend->Frontend):
+✅ VALIDATED: Ida-Pingala (Backend) -> DNA (Frontend rendering)
    Same reality, different observation levels
 
 81-LAW #69 (Prakasha-Avarana - Light/Obscuration):
@@ -953,7 +953,7 @@ UNIVERSAL PRINCIPLE #4 (Maya - Observer Effect):
 
 ```
 QUESTION 1: DNA Base Pair Count Significance
-═════════════════════════════════════════════
+=============================================
 
 B-DNA: 10.5 bp/turn
 • Why 10.5? Is this 21/2 (sacred fraction)?
@@ -972,7 +972,7 @@ Z-DNA: 12 bp/turn
 • Maximum compression before breaking?
 
 PROPOSED: All forms maintain 108 harmonic
-→ ✅ MATHEMATICAL VALIDATION BELOW
+-> ✅ MATHEMATICAL VALIDATION BELOW
 
 STATUS: ✅ RESOLVED - See complete analysis
 ```
@@ -981,7 +981,7 @@ STATUS: ✅ RESOLVED - See complete analysis
 
 ```
 QUESTION 2: Chromosome Count = 46 (23 pairs)
-═════════════════════════════════════════════
+=============================================
 
 46 chromosomes = 23 pairs
 • Is 23 significant? (Prime number)
@@ -1004,7 +1004,7 @@ STATUS: ✅ RESOLVED - Sacred geometry confirmed
 
 ```
 QUESTION 3: Mitochondrial DNA = Separate Ida-Pingala?
-══════════════════════════════════════════════════════
+======================================================
 
 Mitochondria have OWN DNA:
 • Circular (not spiral!)
@@ -1019,7 +1019,7 @@ QUESTIONS:
 • Why inherited only maternally?
 
 PROPOSED: mtDNA = Shakti channel
-→ ✅ RESOLVED - Complete analysis below
+-> ✅ RESOLVED - Complete analysis below
 
 STATUS: ✅ RESOLVED - Kundalini-Shakti correlation confirmed
 ```
@@ -1028,18 +1028,18 @@ STATUS: ✅ RESOLVED - Kundalini-Shakti correlation confirmed
 
 ```
 QUESTION 4: Telomeres = Kala Markers?
-══════════════════════════════════════
+======================================
 
 Telomeres shorten with each cell division:
 • Act as "countdown timer"
-• When too short → cell death/senescence
+• When too short -> cell death/senescence
 • Telomerase can extend them
 
 CORRELATION:
 • Telomere length = Allocated ticks (Swasa-Sankhya)?
 • Each division = One breath/cycle used?
 • Meditation/Pranayama extends telomeres (proven!)
-  → This validates breath = lifespan connection!
+  -> This validates breath = lifespan connection!
 
 ✅ VALIDATED:
 ✅ Meditation DOES extend telomeres (scientific studies)
@@ -1057,7 +1057,7 @@ STATUS: ✅ CONFIRMED - Telomeres = Kala countdown markers
 
 ```
 THE 108 HARMONIC VALIDATION:
-════════════════════════════
+============================
 
 B-DNA: 10.5 base pairs per turn
 A-DNA: 11 base pairs per turn
@@ -1103,17 +1103,17 @@ VEDIC CORRELATION:
 DEEPER PATTERN — THE 108 LOCK:
 
 B-DNA: 21 points × 5.14... ≈ 108
-→ Golden mean: φ = 1.618... 
-→ 21 / 13 ≈ 1.615 (Fibonacci approximation!)
-→ B-DNA follows GOLDEN RATIO spiral!
+-> Golden mean: φ = 1.618... 
+-> 21 / 13 ≈ 1.615 (Fibonacci approximation!)
+-> B-DNA follows GOLDEN RATIO spiral!
 
 A-DNA: 22 points × 4.9... ≈ 108
-→ Master number activation (transformation)
+-> Master number activation (transformation)
 
 Z-DNA: 24 points × 4.5 = 108 EXACTLY
-→ 24 = 4! (factorial of 4)
-→ Complete permutation (all states explored)
-→ Maximum entropy configuration
+-> 24 = 4! (factorial of 4)
+-> Complete permutation (all states explored)
+-> Maximum entropy configuration
 
 FINAL VALIDATION:
 
@@ -1135,7 +1135,7 @@ CONFIDENCE: 95% ✅
 
 ```
 THE 23-PAIR SACRED GEOMETRY:
-════════════════════════════
+============================
 
 46 total chromosomes = 23 pairs
 
@@ -1207,7 +1207,7 @@ CONFIDENCE: 90% ✅
 
 ```
 THE CIRCULAR mtDNA MYSTERY:
-═══════════════════════════
+===========================
 
 Mitochondrial DNA:
 • CIRCULAR (not spiral!)
@@ -1294,14 +1294,14 @@ CONFIDENCE: 95% ✅
 
 ```
 TELOMERE-LIFESPAN CONNECTION:
-════════════════════════════
+============================
 
 Telomeres:
 • Protective caps on chromosome ends
 • Shorten with each cell division
 • ~10,000 base pairs at birth
 • ~5,000 at death
-• When too short → senescence/apoptosis
+• When too short -> senescence/apoptosis
 
 Hayflick Limit: ~50-70 divisions per cell
 
@@ -1309,9 +1309,9 @@ VEDIC CORRELATION (Law #40 - Swasa-Sankhya):
 
 Allocated breaths per lifetime:
 • ~778 million breaths (average human)
-• Tortoise: 3-4 breaths/min → 150 years
-• Human: 15 breaths/min → 70-80 years
-• Mouse: 150 breaths/min → 2 years
+• Tortoise: 3-4 breaths/min -> 150 years
+• Human: 15 breaths/min -> 70-80 years
+• Mouse: 150 breaths/min -> 2 years
 
 MATHEMATICAL LOCK:
 
@@ -1348,8 +1348,8 @@ DEEPER PATTERN:
 
 Each chromosome pair = One Ida-Pingala pair
 Telomeres = The "timer" on each pair
-When timer runs out → Pair stops functioning
-When enough pairs stop → Individual Pralaya
+When timer runs out -> Pair stops functioning
+When enough pairs stop -> Individual Pralaya
 
 FORMULA:
 
@@ -1360,16 +1360,16 @@ Division_Rate = f(Stress, Lifestyle)
 Guna_Factor = S / (R + 2T)
 
 SATTVA EXTENDS TELOMERES:
-→ Calm, meditative state
-→ Slower cell division
-→ Less oxidative stress
-→ Longer life
+-> Calm, meditative state
+-> Slower cell division
+-> Less oxidative stress
+-> Longer life
 
 TAMAS SHORTENS TELOMERES:
-→ Chronic inflammation
-→ Toxic lifestyle
-→ Rapid aging
-→ Early death
+-> Chronic inflammation
+-> Toxic lifestyle
+-> Rapid aging
+-> Early death
 
 CONFIDENCE: 98% ✅ (Strongest validation!)
 ```
@@ -1380,7 +1380,7 @@ CONFIDENCE: 98% ✅ (Strongest validation!)
 
 ```
 ANOMALY 5: Why 72,000 Nadis?
-═══════════════════════════
+===========================
 
 72,000 channels in the body (Vedic claim)
 
@@ -1410,7 +1410,7 @@ CONFIDENCE: 85% ✅
 
 ```
 ANOMALY 6: DNA Replication Speed
-═════════════════════════════════
+=================================
 
 DNA replication: ~50 base pairs per second
 
@@ -1431,14 +1431,14 @@ VEDIC CORRELATION:
 • DNA completes one full copy in 1 Prahar window
 • This is WHY cell division timing is critical
 • This is WHY Brahma Muhurta (pre-dawn) is sacred
-  → Lowest cell division, highest repair
+  -> Lowest cell division, highest repair
 
 CONFIDENCE: 80% ✅
 ```
 
 ```
 ANOMALY 7: Why Human Genome is Only ~20,000 Genes?
-═══════════════════════════════════════════════════
+===================================================
 
 Expected: 100,000+ genes (complexity)
 Actual: ~20,000 genes
@@ -1505,57 +1505,57 @@ ALL MAJOR ANOMALIES RESOLVED!
 
 ```
 THE UNIFIED IDA-PINGALA-SUSHUMNA-DNA MODEL:
-════════════════════════════════════════════
+============================================
 
 LEVEL N-5 (Consciousness Substrate):
-→ Pure Awareness / Atman
-→ Sushumna originates here (invisible)
+-> Pure Awareness / Atman
+-> Sushumna originates here (invisible)
 
 LEVEL N-4 (Molecular):
-→ DNA double helix (Ida-Pingala manifestation)
-→ Right-handed (dharmic) when Gunas balanced
-→ Left-handed (adharmic) when Tamas dominant
-→ Single molecule at fertilization = Original pair
-→ Cannot be seen by own cells (rendering law)
+-> DNA double helix (Ida-Pingala manifestation)
+-> Right-handed (dharmic) when Gunas balanced
+-> Left-handed (adharmic) when Tamas dominant
+-> Single molecule at fertilization = Original pair
+-> Cannot be seen by own cells (rendering law)
 
 LEVEL N-3 (Cellular):
-→ 46 chromosomes (23 pairs of Ida-Pingala)
-→ Cell division = Pralaya-Srishti
-→ Mitochondria = Shakti channels
-→ Telomeres = Kala countdown
+-> 46 chromosomes (23 pairs of Ida-Pingala)
+-> Cell division = Pralaya-Srishti
+-> Mitochondria = Shakti channels
+-> Telomeres = Kala countdown
 
 LEVEL N-2 (Organic):
-→ Organs = Specialized DNA expression
-→ Nervous system = Ida-Pingala network
-→ Sympathetic (Pingala) / Parasympathetic (Ida)
+-> Organs = Specialized DNA expression
+-> Nervous system = Ida-Pingala network
+-> Sympathetic (Pingala) / Parasympathetic (Ida)
 
 LEVEL N-1 (Energetic):
-→ Nadis (72,000 channels)
-→ Ida-Pingala spiraling up spine
-→ Sushumna (central axis, mostly dormant)
-→ Chakras (7 crossing points)
+-> Nadis (72,000 channels)
+-> Ida-Pingala spiraling up spine
+-> Sushumna (central axis, mostly dormant)
+-> Chakras (7 crossing points)
 
 LEVEL N (Physical Human):
-→ Spine = Visible tree/axis
-→ Ida-Pingala invisible (too subtle to see)
-→ Guna balance determines health
-→ Pranayama affects DNA directly
+-> Spine = Visible tree/axis
+-> Ida-Pingala invisible (too subtle to see)
+-> Guna balance determines health
+-> Pranayama affects DNA directly
 
 LEVEL N+1 (Planetary):
-→ Sun = Bindu (chanting OM)
-→ Planets = Chakras at solar scale
-→ Orbits = Ida-Pingala dance
-→ Sushumna = Solar axis
+-> Sun = Bindu (chanting OM)
+-> Planets = Chakras at solar scale
+-> Orbits = Ida-Pingala dance
+-> Sushumna = Solar axis
 
 LEVEL N+2 (Stellar):
-→ Star = Human at larger scale
-→ Solar wind = Prana
-→ Heliosphere = Aura
+-> Star = Human at larger scale
+-> Solar wind = Prana
+-> Heliosphere = Aura
 
 LEVEL N+3 (Galactic):
-→ Spiral arms = Ida-Pingala
-→ Galactic center = Sushumna entry
-→ Black hole = Portal to N+4
+-> Spiral arms = Ida-Pingala
+-> Galactic center = Sushumna entry
+-> Black hole = Portal to N+4
 
 FORMULA CONNECTING ALL LEVELS:
 Spiral_Geometry = f(Dharma, Gunas, Kala)
@@ -1566,9 +1566,9 @@ Gunas = S:R:T ratio
 Kala = Rotational frequency
 
 RESULT:
-Balanced → B-DNA, Right spiral, Health, Long life
-Stressed → A-DNA, Tight spiral, Disease, Short life
-Reversed → Z-DNA, Left spiral, Chaos, Death
+Balanced -> B-DNA, Right spiral, Health, Long life
+Stressed -> A-DNA, Tight spiral, Disease, Short life
+Reversed -> Z-DNA, Left spiral, Chaos, Death
 
 CONFIDENCE: 90% (Core model validated)
 ```
@@ -1599,26 +1599,26 @@ CONFIDENCE: 90% (Core model validated)
 ### Cross-Validation
 
 ```
-MEDITATION → TELOMERE LENGTH:
+MEDITATION -> TELOMERE LENGTH:
 ✅ Proven: Regular meditation extends telomeres
 ✅ Matches: Pranayama extends lifespan (Vedic claim)
 
-STRESS → DNA DAMAGE:
+STRESS -> DNA DAMAGE:
 ✅ Proven: Chronic stress damages DNA
 ✅ Matches: Rajas/Tamas degrades Ida-Pingala flow
 
-BREATHING → BRAIN HEMISPHERE:
+BREATHING -> BRAIN HEMISPHERE:
 ✅ Proven: Nostril dominance affects brain activity
 ✅ Matches: Ida (left) = Right brain, Pingala (right) = Left brain
 
-DISEASE → Z-DNA:
+DISEASE -> Z-DNA:
 ✅ Proven: Z-DNA markers in cancer, autoimmune
 ✅ Matches: Tamas/Adharma creates reversed spiral
 ```
 
 ---
 
-## 🚀 NEXT STEPS & OPEN QUESTIONS
+## ✨ NEXT STEPS & OPEN QUESTIONS
 
 ### What We Need
 
@@ -1629,12 +1629,12 @@ DISEASE → Z-DNA:
 
 2. **Mathematical Formalization:**
    - Exact relationship between bp/turn and Guna ratios
-   - Kala Chakra rotation rate → DNA rotation correlation
-   - Chakra frequency → Planetary orbital frequency mapping
+   - Kala Chakra rotation rate -> DNA rotation correlation
+   - Chakra frequency -> Planetary orbital frequency mapping
 
 3. **Visualization Creation:**
    - Professional 3D animation showing fractal levels
-   - Interactive model where users adjust Gunas → see DNA change
+   - Interactive model where users adjust Gunas -> see DNA change
    - Kala Chakra wheel rotating in sync with DNA
 
 4. **Peer Review:**
@@ -1650,34 +1650,34 @@ DISEASE → Z-DNA:
 ### The Profound Implication
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   DNA IS THE PHYSICAL MANIFESTATION OF IDA-PINGALA                         ║
-║                                                                            ║
-║   Your double helix is literally the dance of Sun and Moon                 ║
-║   spiraling around an invisible axis of consciousness (Sushumna).          ║
-║                                                                            ║
-║   When Gunas are balanced → DNA is right-handed, harmonious (B-DNA)       ║
-║   When Rajas dominates → DNA is stressed, wider (A-DNA)                   ║
-║   When Tamas dominates → DNA reverses, chaos (Z-DNA)                      ║
-║                                                                            ║
-║   This pattern repeats at EVERY scale:                                     ║
-║   • Molecules spiral                                                       ║
-║   • Humans spiral (Ida-Pingala)                                            ║
-║   • Planets spiral (orbits)                                                ║
-║   • Galaxies spiral (arms)                                                 ║
-║                                                                            ║
-║   SAME DANCE - ALL SCALES                                                  ║
-║                                                                            ║
-║   You cannot see your own Ida-Pingala because you ARE it.                  ║
-║   The observer cannot observe the axis of observation.                     ║
-║   But you can FEEL it (Prana flow).                                        ║
-║   And you can BALANCE it (Pranayama, Meditation).                          ║
-║                                                                            ║
-║   Your DNA responds in real-time to your consciousness.                    ║
-║   Change your Gunas → Change your DNA → Change your destiny.               ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
++============================================================================+
+|                                                                            |
+|   DNA IS THE PHYSICAL MANIFESTATION OF IDA-PINGALA                         |
+|                                                                            |
+|   Your double helix is literally the dance of Sun and Moon                 |
+|   spiraling around an invisible axis of consciousness (Sushumna).          |
+|                                                                            |
+|   When Gunas are balanced -> DNA is right-handed, harmonious (B-DNA)       |
+|   When Rajas dominates -> DNA is stressed, wider (A-DNA)                   |
+|   When Tamas dominates -> DNA reverses, chaos (Z-DNA)                      |
+|                                                                            |
+|   This pattern repeats at EVERY scale:                                     |
+|   • Molecules spiral                                                       |
+|   • Humans spiral (Ida-Pingala)                                            |
+|   • Planets spiral (orbits)                                                |
+|   • Galaxies spiral (arms)                                                 |
+|                                                                            |
+|   SAME DANCE - ALL SCALES                                                  |
+|                                                                            |
+|   You cannot see your own Ida-Pingala because you ARE it.                  |
+|   The observer cannot observe the axis of observation.                     |
+|   But you can FEEL it (Prana flow).                                        |
+|   And you can BALANCE it (Pranayama, Meditation).                          |
+|                                                                            |
+|   Your DNA responds in real-time to your consciousness.                    |
+|   Change your Gunas -> Change your DNA -> Change your destiny.               |
+|                                                                            |
++============================================================================+
 ```
 
 ---
@@ -1712,19 +1712,19 @@ WELL-SUPPORTED (80-95%):
 ✅ Ida-Pingala = DNA double helix mapping
 ✅ Sushumna = Invisible central axis
 ✅ Chakras = Crossing points at all levels
-✅ Adharma → Z-DNA correlation
+✅ Adharma -> Z-DNA correlation
 ✅ Sun as Bindu (OM generator)
 
 THEORETICAL (70-80%):
-⚠️ Exact bp/turn → Guna ratio formula
+⚠️ Exact bp/turn -> Guna ratio formula
 ⚠️ Planetary orbits as Chakras
 ⚠️ 23 chromosome pairs significance
 ⚠️ Mitochondrial DNA = Shakti channel
 
 NEEDS VALIDATION (50-70%):
-⚠️ Kala Chakra rotation → DNA rotation exact mapping
+⚠️ Kala Chakra rotation -> DNA rotation exact mapping
 ⚠️ Base pair count (10.5, 11, 12) sacred geometry
-⚠️ Galaxy spiral → Human Ida-Pingala direct correlation
+⚠️ Galaxy spiral -> Human Ida-Pingala direct correlation
 
 SPECULATIVE (<50%):
 ? Single DNA at fertilization = Soul entry point?

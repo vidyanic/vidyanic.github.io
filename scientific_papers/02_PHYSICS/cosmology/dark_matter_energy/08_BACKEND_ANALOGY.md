@@ -47,24 +47,24 @@ Visible to consciousness tuned to that frequency.
 UPPER LOKAS (14-9):
 ━━━━━━━━━━━━━━━━━━
 
-Sattva dominant → Lightness, clarity, expansion
-Less Tamas → Less mass, gravity
+Sattva dominant -> Lightness, clarity, expansion
+Less Tamas -> Less mass, gravity
 Beings are more "ethereal"
 Less physical density
 
 MIDDLE (8 - Bhuloka):
 ━━━━━━━━━━━━━━━━━━━
 
-Balanced Gunas → Mixed qualities
-Moderate Tamas → Moderate mass
+Balanced Gunas -> Mixed qualities
+Moderate Tamas -> Moderate mass
 Physical forms possible
 Where Karma is generated
 
 LOWER LOKAS (7-1):
 ━━━━━━━━━━━━━━━━━━━
 
-Tamas dominant → Heaviness, density, contraction
-High Tamas → High mass, gravity
+Tamas dominant -> Heaviness, density, contraction
+High Tamas -> High mass, gravity
 Beings are more "dense"
 Greater physical density
 ```
@@ -127,8 +127,8 @@ G_μν = Einstein tensor (curvature)
 T_μν = Stress-energy tensor (Tamas distribution)
 
 OBSERVABLE:
-T_μν(Bhuloka) → Visible matter
-Σ T_μν(other Lokas) → "Dark matter"
+T_μν(Bhuloka) -> Visible matter
+Σ T_μν(other Lokas) -> "Dark matter"
 ```
 
 ---
@@ -159,16 +159,16 @@ COSMIC GUNA CYCLES:
 ━━━━━━━━━━━━━━━━━━
 
 Early universe: 
-• Dense, hot → High Tamas
-• Contracted → Tamas dominated
+• Dense, hot -> High Tamas
+• Contracted -> Tamas dominated
 
 Current universe:
-• Expanding → Sattva dominating
-• Acceleration → Sattva increasing
+• Expanding -> Sattva dominating
+• Acceleration -> Sattva increasing
 
 Future universe:
-• If Sattva continues → Heat death (maximum expansion)
-• If Tamas returns → Big Crunch (contraction)
+• If Sattva continues -> Heat death (maximum expansion)
+• If Tamas returns -> Big Crunch (contraction)
 
 COSMOLOGICAL CONSTANT Λ = Sattva - Tamas at cosmic scale
 ```
@@ -180,21 +180,21 @@ COSMOLOGICAL CONSTANT Λ = Sattva - Tamas at cosmic scale
 ### 8.5.1 Reality as Multi-Layer Render
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                    14-LAYER RENDER STACK                       ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  Layer 14 ───────── [Satya Loka data] ── (invisible to us)   ║
-║  Layer 13 ───────── [Tapa Loka data] ─── (invisible to us)   ║
-║  ...                                                           ║
-║  Layer 8  ───────── [Bhuloka data] ───── (VISIBLE TO US)      ║
-║  ...                                                           ║
-║  Layer 1  ───────── [Patala data] ────── (invisible to us)   ║
-║                                                                ║
-║  ALL LAYERS SHARE: Spacetime substrate (gravity crosses)      ║
-║  EACH LAYER HAS: Unique light (doesn't cross)                 ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
++================================================================+
+|                    14-LAYER RENDER STACK                       |
++================================================================+
+|                                                                |
+|  Layer 14 --------- [Satya Loka data] -- (invisible to us)   |
+|  Layer 13 --------- [Tapa Loka data] --- (invisible to us)   |
+|  ...                                                           |
+|  Layer 8  --------- [Bhuloka data] ----- (VISIBLE TO US)      |
+|  ...                                                           |
+|  Layer 1  --------- [Patala data] ------ (invisible to us)   |
+|                                                                |
+|  ALL LAYERS SHARE: Spacetime substrate (gravity crosses)      |
+|  EACH LAYER HAS: Unique light (doesn't cross)                 |
+|                                                                |
++================================================================+
 ```
 
 ### 8.5.2 What We See vs What Exists
@@ -240,8 +240,8 @@ Phenomenological reports exist.
 
 ```
 IF Lokas are accessible via consciousness:
-→ Meditators might perceive "dark matter"
-→ But not as particles — as other-Loka beings/structures
+-> Meditators might perceive "dark matter"
+-> But not as particles — as other-Loka beings/structures
 
 STATUS:
 Speculative.
@@ -267,19 +267,19 @@ Anecdotal reports exist.
 ## 8.8 Key Insight
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  The universe isn't 95% "missing."                             ║
-║                                                                ║
-║  The universe is 100% present.                                 ║
-║  We're just tuned to 5% of the channels.                       ║
-║                                                                ║
-║  Dark matter = Other channels' mass affecting our spacetime.   ║
-║  Dark energy = Expansion pressure from Sattva dominance.       ║
-║                                                                ║
-║  Particle detection will fail.                                 ║
-║  The particles aren't "here" in our frequency band.            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
++================================================================+
+|                                                                |
+|  The universe isn't 95% "missing."                             |
+|                                                                |
+|  The universe is 100% present.                                 |
+|  We're just tuned to 5% of the channels.                       |
+|                                                                |
+|  Dark matter = Other channels' mass affecting our spacetime.   |
+|  Dark energy = Expansion pressure from Sattva dominance.       |
+|                                                                |
+|  Particle detection will fail.                                 |
+|  The particles aren't "here" in our frequency band.            |
+|                                                                |
++================================================================+
 ```
 

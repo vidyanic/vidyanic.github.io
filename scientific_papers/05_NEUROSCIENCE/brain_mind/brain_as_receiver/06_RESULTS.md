@@ -1,6 +1,6 @@
 # 6. Results
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -56,7 +56,7 @@ The one fully verified case (Patient 10) described specific details of resuscita
 
 ```
 TOTAL NDE EVIDENCE:
-═══════════════════
+===================
 
 SUPPORTING RECEIVER:
 • Experience during brain shutdown
@@ -122,13 +122,13 @@ These descriptions match the receiver model directly.
 
 ```
 PSYCHEDELIC EVIDENCE:
-═════════════════════
+=====================
 
 PARADOX FOR GENERATOR MODEL:
-Less brain activity → More experience
+Less brain activity -> More experience
 
 PREDICTION OF RECEIVER MODEL:
-Less filtering → More consciousness flows through
+Less filtering -> More consciousness flows through
 
 OBSERVATION MATCHES: Receiver model
 
@@ -174,13 +174,13 @@ CONCLUSION: Psychedelic neuroimaging strongly supports receiver model
 
 ```
 TERMINAL LUCIDITY EXPLAINED:
-════════════════════════════
+============================
 
 Normal:
-Consciousness → [FILTER (Antahkarana)] → Limited Experience
+Consciousness -> [FILTER (Antahkarana)] -> Limited Experience
 
 Terminal Lucidity:
-Consciousness → [FAILING FILTER] → Expanded Experience
+Consciousness -> [FAILING FILTER] -> Expanded Experience
 
 As body prepares for death:
 • Antahkarana begins dissolving
@@ -217,7 +217,7 @@ As body prepares for death:
 - Proofreading ability  
 - Memory for details
 
-**Interpretation:** The brain normally INHIBITS access to detailed information. Reducing inhibition → More access.
+**Interpretation:** The brain normally INHIBITS access to detailed information. Reducing inhibition -> More access.
 
 **Model Comparison:**
 
@@ -246,12 +246,12 @@ As body prepares for death:
 
 ```
 CONSISTENT PATTERN ACROSS ALL EVIDENCE:
-═══════════════════════════════════════
+=======================================
 
-1. When brain activity DECREASES → Experience often INCREASES
-2. When brain is DAMAGED → Unexpected abilities can EMERGE
-3. When brain is DYING → Clarity can RETURN
-4. When brain is OFFLINE → Experience can CONTINUE
+1. When brain activity DECREASES -> Experience often INCREASES
+2. When brain is DAMAGED -> Unexpected abilities can EMERGE
+3. When brain is DYING -> Clarity can RETURN
+4. When brain is OFFLINE -> Experience can CONTINUE
 
 This pattern is:
 • Paradoxical for generator model

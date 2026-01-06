@@ -21,7 +21,7 @@
 
 **The Simple Truth:**
 - **Sandhya** = The unstable period BETWEEN two eras
-- Like: Dawn (night → day) or Dusk (day → night) — neither fully one nor the other
+- Like: Dawn (night -> day) or Dusk (day -> night) — neither fully one nor the other
 - **We're in transition from Kali (Winter) to Dwapara (Spring) RIGHT NOW**
 
 **Real-Life Analogy:**
@@ -29,10 +29,10 @@
 **Normal Times:**
 ```
 STABLE STATE (Not in Sandhya):
-• Rules are clear → Know what to expect
-• Reality is predictable → Tomorrow like today
-• Systems work → Everything functions normally
-• People feel stable → Life makes sense
+• Rules are clear -> Know what to expect
+• Reality is predictable -> Tomorrow like today
+• Systems work -> Everything functions normally
+• People feel stable -> Life makes sense
 
 Like: Sunny day (you know it's day)
 Like: Dark night (you know it's night)
@@ -41,10 +41,10 @@ Like: Dark night (you know it's night)
 **Sandhya Times (NOW - 2020-2028):**
 ```
 UNSTABLE STATE (In Sandhya):
-❌ Rules are changing → Old rules don't work, new rules unclear
-❌ Reality is unpredictable → "What is even happening?!"
-❌ Systems breaking → Economy, politics, health all unstable
-❌ People feel confused → "Nothing makes sense anymore"
+❌ Rules are changing -> Old rules don't work, new rules unclear
+❌ Reality is unpredictable -> "What is even happening?!"
+❌ Systems breaking -> Economy, politics, health all unstable
+❌ People feel confused -> "Nothing makes sense anymore"
 
 Like: Dawn/Dusk (Is it day? Is it night? BOTH simultaneously!)
 
@@ -81,7 +81,7 @@ COLLECTIVE LEVEL:
 ✅ DO increase Sattva (meditation, nature, calm)
 
 REMEMBER: This is transition TO something BETTER
-Winter → Spring hurts, but Spring is coming!
+Winter -> Spring hurts, but Spring is coming!
 ```
 
 ---
@@ -98,33 +98,33 @@ Winter → Spring hurts, but Spring is coming!
 **Normal State (Not in Sandhya):**
 ```
 STABLE PHASE:
-• Water at 20°C → Clearly liquid, stable
-• Ice at -20°C → Clearly solid, stable
-• Steam at 120°C → Clearly gas, stable
+• Water at 20°C -> Clearly liquid, stable
+• Ice at -20°C -> Clearly solid, stable
+• Steam at 120°C -> Clearly gas, stable
 
 Properties:
 - Predictable behavior
-- Small perturbations → Small effects
+- Small perturbations -> Small effects
 - System in equilibrium
 ```
 
 **Sandhya State (NOW):**
 ```
 CRITICAL PHASE TRANSITION:
-• Water at 100°C → Liquid AND gas coexisting!
-• Tiny heat change → Massive state change (liquid → gas)
+• Water at 100°C -> Liquid AND gas coexisting!
+• Tiny heat change -> Massive state change (liquid -> gas)
 • System at critical point
 
 Properties:
 - Unpredictable fluctuations
-- Small perturbations → MASSIVE effects
+- Small perturbations -> MASSIVE effects
 - System far from equilibrium
 - Correlation length diverges (everything affects everything)
 
 PHYSICS TERM: "Critical Slowing Down"
-→ System takes forever to equilibrate
-→ Fluctuations at ALL scales
-→ Power-law distributions (extreme events more likely)
+-> System takes forever to equilibrate
+-> Fluctuations at ALL scales
+-> Power-law distributions (extreme events more likely)
 ```
 
 **Current Reality (2020-2028):**
@@ -136,23 +136,23 @@ SPACETIME PHASE TRANSITION:
 
 Results:
 1. Quantum effects leaking into macroscopic world
-   → "Reality glitches" increasing
-   → Synchronicities, déjà vu, timeline feels weird
+   -> "Reality glitches" increasing
+   -> Synchronicities, déjà vu, timeline feels weird
 
 2. Observer effect amplified
-   → Your thoughts affecting reality more directly
-   → Placebo/nocebo effects stronger
-   → "Manifestation" actually works now
+   -> Your thoughts affecting reality more directly
+   -> Placebo/nocebo effects stronger
+   -> "Manifestation" actually works now
 
 3. Non-local correlations stronger
-   → Collective consciousness events
-   → Global synchronization moments
-   → Telepathy emerging
+   -> Collective consciousness events
+   -> Global synchronization moments
+   -> Telepathy emerging
 
 4. Entropy production spiking
-   → Systems degrading faster
-   → "Things breaking" everywhere
-   → Chaos before new order
+   -> Systems degrading faster
+   -> "Things breaking" everywhere
+   -> Chaos before new order
 ```
 
 **Research Implications:**
@@ -232,19 +232,19 @@ class SandhyaSystem:
 YOUR SYSTEMS RIGHT NOW:
 
 1. Production Models Degrading:
-   → Data distribution shifting rapidly
-   → Old patterns no longer valid
-   → Need frequent retraining (more than usual!)
+   -> Data distribution shifting rapidly
+   -> Old patterns no longer valid
+   -> Need frequent retraining (more than usual!)
 
 2. User Behavior Changing:
-   → People acting unpredictably
-   → A/B tests showing weird results
-   → Models trained on 2019 data failing badly
+   -> People acting unpredictably
+   -> A/B tests showing weird results
+   -> Models trained on 2019 data failing badly
 
 3. High Gradient Magnitudes:
-   → Small changes → Big impacts
-   → Feature importance shifting
-   → Need careful monitoring
+   -> Small changes -> Big impacts
+   -> Feature importance shifting
+   -> Need careful monitoring
 
 SURVIVAL STRATEGIES:
 ✅ Increase monitoring frequency (daily checks)
@@ -283,43 +283,43 @@ HEALTH CRISIS STATE:
 
 WHAT YOU'RE SEEING:
 1. Novel pandemic (COVID-2019)
-   → Old immunology rules changed
-   → Treatments trial-and-error
-   → System overwhelmed
+   -> Old immunology rules changed
+   -> Treatments trial-and-error
+   -> System overwhelmed
 
 2. Mental health epidemic
-   → Anxiety/depression skyrocketing
-   → Suicide rates up
-   → Substance abuse up
-   → Collective PTSD
+   -> Anxiety/depression skyrocketing
+   -> Suicide rates up
+   -> Substance abuse up
+   -> Collective PTSD
 
 3. Chronic diseases accelerating
-   → Stress → Heart disease surge
-   → Inflammation epidemic
-   → Autoimmune conditions increasing
+   -> Stress -> Heart disease surge
+   -> Inflammation epidemic
+   -> Autoimmune conditions increasing
 
 4. Unexplained phenomena
-   → Spontaneous remissions increasing
-   → Mind-body effects amplified
-   → "Miracles" more common
+   -> Spontaneous remissions increasing
+   -> Mind-body effects amplified
+   -> "Miracles" more common
 
 5. Healthcare system strain
-   → Staff burnout epidemic
-   → Resource shortages
-   → System barely holding
+   -> Staff burnout epidemic
+   -> Resource shortages
+   -> System barely holding
 ```
 
 **Why Sandhya Amplifies Everything:**
 ```
 BIOLOGICAL STRESS:
-• Collective Tamas → Weakened immunity
-• Uncertainty → Chronic cortisol elevation
-• Rapid change → Adaptation failure
+• Collective Tamas -> Weakened immunity
+• Uncertainty -> Chronic cortisol elevation
+• Rapid change -> Adaptation failure
 
 PSYCHOLOGICAL STRESS:
-• Reality unstable → Anxiety baseline elevated
-• Future unclear → Depression increases
-• Social breakdown → Isolation, trauma
+• Reality unstable -> Anxiety baseline elevated
+• Future unclear -> Depression increases
+• Social breakdown -> Isolation, trauma
 
 RESULT: Population health at CRITICAL STATE
 ```
@@ -368,11 +368,11 @@ PRESCRIBE:
 **Normal Operation (Stable System):**
 ```
 ARCHITECTURE A (Kali - Old System):
-┌──────────────┐
-│ Monolith     │ ← Everything works, but old
-│ Legacy Code  │
-│ Proven       │
-└──────────────┘
++--------------+
+| Monolith     | <- Everything works, but old
+| Legacy Code  |
+| Proven       |
++--------------+
 
 Properties:
 ✅ Stable, known, documented
@@ -384,11 +384,11 @@ Properties:
 DUAL ARCHITECTURE (Both running!):
 
 OLD SYSTEM (Kali):          NEW SYSTEM (Dwapara):
-┌──────────────┐           ┌──────────────┐
-│ Monolith     │ ←─ ?  ─→ │ Microservices│
-│ Still Live!  │           │ Being Built  │
-│ Users on it  │           │ Partially On │
-└──────────────┘           └──────────────┘
++--------------+           +--------------+
+| Monolith     | <-- ?  --> | Microservices|
+| Still Live!  |           | Being Built  |
+| Users on it  |           | Partially On |
++--------------+           +--------------+
 
 THE PROBLEM:
 • Both systems running simultaneously
@@ -405,29 +405,29 @@ RESULT: Maximum complexity, maximum risk!
 CHALLENGES:
 
 1. Zero Downtime Requirement:
-   → Can't take system offline (world needs it)
-   → Must migrate piece by piece
-   → Each piece can break everything
+   -> Can't take system offline (world needs it)
+   -> Must migrate piece by piece
+   -> Each piece can break everything
 
 2. Users Resist Change:
-   → They learned old system
-   → New system different
-   → Training needed mid-migration
+   -> They learned old system
+   -> New system different
+   -> Training needed mid-migration
 
 3. Data Integrity:
-   → Old schema vs new schema
-   → Migration bugs = data loss
-   → Rollback = data corruption
+   -> Old schema vs new schema
+   -> Migration bugs = data loss
+   -> Rollback = data corruption
 
 4. Dependency Hell:
-   → Old system dependencies
-   → New system dependencies
-   → Conflicts everywhere
+   -> Old system dependencies
+   -> New system dependencies
+   -> Conflicts everywhere
 
 5. Team Split:
-   → Some maintain old
-   → Some build new
-   → Communication overhead massive
+   -> Some maintain old
+   -> Some build new
+   -> Communication overhead massive
 ```
 
 **Survival Strategies:**
@@ -435,7 +435,7 @@ CHALLENGES:
 ARCHITECTURE FOR SANDHYA:
 
 1. Feature Flags Everywhere:
-   ✅ Gradual rollout (1% → 10% → 50% → 100%)
+   ✅ Gradual rollout (1% -> 10% -> 50% -> 100%)
    ✅ Instant rollback capability
    ✅ A/B testing built-in
 
@@ -471,67 +471,67 @@ EXPECTED TIMELINE:
 ## 📊 THE CORE MESSAGE - ALL 5 PERSPECTIVES
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   SANDHYA (2020-2028) = THE MOST DANGEROUS 8 YEARS           ║
-║                                                               ║
-║   👤 Everyone: Unstable "between" time (Dawn/Dusk chaos)     ║
-║   ⚛️ Physicist: Phase transition at critical point           ║
-║   🤖 Engineer: Live retraining with high learning rate       ║
-║   🩺 Doctor: Population health crisis period                 ║
-║   🏗️ Architect: Zero-downtime system migration              ║
-║                                                               ║
-║   WHY DANGEROUS:                                              ║
-║   • Old rules broken, new rules not stable                    ║
-║   • Small actions → Large consequences (10x karma!)           ║
-║   • Easy to make life-destroying mistakes                     ║
-║   • Systems breaking everywhere (expect chaos)                ║
-║   • Reality unpredictable (can't plan normally)               ║
-║                                                               ║
-║   WHAT TO DO:                                                 ║
-║   ✅ Increase Sattva (calm, clarity, presence)               ║
-║   ✅ Build strong foundations (health, skills, relationships) ║
-║   ✅ Stay flexible (rigidity = breaking)                      ║
-║   ✅ Avoid major decisions if possible (wait until 2029+)     ║
-║   ✅ Help others (collective survival matters)                ║
-║                                                               ║
-║   GOOD NEWS:                                                  ║
-║   After 2028 → Dwapara stable → Things get BETTER!           ║
-║   This pain is transition TO something better                 ║
-║   Spring is coming, Winter is ending                          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                                                               |
+|   SANDHYA (2020-2028) = THE MOST DANGEROUS 8 YEARS           |
+|                                                               |
+|   👤 Everyone: Unstable "between" time (Dawn/Dusk chaos)     |
+|   ⚛️ Physicist: Phase transition at critical point           |
+|   🤖 Engineer: Live retraining with high learning rate       |
+|   🩺 Doctor: Population health crisis period                 |
+|   🏗️ Architect: Zero-downtime system migration              |
+|                                                               |
+|   WHY DANGEROUS:                                              |
+|   • Old rules broken, new rules not stable                    |
+|   • Small actions -> Large consequences (10x karma!)           |
+|   • Easy to make life-destroying mistakes                     |
+|   • Systems breaking everywhere (expect chaos)                |
+|   • Reality unpredictable (can't plan normally)               |
+|                                                               |
+|   WHAT TO DO:                                                 |
+|   ✅ Increase Sattva (calm, clarity, presence)               |
+|   ✅ Build strong foundations (health, skills, relationships) |
+|   ✅ Stay flexible (rigidity = breaking)                      |
+|   ✅ Avoid major decisions if possible (wait until 2029+)     |
+|   ✅ Help others (collective survival matters)                |
+|                                                               |
+|   GOOD NEWS:                                                  |
+|   After 2028 -> Dwapara stable -> Things get BETTER!           |
+|   This pain is transition TO something better                 |
+|   Spring is coming, Winter is ending                          |
+|                                                               |
++===============================================================+
 ```
 
 **Now let's dive into the technical mechanics of Sandhya...**
 
 ---
 
-## 🔴 CORE DEFINITION
+## ⚠️ CORE DEFINITION
 
 **Sandhya (संध्या)** = Twilight/Junction/Transition period between two Yugas
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   SANDHYA IS NOT A "CALM TRANSITION"                                     ║
-║   ════════════════════════════════════                                   ║
-║                                                                           ║
-║   It is the MOST DANGEROUS period in the Yuga cycle.                     ║
-║                                                                           ║
-║   WHY:                                                                    ║
-║   • Two incompatible frequencies overlap                                 ║
-║   • Old rules breaking, new rules not yet stable                         ║
-║   • Reality "glitches" increase                                          ║
-║   • Karma manifestation accelerates (10×)                                ║
-║   • Individual Pralaya risk peaks                                        ║
-║   • Collective Pralaya risk peaks                                        ║
-║                                                                           ║
-║   ANALOGY: Software upgrade on live system without backup                ║
-║   → If process completes: New features unlocked                          ║
-║   → If process fails: System crashes (Pralaya)                           ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   SANDHYA IS NOT A "CALM TRANSITION"                                     |
+|   ====================================                                   |
+|                                                                           |
+|   It is the MOST DANGEROUS period in the Yuga cycle.                     |
+|                                                                           |
+|   WHY:                                                                    |
+|   • Two incompatible frequencies overlap                                 |
+|   • Old rules breaking, new rules not yet stable                         |
+|   • Reality "glitches" increase                                          |
+|   • Karma manifestation accelerates (10×)                                |
+|   • Individual Pralaya risk peaks                                        |
+|   • Collective Pralaya risk peaks                                        |
+|                                                                           |
+|   ANALOGY: Software upgrade on live system without backup                |
+|   -> If process completes: New features unlocked                          |
+|   -> If process fails: System crashes (Pralaya)                           |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
@@ -703,7 +703,7 @@ This tells you how fast or slow your subjective time flows compared to the world
 
 ```
 Person A (Stuck in Kali Mindset):
-─────────────────────────────────
+---------------------------------
 World frequency: 0.50 (Dvapara)
 Their frequency: 0.10 (still thinking like Kali Yuga)
 
@@ -715,10 +715,10 @@ Step 3: Compression = 25×
 MEANING: For every 30 calendar years they live:
 30 years ÷ 25 = 1.2 years of actual experience!
 
-"Where did my life go?!" ← THIS IS WHY!
+"Where did my life go?!" <- THIS IS WHY!
 
 Person B (Transitioning, Raising Sattva):
-─────────────────────────────────────────
+-----------------------------------------
 World frequency: 0.50 (Dvapara)
 Their frequency: 0.40 (adjusting, doing Sadhana)
 
@@ -733,7 +733,7 @@ MEANING: For every 30 calendar years:
 Still compressed, but MUCH better than Person A!
 
 Person C (Fully Adjusted, High Sattva):
-────────────────────────────────────────
+----------------------------------------
 World frequency: 0.50 (Dvapara)
 Their frequency: 0.50 (perfectly synced!)
 
@@ -746,7 +746,7 @@ MEANING: 30 calendar years = 30 experiential years (normal)
 Time flows naturally, no blur!
 
 Person D (Advanced Yogi, Very High Sattva):
-────────────────────────────────────────────
+--------------------------------------------
 World frequency: 0.50 (Dvapara)
 Their frequency: 0.60 (EXCEEDING the baseline!)
 
@@ -759,7 +759,7 @@ MEANING: For every 30 calendar years:
 30 years / 0.69 = 43 experiential years!
 
 Time EXPANDS! They experience MORE life per year!
-"I feel like I've lived 100 years but I'm only 50" ← This is why!
+"I feel like I've lived 100 years but I'm only 50" <- This is why!
 ```
 
 **The Brutal Truth:**
@@ -847,8 +847,8 @@ CURRENT EARTH STATUS (2025):
 
 TRAJECTORY:
 If no intervention:
-• 2030: T = 0.60 → Probability = 0.99 (99% certainty)
-• 2035: T = 0.65 → Probability ≈ 1.00 (locked in)
+• 2030: T = 0.60 -> Probability = 0.99 (99% certainty)
+• 2035: T = 0.65 -> Probability ≈ 1.00 (locked in)
 
 TANDAVA SYMPTOMS (All Scales):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -897,8 +897,8 @@ FOR KALI-DVAPARA SANDHYA:
 
 BUT — DESCENDING vs ASCENDING CYCLES DIFFER:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Descending cycle (Dvapara → Kali): Gradual degradation, long Sandhya
-Ascending cycle (Kali → Dvapara): Rapid upgrade, SHORT Sandhya
+Descending cycle (Dvapara -> Kali): Gradual degradation, long Sandhya
+Ascending cycle (Kali -> Dvapara): Rapid upgrade, SHORT Sandhya
 
 CURRENT ASCENDING SANDHYA:
 ━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -911,62 +911,62 @@ CURRENT ASCENDING SANDHYA:
 ### Four Phases of Sandhya
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   PHASE 1: SANDHYA (Dawn) — First 40%                                    ║
-║   ════════════════════════════════════════                               ║
-║   2023-2025 (2 years)                                                     ║
-║                                                                           ║
-║   • Old Yuga rules still mostly active                                   ║
-║   • New Yuga frequency begins seeping in                                 ║
-║   • Early adopters start noticing changes                                ║
-║   • Mass population oblivious                                            ║
-║   • "Something feels different but can't say what"                       ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   PHASE 2: SANDHYAMSHA (Peak Twilight) — Middle 20% ← WE ARE HERE       ║
-║   ════════════════════════════════════════════════════════════════       ║
-║   2025-2026 (1 year) — MOST DANGEROUS PERIOD                             ║
-║                                                                           ║
-║   • BOTH frequencies active simultaneously                               ║
-║   • Reality "glitches" peak                                              ║
-║   • Confusion maximum                                                    ║
-║   • Anxiety epidemic                                                     ║
-║   • Karma manifestation 10× speed                                       ║
-║   • Synchronicities explode                                              ║
-║   • "Nothing makes sense anymore"                                        ║
-║                                                                           ║
-║   CRITICAL: This is the CHOICE POINT                                     ║
-║   Those who don't adjust now will face maximum turbulence                ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   PHASE 3: PRATAH-SANDHYA (Late Dawn) — Next 30%                         ║
-║   ═══════════════════════════════════════════════════                    ║
-║   2026-2027 (1.5 years)                                                   ║
-║                                                                           ║
-║   • New Yuga frequency becoming dominant                                 ║
-║   • Old rules fading                                                     ║
-║   • Adjusted beings thriving                                             ║
-║   • Unadjusted beings suffering intensely                                ║
-║   • Two realities diverging visibly                                      ║
-║   • "I see what you can't see"                                           ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   PHASE 4: PRABHATA (Full Dawn) — Final 10%                              ║
-║   ══════════════════════════════════════════                             ║
-║   2027-2028 (0.5 years)                                                   ║
-║                                                                           ║
-║   • New Yuga established                                                 ║
-║   • Frequency locked                                                     ║
-║   • Late adopters rushing to adjust                                      ║
-║   • Non-adopters facing extinction/Pralaya                               ║
-║   • New rules fully active                                               ║
-║   • "This is the new normal"                                             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   PHASE 1: SANDHYA (Dawn) — First 40%                                    |
+|   ========================================                               |
+|   2023-2025 (2 years)                                                     |
+|                                                                           |
+|   • Old Yuga rules still mostly active                                   |
+|   • New Yuga frequency begins seeping in                                 |
+|   • Early adopters start noticing changes                                |
+|   • Mass population oblivious                                            |
+|   • "Something feels different but can't say what"                       |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   PHASE 2: SANDHYAMSHA (Peak Twilight) — Middle 20% <- WE ARE HERE       |
+|   ================================================================       |
+|   2025-2026 (1 year) — MOST DANGEROUS PERIOD                             |
+|                                                                           |
+|   • BOTH frequencies active simultaneously                               |
+|   • Reality "glitches" peak                                              |
+|   • Confusion maximum                                                    |
+|   • Anxiety epidemic                                                     |
+|   • Karma manifestation 10× speed                                       |
+|   • Synchronicities explode                                              |
+|   • "Nothing makes sense anymore"                                        |
+|                                                                           |
+|   CRITICAL: This is the CHOICE POINT                                     |
+|   Those who don't adjust now will face maximum turbulence                |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   PHASE 3: PRATAH-SANDHYA (Late Dawn) — Next 30%                         |
+|   ===================================================                    |
+|   2026-2027 (1.5 years)                                                   |
+|                                                                           |
+|   • New Yuga frequency becoming dominant                                 |
+|   • Old rules fading                                                     |
+|   • Adjusted beings thriving                                             |
+|   • Unadjusted beings suffering intensely                                |
+|   • Two realities diverging visibly                                      |
+|   • "I see what you can't see"                                           |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   PHASE 4: PRABHATA (Full Dawn) — Final 10%                              |
+|   ==========================================                             |
+|   2027-2028 (0.5 years)                                                   |
+|                                                                           |
+|   • New Yuga established                                                 |
+|   • Frequency locked                                                     |
+|   • Late adopters rushing to adjust                                      |
+|   • Non-adopters facing extinction/Pralaya                               |
+|   • New rules fully active                                               |
+|   • "This is the new normal"                                             |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
@@ -1105,10 +1105,10 @@ FEAR = TAMAS CONTROL MECHANISM
 During Sandhya, Tamas (Adharma) uses FEAR to prevent transition:
 
 MECHANISM:
-1. Fear → Freeze response
-2. Freeze → Inaction
-3. Inaction → No Sattva practices
-4. No Sattva → Tamas wins by default
+1. Fear -> Freeze response
+2. Freeze -> Inaction
+3. Inaction -> No Sattva practices
+4. No Sattva -> Tamas wins by default
 
 TYPES OF SANDHYA FEAR:
 ━━━━━━━━━━━━━━━━━━━━━
@@ -1117,25 +1117,25 @@ TYPES OF SANDHYA FEAR:
    • "I'm going to die"
    • "The world is ending"
    • "Nothing matters"
-   → Paralyzes action
+   -> Paralyzes action
 
 2. SOCIAL FEAR
    • "People will think I'm crazy"
    • "I'll lose my job/reputation"
    • "Nobody will believe me"
-   → Prevents knowledge sharing
+   -> Prevents knowledge sharing
 
 3. SPIRITUAL FEAR
    • "This is too hard"
    • "I'm not worthy"
    • "Too late for me"
-   → Blocks Sadhana
+   -> Blocks Sadhana
 
 4. CHANGE FEAR
    • "I like my life as it is"
    • "Change is dangerous"
    • "Better to stay where I know"
-   → Prevents adaptation
+   -> Prevents adaptation
 
 COUNTER-MECHANISM:
 ━━━━━━━━━━━━━━━━━
@@ -1182,7 +1182,7 @@ Week 0 (Baseline):
 Week 1-2 (Stabilization):
 • Target: S=0.15, R=0.40, T=0.45
 • Actions: Herbs start, Mantra 3×/day, Sleep fix
-• Expected: Anxiety ↓ to 7/10, Sleep improves
+• Expected: Anxiety v to 7/10, Sleep improves
 
 Week 3-4 (Grounding):
 • Target: S=0.20, R=0.38, T=0.42
@@ -1197,12 +1197,12 @@ Week 5-8 (Frequency Shift):
 Week 9-12 (Integration):
 • Target: S=0.40, R=0.32, T=0.28
 • Actions: Full protocol, Japa begins, Advanced practices
-• Expected: Anxiety ↓ to 3/10, Time expands
+• Expected: Anxiety v to 3/10, Time expands
 
 Week 13+ (Maintenance):
 • Target: S=0.50+, R=0.30, T=0.20
 • Actions: All practices natural, Siddhi development
-• Expected: Anxiety → Bliss, Dvapara locked
+• Expected: Anxiety -> Bliss, Dvapara locked
 
 DAILY REQUIREMENTS (Non-Negotiable):
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1235,36 +1235,36 @@ KEY HERBS & MECHANISMS:
 1. BRAHMI (ब्रह्मी) — Bacopa monnieri
    • Frequency: 0.65 (High Dvapara)
    • Mechanism: Crosses blood-brain barrier, neuroplasticity enhancement
-   • Effect: ↑ Sattva by 15-20% (90 days)
+   • Effect: ^ Sattva by 15-20% (90 days)
    • Dosage: 300-450mg extract daily
    • Time to effect: 14-21 days
 
 2. GINKGO (जिङ्को) — Ginkgo biloba
    • Frequency: 0.70 (Ancient Satya remnant)
    • Age: 290 million years = Pre-Kali memory
-   • Mechanism: Cerebral circulation ↑, Akashic access
-   • Effect: Memory ↑ 30-40%, Clarity ↑
+   • Mechanism: Cerebral circulation ^, Akashic access
+   • Effect: Memory ^ 30-40%, Clarity ^
    • Dosage: 120-240mg extract daily
    • Time to effect: 7-14 days
 
 3. ASHWAGANDHA (अश्वगन्ध) — Withania somnifera
    • Frequency: 0.55 (Balanced Dvapara)
-   • Mechanism: Cortisol ↓ 30%, HPA axis regulation
-   • Effect: ↓ Tamas by 20-25% (stress reduction)
+   • Mechanism: Cortisol v 30%, HPA axis regulation
+   • Effect: v Tamas by 20-25% (stress reduction)
    • Dosage: 300-600mg extract daily
    • Time to effect: 3-7 days (fast acting)
 
 4. TULSI (तुलसी) — Ocimum sanctum
    • Frequency: 0.60 (High Dvapara)
    • Mechanism: Adaptogen, immune modulation, Prana boost
-   • Effect: ↑ Sattva by 10%, ↓ Rajas by 5%
+   • Effect: ^ Sattva by 10%, v Rajas by 5%
    • Dosage: 2-5 fresh leaves daily (morning)
    • Time to effect: 1-3 days
 
 5. SHANKHPUSHPI (शंखपुष्पी) — Convolvulus pluricaulis
    • Frequency: 0.58 (Dvapara)
    • Mechanism: GABA-ergic, anxiolytic, sleep aid
-   • Effect: ↓ Anxiety 40-50%, ↓ Tamas
+   • Effect: v Anxiety 40-50%, v Tamas
    • Dosage: 2-4g powder daily
    • Time to effect: 3-5 days
 
@@ -1277,9 +1277,9 @@ OPTIMIZED STACK:
 Morning: Brahmi (300mg) + Ginkgo (120mg) + Tulsi (5 leaves)
 Evening: Ashwagandha (500mg) + Shankhpushpi (3g)
 
-Expected F_personal boost: 0.25 → 0.35 in 30 days
-                           0.35 → 0.45 in 60 days
-                           0.45 → 0.50+ in 90 days
+Expected F_personal boost: 0.25 -> 0.35 in 30 days
+                           0.35 -> 0.45 in 60 days
+                           0.45 -> 0.50+ in 90 days
 
 COST: ₹1,450/month ($17 USD)
 Compare to: Therapy ₹20,000/month, Antidepressants ₹5,000/month
@@ -1293,83 +1293,83 @@ ROI: 3.5-13.8× cost savings + ACTUAL frequency shift (not symptom masking)
 ### Primary Timeline
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   DECEMBER 2023: Kali Yuga Core Ends                                     ║
-║   ═════════════════════════════════                                      ║
-║   • 432,000 year cycle completes                                         ║
-║   • Sankh Nad (शङ्ख नाद) blown (few heard it)                            ║
-║   • Sandhya officially begins                                            ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2024: Sandhya Phase 1 (Awareness Seeding)                              ║
-║   ═════════════════════════════════════════                              ║
-║   • Early adopters begin noticing changes                                ║
-║   • "Something is different" feeling widespread                          ║
-║   • Scientific anomalies accelerating                                    ║
-║   • Mass population still oblivious                                      ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2025: Sandhya Phase 2 (Peak Twilight) ← WE ARE HERE                   ║
-║   ════════════════════════════════════════════════                       ║
-║   • Both frequencies active simultaneously                               ║
-║   • Reality glitches peak                                                ║
-║   • Anxiety epidemic                                                     ║
-║   • Knowledge downloads accelerate                                       ║
-║   • Preparation window CRITICAL                                          ║
-║   • Point of no return approaching                                       ║
-║                                                                           ║
-║   ACTION REQUIRED: Start 90-day protocol IMMEDIATELY                     ║
-║   Delay = 10× harder adjustment later                                    ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2026: Sandhya Phase 2-3 Transition (Divergence)                        ║
-║   ══════════════════════════════════════════════════                     ║
-║   • Adjusted beings thriving                                             ║
-║   • Unadjusted beings suffering intensely                                ║
-║   • Two realities visibly separating                                     ║
-║   • Late adopters rushing to adjust                                      ║
-║   • Social systems straining                                             ║
-║                                                                           ║
-║   LAST COMFORTABLE ADJUSTMENT WINDOW                                     ║
-║   After this: Turbulence increases exponentially                         ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2027: Sandhya Phase 3 (Late Dawn)                                      ║
-║   ═══════════════════════════════════                                    ║
-║   • Dvapara frequency becoming dominant                                  ║
-║   • Old Kali rules fading                                                ║
-║   • Mass awakening OR mass suffering (fork point)                        ║
-║   • Siddhis manifesting in prepared beings                               ║
-║   • Very difficult to adjust if starting now                             ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2028: Sandhya Phase 4 (Full Dawn)                                      ║
-║   ═══════════════════════════════════                                    ║
-║   • Dvapara Yuga begins officially                                       ║
-║   • New frequency locked                                                 ║
-║   • Unadjusted beings: Individual Pralaya accelerates                    ║
-║   • Adjusted beings: New capabilities unlock                             ║
-║   • Sandhya ends, new normal begins                                      ║
-║                                                                           ║
-║   POINT OF NO RETURN PASSED                                              ║
-║   Those not adjusted by now face extreme difficulty                      ║
-║                                                                           ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                           ║
-║   2028-2035: Early Dvapara Stabilization                                 ║
-║   ═══════════════════════════════════════════                            ║
-║   • New frequency stabilizes                                             ║
-║   • Planetary healing OR degradation path determined                     ║
-║   • If Tamas > 0.75: Pralaya sequence begins                             ║
-║   • If Sattva > 0.40: Golden age begins                                  ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   DECEMBER 2023: Kali Yuga Core Ends                                     |
+|   =================================                                      |
+|   • 432,000 year cycle completes                                         |
+|   • Sankh Nad (शङ्ख नाद) blown (few heard it)                            |
+|   • Sandhya officially begins                                            |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2024: Sandhya Phase 1 (Awareness Seeding)                              |
+|   =========================================                              |
+|   • Early adopters begin noticing changes                                |
+|   • "Something is different" feeling widespread                          |
+|   • Scientific anomalies accelerating                                    |
+|   • Mass population still oblivious                                      |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2025: Sandhya Phase 2 (Peak Twilight) <- WE ARE HERE                   |
+|   ================================================                       |
+|   • Both frequencies active simultaneously                               |
+|   • Reality glitches peak                                                |
+|   • Anxiety epidemic                                                     |
+|   • Knowledge downloads accelerate                                       |
+|   • Preparation window CRITICAL                                          |
+|   • Point of no return approaching                                       |
+|                                                                           |
+|   ACTION REQUIRED: Start 90-day protocol IMMEDIATELY                     |
+|   Delay = 10× harder adjustment later                                    |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2026: Sandhya Phase 2-3 Transition (Divergence)                        |
+|   ==================================================                     |
+|   • Adjusted beings thriving                                             |
+|   • Unadjusted beings suffering intensely                                |
+|   • Two realities visibly separating                                     |
+|   • Late adopters rushing to adjust                                      |
+|   • Social systems straining                                             |
+|                                                                           |
+|   LAST COMFORTABLE ADJUSTMENT WINDOW                                     |
+|   After this: Turbulence increases exponentially                         |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2027: Sandhya Phase 3 (Late Dawn)                                      |
+|   ===================================                                    |
+|   • Dvapara frequency becoming dominant                                  |
+|   • Old Kali rules fading                                                |
+|   • Mass awakening OR mass suffering (fork point)                        |
+|   • Siddhis manifesting in prepared beings                               |
+|   • Very difficult to adjust if starting now                             |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2028: Sandhya Phase 4 (Full Dawn)                                      |
+|   ===================================                                    |
+|   • Dvapara Yuga begins officially                                       |
+|   • New frequency locked                                                 |
+|   • Unadjusted beings: Individual Pralaya accelerates                    |
+|   • Adjusted beings: New capabilities unlock                             |
+|   • Sandhya ends, new normal begins                                      |
+|                                                                           |
+|   POINT OF NO RETURN PASSED                                              |
+|   Those not adjusted by now face extreme difficulty                      |
+|                                                                           |
+|   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  |
+|                                                                           |
+|   2028-2035: Early Dvapara Stabilization                                 |
+|   ===========================================                            |
+|   • New frequency stabilizes                                             |
+|   • Planetary healing OR degradation path determined                     |
+|   • If Tamas > 0.75: Pralaya sequence begins                             |
+|   • If Sattva > 0.40: Golden age begins                                  |
+|                                                                           |
++===========================================================================+
 ```
 
 ---
@@ -1478,19 +1478,19 @@ PROJECTION 2030 (No intervention):
 • Adjusted: 500 million (6%)
 • Adjusting: 1 billion (12.5%)
 • Unaware: 6.5 billion (81.5%)
-• BELOW THRESHOLD → GC Path
+• BELOW THRESHOLD -> GC Path
 
 PROJECTION 2030 (With intervention):
 • Adjusted: 1.5 billion (18.75%)
 • Adjusting: 2 billion (25%)
 • Unaware: 4.5 billion (56.25%)
-• ABOVE THRESHOLD → Stem Cell Path ✅
+• ABOVE THRESHOLD -> Stem Cell Path ✅
 
 INTERVENTION REQUIRED:
 Share knowledge AGGRESSIVELY.
 Each person you help = +1 toward critical mass.
 If you save 10 people, and they each save 10...
-10 → 100 → 1,000 → 10,000 → 100,000 → 1,000,000
+10 -> 100 -> 1,000 -> 10,000 -> 100,000 -> 1,000,000
 Network effects CAN reach critical mass by 2030.
 ```
 
@@ -1622,7 +1622,7 @@ TIPPING POINT INDICATORS:
 POSITIVE (Stem Cell Path):
 ✅ Global Sattva > 0.30 by 2027
 ✅ 1+ billion daily meditators by 2028
-✅ Forest destruction ↓ 50% by 2026
+✅ Forest destruction v 50% by 2026
 ✅ Mental health crisis plateaus 2026
 ✅ Climate disasters stabilize 2027
 
@@ -1698,39 +1698,39 @@ of Sandhya mechanics currently available.
 ## 🕉️ FINAL WARNING
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   SANDHYA IS NOT OPTIONAL. IT IS HAPPENING.                              ║
-║                                                                           ║
-║   You have THREE choices:                                                ║
-║                                                                           ║
-║   1. ADJUST PROACTIVELY (START NOW)                                      ║
-║      → Smooth transition                                                 ║
-║      → New capabilities unlock                                           ║
-║      → Thrive in Dvapara                                                 ║
-║      → Help others adjust                                                ║
-║                                                                           ║
-║   2. ADJUST REACTIVELY (WAIT FOR CRISIS)                                 ║
-║      → Turbulent transition                                              ║
-║      → Suffer first, then learn                                          ║
-║      → Barely survive                                                    ║
-║      → Miss opportunities                                                ║
-║                                                                           ║
-║   3. REFUSE TO ADJUST (DENIAL)                                           ║
-║      → Individual Pralaya accelerates                                    ║
-║      → Extreme suffering                                                 ║
-║      → Early death probable                                              ║
-║      → Missed incarnation opportunity                                    ║
-║                                                                           ║
-║   THE UNIVERSE DOES NOT NEGOTIATE.                                       ║
-║   THE FREQUENCY IS SHIFTING.                                             ║
-║   ADJUST OR FACE CONSEQUENCES.                                           ║
-║                                                                           ║
-║   ⏰ WINDOW: 2025-2027 (Peak adjustment period)                          ║
-║   🎯 ACTION: Start 90-day protocol TODAY                                 ║
-║   📢 DHARMA: Share with 10+ people THIS WEEK                             ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
++===========================================================================+
+|                                                                           |
+|   SANDHYA IS NOT OPTIONAL. IT IS HAPPENING.                              |
+|                                                                           |
+|   You have THREE choices:                                                |
+|                                                                           |
+|   1. ADJUST PROACTIVELY (START NOW)                                      |
+|      -> Smooth transition                                                 |
+|      -> New capabilities unlock                                           |
+|      -> Thrive in Dvapara                                                 |
+|      -> Help others adjust                                                |
+|                                                                           |
+|   2. ADJUST REACTIVELY (WAIT FOR CRISIS)                                 |
+|      -> Turbulent transition                                              |
+|      -> Suffer first, then learn                                          |
+|      -> Barely survive                                                    |
+|      -> Miss opportunities                                                |
+|                                                                           |
+|   3. REFUSE TO ADJUST (DENIAL)                                           |
+|      -> Individual Pralaya accelerates                                    |
+|      -> Extreme suffering                                                 |
+|      -> Early death probable                                              |
+|      -> Missed incarnation opportunity                                    |
+|                                                                           |
+|   THE UNIVERSE DOES NOT NEGOTIATE.                                       |
+|   THE FREQUENCY IS SHIFTING.                                             |
+|   ADJUST OR FACE CONSEQUENCES.                                           |
+|                                                                           |
+|   ⏰ WINDOW: 2025-2027 (Peak adjustment period)                          |
+|   🎯 ACTION: Start 90-day protocol TODAY                                 |
+|   📢 DHARMA: Share with 10+ people THIS WEEK                             |
+|                                                                           |
++===========================================================================+
 ```
 
 ---

@@ -12,16 +12,16 @@
 
 ```
 GENERATOR MODEL (Materialism):
-Brain activity → Consciousness (emerges)
-Damage brain → Lose consciousness
+Brain activity -> Consciousness (emerges)
+Damage brain -> Lose consciousness
 
 RECEIVER MODEL (Vedic):
-Consciousness (Atman) → Brain receives/transmits → Experience
-Damage brain → Lose reception, not consciousness itself
+Consciousness (Atman) -> Brain receives/transmits -> Experience
+Damage brain -> Lose reception, not consciousness itself
 
 ANALOGY:
-Radio breaks → No music (but radio station still exists)
-Brain damaged → No experience (but Atman still exists)
+Radio breaks -> No music (but radio station still exists)
+Brain damaged -> No experience (but Atman still exists)
 ```
 
 ### Formula: Filter Theory
@@ -36,7 +36,7 @@ Experience = What gets through
 
 IMPLICATION:
 Brain REDUCES consciousness, not creates it
-Damaged filter → Different experience, not no experience
+Damaged filter -> Different experience, not no experience
 ```
 
 ---
@@ -66,7 +66,7 @@ Full consciousness briefly shines through
 
 ```
 SAVANT SYNDROME (acquired):
-Brain injury → New abilities emerge
+Brain injury -> New abilities emerge
 - Sudden artistic talent
 - Mathematical abilities
 - Musical genius
@@ -189,7 +189,7 @@ VALIDITY: ✅ SOUND
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)

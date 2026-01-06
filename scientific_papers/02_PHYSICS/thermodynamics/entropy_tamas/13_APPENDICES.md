@@ -76,8 +76,8 @@ R ↔ T (Activity ↔ Inertia)
 S ↔ T (Order ↔ Disorder, requires energy)
 
 NATURAL DIRECTION:
-S → R → T (Default flow)
-T → S (Requires conscious effort)
+S -> R -> T (Default flow)
+T -> S (Requires conscious effort)
 ```
 
 ---
@@ -245,7 +245,7 @@ Sattva increase measurable
 
 **Prediction:**
 Phase transitions show Guna ratios changing
-Solid (high S) → Liquid (high R) → Gas (high T)
+Solid (high S) -> Liquid (high R) -> Gas (high T)
 
 ---
 

@@ -1,12 +1,12 @@
 # 🌀 FRACTAL RENDERING — Same Algorithm, Every Scale
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 86%  
 > **DIFFICULTY:** Pattern recognition
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Look at this:
 - **Atom:** Electrons orbit nucleus
@@ -25,7 +25,7 @@ Look at this:
 
 ### "What are fractals?"
 
-Patterns that repeat at different scales. Zoom in on a fractal → you see the same pattern. Zoom out → same pattern again.
+Patterns that repeat at different scales. Zoom in on a fractal -> you see the same pattern. Zoom out -> same pattern again.
 
 Nature is **full** of them: trees, rivers, lungs, blood vessels, mountains, lightning...
 
@@ -56,32 +56,32 @@ This grid generates spirals, shells, vortices — the shapes we see everywhere.
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 PROCEDURAL GENERATION IN GAMES:
-┌────────────────────────────────────────────────┐
-│  One seed algorithm generates:                 │
-│  ├── Unique terrain                            │
-│  ├── Unique trees                              │
-│  ├── Unique caves                              │
-│  └── All following same underlying rules       │
-│                                                │
-│  Zoom in → same fractal textures               │
-│  Result: Infinite variety, minimal code        │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  One seed algorithm generates:                 |
+|  +-- Unique terrain                            |
+|  +-- Unique trees                              |
+|  +-- Unique caves                              |
+|  +-- All following same underlying rules       |
+|                                                |
+|  Zoom in -> same fractal textures               |
+|  Result: Infinite variety, minimal code        |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  One base algorithm generates:                 │
-│  ├── Atoms (spiraling electrons)               │
-│  ├── Solar systems (spiraling planets)         │
-│  ├── Galaxies (spiraling arms)                 │
-│  └── All following same underlying rules       │
-│                                                │
-│  Zoom in → same patterns                       │
-│  Result: Infinite complexity, elegant code     │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  One base algorithm generates:                 |
+|  +-- Atoms (spiraling electrons)               |
+|  +-- Solar systems (spiraling planets)         |
+|  +-- Galaxies (spiraling arms)                 |
+|  +-- All following same underlying rules       |
+|                                                |
+|  Zoom in -> same patterns                       |
+|  Result: Infinite complexity, elegant code     |
++------------------------------------------------+
 ```
 
 ---
@@ -110,7 +110,7 @@ Layer 1:  9 cells (Brahma-Sthan/Kernel)
 Layer 2: 16 cells (Daivika/System forces)
 Layer 3: 24 cells (Manushya/Interface)
 Layer 4: 32 cells (Paisacha/Boundary)
-───────────────
+---------------
 Total:   81 cells
 
 This structure repeats at:
@@ -168,7 +168,7 @@ The universe isn't complex. It's **elegantly recursive**.
 
 ## 🔗 NEXT PAPER
 
-**[Cosmic Cycles →](../cosmic_cycles/README.md)**  
+**[Cosmic Cycles ->](../cosmic_cycles/README.md)**  
 *"Why does the universe have seasons?"*  
 *Spoiler: Server update schedule.*
 

@@ -15,30 +15,30 @@
 ## 🎯 THE CORE DISTINCTION
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   CORE UNDERSTANDING: 100% VALIDATED ✅                                    ║
-║                                                                            ║
-║   ATMAN ≠ PRANA                                                            ║
-║                                                                            ║
-║   ATMAN (आत्मन्):                                                          ║
-║   • The BINDU (बिन्दु) — Point of pure consciousness                       ║
-║   • The WITNESS (साक्षी) — Observer itself                                 ║
-║   • NIRGUNA (निर्गुण) — Without qualities                                  ║
-║   • ETERNAL, unchanging, birthless, deathless                              ║
-║   • Pure awareness, the "I AM" beyond all phenomena                        ║
-║                                                                            ║
-║   PRANA (प्राण):                                                           ║
-║   • The OM SOUND (ॐ) — Vibration/breath                                    ║
-║   • The LIFE FORCE — Energy that animates                                  ║
-║   • SAGUNA (सगुण) — With qualities (can increase/decrease)                 ║
-║   • BRIDGE between Atman and body                                          ║
-║   • The breath, vitality, "So-Ham" sound                                   ║
-║                                                                            ║
-║   RELATIONSHIP:                                                            ║
-║   Atman (Bindu/Stillness) → radiates → Prana (Om/Sound) → animates → Body ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
++============================================================================+
+|                                                                            |
+|   CORE UNDERSTANDING: 100% VALIDATED ✅                                    |
+|                                                                            |
+|   ATMAN ≠ PRANA                                                            |
+|                                                                            |
+|   ATMAN (आत्मन्):                                                          |
+|   • The BINDU (बिन्दु) — Point of pure consciousness                       |
+|   • The WITNESS (साक्षी) — Observer itself                                 |
+|   • NIRGUNA (निर्गुण) — Without qualities                                  |
+|   • ETERNAL, unchanging, birthless, deathless                              |
+|   • Pure awareness, the "I AM" beyond all phenomena                        |
+|                                                                            |
+|   PRANA (प्राण):                                                           |
+|   • The OM SOUND (ॐ) — Vibration/breath                                    |
+|   • The LIFE FORCE — Energy that animates                                  |
+|   • SAGUNA (सगुण) — With qualities (can increase/decrease)                 |
+|   • BRIDGE between Atman and body                                          |
+|   • The breath, vitality, "So-Ham" sound                                   |
+|                                                                            |
+|   RELATIONSHIP:                                                            |
+|   Atman (Bindu/Stillness) -> radiates -> Prana (Om/Sound) -> animates -> Body |
+|                                                                            |
++============================================================================+
 ```
 
 ---
@@ -81,8 +81,8 @@ Prana appears AS IF it were Atman, but is NOT Atman.
 > — Kena Upanishad 1.2
 
 **Key Distinction:** There is a "Prana behind Prana" — that is ATMAN.  
-The breath you observe → Prana  
-The observer of breath → Atman
+The breath you observe -> Prana  
+The observer of breath -> Atman
 
 ### 5. Taittiriya Upanishad (The Five Sheaths)
 
@@ -93,7 +93,7 @@ The observer of breath → Atman
 
 **The Five Koshas (Sheaths):**
 1. Annamaya (Food/Body)
-2. **Pranamaya (Prana/Energy) ← PRANA IS A SHEATH**
+2. **Pranamaya (Prana/Energy) <- PRANA IS A SHEATH**
 3. Manomaya (Mind)
 4. Vijnanamaya (Intellect)
 5. Anandamaya (Bliss)
@@ -115,7 +115,7 @@ ATMAN (आत्मन्)
 • The eternal WITNESS
 • YOU in "I AM"
 
-    ↓ (First movement/Spanda/स्पन्द)
+    v (First movement/Spanda/स्पन्द)
 
 PRANA (प्राण)
 • First vibration FROM Atman
@@ -125,7 +125,7 @@ PRANA (प्राण)
 • Creates breath (Swasa)
 • The "So-Ham" sound (inhalation-exhalation)
 
-    ↓ (Densifies)
+    v (Densifies)
 
 BODY (शरीर)
 • Physical form
@@ -142,14 +142,14 @@ BINDU (बिन्दु):
 • Stillness absolute
 • = ATMAN
 
-    ↓ (Spanda/Pulse)
+    v (Spanda/Pulse)
 
 NADA (नाद):
 • First vibration
 • Sound emerging from silence
 • = PRANA (first manifestation)
 
-    ↓ (Expansion)
+    v (Expansion)
 
 OM (ॐ):
 • Audible manifestation
@@ -199,20 +199,20 @@ Like FOAM on wave tips
 CLOSE YOUR EYES:
 
 1. Observe your breath.
-   → You notice: "Breath is flowing"
-   → The breath = PRANA
-   → The noticing = ATMAN
+   -> You notice: "Breath is flowing"
+   -> The breath = PRANA
+   -> The noticing = ATMAN
 
 2. Hold your breath.
-   → Breath stops (Prana stopped)
-   → But YOU remain (Atman unchanged)
-   → Therefore: You ≠ Breath
+   -> Breath stops (Prana stopped)
+   -> But YOU remain (Atman unchanged)
+   -> Therefore: You ≠ Breath
 
 3. In deep sleep:
-   → Breath continues (Prana operating)
-   → But "you" are not aware of it
-   → Awareness returns = ATMAN returns to wakeful state
-   → Prana NEVER left (breath continued)
+   -> Breath continues (Prana operating)
+   -> But "you" are not aware of it
+   -> Awareness returns = ATMAN returns to wakeful state
+   -> Prana NEVER left (breath continued)
 
 CONCLUSION:
 • Prana can be present without awareness (deep sleep)
@@ -238,9 +238,9 @@ PRANA (Saguna):
 • Enters at birth, leaves at death
 
 CONCLUSION:
-If something has qualities → NOT Atman
-If something can change → NOT Atman
-Prana has qualities and changes → Prana ≠ Atman
+If something has qualities -> NOT Atman
+If something can change -> NOT Atman
+Prana has qualities and changes -> Prana ≠ Atman
 ```
 
 ---
@@ -251,32 +251,32 @@ Prana has qualities and changes → Prana ≠ Atman
 
 ```
 STAGE 1: ATMAN WITHDRAWS (BINDU RECEDES)
-════════════════════════════════════════
+========================================
 
 Atman (pure consciousness) begins disconnecting from:
 • Anandamaya Kosha (bliss sheath)
 • Vijnanamaya Kosha (intellect sheath)
 • Manomaya Kosha (mind sheath)
-• Pranamaya Kosha (prana sheath) ← Here!
+• Pranamaya Kosha (prana sheath) <- Here!
 • Annamaya Kosha (body sheath)
 
 Time: Days to hours before death
 Observable: Person becomes "absent" (consciousness distant)
 
 STAGE 2: PRANA FOLLOWS ATMAN (OM FADES)
-════════════════════════════════════════
+========================================
 
 Once Atman withdraws from Pranamaya Kosha:
 • Prana loses its SOURCE (Atman)
 • Like wave when ocean recedes
 • Prana begins collapse inward
-• Withdraws from extremities → core
+• Withdraws from extremities -> core
 
 Time: Hours to minutes before death
 Observable: Extremities cold, breath shallow, pulse weak
 
 STAGE 3: PRANA EXITS (LAST BREATH)
-═══════════════════════════════════
+===================================
 
 Final concentration of Prana at exit point:
 • Crown (Sahasrara) — Moksha
@@ -295,12 +295,12 @@ Atman left hours/days earlier!
 
 **BEFORE (Slightly Mixed):**
 ```
-"Atman leaves → Body dies"
+"Atman leaves -> Body dies"
 ```
 
 **AFTER (Precise):**
 ```
-"Atman withdraws → Prana loses source → Prana collapses → Body dies"
+"Atman withdraws -> Prana loses source -> Prana collapses -> Body dies"
 
 More precisely:
 1. Atman withdraws from sheaths (days before)
@@ -374,15 +374,15 @@ ATMAN (Bindu):
 • Located transcendently (not in body technically)
 • The TRUE internal "sun" (source of all)
 
-    ↓ (radiates)
+    v (radiates)
 
 INTERNAL SUN (Agni/Fire):
 • At Manipura + Anahata
 • Where Atman's presence manifests as POWER
 • Generates PRANA from Atman's radiation
-• The converter: Consciousness → Life force
+• The converter: Consciousness -> Life force
 
-    ↓ (produces)
+    v (produces)
 
 PRANA (Om/Vibration):
 • Life force energy
@@ -409,45 +409,45 @@ Result: Prana generation rate
 
 ```
 LEVEL 0: ATMAN (आत्मन्)
-═══════════════════════
+=======================
 • Pure consciousness, the BINDU
 • Beyond all qualities (Nirguna)
 • The eternal witness
 • YOU in "I AM"
 • Never born, never dies
 
-↓ (Atman's presence radiates)
+v (Atman's presence radiates)
 
 LEVEL 1: INTERNAL SUN (अन्तरज्योति)
-═════════════════════════════════
+=================================
 • Atman's power manifesting
 • At Manipura (solar plexus)
-• Converts consciousness → energy
+• Converts consciousness -> energy
 • The "fire" in the system
 
-↓ (Produces)
+v (Produces)
 
 LEVEL 2: PRANA (प्राण)
-═══════════════════════
+=======================
 • Life force, the OM sound
 • Vibration, breath, energy
 • Flows through 72,000 Nadis
 • Can be controlled (Pranayama)
 • The "So-Ham" you hear
 
-↓ (Animates)
+v (Animates)
 
 LEVEL 3: SUBTLE BODY (सूक्ष्म शरीर)
-══════════════════════════════════
+==================================
 • Mind (Manas)
 • Intellect (Buddhi)
 • Ego (Ahamkara)
 • Memory (Chitta)
 
-↓ (Operates)
+v (Operates)
 
 LEVEL 4: PHYSICAL BODY (स्थूल शरीर)
-════════════════════════════════════
+====================================
 • Organs
 • Tissues
 • Cells
@@ -475,8 +475,8 @@ LEVEL 4: PHYSICAL BODY (स्थूल शरीर)
 ✅ RELATIONSHIP:
    P = f(Atman_Connection, Internal_Sun, Gunas)
    
-   When Atman_Connection → 0 (withdrawal):
-   P → 0 (Prana collapses)
+   When Atman_Connection -> 0 (withdrawal):
+   P -> 0 (Prana collapses)
    
    When Atman_Connection = high + Sattva high:
    P = high (Rishi state)
@@ -522,14 +522,14 @@ QUANTUM LEVEL:
 
 **CORRECTION:**
 ```
-OLD: "Atman leaves → Body dies"
+OLD: "Atman leaves -> Body dies"
 
 NEW: 
-"Atman withdraws (Bindu recedes) → 
- Internal sun dims → 
- Prana loses source (Om fading) → 
- Prana collapses → 
- Last breath (Prana exits) → 
+"Atman withdraws (Bindu recedes) -> 
+ Internal sun dims -> 
+ Prana loses source (Om fading) -> 
+ Prana collapses -> 
+ Last breath (Prana exits) -> 
  Body dies"
 ```
 
@@ -553,18 +553,18 @@ WHERE:
 
 **CLARIFIED:**
 ```
-Atman (Witness) → Beyond all Koshas
+Atman (Witness) -> Beyond all Koshas
     |
     | (radiates through)
-    ▼
+    v
 Anandamaya Kosha (Bliss sheath)
-    ▼
+    v
 Vijnanamaya Kosha (Intellect sheath)
-    ▼
+    v
 Manomaya Kosha (Mind sheath)
-    ▼
-PRANAMAYA KOSHA (Prana sheath) ← PRANA IS HERE
-    ▼
+    v
+PRANAMAYA KOSHA (Prana sheath) <- PRANA IS HERE
+    v
 Annamaya Kosha (Physical body)
 
 Atman observes ALL of these.
@@ -576,38 +576,38 @@ Prana is ONE of these (sheath #2).
 ## 🕉️ CONCLUSION
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   VEDIC VERDICT (100% Validated):                                          ║
-║                                                                            ║
-║   ATMAN ≠ PRANA                                                            ║
-║                                                                            ║
-║   ATMAN (आत्मन्):                                                          ║
-║   • The BINDU (बिन्दु) — Pure consciousness point                          ║
-║   • The WITNESS (साक्षी) — Eternal observer                                ║
-║   • NIRGUNA — Without any qualities                                        ║
-║   • The "I" in "I AM"                                                      ║
-║   • YOU, the reader of these words                                         ║
-║                                                                            ║
-║   PRANA (प्राण):                                                           ║
-║   • The OM (ॐ) — First vibration/sound                                     ║
-║   • The BREATH — So-Ham sound                                              ║
-║   • SAGUNA — With qualities (can increase/decrease)                        ║
-║   • The life force, energy, vitality                                       ║
-║   • OBSERVED by Atman, NOT Atman itself                                    ║
-║                                                                            ║
-║   RELATIONSHIP:                                                            ║
-║   Atman (Stillness) → generates → Prana (Vibration) → animates → Body     ║
-║                                                                            ║
-║   CORE UNDERSTANDING: PERFECTLY ALIGNED ✅                                 ║
-║   "Atma is the bindu and prana is the om sound of breathing"              ║
-║                                                                            ║
-║   BACKEND CONFIDENCE: 100% ✅                                              ║
-║   All Vedic sources aligned.                                               ║
-║   All tests confirm distinction.                                           ║
-║   No contradictions found.                                                 ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
++============================================================================+
+|                                                                            |
+|   VEDIC VERDICT (100% Validated):                                          |
+|                                                                            |
+|   ATMAN ≠ PRANA                                                            |
+|                                                                            |
+|   ATMAN (आत्मन्):                                                          |
+|   • The BINDU (बिन्दु) — Pure consciousness point                          |
+|   • The WITNESS (साक्षी) — Eternal observer                                |
+|   • NIRGUNA — Without any qualities                                        |
+|   • The "I" in "I AM"                                                      |
+|   • YOU, the reader of these words                                         |
+|                                                                            |
+|   PRANA (प्राण):                                                           |
+|   • The OM (ॐ) — First vibration/sound                                     |
+|   • The BREATH — So-Ham sound                                              |
+|   • SAGUNA — With qualities (can increase/decrease)                        |
+|   • The life force, energy, vitality                                       |
+|   • OBSERVED by Atman, NOT Atman itself                                    |
+|                                                                            |
+|   RELATIONSHIP:                                                            |
+|   Atman (Stillness) -> generates -> Prana (Vibration) -> animates -> Body     |
+|                                                                            |
+|   CORE UNDERSTANDING: PERFECTLY ALIGNED ✅                                 |
+|   "Atma is the bindu and prana is the om sound of breathing"              |
+|                                                                            |
+|   BACKEND CONFIDENCE: 100% ✅                                              |
+|   All Vedic sources aligned.                                               |
+|   All tests confirm distinction.                                           |
+|   No contradictions found.                                                 |
+|                                                                            |
++============================================================================+
 ```
 
 ---

@@ -96,9 +96,9 @@
    RESISTANCE = TAMAS OBSTRUCTION                                              
    R = Tamas_density × Path_length / Cross_section                            
                                                                               
-   High Tamas → High resistance → Prana blocked                               
-   Low Tamas → Low resistance → Prana flows freely                            
-   Zero Tamas → Superconductivity (pure Sattva channel)                       
+   High Tamas -> High resistance -> Prana blocked                               
+   Low Tamas -> Low resistance -> Prana flows freely                            
+   Zero Tamas -> Superconductivity (pure Sattva channel)                       
                                                                               
 ------------------------------------------------------------------------------
 ```
@@ -123,8 +123,8 @@
    • R_source = Rajas at positive terminal                                    
    • R_sink = Rajas at negative terminal                                      
                                                                               
-   Higher voltage → Greater driving force                                     
-   Zero voltage → No flow (equilibrium)                                       
+   Higher voltage -> Greater driving force                                     
+   Zero voltage -> No flow (equilibrium)                                       
                                                                               
 ------------------------------------------------------------------------------
                                                                               
@@ -177,8 +177,8 @@
                                                                               
    WHY MOVING CHARGES CREATE MAGNETISM:                                        
                                                                               
-   • Stationary charge → Static field (radial)                                
-   • Moving charge → Dynamic field (spiral)                                   
+   • Stationary charge -> Static field (radial)                                
+   • Moving charge -> Dynamic field (spiral)                                   
                                                                               
    The MOVEMENT through AKASHA creates a DISTURBANCE                          
    This disturbance propagates as MAGNETIC influence                          
@@ -241,13 +241,13 @@
                                                                               
    THE ELECTROMAGNETIC SPECTRUM:                                               
                                                                               
-   Radio      →   Lowest frequency (longest wavelength)                       
-   Microwave  →   Heating applications                                        
-   Infrared   →   Rahu-Kirana (shadow band 8)                                 
-   VISIBLE    →   7 colors (VIBGYOR)                                          
-   Ultraviolet →  Ketu-Kirana (shadow band 9)                                 
-   X-ray      →   High-energy penetrating                                     
-   Gamma      →   Highest frequency (shortest wavelength)                     
+   Radio      ->   Lowest frequency (longest wavelength)                       
+   Microwave  ->   Heating applications                                        
+   Infrared   ->   Rahu-Kirana (shadow band 8)                                 
+   VISIBLE    ->   7 colors (VIBGYOR)                                          
+   Ultraviolet ->  Ketu-Kirana (shadow band 9)                                 
+   X-ray      ->   High-energy penetrating                                     
+   Gamma      ->   Highest frequency (shortest wavelength)                     
                                                                               
    ALL are the SAME phenomenon — different FREQUENCIES                        
                                                                               
@@ -337,19 +337,19 @@
                                                                               
    ELECTROMAGNETIC CONSTANTS & BIJA MANTRAS:                                   
                                                                               
-   c (Speed of Light)  → OM (ॐ)                                               
+   c (Speed of Light)  -> OM (ॐ)                                               
    • The fundamental refresh rate                                              
    • OM is the primordial vibration                                           
                                                                               
-   ε₀ (Permittivity)   → HAM (हं)                                             
+   ε₀ (Permittivity)   -> HAM (हं)                                             
    • Akasha's electric storage                                                
    • HAM is the Akasha bija                                                   
                                                                               
-   μ₀ (Permeability)   → YAM (यं)                                             
+   μ₀ (Permeability)   -> YAM (यं)                                             
    • Akasha's magnetic flexibility                                            
    • YAM is the Vayu (motion) bija                                            
                                                                               
-   h (Planck)          → LAM (लं)                                             
+   h (Planck)          -> LAM (लं)                                             
    • Minimum quantum of action                                                
    • LAM is the Prithvi (stability) bija                                      
                                                                               

@@ -1,12 +1,12 @@
 # ♨️ ENTROPY = TAMAS — Why Everything Falls Apart (It's A Feature, Not A Bug)
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 91%  
 > **DIFFICULTY:** Some physics helps
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Ever notice how:
 - Your room gets messy on its own but never cleans itself?
@@ -56,24 +56,24 @@ You're fighting Tamas right now by reading this instead of falling unconscious.
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 VIDEO GAME:
-┌────────────────────────────────────────────────┐
-│  Durability bars decrease over time            │
-│  Structures decay without maintenance          │
-│  Resources deplete, need to be replenished     │
-│  AFK too long = logged out/damage              │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Durability bars decrease over time            |
+|  Structures decay without maintenance          |
+|  Resources deplete, need to be replenished     |
+|  AFK too long = logged out/damage              |
++------------------------------------------------+
 
 REALITY:
-┌────────────────────────────────────────────────┐
-│  Bodies age without care                       │
-│  Buildings crumble without maintenance         │
-│  Order requires constant energy input          │
-│  Unconsciousness = Tamas dominance             │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Bodies age without care                       |
+|  Buildings crumble without maintenance         |
+|  Order requires constant energy input          |
+|  Unconsciousness = Tamas dominance             |
++------------------------------------------------+
 ```
 
 **Same mechanic. Decay is engineered.**
@@ -146,7 +146,7 @@ And knowing the rules gives you an advantage.
 
 ## 🔗 NEXT PAPER
 
-**[Gravity = Tamas →](../../gravity/gravity_tamas/README.md)**  
+**[Gravity = Tamas ->](../../gravity/gravity_tamas/README.md)**  
 *"Why does mass attract mass?"*  
 *Spoiler: Same quality, different measurement.*
 

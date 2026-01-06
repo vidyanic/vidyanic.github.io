@@ -26,9 +26,9 @@
 
 ## 12.4 Related Papers
 
-8. [Epigenetics = Samskaras](../../epigenetics/epigenetics_samskaras/)
-9. [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity/)
-10. [Entropy = Tamas](../../../02_PHYSICS/thermodynamics/entropy_tamas/)
+8. [Epigenetics = Samskaras](../../epigenetics/epigenetics_samskaras)
+9. [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity)
+10. [Entropy = Tamas](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
 
 ---
 

@@ -20,7 +20,7 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [geometry_sacred/](./geometry_sacred/) | Divine patterns | Sacred geometry validation |
+| [geometry_sacred/](../geometry_sacred) | Divine patterns | Sacred geometry validation |
 
 ---
 
@@ -70,20 +70,20 @@ Vedic view: Universe IS mathematical — Rta (cosmic order) is number
 THE MATHEMATICAL UNIVERSE:
 ━━━━━━━━━━━━━━━━━━━━━━━━
 Brahman (Source)
-    ↓
+    v
 Shabda (Sound/Vibration)
-    ↓
+    v
 Rupa (Form/Geometry)
-    ↓
+    v
 Physical Reality
 
-Sound → Form → Matter
+Sound -> Form -> Matter
 This is why Cymatics works!
 ```
 
 ---
 
-**Start with:** [Sacred Geometry](./geometry_sacred/sacred_geometry.md)
+**Start with:** [Sacred Geometry](../../geometry_sacred/sacred_geometry.md)
 
 **ॐ गणेशाय नमः**  
 *Salutations to Ganesha (Lord of Numbers)*

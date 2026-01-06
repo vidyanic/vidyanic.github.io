@@ -68,10 +68,10 @@ POSTERIOR: P(non-local consciousness) = Significantly higher
 
 | Scale | Death Process | Recovery |
 |-------|---------------|----------|
-| Universe | Pralaya → Recreation | Yes |
-| Solar system | Star death → Nebula | Yes |
-| Organism | Death → Decomposition | Yes (NDE = interrupted) |
-| Cell | Apoptosis → Recycling | Yes |
+| Universe | Pralaya -> Recreation | Yes |
+| Solar system | Star death -> Nebula | Yes |
+| Organism | Death -> Decomposition | Yes (NDE = interrupted) |
+| Cell | Apoptosis -> Recycling | Yes |
 
 NDE fits the fractal pattern: Death interrupted = Return.
 

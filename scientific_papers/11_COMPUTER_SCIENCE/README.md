@@ -20,7 +20,7 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [simulation_theory/](./simulation_theory/) | Universe as computation | Maya = rendering engine |
+| [simulation_theory/](../simulation_theory) | Universe as computation | Maya = rendering engine |
 
 ---
 
@@ -62,7 +62,7 @@
 ## 💡 The Key Insight
 
 **Elon Musk:** "Odds are billions to one we're NOT in a simulation"
-**Vedas (5000 years ago):** "All this is Maya"
+**Vedas:** "All this is Maya"
 
 ```
 SIMULATION THEORY        ↔        MAYA DOCTRINE
@@ -82,7 +82,7 @@ Exit = death/enlightenment       Moksha = liberation
 
 ---
 
-**Start with:** [Universe as Simulation](./simulation_theory/universe_as_simulation.md)
+**Start with:** [Universe as Simulation](../../simulation_theory/universe_as_simulation.md)
 
 **ॐ ब्रह्म सत्यं जगत् मिथ्या**  
 *Brahman is real, the world is appearance*

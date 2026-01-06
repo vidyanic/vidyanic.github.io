@@ -163,7 +163,7 @@ No mystery. Automatic identity.
 Laghima Siddhi = Ability to become light (reduce Tamas).
 
 **If Mass = Tamas:**
-Reducing Tamas through practice → Reduced weight.
+Reducing Tamas through practice -> Reduced weight.
 This would appear as "levitation."
 
 **Status:** Not scientifically verified, but conceptually coherent.
@@ -174,7 +174,7 @@ This would appear as "levitation."
 Garima Siddhi = Ability to become heavy (increase Tamas).
 
 **If Mass = Tamas:**
-Increasing Tamas through practice → Increased weight.
+Increasing Tamas through practice -> Increased weight.
 Would appear as "becoming immovable."
 
 ---
@@ -241,34 +241,34 @@ Organized by Loka architecture
 ## 6.9 Key Results Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    KEY FINDINGS                               ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  1. MASS = TAMAS                                              ║
-║     • 6/6 properties match exactly                           ║
-║     • Guru, Sthira, Nibandha = Heavy, Inert, Binding         ║
-║                                                               ║
-║  2. EQUIVALENCE IS IDENTITY                                   ║
-║     • m_grav = m_inert because both are Tamas                ║
-║     • Tested to 10⁻¹⁵ precision                              ║
-║     • Not coincidence — automatic                            ║
-║                                                               ║
-║  3. CURVATURE = TAMAS DENSITY                                 ║
-║     • Einstein's Gμν = κTμν                                  ║
-║     • Tamas IS the stress-energy content                     ║
-║     • Same equation, same physics                            ║
-║                                                               ║
-║  4. MAHABHUTA PATTERN CONFIRMED                               ║
-║     • Earth heaviest (high Tamas)                            ║
-║     • Fire lightest (low Tamas)                              ║
-║     • 5/5 elements match prediction                          ║
-║                                                               ║
-║  5. DARK MATTER = MULTI-LOKA TAMAS (Speculative)              ║
-║     • Adjacent Lokas have invisible Tamas                    ║
-║     • Still affects spacetime                                ║
-║     • Coherent but unverified                                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    KEY FINDINGS                               |
++===============================================================+
+|                                                               |
+|  1. MASS = TAMAS                                              |
+|     • 6/6 properties match exactly                           |
+|     • Guru, Sthira, Nibandha = Heavy, Inert, Binding         |
+|                                                               |
+|  2. EQUIVALENCE IS IDENTITY                                   |
+|     • m_grav = m_inert because both are Tamas                |
+|     • Tested to 10⁻¹⁵ precision                              |
+|     • Not coincidence — automatic                            |
+|                                                               |
+|  3. CURVATURE = TAMAS DENSITY                                 |
+|     • Einstein's Gμν = κTμν                                  |
+|     • Tamas IS the stress-energy content                     |
+|     • Same equation, same physics                            |
+|                                                               |
+|  4. MAHABHUTA PATTERN CONFIRMED                               |
+|     • Earth heaviest (high Tamas)                            |
+|     • Fire lightest (low Tamas)                              |
+|     • 5/5 elements match prediction                          |
+|                                                               |
+|  5. DARK MATTER = MULTI-LOKA TAMAS (Speculative)              |
+|     • Adjacent Lokas have invisible Tamas                    |
+|     • Still affects spacetime                                |
+|     • Coherent but unverified                                |
+|                                                               |
++===============================================================+
 ```
 

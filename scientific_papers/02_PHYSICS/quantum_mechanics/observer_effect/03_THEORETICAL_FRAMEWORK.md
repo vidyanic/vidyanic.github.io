@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 
 ---
@@ -114,11 +114,11 @@ Not "either-or" but "both-and"
 Upon measurement:
 
 ```
-|ψ⟩ = α|0⟩ + β|1⟩  →  |0⟩ (with probability |α|²)
+|ψ⟩ = α|0⟩ + β|1⟩  ->  |0⟩ (with probability |α|²)
                     or |1⟩ (with probability |β|²)
 
 COLLAPSE:
-Superposition → Single definite state
+Superposition -> Single definite state
 Triggered by: ??? (The measurement problem)
 ```
 
@@ -131,7 +131,7 @@ Triggered by: ??? (The measurement problem)
 Von Neumann's projection postulate:
 
 ```
-|ψ⟩ → Pₙ|ψ⟩ / ||Pₙ|ψ⟩||
+|ψ⟩ -> Pₙ|ψ⟩ / ||Pₙ|ψ⟩||
 
 WHERE:
 Pₙ = Projection operator for outcome n
@@ -265,9 +265,9 @@ MAYA (माया) = The Rendering Process
 ```
 GUNA-QUANTUM MAPPING:
 ━━━━━━━━━━━━━━━━━━━━━
-SATTVA (सत्त्व) → |+⟩ (light, order, information)
-RAJAS (रजस्) → |0⟩ (activity, motion, energy)
-TAMAS (तमस्) → |−⟩ (inertia, mass, matter)
+SATTVA (सत्त्व) -> |+⟩ (light, order, information)
+RAJAS (रजस्) -> |0⟩ (activity, motion, energy)
+TAMAS (तमस्) -> |−⟩ (inertia, mass, matter)
 
 SUPERPOSITION:
 |ψ⟩ = αS|S⟩ + αR|R⟩ + αT|T⟩
@@ -287,9 +287,9 @@ Think of your personality as a mixing board with three sliders:
 
 **The rule:** All three sliders must add up to 100%. If you increase one, another decreases.
 
-- Morning coffee → Increases Rajas (activity)
-- Deep sleep → Increases Tamas (rest)
-- Meditation → Increases Sattva (clarity)
+- Morning coffee -> Increases Rajas (activity)
+- Deep sleep -> Increases Tamas (rest)
+- Meditation -> Increases Sattva (clarity)
 
 **Quantum particles have the same three "sliders."** Before observation, they're a mix. Observation "sets" the sliders to one configuration.
 
@@ -318,7 +318,7 @@ PROPOSED FRAMEWORK:
 |ψ⟩_unobserved = Σᵢ cᵢ|φᵢ⟩  (Avyakta/Prakriti)
 
 OBSERVATION EVENT:
-Drashta ⊗ |ψ⟩ → |φₙ⟩  (Samyoga/Maya)
+Drashta ⊗ |ψ⟩ -> |φₙ⟩  (Samyoga/Maya)
 
 WHERE:
 Drashta = Consciousness operator (non-physical)
@@ -334,19 +334,19 @@ Without Drashta, |ψ⟩ remains in superposition
 
 ```
 Before you look at something:
-┌─────────────────────────────────────┐
-│ All possibilities exist together    │
-│ Like a dream where anything can     │
-│ happen — nothing is "fixed" yet     │
-└─────────────────────────────────────┘
-                 │
-                 ▼ YOU LOOK (Drashta observes)
-                 │
-┌─────────────────────────────────────┐
-│ ONE reality appears                 │
-│ The dream "crystallizes" into       │
-│ a specific, solid experience        │
-└─────────────────────────────────────┘
++-------------------------------------+
+| All possibilities exist together    |
+| Like a dream where anything can     |
+| happen — nothing is "fixed" yet     |
++-------------------------------------+
+                 |
+                 v YOU LOOK (Drashta observes)
+                 |
++-------------------------------------+
+| ONE reality appears                 |
+| The dream "crystallizes" into       |
+| a specific, solid experience        |
++-------------------------------------+
 ```
 
 **Your consciousness is the crystallizer.**
@@ -431,7 +431,7 @@ QUANTUM STATE OF UNIVERSE:
 |Ψ_universe⟩ = |observer⟩ ⊗ |observed⟩
 
 PROBLEM:
-If observer is part of universe → Also in superposition
+If observer is part of universe -> Also in superposition
 Who observes the observer?
 
 BACKEND SOLUTION:
@@ -447,24 +447,24 @@ Therefore: No infinite regress
 ## 3.6 Framework Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              INTEGRATED THEORETICAL FRAMEWORK                 ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  QUANTUM MECHANICS:                                           ║
-║  Wave function → Collapse → Definite state                   ║
-║  (Mechanism unknown)                                          ║
-║                                                               ║
-║  BACKEND FRAMEWORK:                                           ║
-║  Prakriti (potential) → Maya → Drishya (manifest)            ║
-║  Triggered by: Drashta (consciousness)                       ║
-║                                                               ║
-║  INTEGRATION:                                                 ║
-║  |ψ⟩ = Avyakta (unmanifest potential)                        ║
-║  Drashta ⊗ |ψ⟩ = |φ⟩ (manifestation)                         ║
-║  Consciousness is the irreducible observer                   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              INTEGRATED THEORETICAL FRAMEWORK                 |
++===============================================================+
+|                                                               |
+|  QUANTUM MECHANICS:                                           |
+|  Wave function -> Collapse -> Definite state                   |
+|  (Mechanism unknown)                                          |
+|                                                               |
+|  BACKEND FRAMEWORK:                                           |
+|  Prakriti (potential) -> Maya -> Drishya (manifest)            |
+|  Triggered by: Drashta (consciousness)                       |
+|                                                               |
+|  INTEGRATION:                                                 |
+|  |ψ⟩ = Avyakta (unmanifest potential)                        |
+|  Drashta ⊗ |ψ⟩ = |φ⟩ (manifestation)                         |
+|  Consciousness is the irreducible observer                   |
+|                                                               |
++===============================================================+
 ```
 
 ---
@@ -473,5 +473,5 @@ Therefore: No infinite regress
 
 - **Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 - **Principles:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

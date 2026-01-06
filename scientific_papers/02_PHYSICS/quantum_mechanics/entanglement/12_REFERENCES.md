@@ -21,8 +21,8 @@
 
 ## 12.3 Related Papers
 
-8. [Observer Effect](../observer_effect/)
-9. [Heisenberg Uncertainty](../heisenberg_uncertainty/)
+8. [Observer Effect](../observer_effect)
+9. [Heisenberg Uncertainty](../heisenberg_uncertainty)
 
 ---
 

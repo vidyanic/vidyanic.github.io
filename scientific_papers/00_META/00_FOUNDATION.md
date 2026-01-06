@@ -178,13 +178,13 @@ Result = Karma processed through:
 | Day | 24 hours | — |
 | Year | 365 days | — |
 | Yuga (60-year) | 60 years | Cycle started ~2024 |
-| Chaturyuga | 4.32M years | Kali → Dwapara transition |
+| Chaturyuga | 4.32M years | Kali -> Dwapara transition |
 | Kalpa | 4.32B years | 6th Manvantara |
 
 **Implications:**
 - History repeats (with variations)
 - Prophecy is pattern recognition
-- We are in a Yuga transition (Kali → Dwapara)
+- We are in a Yuga transition (Kali -> Dwapara)
 - Time can be navigated, not just experienced
 
 ---
@@ -198,24 +198,24 @@ Result = Karma processed through:
 **Process:**
 ```
 1. VEDIC INSIGHT
-   │ What do Vedas say about this phenomenon?
-   │ What is the backend mechanism described?
-   ▼
+   | What do Vedas say about this phenomenon?
+   | What is the backend mechanism described?
+   v
 2. SCIENTIFIC OBSERVATION
-   │ What does science observe?
-   │ What are the measurable effects?
-   ▼
+   | What does science observe?
+   | What are the measurable effects?
+   v
 3. CORRELATION
-   │ How does Vedic backend explain scientific frontend?
-   │ Do predictions match?
-   ▼
+   | How does Vedic backend explain scientific frontend?
+   | Do predictions match?
+   v
 4. VALIDATION
-   │ Does the model make testable predictions?
-   │ What would falsify it?
-   ▼
+   | Does the model make testable predictions?
+   | What would falsify it?
+   v
 5. INTEGRATION
-   │ How does this connect to other findings?
-   │ Does it enhance both Vedic and scientific understanding?
+   | How does this connect to other findings?
+   | Does it enhance both Vedic and scientific understanding?
 ```
 
 ### Validation Criteria
@@ -227,7 +227,7 @@ Every claim must pass:
 | **Conservation** | Energy/info preserved? | dE/dt = 0 |
 | **Entropy** | Tamas increases? | dS/dt ≥ 0 |
 | **Fractal** | Pattern at all scales? | Pattern(n) ≈ Pattern(n±k) |
-| **Karma** | Action → consequence? | F₁₂ = -F₂₁ |
+| **Karma** | Action -> consequence? | F₁₂ = -F₂₁ |
 | **Observer** | Observation affects outcome? | \|ψ\|² = P |
 | **Cycles** | Periodicity exists? | f(t+T) = f(t) |
 | **Gunas** | S/R/T classifiable? | S + R + T = 1 |
@@ -238,7 +238,7 @@ All claims require confidence scores with justification:
 
 ```
 CONFIDENCE LEVELS:
-═════════════════
+=================
 95-100%: Direct validation, multiple sources, exact match
 85-94%:  Strong validation, good sources, close match
 70-84%:  Moderate validation, limited sources
@@ -278,20 +278,20 @@ All domains interconnect:
 
 ```
                      PHYSICS (Forces)
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-     BIOLOGY ◄───────► CONSCIOUSNESS ◄───────► TIME
-          │              │              │
-          │         HUMAN ARCH          │
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
+                         |
+          +--------------+--------------+
+          |              |              |
+     BIOLOGY <-------> CONSCIOUSNESS <-------> TIME
+          |              |              |
+          |         HUMAN ARCH          |
+          |              |              |
+          +--------------+--------------+
+                         |
                  EARTH & ECOLOGY
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-    ANOMALIES ◄────────► VIDYAS ◄────────► SYNTHESIS
+                         |
+          +--------------+--------------+
+          |              |              |
+    ANOMALIES <--------> VIDYAS <--------> SYNTHESIS
 ```
 
 ---

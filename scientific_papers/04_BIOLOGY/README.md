@@ -21,12 +21,12 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [evolution/](./evolution/) | Life's journey | Evolution = Jiva-Yatra |
-| [molecular_biology/](./molecular_biology/) | DNA & epigenetics | Epigenetics = Samskaras |
-| [oncology/](./oncology/) | Cancer research | Cancer = Forgotten Identity |
-| [gerontology/](./gerontology/) | Aging science | Aging = Samskara accumulation |
-| [botany/](./botany/) | Plant science | Plant consciousness |
-| [immunology/](./immunology/) | Immune system | Autoimmune = Self-attack |
+| [evolution/](../evolution) | Life's journey | Evolution = Jiva-Yatra |
+| [molecular_biology/](../molecular_biology) | DNA & epigenetics | Epigenetics = Samskaras |
+| [oncology/](../oncology) | Cancer research | Cancer = Forgotten Identity |
+| [gerontology/](../gerontology) | Aging science | Aging = Samskara accumulation |
+| [botany/](../botany) | Plant science | Plant consciousness |
+| [immunology/](../immunology) | Immune system | Autoimmune = Self-attack |
 
 ---
 
@@ -88,15 +88,15 @@
 ```
 BIOLOGY (Mechanism)    ↔     VEDAS (Purpose)
 ━━━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━
-DNA codes proteins     ←     Samskaras express
-Species evolve         ←     Jiva progresses
-Cells age              ←     Prana depletes
-Cancer spreads         ←     Identity forgotten
+DNA codes proteins     <-     Samskaras express
+Species evolve         <-     Jiva progresses
+Cells age              <-     Prana depletes
+Cancer spreads         <-     Identity forgotten
 ```
 
 ---
 
-**Start with:** [Evolution = Jiva-Yatra](./evolution/evolution_jiva_yatra.md)
+**Start with:** [Evolution = Jiva-Yatra](../../evolution/evolution_jiva_yatra.md)
 
 **ॐ जीवो ब्रह्मैव नापरः**  
 *The Jiva is Brahman itself, not other*

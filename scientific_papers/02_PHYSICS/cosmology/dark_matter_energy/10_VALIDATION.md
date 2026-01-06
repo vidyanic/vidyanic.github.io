@@ -32,9 +32,9 @@ WHERE:
 S_cosmic = Cosmic Sattva (expansion pressure)
 T_cosmic = Cosmic Tamas (gravitational contraction)
 
-IF S_cosmic > T_cosmic → Λ > 0 → Expansion accelerates
-IF S_cosmic < T_cosmic → Λ < 0 → Expansion decelerates
-IF S_cosmic = T_cosmic → Λ = 0 → Static universe
+IF S_cosmic > T_cosmic -> Λ > 0 -> Expansion accelerates
+IF S_cosmic < T_cosmic -> Λ < 0 -> Expansion decelerates
+IF S_cosmic = T_cosmic -> Λ = 0 -> Static universe
 ```
 
 ### 10.1.3 Proportionality Calculation
@@ -207,22 +207,22 @@ ADJUSTED for speculation: 82%
 ## 10.8 Validation Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    VALIDATION SUMMARY                         ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  OBSERVATIONAL EVIDENCE:        ✓ 90% (well-documented)      ║
-║  STRUCTURAL CORRESPONDENCE:     ✓ 100% (all properties)      ║
-║  NON-DETECTION EXPLAINED:       ✓ 95% (key strength)         ║
-║  PROPORTIONS:                   ✓ 70% (approximate)          ║
-║  PREDICTIONS:                   ✓ 80% (clear, testable)      ║
-║  FRACTAL CHECK:                 ✓ 6/6 levels                 ║
-║                                                               ║
-║  OVERALL CONFIDENCE:            82%                          ║
-║                                                               ║
-║  KEY FALSIFICATION:                                           ║
-║  Detection of dark matter particle → Model falsified         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    VALIDATION SUMMARY                         |
++===============================================================+
+|                                                               |
+|  OBSERVATIONAL EVIDENCE:        ✓ 90% (well-documented)      |
+|  STRUCTURAL CORRESPONDENCE:     ✓ 100% (all properties)      |
+|  NON-DETECTION EXPLAINED:       ✓ 95% (key strength)         |
+|  PROPORTIONS:                   ✓ 70% (approximate)          |
+|  PREDICTIONS:                   ✓ 80% (clear, testable)      |
+|  FRACTAL CHECK:                 ✓ 6/6 levels                 |
+|                                                               |
+|  OVERALL CONFIDENCE:            82%                          |
+|                                                               |
+|  KEY FALSIFICATION:                                           |
+|  Detection of dark matter particle -> Model falsified         |
+|                                                               |
++===============================================================+
 ```
 

@@ -34,9 +34,9 @@
 
 ## 12.5 Related Papers
 
-11. [Entropy = Tamas](../../02_PHYSICS/thermodynamics/entropy_tamas/)
-12. [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity/)
-13. [Aging = Samskara Accumulation](../../aging/aging_samskara/)
+11. [Entropy = Tamas](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
+12. [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity)
+13. [Aging = Samskara Accumulation](../../aging/aging_samskara)
 
 ---
 

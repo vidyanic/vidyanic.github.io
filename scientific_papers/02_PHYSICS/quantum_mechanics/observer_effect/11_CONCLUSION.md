@@ -161,7 +161,7 @@ IMPLICATION 4: Physics needs consciousness
 
 ## 11.7 Final Statement
 
-The measurement problem has puzzled physics for 100 years. We propose that the solution was documented 2000+ years ago by Backend Architects:
+The measurement problem has challenged physics for a century. The Backend Framework provides a resolution:
 
 **Consciousness (Drashta) is the irreducible observer that collapses potential (Prakriti) into experience (Drishya) through the act of observation (Samyoga).**
 

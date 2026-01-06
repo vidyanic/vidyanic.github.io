@@ -1,12 +1,12 @@
 # 🧬 EPIGENETICS = SAMSKARAS — Your DNA Is Your Karmic Save File
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 82%  
 > **DIFFICULTY:** Biology + Gaming
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Your DNA isn't just genes. It has **chemical tags** that switch genes on/off based on... your ancestors' experiences.
 
@@ -64,30 +64,30 @@ The Jiva (जीव/individual-soul) carries Samskaras across incarnations. Some
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 GAME SAVE FILE:
-┌────────────────────────────────────────────────┐
-│  Your save contains:                           │
-│  ├── Current stats                             │
-│  ├── Inventory                                 │
-│  ├── Skills unlocked                           │
-│  └── ACHIEVEMENTS FROM PREVIOUS RUNS           │
-│                                                │
-│  New Game+ carries over some progress          │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Your save contains:                           |
+|  +-- Current stats                             |
+|  +-- Inventory                                 |
+|  +-- Skills unlocked                           |
+|  +-- ACHIEVEMENTS FROM PREVIOUS RUNS           |
+|                                                |
+|  New Game+ carries over some progress          |
++------------------------------------------------+
 
 YOUR DNA:
-┌────────────────────────────────────────────────┐
-│  Your genes contain:                           │
-│  ├── Base code (genetics)                      │
-│  ├── Active/inactive switches (epigenetics)   │
-│  ├── Skill tendencies                          │
-│  └── IMPRINTS FROM ANCESTORS/PAST LIVES        │
-│                                                │
-│  New incarnation carries over some karma       │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Your genes contain:                           |
+|  +-- Base code (genetics)                      |
+|  +-- Active/inactive switches (epigenetics)   |
+|  +-- Skill tendencies                          |
+|  +-- IMPRINTS FROM ANCESTORS/PAST LIVES        |
+|                                                |
+|  New incarnation carries over some karma       |
++------------------------------------------------+
 ```
 
 **Your DNA is literally a save file that persists across lives.**
@@ -156,7 +156,7 @@ Understanding this gives you **admin access to your own biology**.
 
 ## 🔗 NEXT PAPER
 
-**[Cancer = Forgotten Identity →](../../cancer/cancer_forgotten_identity/README.md)**  
+**[Cancer = Forgotten Identity ->](../../cancer/cancer_forgotten_identity/README.md)**  
 *"What if cancer is a cell that forgot its purpose?"*  
 *Spoiler: It's literally a loss of Svadharma (self-purpose).*
 

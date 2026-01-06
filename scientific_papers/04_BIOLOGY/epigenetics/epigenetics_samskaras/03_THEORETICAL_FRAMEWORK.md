@@ -7,15 +7,15 @@
 ### 3.1.1 Structural Correspondence
 
 ```
-GENOME ←→ ATMAN (Pure potential)
-   │           │
-   │ overlaid by
-   ↓           ↓
-EPIGENOME ←→ SAMSKARAS (Accumulated patterns)
-   │           │
-   │ shapes
-   ↓           ↓
-EXPRESSION ←→ BEHAVIOR (Manifest patterns)
+GENOME <--> ATMAN (Pure potential)
+   |           |
+   | overlaid by
+   v           v
+EPIGENOME <--> SAMSKARAS (Accumulated patterns)
+   |           |
+   | shapes
+   v           v
+EXPRESSION <--> BEHAVIOR (Manifest patterns)
 ```
 
 ### 3.1.2 Key Parallel
@@ -94,7 +94,7 @@ H_total = H_genome + V_epigenome
 |-------------------|---------------------|
 | Same genes, different cancer | Methylation differences |
 | Trauma effects in children | Inherited stress marks |
-| Lifestyle → Disease risk | Epigenetic modification |
+| Lifestyle -> Disease risk | Epigenetic modification |
 | Identical twins diverge | Epigenetic drift |
 
 Samskaras = "Constitutional tendencies" that aren't genetic
@@ -124,10 +124,10 @@ You can add your own notes — or remove some.
 
 ```
 PARENT GENERATION:
-Experience → Epigenetic mark → Some marks in gametes
+Experience -> Epigenetic mark -> Some marks in gametes
 
 OFFSPRING GENERATION:
-Inherited marks → Expressed patterns → Behavior/health
+Inherited marks -> Expressed patterns -> Behavior/health
 
 MECHANISM:
 Not all marks transmit (most erased)
@@ -139,10 +139,10 @@ Particularly stress-related marks
 
 ```
 BACKEND MODEL:
-Actions/Experiences → Samskaras formed → Stored in Karmashaya
+Actions/Experiences -> Samskaras formed -> Stored in Karmashaya
 
 NEXT LIFE:
-Karmashaya → Prarabdha (active karma) → Expression in life
+Karmashaya -> Prarabdha (active karma) -> Expression in life
 
 MECHANISM:
 Not all Samskaras activate (Sanchita remains)
@@ -173,26 +173,26 @@ Samskaras can be:
 ## 3.5 Summary Framework
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║            EPIGENETICS = SAMSKARAS FRAMEWORK                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  STRUCTURE:                                                  ║
-║  • Genome (DNA) = Atman (pure potential)                     ║
-║  • Epigenome = Samskaras (accumulated patterns)              ║
-║  • Expression = Manifested behavior                          ║
-║                                                               ║
-║  DYNAMICS:                                                   ║
-║  • Experience → Marks (Samskara formation)                   ║
-║  • Marks → Expression (Karma unfolding)                      ║
-║  • Practice → Mark removal (Samskara Shuddhi)                ║
-║                                                               ║
-║  INHERITANCE:                                                ║
-║  • Some marks transmit (Karma transfer)                      ║
-║  • Not all — selection occurs                                ║
-║  • Strong impressions more likely                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|            EPIGENETICS = SAMSKARAS FRAMEWORK                  |
++===============================================================+
+|                                                               |
+|  STRUCTURE:                                                  |
+|  • Genome (DNA) = Atman (pure potential)                     |
+|  • Epigenome = Samskaras (accumulated patterns)              |
+|  • Expression = Manifested behavior                          |
+|                                                               |
+|  DYNAMICS:                                                   |
+|  • Experience -> Marks (Samskara formation)                   |
+|  • Marks -> Expression (Karma unfolding)                      |
+|  • Practice -> Mark removal (Samskara Shuddhi)                |
+|                                                               |
+|  INHERITANCE:                                                |
+|  • Some marks transmit (Karma transfer)                      |
+|  • Not all — selection occurs                                |
+|  • Strong impressions more likely                            |
+|                                                               |
++===============================================================+
 ```
 
 ---

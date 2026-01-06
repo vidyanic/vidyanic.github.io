@@ -20,9 +20,9 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [consciousness_studies/](./consciousness_studies/) | The hard problem | Why can't science explain "feeling"? |
-| [brain_mind/](./brain_mind/) | Brain's real role | Brain as receiver, not generator |
-| [altered_states/](./altered_states/) | Sleep & dreams | Consciousness continues in sleep |
+| [consciousness_studies/](../consciousness_studies) | The hard problem | Why can't science explain "feeling"? |
+| [brain_mind/](../brain_mind) | Brain's real role | Brain as receiver, not generator |
+| [altered_states/](../altered_states) | Sleep & dreams | Consciousness continues in sleep |
 
 ---
 
@@ -75,9 +75,9 @@
 ```
 MATERIALIST VIEW           VEDIC VIEW
 ━━━━━━━━━━━━━━━            ━━━━━━━━━━━
-Brain → generates mind     Atman → uses brain
-Damage → less function     Damage → less filter
-Death → consciousness ends Death → consciousness exits
+Brain -> generates mind     Atman -> uses brain
+Damage -> less function     Damage -> less filter
+Death -> consciousness ends Death -> consciousness exits
 ```
 
 ---
@@ -91,7 +91,7 @@ Death → consciousness ends Death → consciousness exits
 
 ---
 
-**Start with:** [The Hard Problem Solved](./consciousness_studies/hard_problem_solved.md)
+**Start with:** [The Hard Problem Solved](../../consciousness_studies/hard_problem_solved.md)
 
 **ॐ प्रज्ञानं ब्रह्म**  
 *Consciousness is Brahman*

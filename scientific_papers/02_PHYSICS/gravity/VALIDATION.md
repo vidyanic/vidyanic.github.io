@@ -56,8 +56,8 @@ F_rajas = Motion (Kinetic, EM, Nuclear)
 F_tamas = Contraction (Gravity)
 
 COSMIC SCALE:
-|F_sattva| > |F_tamas| → Expansion (current)
-|F_tamas| > |F_sattva| → Contraction (Pralaya)
+|F_sattva| > |F_tamas| -> Expansion (current)
+|F_tamas| > |F_sattva| -> Contraction (Pralaya)
 ```
 
 ### Formula 4: Black Hole = Maximum Tamas
@@ -129,7 +129,7 @@ VALIDITY: ✅ SOUND (strong conceptual match)
 | **Atomic** | ✅ | Nuclear mass = Tamas |
 | **Molecular** | ✅ | Molecular weight |
 | **Planetary** | ✅ | Planets attract |
-| **Stellar** | ✅ | Stars collapse → Tamas increase |
+| **Stellar** | ✅ | Stars collapse -> Tamas increase |
 | **Galactic** | ✅ | Dark matter halos |
 | **Cosmic** | ✅ | Universal gravitation |
 
@@ -190,7 +190,7 @@ VALIDITY: ✅ SOUND (strong conceptual match)
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)
@@ -240,11 +240,11 @@ It's a category error
 BLACK HOLE = MAXIMUM TAMAS
 
 CHECK:
-✓ Maximum mass density → Maximum Tamas content
-✓ No light escapes → Complete darkness (Tamas = dark)
-✓ No motion possible → Maximum inertia
-✓ Ultimate aggregation → All pulled to singularity
-✓ Time stops → No change (Tamas = no change)
+✓ Maximum mass density -> Maximum Tamas content
+✓ No light escapes -> Complete darkness (Tamas = dark)
+✓ No motion possible -> Maximum inertia
+✓ Ultimate aggregation -> All pulled to singularity
+✓ Time stops -> No change (Tamas = no change)
 
 PREDICTION:
 Black hole interiors are Tamasic "seeds"

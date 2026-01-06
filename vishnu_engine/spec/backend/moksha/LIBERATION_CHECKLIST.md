@@ -487,15 +487,15 @@ If you're still checking, continue practicing.
 |                                                                       |
 |   "अहं ब्रह्मास्मि" — I am Brahman                                     |
 |                                                                       |
-|   • If this feels like a claim or achievement → Not yet               |
-|   • If this creates pride → Not yet                                   |
-|   • If this seems distant or foreign → Not yet                        |
-|   • If this requires effort to feel → Not yet                         |
+|   • If this feels like a claim or achievement -> Not yet               |
+|   • If this creates pride -> Not yet                                   |
+|   • If this seems distant or foreign -> Not yet                        |
+|   • If this requires effort to feel -> Not yet                         |
 |                                                                       |
-|   • If this is simply obvious, like "water is wet" → YES              |
-|   • If there's no one saying it, just recognition → YES               |
-|   • If it's the most ordinary, natural thing → YES                    |
-|   • If you laugh at having ever doubted it → YES                      |
+|   • If this is simply obvious, like "water is wet" -> YES              |
+|   • If there's no one saying it, just recognition -> YES               |
+|   • If it's the most ordinary, natural thing -> YES                    |
+|   • If you laugh at having ever doubted it -> YES                      |
 |                                                                       |
 +-----------------------------------------------------------------------+
 ```

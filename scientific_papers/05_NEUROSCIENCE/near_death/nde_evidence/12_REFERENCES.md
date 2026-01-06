@@ -103,9 +103,9 @@
 
 ## 12.12 Related Papers in This Series
 
-31. [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
-32. [Brain as Receiver](../../brain_mind/brain_as_receiver/)
-33. [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/)
+31. [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
+32. [Brain as Receiver](../../brain_mind/brain_as_receiver)
+33. [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 
 ---
 

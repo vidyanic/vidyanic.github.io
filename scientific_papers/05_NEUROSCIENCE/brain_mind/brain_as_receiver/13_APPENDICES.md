@@ -1,6 +1,6 @@
 # 13. Appendices
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -93,10 +93,10 @@ Damaged brain suddenly producing clear function before death.
 
 | Region | Function | Psychedelic Effect |
 |--------|----------|-------------------|
-| mPFC | Self-reference | ↓ Activity |
-| PCC | Self-continuity | ↓ Activity |
-| Angular gyrus | Time/space orientation | ↓ Activity |
-| Lateral temporal | Narrative self | ↓ Activity |
+| mPFC | Self-reference | v Activity |
+| PCC | Self-continuity | v Activity |
+| Angular gyrus | Time/space orientation | v Activity |
+| Lateral temporal | Narrative self | v Activity |
 
 ### C.2 Psilocybin fMRI Data
 
@@ -106,7 +106,7 @@ From Carhart-Harris et al. (2012):
 |---------|--------|---------|
 | mPFC CBF | -17.9% | <0.001 |
 | PCC CBF | -10.4% | <0.05 |
-| Subjective intensity | ↑ Correlated with ↓ | <0.01 |
+| Subjective intensity | ^ Correlated with v | <0.01 |
 
 **CBF = Cerebral Blood Flow**
 
@@ -183,8 +183,8 @@ f_ahamkara ≈ 0.95
 F_total ≈ 0.95
 
 PSILOCYBIN:
-f_ahamkara → 0.20
-F_total → 0.40
+f_ahamkara -> 0.20
+F_total -> 0.40
 
 CHANGE:
 C_local = C_∞ × (1 - 0.40) = 0.60 × C_∞
@@ -234,7 +234,7 @@ C_local = C_∞ × (1 - 0.95) = 0.05 × C_∞
 | Anubhava | अनुभव | Direct experience |
 | Samadhi | समाधि | Absorption/no-filter state |
 
-> **🔗 See:** [Dictionary](../../../00_META/DICTIONARY.md) for complete glossary
+> **🔗 See:** [Dictionary](./00_META/DICTIONARY.md) for complete glossary
 
 ---
 
@@ -242,9 +242,9 @@ C_local = C_∞ × (1 - 0.95) = 0.05 × C_∞
 
 | Paper | Relationship to This Paper |
 |-------|---------------------------|
-| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/) | Establishes consciousness as axiom; this paper explains brain role |
-| [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/) | Shows consciousness affects reality; this paper shows brain filters it |
-| [Entropy = Tamas](../../../02_PHYSICS/thermodynamics/entropy_tamas/) | Guna framework; brain filtering uses energy (Rajas) against Tamas |
+| [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) | Establishes consciousness as axiom; this paper explains brain role |
+| [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) | Shows consciousness affects reality; this paper shows brain filters it |
+| [Entropy = Tamas](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/) | Guna framework; brain filtering uses energy (Rajas) against Tamas |
 | NDE Evidence (coming) | Detailed expansion of §6.1 |
 
 ---
@@ -264,7 +264,7 @@ C_local = C_∞ × (1 - 0.95) = 0.05 × C_∞
 ---
 
 **🔗 Navigation:**
-- [← Back to README](./README.md)
-- [→ Related: Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
-- [→ Root README](../../../README.md)
+- [<- Back to README](../../../../README.md)
+- [-> Related: Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
+- [-> Root README](../../../../README.md)
 

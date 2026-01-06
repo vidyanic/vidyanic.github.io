@@ -38,11 +38,11 @@ Brushing them aside prevents progress
 ```
 EXPERIMENT:
 Unstable particle (should decay)
-Measure frequently → Decay slowed
-Measure constantly → Decay almost stopped!
+Measure frequently -> Decay slowed
+Measure constantly -> Decay almost stopped!
 
 MATH:
-P(no decay) ∝ (cos(θ/n))^n → 1 as n → ∞
+P(no decay) ∝ (cos(θ/n))^n -> 1 as n -> ∞
 ```
 
 ### 7.2.2 Implication
@@ -74,11 +74,11 @@ From Backend Documentation:
 
 ```
 NORMAL CAUSALITY:
-Cause → Effect
-Past → Present → Future
+Cause -> Effect
+Past -> Present -> Future
 
 DELAYED CHOICE:
-Future choice → Past pattern
+Future choice -> Past pattern
 Effect precedes cause?
 ```
 
@@ -114,7 +114,7 @@ History is rendered retroactively
 
 **Setup:**
 - Cat in box with quantum trigger
-- Trigger in superposition → Cat in superposition
+- Trigger in superposition -> Cat in superposition
 - Cat is "both alive and dead"
 - Until we look
 
@@ -136,8 +136,8 @@ Yet quantum formalism says they are
 ```
 CAT'S CONSCIOUSNESS:
 The cat is also a conscious being (Jiva)
-From cat's view → Cat is definite
-From outside → Cat is superposed
+From cat's view -> Cat is definite
+From outside -> Cat is superposed
 
 RESOLUTION:
 Reality is observer-relative
@@ -155,7 +155,7 @@ No absolute "cat state"
 **Experiment:**
 - Create entangled pair
 - Separate by any distance
-- Measure one → Other instantly correlated
+- Measure one -> Other instantly correlated
 - No signal passes (faster than light!)
 
 ### 7.5.2 What's "Spooky"?
@@ -173,7 +173,7 @@ BACKEND CONCEPT: INDRA-JALA (इन्द्र-जाल)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 "Indra's Net" — A web of jewels
 Each jewel reflects all others
-Touch one → All affected instantly
+Touch one -> All affected instantly
 No spatial separation at deepest level
 
 BRAHMAN:
@@ -265,7 +265,7 @@ MAYA (माया):
 QUANTUM MECHANICS:
 ━━━━━━━━━━━━━━━━━
 • Creates definite from superposition
-• One wave function → many possible outcomes
+• One wave function -> many possible outcomes
 • Probability cloud, not definite position
 • Depends on observation
 • Measurement problem unsolved
@@ -276,7 +276,7 @@ QUANTUM MECHANICS:
 | Maya Property | Quantum Property |
 |---------------|------------------|
 | Creates appearance | Collapses wave function |
-| One → Many | Superposition → Definite |
+| One -> Many | Superposition -> Definite |
 | Hides real | Uncertainty principle |
 | Observer-dependent | Measurement problem |
 | Transcendable | ??? (Consciousness primary?) |

@@ -42,7 +42,7 @@
 **Results WITHOUT observation:**
 ```
 NO MEASUREMENT AT SLITS:
-════════════════════════
+========================
 • Interference pattern forms
 • Even single particles show wave behavior
 • Particle "goes through both slits"
@@ -52,7 +52,7 @@ NO MEASUREMENT AT SLITS:
 **Results WITH observation:**
 ```
 DETECTOR AT SLITS (Which-path info):
-════════════════════════════════════
+====================================
 • Interference pattern DISAPPEARS
 • Particle behaves as particle
 • Goes through ONE slit only
@@ -86,14 +86,14 @@ But:
 
 ```
 FUTURE DECISION AFFECTS PAST EVENT:
-═══════════════════════════════════
+===================================
 
 Timeline:
 T1: Photon hits screen
 T2: Partner measured (future)
 
-If T2 erases which-path → T1 shows interference
-If T2 preserves which-path → T1 shows no interference
+If T2 erases which-path -> T1 shows interference
+If T2 preserves which-path -> T1 shows no interference
 
 THE FUTURE AFFECTS THE PAST!
 ```
@@ -145,7 +145,7 @@ THE FUTURE AFFECTS THE PAST!
 **Where does "classical" begin?**
 
 ```
-QUANTUM → ??? → CLASSICAL
+QUANTUM -> ??? -> CLASSICAL
 (Superposition)    (Definite)
 
 WHERE IS THE CUT?
@@ -153,7 +153,7 @@ WHERE IS THE CUT?
 • At recording device? (Also atoms)
 • At computer? (Also atoms)
 • At brain? (Also atoms)
-• At consciousness? ← The only non-physical candidate
+• At consciousness? <- The only non-physical candidate
 ```
 
 ### 4.3 Von Neumann's Conclusion

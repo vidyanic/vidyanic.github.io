@@ -100,7 +100,7 @@ REWRITTEN:
 F_tamas = G_tamas × (Tamas₁ × Tamas₂) / r²
 
 MEANING:
-More Tamas → More mass → More gravity
+More Tamas -> More mass -> More gravity
 Tamas attracts Tamas
 ```
 
@@ -114,7 +114,7 @@ Mass-energy (Tμν) curves spacetime (Gμν)
 
 VEDIC INTERPRETATION:
 Tamas content (Tμν) curves Maya (Gμν)
-More Tamas → More curvature → Objects "fall" toward it
+More Tamas -> More curvature -> Objects "fall" toward it
 
 WHY TAMAS CURVES SPACE:
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -128,15 +128,15 @@ Geodesics follow the Tamasic depression
 ```
 GUNA-FORCE MAPPING:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SATTVA (सत्त्व) → Expansion → Dark Energy → Repulsive
-RAJAS (रजस्) → Activity → Kinetic Energy → Motion
-TAMAS (तमस्) → Contraction → Gravity → Attractive
+SATTVA (सत्त्व) -> Expansion -> Dark Energy -> Repulsive
+RAJAS (रजस्) -> Activity -> Kinetic Energy -> Motion
+TAMAS (तमस्) -> Contraction -> Gravity -> Attractive
 
 FORMULA:
 F_net = F_sattva(expansion) + F_rajas(motion) + F_tamas(contraction)
 
 AT COSMIC SCALE:
-Dark Energy (Sattva) > Gravity (Tamas) → Universe expands
+Dark Energy (Sattva) > Gravity (Tamas) -> Universe expands
 ```
 
 ---
@@ -215,11 +215,11 @@ BLACK HOLE = PURE TAMAS STATE
 
 ```
 NEUTRON STAR:
-Dense → High gravity → High Tamas
+Dense -> High gravity -> High Tamas
 
 PROGRESSION:
-Normal star → Red giant → White dwarf → Neutron star → Black hole
-(Sattva-Rajas mix) → (Rajas burning) → (Tamas increasing) → (More Tamas) → (Pure Tamas)
+Normal star -> Red giant -> White dwarf -> Neutron star -> Black hole
+(Sattva-Rajas mix) -> (Rajas burning) -> (Tamas increasing) -> (More Tamas) -> (Pure Tamas)
 ```
 
 ### 5.3 Weightlessness = Reduced Tamas Influence
@@ -231,7 +231,7 @@ Not zero gravity, but zero Tamas RESISTANCE
 
 MEDITATION REPORTS:
 Advanced meditators report "lightness"
-Reducing Tamas in body → Less heaviness felt
+Reducing Tamas in body -> Less heaviness felt
 Corresponds to Sattva increase
 ```
 
@@ -242,28 +242,28 @@ Corresponds to Sattva increase
 ### 6.1 Complete Mapping
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    GUNA-FORCE CORRELATION                     ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  SATTVA (Light, Expansion)                                    ║
-║  ↓                                                            ║
-║  Dark Energy — Causes cosmic expansion                        ║
-║  Repulsive — Pushes space apart                               ║
-║                                                               ║
-║  RAJAS (Activity, Motion)                                     ║
-║  ↓                                                            ║
-║  Kinetic Energy — Causes motion, change                       ║
-║  Electromagnetism — Active force exchange                     ║
-║  Strong/Weak — Particle interactions                          ║
-║                                                               ║
-║  TAMAS (Inertia, Contraction)                                ║
-║  ↓                                                            ║
-║  Gravity — Causes attraction, aggregation                     ║
-║  Mass — Tamas concentration                                   ║
-║  Entropy — Tamas increase over time                           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    GUNA-FORCE CORRELATION                     |
++===============================================================+
+|                                                               |
+|  SATTVA (Light, Expansion)                                    |
+|  v                                                            |
+|  Dark Energy — Causes cosmic expansion                        |
+|  Repulsive — Pushes space apart                               |
+|                                                               |
+|  RAJAS (Activity, Motion)                                     |
+|  v                                                            |
+|  Kinetic Energy — Causes motion, change                       |
+|  Electromagnetism — Active force exchange                     |
+|  Strong/Weak — Particle interactions                          |
+|                                                               |
+|  TAMAS (Inertia, Contraction)                                |
+|  v                                                            |
+|  Gravity — Causes attraction, aggregation                     |
+|  Mass — Tamas concentration                                   |
+|  Entropy — Tamas increase over time                           |
+|                                                               |
++===============================================================+
 ```
 
 ### 6.2 The Balance
@@ -282,8 +282,8 @@ Universe contracts
 Returns to seed state
 
 AT INDIVIDUAL:
-More Tamas → Feel heavier, more inertia
-More Sattva → Feel lighter, more alert
+More Tamas -> Feel heavier, more inertia
+More Sattva -> Feel lighter, more alert
 ```
 
 ---
@@ -301,9 +301,9 @@ Unification will fail because categories are different
 
 NEW APPROACH:
 Study Gunas as meta-physical categories
-Gravity, Entropy, Mass → All Tamas manifestations
-Dark Energy → Sattva manifestation
-Kinetic energy, Forces → Rajas manifestations
+Gravity, Entropy, Mass -> All Tamas manifestations
+Dark Energy -> Sattva manifestation
+Kinetic energy, Forces -> Rajas manifestations
 ```
 
 ### 7.2 For Spirituality
@@ -311,13 +311,13 @@ Kinetic energy, Forces → Rajas manifestations
 ```
 REDUCING GRAVITY'S EFFECT:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-Increase Sattva → Reduce felt heaviness
-Meditation → Lightness experience
-Fasting → Reduces Tamasic food → Lightness
-Pranayama → Increases Pranic (Sattvic) energy
+Increase Sattva -> Reduce felt heaviness
+Meditation -> Lightness experience
+Fasting -> Reduces Tamasic food -> Lightness
+Pranayama -> Increases Pranic (Sattvic) energy
 
 LEVITATION (Siddhi):
-Extreme Sattva dominance → Gravity (Tamas) overcome
+Extreme Sattva dominance -> Gravity (Tamas) overcome
 Not "anti-gravity" but "Sattva > Tamas"
 ```
 

@@ -42,8 +42,8 @@ Conrad Waddington coined "epigenetics" — the study of how genes interact with 
 
 **Bygren et al.:**
 - Food availability of grandparents affected grandchildren's longevity
-- Grandfather's food surplus → Grandson's shorter life
-- Grandfather's famine → Grandson's longer life
+- Grandfather's food surplus -> Grandson's shorter life
+- Grandfather's famine -> Grandson's longer life
 
 ---
 

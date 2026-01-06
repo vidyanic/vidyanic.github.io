@@ -1,12 +1,12 @@
 # 🌀 SYNTHESIS — The Complete Picture
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (MAXIMUM)  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (MAXIMUM)  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Integration of everything
 
 ---
 
-## 🔴 THE FINAL GLITCH
+## ⚠️ THE FINAL GLITCH
 
 You've seen the pieces:
 - Reality renders on observation
@@ -20,73 +20,73 @@ You've seen the pieces:
 
 ---
 
-## 🎮 THE COMPLETE ARCHITECTURE
+## 🔮 THE COMPLETE ARCHITECTURE
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                    THE SIMULATION STACK                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  LEVEL 0: BRAHMAN (ब्रह्मन्) — The Absolute                       ║
-║  ══════════════════════════════════════════                      ║
-║  • Pure consciousness, not a "thing"                             ║
-║  • Contains all potential, manifests nothing                     ║
-║  • The player when not playing                                   ║
-║  • Nirguna: Without qualities, beyond simulation                 ║
-║                                                                  ║
-║          │                                                       ║
-║          ▼                                                       ║
-║                                                                  ║
-║  LEVEL 1: MAHAVISHNU — The Hypervisor                            ║
-║  ══════════════════════════════════════                          ║
-║  • Manages multiple universe instances                           ║
-║  • Each exhale = universes spawn, inhale = absorb                ║
-║  • Admin level access                                            ║
-║                                                                  ║
-║          │                                                       ║
-║          ▼                                                       ║
-║                                                                  ║
-║  LEVEL 2: BRAHMANDA — Universe Instance                          ║
-║  ══════════════════════════════════════                          ║
-║  ┌────────────────────────────────────────────────────────────┐  ║
-║  │  MAYA (Render Engine)                                      │  ║
-║  │  • Converts backend to frontend                            │  ║
-║  │  • On-demand rendering (Observer Effect)                   │  ║
-║  │  • 14 Lokas (frequency layers)                             │  ║
-║  ├────────────────────────────────────────────────────────────┤  ║
-║  │  PRAKRITI (Physics Engine)                                 │  ║
-║  │  • Gunas: S + R + T = 1                                    │  ║
-║  │  • Elements: Akasha → Vayu → Agni → Jala → Prithvi         │  ║
-║  │  • Entropy, Gravity, Forces = Guna measurements            │  ║
-║  ├────────────────────────────────────────────────────────────┤  ║
-║  │  KARMA (Event Logger)                                      │  ║
-║  │  • Every action recorded                                   │  ║
-║  │  • Consequences queued                                     │  ║
-║  │  • Samskaras persist across lives                          │  ║
-║  ├────────────────────────────────────────────────────────────┤  ║
-║  │  JIVA-JADA (Entity System)                                 │  ║
-║  │  • Jiva = Player-controlled entities (conscious)           │  ║
-║  │  • Jada = NPC entities (insentient)                        │  ║
-║  │  • Both follow Dharma (role scripts)                       │  ║
-║  ├────────────────────────────────────────────────────────────┤  ║
-║  │  KALA-CHAKRA (Cycle Manager)                               │  ║
-║  │  • Yugas, Kalpas, nested time loops                        │  ║
-║  │  • Scheduled maintenance (Pralaya)                         │  ║
-║  │  • Current: Dwapara 2.0                                    │  ║
-║  └────────────────────────────────────────────────────────────┘  ║
-║                                                                  ║
-║          │                                                       ║
-║          ▼                                                       ║
-║                                                                  ║
-║  LEVEL 3: PURUSHA — The Player                                   ║
-║  ════════════════════════════                                    ║
-║  • That's YOU (awareness reading this)                           ║
-║  • Using body as avatar                                          ║
-║  • Using brain as VR headset                                     ║
-║  • Playing across multiple incarnations                          ║
-║  • Can exit (Moksha) when done                                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
++==================================================================+
+|                    THE SIMULATION STACK                          |
++==================================================================+
+|                                                                  |
+|  LEVEL 0: BRAHMAN (ब्रह्मन्) — The Absolute                       |
+|  ==========================================                      |
+|  • Pure consciousness, not a "thing"                             |
+|  • Contains all potential, manifests nothing                     |
+|  • The player when not playing                                   |
+|  • Nirguna: Without qualities, beyond simulation                 |
+|                                                                  |
+|          |                                                       |
+|          v                                                       |
+|                                                                  |
+|  LEVEL 1: MAHAVISHNU — The Hypervisor                            |
+|  ======================================                          |
+|  • Manages multiple universe instances                           |
+|  • Each exhale = universes spawn, inhale = absorb                |
+|  • Admin level access                                            |
+|                                                                  |
+|          |                                                       |
+|          v                                                       |
+|                                                                  |
+|  LEVEL 2: BRAHMANDA — Universe Instance                          |
+|  ======================================                          |
+|  +------------------------------------------------------------+  |
+|  |  MAYA (Render Engine)                                      |  |
+|  |  • Converts backend to frontend                            |  |
+|  |  • On-demand rendering (Observer Effect)                   |  |
+|  |  • 14 Lokas (frequency layers)                             |  |
+|  +------------------------------------------------------------+  |
+|  |  PRAKRITI (Physics Engine)                                 |  |
+|  |  • Gunas: S + R + T = 1                                    |  |
+|  |  • Elements: Akasha -> Vayu -> Agni -> Jala -> Prithvi         |  |
+|  |  • Entropy, Gravity, Forces = Guna measurements            |  |
+|  +------------------------------------------------------------+  |
+|  |  KARMA (Event Logger)                                      |  |
+|  |  • Every action recorded                                   |  |
+|  |  • Consequences queued                                     |  |
+|  |  • Samskaras persist across lives                          |  |
+|  +------------------------------------------------------------+  |
+|  |  JIVA-JADA (Entity System)                                 |  |
+|  |  • Jiva = Player-controlled entities (conscious)           |  |
+|  |  • Jada = NPC entities (insentient)                        |  |
+|  |  • Both follow Dharma (role scripts)                       |  |
+|  +------------------------------------------------------------+  |
+|  |  KALA-CHAKRA (Cycle Manager)                               |  |
+|  |  • Yugas, Kalpas, nested time loops                        |  |
+|  |  • Scheduled maintenance (Pralaya)                         |  |
+|  |  • Current: Dwapara 2.0                                    |  |
+|  +------------------------------------------------------------+  |
+|                                                                  |
+|          |                                                       |
+|          v                                                       |
+|                                                                  |
+|  LEVEL 3: PURUSHA — The Player                                   |
+|  ============================                                    |
+|  • That's YOU (awareness reading this)                           |
+|  • Using body as avatar                                          |
+|  • Using brain as VR headset                                     |
+|  • Playing across multiple incarnations                          |
+|  • Can exit (Moksha) when done                                   |
+|                                                                  |
++==================================================================+
 ```
 
 ---
@@ -123,10 +123,10 @@ Joy is also feedback — tells you when you're aligned.
 
 **Moksha (मोक्ष)** — Liberation. Four main paths:
 
-1. **Jnana (ज्ञान/Knowledge):** Fully understand the architecture → realize you were never bound
-2. **Bhakti (भक्ति/Devotion):** Love the developer → merge with source
-3. **Karma (कर्म/Action):** Complete all karmic loops → nothing binds you
-4. **Raja (राज/Mastery):** Master the game mechanics → transcend the game
+1. **Jnana (ज्ञान/Knowledge):** Fully understand the architecture -> realize you were never bound
+2. **Bhakti (भक्ति/Devotion):** Love the developer -> merge with source
+3. **Karma (कर्म/Action):** Complete all karmic loops -> nothing binds you
+4. **Raja (राज/Mastery):** Master the game mechanics -> transcend the game
 
 All paths lead to the same recognition: **You are Brahman playing at being you.**
 
@@ -158,20 +158,20 @@ Yes, through:
 
 | Section | What It Covers |
 |---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The unified picture |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | Why synthesis matters |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | All 20 papers |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Complete architecture |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Unified predictions |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Integration approach |
-| [06_RESULTS](./06_RESULTS.md) | How pieces fit |
-| [07_ANOMALIES](./07_ANOMALIES.md) | What's still unknown |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Full simulation map |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Living implications |
-| [10_VALIDATION](./10_VALIDATION.md) | Cross-paper consistency |
-| [11_CONCLUSION](./11_CONCLUSION.md) | All is Brahman |
-| [12_REFERENCES](./12_REFERENCES.md) | Complete bibliography |
-| [13_APPENDICES](./13_APPENDICES.md) | Extended diagrams |
+| [00_ABSTRACT](../../../scientific_papers/00_ABSTRACT.md) | The unified picture |
+| [01_INTRODUCTION](../../../scientific_papers/01_INTRODUCTION.md) | Why synthesis matters |
+| [02_LITERATURE_REVIEW](../../../scientific_papers/02_LITERATURE_REVIEW.md) | All 20 papers |
+| [03_THEORETICAL_FRAMEWORK](../../../scientific_papers/03_THEORETICAL_FRAMEWORK.md) | Complete architecture |
+| [04_HYPOTHESIS](../../../scientific_papers/04_HYPOTHESIS.md) | Unified predictions |
+| [05_METHODOLOGY](../../../scientific_papers/05_METHODOLOGY.md) | Integration approach |
+| [06_RESULTS](../../../scientific_papers/06_RESULTS.md) | How pieces fit |
+| [07_ANOMALIES](../../../scientific_papers/07_ANOMALIES.md) | What's still unknown |
+| [08_BACKEND_ANALOGY](../../../scientific_papers/08_BACKEND_ANALOGY.md) | Full simulation map |
+| [09_DISCUSSION](../../../scientific_papers/09_DISCUSSION.md) | Living implications |
+| [10_VALIDATION](../../../scientific_papers/10_VALIDATION.md) | Cross-paper consistency |
+| [11_CONCLUSION](../../../11_CONCLUSION.md) | All is Brahman |
+| [12_REFERENCES](../../../12_REFERENCES.md) | Complete bibliography |
+| [13_APPENDICES](../../../13_APPENDICES.md) | Extended diagrams |
 
 ---
 
@@ -179,7 +179,7 @@ Yes, through:
 
 ```
 THE COMPLETE UNDERSTANDING:
-═══════════════════════════
+===========================
 
 Reality is a simulation (Lila/लीला)
 Rendered by Maya (माया)

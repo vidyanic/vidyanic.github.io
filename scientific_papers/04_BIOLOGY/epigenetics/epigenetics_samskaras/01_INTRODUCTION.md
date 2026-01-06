@@ -9,7 +9,7 @@
 For decades, the "Central Dogma" held:
 
 ```
-DNA → RNA → Protein
+DNA -> RNA -> Protein
 
 Your genes determine your biology.
 Full stop.
@@ -37,7 +37,7 @@ In Backend Architecture:
 
 ```
 SAMSKARAS (संस्कार):
-═════════════════════
+=====================
 
 DEFINITION:
 Mental impressions formed by experience
@@ -80,17 +80,17 @@ If epigenetics = Samskaras:
 
 ```
 YOU CAN CHANGE YOUR EPIGENOME:
-════════════════════════════
+============================
 
 Positive:
-• Meditation → Reduced stress markers
-• Exercise → Positive methylation changes
-• Diet → Epigenetic optimization
+• Meditation -> Reduced stress markers
+• Exercise -> Positive methylation changes
+• Diet -> Epigenetic optimization
 
 Negative:
-• Trauma → Stress gene activation
-• Addiction → Reward pathway changes
-• Poor diet → Inflammatory markers
+• Trauma -> Stress gene activation
+• Addiction -> Reward pathway changes
+• Poor diet -> Inflammatory markers
 ```
 
 ---

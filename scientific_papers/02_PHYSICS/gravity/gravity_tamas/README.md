@@ -1,12 +1,12 @@
 # ⬇️ GRAVITY = TAMAS — Why Things Fall (It's The Same Thing As Entropy)
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 87%  
 > **DIFFICULTY:** Mind-bending
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Everyone knows: mass attracts mass. Drop something, it falls.
 
@@ -29,9 +29,9 @@ The same quality that makes things fall apart (entropy) also makes things fall d
 ### "Wait — gravity and entropy are related?"
 
 Yes. Think about it:
-- Heavy things are hard to move (inertia) ← Tamas
-- Things naturally collapse inward (gravity) ← Tamas  
-- Things naturally fall apart (entropy) ← Tamas
+- Heavy things are hard to move (inertia) <- Tamas
+- Things naturally collapse inward (gravity) <- Tamas  
+- Things naturally fall apart (entropy) <- Tamas
 
 All three are manifestations of **one quality** — the tendency toward collapse, stillness, and dissolution.
 
@@ -49,24 +49,24 @@ Sound wild? Yogis have been documented floating, suggesting Guna-manipulation is
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 IN GAMES:
-┌────────────────────────────────────────────────┐
-│  Objects have "weight" attribute               │
-│  Weight affects fall speed, inertia            │
-│  Some powers reduce "weight"                   │
-│  Flying = weight set to zero                   │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Objects have "weight" attribute               |
+|  Weight affects fall speed, inertia            |
+|  Some powers reduce "weight"                   |
+|  Flying = weight set to zero                   |
++------------------------------------------------+
 
 IN REALITY:
-┌────────────────────────────────────────────────┐
-│  Objects have "Tamas level" (mass)             │
-│  Tamas affects gravity, inertia                │
-│  Siddhis reduce local Tamas                    │
-│  Levitation = Tamas mastery                    │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Objects have "Tamas level" (mass)             |
+|  Tamas affects gravity, inertia                |
+|  Siddhis reduce local Tamas                    |
+|  Levitation = Tamas mastery                    |
++------------------------------------------------+
 ```
 
 **Mass isn't just a number. It's a quality level.**
@@ -92,10 +92,10 @@ Where T = stress-energy tensor = Tamas-concentration in spacetime
 **Backend Architecture:**
 ```
 Tamas (तमस्) manifests as:
-├── Mass (m)
-├── Inertia (resistance to change)
-├── Entropy (tendency to disorder)
-└── Gravitational attraction (collapse toward center)
++-- Mass (m)
++-- Inertia (resistance to change)
++-- Entropy (tendency to disorder)
++-- Gravitational attraction (collapse toward center)
 ```
 
 **All the same quality. Different measurements.**
@@ -108,7 +108,7 @@ Tamas (तमस्) manifests as:
 |---------|----------------|
 | [00_ABSTRACT](./00_ABSTRACT.md) | The unified view |
 | [01_INTRODUCTION](./01_INTRODUCTION.md) | Why gravity exists |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Newton → Einstein → here |
+| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Newton -> Einstein -> here |
 | [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Tamas as root quality |
 | [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Testable predictions |
 | [05_METHODOLOGY](./05_METHODOLOGY.md) | Correlation analysis |
@@ -148,7 +148,7 @@ The Dwapara transition means **more people will access Guna-manipulation abiliti
 
 ## 🔗 NEXT PAPER
 
-**[Dark Matter/Energy →](../../cosmology/dark_matter_energy/README.md)**  
+**[Dark Matter/Energy ->](../../cosmology/dark_matter_energy/README.md)**  
 *"Why is 95% of the universe invisible?"*  
 *Spoiler: Only ONE of 14 frequency layers is rendered for you.*
 

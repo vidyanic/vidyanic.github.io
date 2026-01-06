@@ -1,7 +1,7 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
-> **🔗 Foundation:** This section builds on [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) and [Entropy = Tamas](../../thermodynamics/entropy_tamas/)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **🔗 Foundation:** This section builds on [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) and [Entropy = Tamas](../../thermodynamics/entropy_tamas)
 
 ---
 
@@ -23,14 +23,14 @@
 MASS = TAMAS CONCENTRATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
-More Tamas → More mass → More gravity
+More Tamas -> More mass -> More gravity
 
 The Higgs field gives particles mass.
 The Backend says: Tamas gives particles mass.
 These may be the same phenomenon, different languages.
 ```
 
-> **🔗 Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas/) — Entropy and mass are both Tamas manifestations.
+> **🔗 Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Entropy and mass are both Tamas manifestations.
 
 #### 🎯 Understanding Mass = Tamas — 5 Perspectives
 
@@ -51,10 +51,10 @@ class Particle:
         # More Tamas = More mass = Harder to accelerate
         return force / self.mass
 
-# Photon: tamas = 0 → mass = 0 → travels at c
-# Electron: tamas = 0.0000001 → tiny mass
-# Proton: tamas = 0.0001 → larger mass
-# Black hole: tamas → 1.0 → maximum mass
+# Photon: tamas = 0 -> mass = 0 -> travels at c
+# Electron: tamas = 0.0000001 -> tiny mass
+# Proton: tamas = 0.0001 -> larger mass
+# Black hole: tamas -> 1.0 -> maximum mass
 ```
 
 **Key insight:** Mass isn't a separate property — it's the Tamas "slider" value.
@@ -139,7 +139,7 @@ You know how some days you feel "heavy" and other days you feel "light"?
 
 ## 3.2 Gravity as Tamas Field Effect
 
-> **🔗 See:** [Dark Matter/Energy](../../cosmology/dark_matter_energy/) for large-scale gravity effects
+> **🔗 See:** [Dark Matter/Energy](../../cosmology/dark_matter_energy) for large-scale gravity effects
 
 ### 3.2.1 Newtonian Framework
 
@@ -168,9 +168,9 @@ The pull between two objects equals:
   (Distance between them squared)
 
 EXAMPLE:
-• Two heavy objects close together → Strong pull
-• Two light objects far apart → Weak pull
-• Earth (huge Tamas) + You (small Tamas) → You fall toward Earth
+• Two heavy objects close together -> Strong pull
+• Two light objects far apart -> Weak pull
+• Earth (huge Tamas) + You (small Tamas) -> You fall toward Earth
 ```
 
 ### 3.2.2 Einsteinian Framework
@@ -217,7 +217,7 @@ HYPOTHESIS:
 Spacetime is Prakriti (प्रकृति/primordial matter).
 Prakriti has Guna composition.
 Tamas = Density, contraction, binding.
-High Tamas → Spacetime contracts → Curvature appears.
+High Tamas -> Spacetime contracts -> Curvature appears.
 ```
 
 > **🔗 See:** [Rendering Laws](../../../../vishnu_engine/spec/frontend_rendering/02_RENDERING_LAWS.md) for spacetime as Prakriti
@@ -245,7 +245,7 @@ TAMAS-DOMINANT REGION:
 ```
 INERTIA:
 Resistance to change in motion.
-More mass → More inertia.
+More mass -> More inertia.
 F = ma (Force needed = mass × acceleration)
 ```
 
@@ -338,7 +338,7 @@ Because you're measuring the same property two ways!
 ### 3.6.2 Pattern
 
 ```
-More Tamas → Heavier → Falls faster → More gravity
+More Tamas -> Heavier -> Falls faster -> More gravity
 This is the Mahabhuta sequence.
 Earth (Prithvi) falls, Fire (Agni) rises.
 Not arbitrary — follows from Guna composition.
@@ -349,33 +349,33 @@ Not arbitrary — follows from Guna composition.
 ## 3.7 The Complete Mapping
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              GRAVITY ↔ TAMAS MAPPING                          ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PHYSICS              BACKEND           CORRESPONDENCE        ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║  Mass (M)             Tamas (T)         M ∝ T                ║
-║  Inertia              Sthira-Tamas      Same phenomenon      ║
-║  Weight               Guru              Same property        ║
-║  Gravitational force  Nibandha          Binding force        ║
-║  Curvature            Tamas density     Spacetime warping    ║
-║                                                               ║
-║  FORMULAS:                                                    ║
-║  F = GMm/r²           F = G×T₁×T₂/r²    Tamas product       ║
-║  Gμν = κTμν           Curvature = κ×Tamas  Geometry effect  ║
-║                                                               ║
-║  EQUIVALENCE PRINCIPLE:                                       ║
-║  m_grav = m_inert     Tamas = Tamas     Automatic identity   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              GRAVITY ↔ TAMAS MAPPING                          |
++===============================================================+
+|                                                               |
+|  PHYSICS              BACKEND           CORRESPONDENCE        |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   |
+|  Mass (M)             Tamas (T)         M ∝ T                |
+|  Inertia              Sthira-Tamas      Same phenomenon      |
+|  Weight               Guru              Same property        |
+|  Gravitational force  Nibandha          Binding force        |
+|  Curvature            Tamas density     Spacetime warping    |
+|                                                               |
+|  FORMULAS:                                                    |
+|  F = GMm/r²           F = G×T₁×T₂/r²    Tamas product       |
+|  Gμν = κTμν           Curvature = κ×Tamas  Geometry effect  |
+|                                                               |
+|  EQUIVALENCE PRINCIPLE:                                       |
+|  m_grav = m_inert     Tamas = Tamas     Automatic identity   |
+|                                                               |
++===============================================================+
 ```
 
 ---
 
 ## 3.8 Dark Matter as Multi-Loka Tamas
 
-> **🔗 Full Paper:** [Dark Matter/Energy](../../cosmology/dark_matter_energy/)
+> **🔗 Full Paper:** [Dark Matter/Energy](../../cosmology/dark_matter_energy)
 
 ### 3.8.1 The Dark Matter Problem
 
@@ -422,7 +422,7 @@ DARK MATTER = TAMAS IN ADJACENT LOKAS:
    - > Levitation is Tamas reduction
 
 4. **Black holes are maximum Tamas** (singularities)
-   - > See [Black Holes](../../09_ASTRONOMY/black_holes/)
+   - > See [Black Holes](../../../../scientific_papers/09_ASTRONOMY/black_holes/)
 
 5. **Photons (no mass) have no Tamas** (move at c)
    - > Pure Rajas (motion) without Tamas (mass)
@@ -461,8 +461,8 @@ Same phenomenon, different languages.
 ## 📚 References for This Section
 
 - **Foundation:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
-- **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas/) — Entropy is also Tamas
-- **Related:** [Dark Matter](../../cosmology/dark_matter_energy/) — Large-scale Tamas effects
+- **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Entropy is also Tamas
+- **Related:** [Dark Matter](../../cosmology/dark_matter_energy) — Large-scale Tamas effects
 - **Entities:** [Atom (N-4)](../../../../vishnu_engine/spec/entities/fractals/N-4_ATOM.md)
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

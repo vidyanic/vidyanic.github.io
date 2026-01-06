@@ -29,14 +29,14 @@ This document establishes the foundational principles for all biology-related re
 
 ```
 LIFE EQUATION:
-═════════════
+=============
 Living Being = Atman + Prana + Sharira
 
-Atman (Consciousness) → Witnesses, observes, chooses
-Prana (Life Force) → Animates, energizes, connects
-Sharira (Body) → Provides form, interface, vehicle
+Atman (Consciousness) -> Witnesses, observes, chooses
+Prana (Life Force) -> Animates, energizes, connects
+Sharira (Body) -> Provides form, interface, vehicle
 
-DEATH = Atman withdraws → Prana exits → Sharira remains
+DEATH = Atman withdraws -> Prana exits -> Sharira remains
 ```
 
 ### Vedic-Biology Correspondence
@@ -61,7 +61,7 @@ DEATH = Atman withdraws → Prana exits → Sharira remains
 
 ```
 CELL = BRAHMANDA (Universe) at N-1 Level
-════════════════════════════════════════
+========================================
 
 Nucleus = Brahma-Sthan (Central kernel)
 Mitochondria = Power generators (Agni)
@@ -76,7 +76,7 @@ DNA = Akashic record (Information storage)
 
 ```
 DNA STRUCTURE:
-═════════════
+=============
 Left strand  = Ida (Moon channel, receptive)
 Right strand = Pingala (Sun channel, active)
 Base pairs   = Sushumna connection points
@@ -102,12 +102,12 @@ Gene expression = Dharmic activation
 
 ```
 HEALING HIERARCHY:
-═════════════════
-Level 5: Karmic healing (Anandamaya) → Address root cause
-Level 4: Wisdom healing (Vijnanamaya) → Correct understanding
-Level 3: Emotional healing (Manomaya) → Process emotions
-Level 2: Energy healing (Pranamaya) → Restore Prana flow
-Level 1: Physical healing (Annamaya) → Treat symptoms
+=================
+Level 5: Karmic healing (Anandamaya) -> Address root cause
+Level 4: Wisdom healing (Vijnanamaya) -> Correct understanding
+Level 3: Emotional healing (Manomaya) -> Process emotions
+Level 2: Energy healing (Pranamaya) -> Restore Prana flow
+Level 1: Physical healing (Annamaya) -> Treat symptoms
 
 COMPLETE HEALING requires addressing ALL levels.
 ```
@@ -118,15 +118,15 @@ COMPLETE HEALING requires addressing ALL levels.
 
 ```
 AGING MECHANISM:
-═══════════════
+===============
 • Cells accumulate epigenetic marks (Samskaras)
 • DNA expression changes over time
 • Telomeres shorten (tick counting)
 • Cellular function degrades
 
 REVERSAL POTENTIAL:
-• Clear Samskaras → Epigenetic reprogramming
-• Reset cellular memory → Age reversal
+• Clear Samskaras -> Epigenetic reprogramming
+• Reset cellular memory -> Age reversal
 • This is Rasayana (rejuvenation) at molecular level
 ```
 
@@ -175,14 +175,14 @@ REVERSAL POTENTIAL:
 
 | Topic | Priority | Description |
 |-------|----------|-------------|
-| **DNA Ida-Pingala** | 🔴 HIGH | Double helix as energy channels |
-| **Aging Epigenetics** | 🔴 HIGH | Samskara accumulation/reversal |
-| **Placebo Sankalpa** | 🔴 HIGH | Mind-body healing power |
+| **DNA Ida-Pingala** | ⚠️ HIGH | Double helix as energy channels |
+| **Aging Epigenetics** | ⚠️ HIGH | Samskara accumulation/reversal |
+| **Placebo Sankalpa** | ⚠️ HIGH | Mind-body healing power |
 | **Microbiome** | 🟡 MED | Gut as second brain |
 | **Nervous System** | 🟡 MED | Nadis at physical level |
 | **Endocrine System** | 🟡 MED | Chakra physical correlates |
 | **Regeneration** | 🟡 MED | Healing at cellular level |
-| **Death Mechanics** | Cross-ref | → 04_consciousness/ |
+| **Death Mechanics** | Cross-ref | -> 04_consciousness/ |
 
 ---
 
@@ -227,16 +227,16 @@ All biology papers should reference:
 
 ## PART VII: CROSS-DOMAIN CONNECTIONS
 
-### Biology → Other Domains
+### Biology -> Other Domains
 
 | Connection | Relationship |
 |------------|--------------|
-| → Physics | Biology is physics at organic level |
-| → Consciousness | Life requires consciousness |
-| → Earth | Bodies are Earth's cells |
-| → Human | This IS human biology |
-| → Vidyas | Ayurveda is applied biology |
-| → Anomalies | Medical anomalies reveal backend |
+| -> Physics | Biology is physics at organic level |
+| -> Consciousness | Life requires consciousness |
+| -> Earth | Bodies are Earth's cells |
+| -> Human | This IS human biology |
+| -> Vidyas | Ayurveda is applied biology |
+| -> Anomalies | Medical anomalies reveal backend |
 
 ---
 

@@ -1,6 +1,6 @@
 # 9. Discussion
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -12,15 +12,15 @@ Across all domains examined:
 
 ```
 CONSISTENT PATTERN:
-═══════════════════
+===================
 
-NDEs:        Less brain activity → Rich experience
-Psychedelics: Less brain activity → Expanded experience
-Terminal:    Failing brain → Clarity returns
-Savants:     Damaged brain → New abilities emerge
-Meditation:  Quieted brain → Expanded awareness
+NDEs:        Less brain activity -> Rich experience
+Psychedelics: Less brain activity -> Expanded experience
+Terminal:    Failing brain -> Clarity returns
+Savants:     Damaged brain -> New abilities emerge
+Meditation:  Quieted brain -> Expanded awareness
 
-PATTERN: ↓ Brain Activity → ↑ Experience
+PATTERN: v Brain Activity -> ^ Experience
 
 This is PARADOXICAL for generator model
 This is PREDICTED by receiver model
@@ -30,8 +30,8 @@ This is PREDICTED by receiver model
 
 | Model | Predictions | Match to Evidence |
 |-------|-------------|-------------------|
-| Generator | ↓ Activity = ↓ Experience | **Fails** |
-| Receiver | ↓ Filtering = ↑ Experience | **Matches** |
+| Generator | v Activity = v Experience | **Fails** |
+| Receiver | v Filtering = ^ Experience | **Matches** |
 
 ---
 
@@ -82,13 +82,13 @@ If the receiver model is correct:
 
 ```
 RADIO ANALOGY:
-═════════════
-Damage radio → Music distorted or stops
+=============
+Damage radio -> Music distorted or stops
 Does radio PRODUCE music? No.
 
 BRAIN ANALOGY:
-══════════════
-Damage brain → Experience distorted or changes
+==============
+Damage brain -> Experience distorted or changes
 Does brain PRODUCE consciousness? Not necessarily.
 
 Both explanations fit correlation.
@@ -99,7 +99,7 @@ But receiver model explains MORE (NDEs, psychedelics, etc.)
 
 **Response:**
 
-The question assumes consciousness must "come from" somewhere else. But if consciousness is fundamental (see [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)), it doesn't come FROM anywhere — it IS the ground of reality.
+The question assumes consciousness must "come from" somewhere else. But if consciousness is fundamental (see [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)), it doesn't come FROM anywhere — it IS the ground of reality.
 
 The "signal" is reality itself. Brain tunes into it.
 
@@ -119,8 +119,8 @@ This is consciousness-first monism:
 **Response:**
 
 Evolution created better RECEIVERS:
-- More complex brains → More sophisticated filtering
-- More sophisticated filtering → More useful local experience
+- More complex brains -> More sophisticated filtering
+- More sophisticated filtering -> More useful local experience
 - Useful for survival
 
 Evolution doesn't need to "create" consciousness — just better interfaces to it.
@@ -140,7 +140,7 @@ Evolution doesn't need to "create" consciousness — just better interfaces to i
 
 ### 9.4.1 Hard Problem Solved
 
-> **🔗 See:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/)
+> **🔗 See:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
 
 The Hard Problem dissolves if brain doesn't produce consciousness:
 - No need to explain how neurons create experience
@@ -149,7 +149,7 @@ The Hard Problem dissolves if brain doesn't produce consciousness:
 
 ### 9.4.2 Observer Effect
 
-> **🔗 See:** [Observer Effect](../../../02_PHYSICS/quantum_mechanics/observer_effect/)
+> **🔗 See:** [Observer Effect](../../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)
 
 Quantum mechanics requires consciousness for collapse:
 - Receiver model explains why: Consciousness is primary
@@ -158,7 +158,7 @@ Quantum mechanics requires consciousness for collapse:
 
 ### 9.4.3 Entropy = Tamas
 
-> **🔗 See:** [Entropy = Tamas](../../../02_PHYSICS/thermodynamics/entropy_tamas/)
+> **🔗 See:** [Entropy = Tamas](../../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/)
 
 Life maintains local order through Sattva:
 - Brain is Sattva-Rajas-Tamas system

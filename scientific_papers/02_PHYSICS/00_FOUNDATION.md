@@ -38,13 +38,13 @@ This document establishes the foundational principles for all physics-related re
 
 ```
 BACKEND (Vedic):           FRONTEND (Physics):
-═══════════════           ═════════════════════
-Brahman/Consciousness  →  Observer/Measurement
-Maya/Rendering Engine  →  Quantum Mechanics
-Gunas (S/R/T)          →  Forces/Properties
-Akasha                 →  Spacetime
-Shabda/Wave            →  Wave Function
-Karma                  →  Conservation Laws
+===============           =====================
+Brahman/Consciousness  ->  Observer/Measurement
+Maya/Rendering Engine  ->  Quantum Mechanics
+Gunas (S/R/T)          ->  Forces/Properties
+Akasha                 ->  Spacetime
+Shabda/Wave            ->  Wave Function
+Karma                  ->  Conservation Laws
 ```
 
 ---
@@ -72,9 +72,9 @@ c = 1 pixel per tick (EXACTLY)
 **Mass is accumulated Tamas; gravity is Tamas curvature.**
 
 ```
-Mass → Tamas concentration
-Gravity → Grid deformation from Tamas weight
-Inertia → Tamas resistance to change
+Mass -> Tamas concentration
+Gravity -> Grid deformation from Tamas weight
+Inertia -> Tamas resistance to change
 
 F_gravity = G × (Tamas₁ × Tamas₂) / r²
 ```
@@ -91,7 +91,7 @@ F_gravity = G × (Tamas₁ × Tamas₂) / r²
 
 | Quantum Phenomenon | Vedic Explanation |
 |-------------------|-------------------|
-| Wave-particle duality | Shabda (wave) → Rupa (form) on observation |
+| Wave-particle duality | Shabda (wave) -> Rupa (form) on observation |
 | Superposition | Multiple renders exist until observed |
 | Entanglement | Same data, different addresses (Indra-Jala) |
 | Uncertainty | Below pixel resolution |
@@ -135,11 +135,11 @@ FRONTEND:
 
 ```
 Vedic Correspondence:
-═══════════════════
-F = ma          ← Karma-Phala (action-reaction)
-F₁₂ = -F₂₁     ← Perfect karmic balance
-E = ½mv²       ← Rajas (kinetic activity)
-PE = mgh       ← Tamas (potential, stored)
+===================
+F = ma          <- Karma-Phala (action-reaction)
+F₁₂ = -F₂₁     <- Perfect karmic balance
+E = ½mv²       <- Rajas (kinetic activity)
+PE = mgh       <- Tamas (potential, stored)
 ```
 
 ### 3.2 Quantum Backend (Micro)
@@ -148,11 +148,11 @@ PE = mgh       ← Tamas (potential, stored)
 
 ```
 Vedic Correspondence:
-═══════════════════
-ψ (wave function)      ← Shabda (sound/vibration)
-|ψ|² = probability     ← Maya's multiple potentials
-Collapse on observation ← Sankalpa selects reality
-Uncertainty principle   ← Below pixel resolution
+===================
+ψ (wave function)      <- Shabda (sound/vibration)
+|ψ|² = probability     <- Maya's multiple potentials
+Collapse on observation <- Sankalpa selects reality
+Uncertainty principle   <- Below pixel resolution
 ```
 
 ### 3.3 Relativity Backend (Macro/Fast)
@@ -161,11 +161,11 @@ Uncertainty principle   ← Below pixel resolution
 
 ```
 Vedic Correspondence:
-═══════════════════
-E = mc²                 ← Shakti-Prakriti unity
-G_μν = κT_μν           ← Tamas curves Akasha
-Time dilation           ← Variable tick rates
-Length contraction      ← Variable pixel scaling
+===================
+E = mc²                 <- Shakti-Prakriti unity
+G_μν = κT_μν           <- Tamas curves Akasha
+Time dilation           <- Variable tick rates
+Length contraction      <- Variable pixel scaling
 ```
 
 ### 3.4 Unified Backend (All Scales)
@@ -174,7 +174,7 @@ Length contraction      ← Variable pixel scaling
 
 ```
 The 81-Grid Architecture:
-═════════════════════════
+=========================
 • All physics operates on 81-grid at each scale
 • 15th axis = Observer (consciousness insertion point)
 • Fractal: grid repeats at every scale
@@ -212,12 +212,12 @@ The 81-Grid Architecture:
 
 | Topic | Priority | Source Content |
 |-------|----------|----------------|
-| **Dark Matter/Energy** | 🔴 HIGH | Unrendered substrate |
-| **Gravity Backend** | 🔴 HIGH | Tamas mechanics |
+| **Dark Matter/Energy** | ⚠️ HIGH | Unrendered substrate |
+| **Gravity Backend** | ⚠️ HIGH | Tamas mechanics |
 | **Electromagnetism** | 🟡 MED | EM as Guna waves |
 | **Thermodynamics** | 🟡 MED | Entropy = Tamas increase |
 | **Nuclear Forces** | 🟡 MED | Strong/Weak backends |
-| **Quantum Gravity** | 🔴 HIGH | Unified field theory |
+| **Quantum Gravity** | ⚠️ HIGH | Unified field theory |
 
 ---
 
@@ -246,16 +246,16 @@ For physics papers:
 
 ## PART VII: CROSS-DOMAIN CONNECTIONS
 
-### Physics → Other Domains
+### Physics -> Other Domains
 
 | Connection | Relationship |
 |------------|--------------|
-| → Biology | Physics governs biochemistry |
-| → Consciousness | Observer is central to physics |
-| → Time | Time is physics + consciousness |
-| → Earth | Earth is physics at N+2 scale |
-| → Human | Body is physics at N scale |
-| → Anomalies | Physics anomalies point to backend |
+| -> Biology | Physics governs biochemistry |
+| -> Consciousness | Observer is central to physics |
+| -> Time | Time is physics + consciousness |
+| -> Earth | Earth is physics at N+2 scale |
+| -> Human | Body is physics at N scale |
+| -> Anomalies | Physics anomalies point to backend |
 
 ---
 

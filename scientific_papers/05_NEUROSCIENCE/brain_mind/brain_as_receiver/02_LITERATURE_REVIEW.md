@@ -1,6 +1,6 @@
 # 2. Literature Review
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
 
 ---
 
@@ -102,7 +102,7 @@ The DMN is associated with:
 - Ego maintenance
 - "Normal" waking consciousness
 
-Psychedelics **reduce** DMN activity → **Expanded** consciousness
+Psychedelics **reduce** DMN activity -> **Expanded** consciousness
 
 This directly supports the filter hypothesis: Less filtering = More experience.
 
@@ -163,7 +163,7 @@ Hypothesis: Savant abilities represent access to "raw" processing normally filte
 
 ```
 ANTAHKARANA = INTERFACE, NOT SOURCE
-══════════════════════════════════
+==================================
 
 • Manas (मनस्) — Sense processing
 • Buddhi (बुद्धि) — Discrimination

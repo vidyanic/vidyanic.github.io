@@ -34,9 +34,9 @@ Cancer stem cells attempting differentiation but chaotically — trying to remem
 ### 7.3.1 Observations
 
 Some studies suggest psychological factors influence cancer:
-- Stress → Worse outcomes
-- Social support → Better outcomes
-- Purpose/meaning → Better outcomes
+- Stress -> Worse outcomes
+- Social support -> Better outcomes
+- Purpose/meaning -> Better outcomes
 
 ### 7.3.2 Backend Interpretation
 

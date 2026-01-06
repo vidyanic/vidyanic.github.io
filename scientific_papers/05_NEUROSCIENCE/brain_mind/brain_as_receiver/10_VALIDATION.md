@@ -1,7 +1,7 @@
 # 10. Validation
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md)  
-> **🔗 Template:** [Validation Template](../../../00_META/VALIDATION_TEMPLATE.md)
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **🔗 Template:** [Validation Template](./00_META/VALIDATION_TEMPLATE.md)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ```
 LOCAL EXPERIENCE = CONSCIOUSNESS × (1 - FILTER)
-═════════════════════════════════════════════════
+=================================================
 
 C_local = C_∞ × (1 - F)
 
@@ -21,9 +21,9 @@ C_∞ = Infinite/universal consciousness
 F = Filter factor (0 to 1)
 
 INTERPRETATIONS:
-F = 1: Complete filtering → C_local = 0 (no experience)
-F = 0: No filtering → C_local = C_∞ (full consciousness)
-F = 0.95: Normal waking → C_local = 0.05 × C_∞
+F = 1: Complete filtering -> C_local = 0 (no experience)
+F = 0: No filtering -> C_local = C_∞ (full consciousness)
+F = 0.95: Normal waking -> C_local = 0.05 × C_∞
 ```
 
 ### 10.1.2 Filter Components
@@ -42,7 +42,7 @@ NORMAL STATE:
 F ≈ 0.95 (heavy filtering)
 
 PSYCHEDELIC STATE:
-f_ahamkara ↓↓ → F ↓ → C_local ↑
+f_ahamkara vv -> F v -> C_local ^
 ```
 
 ---
@@ -53,7 +53,7 @@ f_ahamkara ↓↓ → F ↓ → C_local ↑
 
 ```
 LOGICAL ARGUMENT:
-═════════════════
+=================
 
 PREMISE 1: Brain activity correlates with experience
 PREMISE 2: Correlation does not prove causation
@@ -67,18 +67,18 @@ VALIDITY: Logically sound
 
 ```
 LOGICAL TEST:
-═════════════
+=============
 
 IF generator model true:
-↓ Brain activity → ↓ Experience (prediction)
+v Brain activity -> v Experience (prediction)
 
 IF receiver model true:
-↓ Brain activity → ↓ Filtering → ↑ Experience (prediction)
+v Brain activity -> v Filtering -> ^ Experience (prediction)
 
 OBSERVED:
-Psychedelics: ↓ Activity, ↑ Experience
+Psychedelics: v Activity, ^ Experience
 NDEs: 0 Activity, Rich Experience
-Meditation: ↓ Activity, ↑ Awareness
+Meditation: v Activity, ^ Awareness
 
 CONCLUSION: Receiver model predictions match; generator fails
 ```
@@ -106,7 +106,7 @@ CONCLUSION: Receiver model predictions match; generator fails
 |---|-------|--------|-------|
 | 1 | Central axis (Meru) | ✓ | Antahkarana is the central processor |
 | 2 | 14-layer structure | ✓ | Filter layers (Manas, Buddhi, Chitta, Ahamkara) |
-| 3 | Create-Maintain-Destroy | ✓ | Perception → Memory → Dissolution |
+| 3 | Create-Maintain-Destroy | ✓ | Perception -> Memory -> Dissolution |
 | 4 | Guna classification | ✓ | Sattva=clarity, Rajas=activity, Tamas=filtering |
 | 5 | 5 elements mapping | ✓ | Senses map to elements |
 | 6 | 6 stages (Vikara) | ✓ | Perception has stages |
@@ -185,7 +185,7 @@ CONCLUSION: Receiver model predictions match; generator fails
 
 ```
 CONFIDENCE SCORE: 84%
-═════════════════════
+=====================
 
 BREAKDOWN:
 • NDE evidence: 80%

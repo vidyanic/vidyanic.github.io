@@ -31,8 +31,8 @@
 ### 1.1 Traditional View
 
 **"Plants are biological machines":**
-- No brain → No consciousness
-- No neurons → No experience
+- No brain -> No consciousness
+- No neurons -> No experience
 - Just chemical reactions
 - Tropisms are reflexes
 
@@ -62,7 +62,7 @@
 **Mimosa pudica experiment (Gagliano, 2014):**
 - Dropped plant repeatedly
 - Initially closed leaves
-- Learned drop was safe → Stopped closing
+- Learned drop was safe -> Stopped closing
 - Remembered for weeks
 - Relearned faster (like neural memory)
 
@@ -166,23 +166,23 @@ Trees are metaphors for the entire manifest creation — consciousness expressin
 
 ```
 CONSCIOUSNESS SPECTRUM:
-═══════════════════════
+=======================
 
 BRAHMAN (Pure Consciousness)
-    │
-    ↓ Increases density/limitation
+    |
+    v Increases density/limitation
     
 HUMANS (Full Antahkarana)
-    │
-    ↓
+    |
+    v
     
 ANIMALS (Emotion + Sense)
-    │
-    ↓
+    |
+    v
     
 PLANTS (Feeling, basic response)
-    │
-    ↓
+    |
+    v
     
 MINERALS (Dormant potential)
 ```

@@ -195,10 +195,10 @@ The speed of light is literally the rendering rate: one pixel per one tick.
 
 ```
 CLASSICAL:
-Wall with no gap → Particle stops
+Wall with no gap -> Particle stops
 
 QUANTUM:
-Wall with no gap → Particle can "tunnel" through
+Wall with no gap -> Particle can "tunnel" through
 
 WHY: Uncertainty in position allows "being" on other side
      Probability becomes reality

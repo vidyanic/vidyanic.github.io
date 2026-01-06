@@ -20,7 +20,7 @@
 
 | Folder | Focus | Key Paper |
 |--------|-------|-----------|
-| [cymatics/](./cymatics/) | Sound visualization | Sound creates form |
+| [cymatics/](../cymatics) | Sound visualization | Sound creates form |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Fact | Source | What It Means |
 |------|--------|---------------|
-| Sound creates geometric patterns | Cymatics experiments | Shabda → Rupa |
+| Sound creates geometric patterns | Cymatics experiments | Shabda -> Rupa |
 | Different frequencies = different forms | Chladni plates | Form is frequency |
 | OM frequency matches natural patterns | Research | Mantra is scientific |
 | 432 Hz vs 440 Hz debate | Music theory | Tuning affects us |
@@ -71,9 +71,9 @@ VEDIC CREATION SEQUENCE:
 3. Rupa (Form/Pattern)
 4. Prakriti (Material)
 
-CYMATICS PROVES STEPS 2→3:
+CYMATICS PROVES STEPS 2->3:
 ━━━━━━━━━━━━━━━━━━━━━━━━
-Sound frequency → Physical pattern
+Sound frequency -> Physical pattern
 This is OBSERVABLE in experiments
 Pour sand on a plate, vibrate it, watch patterns form!
 ```
@@ -83,7 +83,7 @@ Pour sand on a plate, vibrate it, watch patterns form!
 
 ---
 
-**Start with:** [Cymatics](./cymatics/sound_creates_form.md)
+**Start with:** [Cymatics](../../cymatics/sound_creates_form.md)
 
 **ॐ नमो नादाय**  
 *Salutations to Sacred Sound*

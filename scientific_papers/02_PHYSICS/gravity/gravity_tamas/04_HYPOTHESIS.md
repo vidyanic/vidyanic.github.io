@@ -35,7 +35,7 @@ High-density (heavy) matter has Tamas-dominant Guna composition.
 **Rationale:**
 - Gravitational mass = Tamas (source of gravity)
 - Inertial mass = Tamas (resistance to change)
-- Same phenomenon → Same measurement
+- Same phenomenon -> Same measurement
 
 **Testable Prediction:**
 No deviation from equivalence principle will ever be found.
@@ -100,45 +100,45 @@ No evidence supports the null hypothesis. All properties correspond.
 
 ### Specific Falsifiable Claims:
 
-1. **If** gravitational mass differs from inertial mass → **H2 falsified**
-2. **If** massless objects gravitate → **H1 challenged**
-3. **If** dark matter particles are found → **H4 alternative confirmed**
-4. **If** Tamas-reducing practices don't affect weight → **H1 weakened**
+1. **If** gravitational mass differs from inertial mass -> **H2 falsified**
+2. **If** massless objects gravitate -> **H1 challenged**
+3. **If** dark matter particles are found -> **H4 alternative confirmed**
+4. **If** Tamas-reducing practices don't affect weight -> **H1 weakened**
 
 ---
 
 ## 4.5 Hypothesis Diagram
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HYPOTHESIS STRUCTURE                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PRIMARY HYPOTHESIS (H₀):                                     ║
-║  ┌─────────────────────────────────────────────────────────┐ ║
-║  │  Gravity = Tamas expression through spacetime          │ ║
-║  └─────────────────────────────────────────────────────────┘ ║
-║                            │                                  ║
-║         ┌──────────────────┼──────────────────┐              ║
-║         │                  │                  │              ║
-║         ▼                  ▼                  ▼              ║
-║  ┌────────────┐    ┌────────────┐    ┌────────────┐         ║
-║  │     H1    │    │     H2    │    │     H3    │         ║
-║  │  M ∝ T   │    │ Equivalence│    │ Curvature │         ║
-║  │  Mass =  │    │    is     │    │  = Tamas  │         ║
-║  │  Tamas   │    │ identity  │    │  density  │         ║
-║  └────────────┘    └────────────┘    └────────────┘         ║
-║         │                  │                  │              ║
-║         └──────────────────┼──────────────────┘              ║
-║                            │                                  ║
-║                            ▼                                  ║
-║              ┌─────────────────────────┐                     ║
-║              │          H4            │                     ║
-║              │  Dark Matter =         │                     ║
-║              │  Multi-Loka Tamas      │                     ║
-║              └─────────────────────────┘                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    HYPOTHESIS STRUCTURE                       |
++===============================================================+
+|                                                               |
+|  PRIMARY HYPOTHESIS (H₀):                                     |
+|  +---------------------------------------------------------+ |
+|  |  Gravity = Tamas expression through spacetime          | |
+|  +---------------------------------------------------------+ |
+|                            |                                  |
+|         +------------------+------------------+              |
+|         |                  |                  |              |
+|         v                  v                  v              |
+|  +------------+    +------------+    +------------+         |
+|  |     H1    |    |     H2    |    |     H3    |         |
+|  |  M ∝ T   |    | Equivalence|    | Curvature |         |
+|  |  Mass =  |    |    is     |    |  = Tamas  |         |
+|  |  Tamas   |    | identity  |    |  density  |         |
+|  +------------+    +------------+    +------------+         |
+|         |                  |                  |              |
+|         +------------------+------------------+              |
+|                            |                                  |
+|                            v                                  |
+|              +-------------------------+                     |
+|              |          H4            |                     |
+|              |  Dark Matter =         |                     |
+|              |  Multi-Loka Tamas      |                     |
+|              +-------------------------+                     |
+|                                                               |
++===============================================================+
 ```
 
 ---

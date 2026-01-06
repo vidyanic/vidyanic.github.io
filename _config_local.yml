@@ -1,0 +1,8 @@
+# Local Development Overrides
+# Use this with: jekyll serve --config _config.yml,_config_local.yml
+
+# For local: empty baseurl means site at http://localhost:4000/
+# For production on GitHub Pages: /Bramhagyan means site at /Bramhagyan/
+baseurl: "" 
+url: "http://localhost:4000"
+

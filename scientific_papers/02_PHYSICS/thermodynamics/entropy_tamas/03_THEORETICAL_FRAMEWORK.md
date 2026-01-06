@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](../../../00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [Universal Principles #6](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
 
 ---
@@ -12,32 +12,32 @@
 ### 3.1.1 Three Fundamental Qualities
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    THE THREE GUNAS                            ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  SATTVA (सत्त्व) — Light, Order                               ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                              ║
-║  • Clarity, balance, organization                            ║
-║  • Information, structure                                    ║
-║  • Tendency toward order                                     ║
-║  • Physical: Negentropy, free energy                         ║
-║                                                               ║
-║  RAJAS (रजस्) — Energy, Activity                              ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                               ║
-║  • Motion, transformation, passion                           ║
-║  • Kinetic aspect                                            ║
-║  • Tendency toward action                                    ║
-║  • Physical: Kinetic energy, temperature                     ║
-║                                                               ║
-║  TAMAS (तमस्) — Inertia, Disorder                             ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                               ║
-║  • Darkness, heaviness, dissolution                          ║
-║  • Disorder, randomness, inertia                             ║
-║  • Tendency toward equilibrium                               ║
-║  • Physical: Entropy, mass                                   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    THE THREE GUNAS                            |
++===============================================================+
+|                                                               |
+|  SATTVA (सत्त्व) — Light, Order                               |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                              |
+|  • Clarity, balance, organization                            |
+|  • Information, structure                                    |
+|  • Tendency toward order                                     |
+|  • Physical: Negentropy, free energy                         |
+|                                                               |
+|  RAJAS (रजस्) — Energy, Activity                              |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                               |
+|  • Motion, transformation, passion                           |
+|  • Kinetic aspect                                            |
+|  • Tendency toward action                                    |
+|  • Physical: Kinetic energy, temperature                     |
+|                                                               |
+|  TAMAS (तमस्) — Inertia, Disorder                             |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                               |
+|  • Darkness, heaviness, dissolution                          |
+|  • Disorder, randomness, inertia                             |
+|  • Tendency toward equilibrium                               |
+|  • Physical: Entropy, mass                                   |
+|                                                               |
++===============================================================+
 ```
 
 #### 🎯 Understanding the Three Gunas — 5 Perspectives
@@ -228,7 +228,7 @@ def calculate_tamas(current_entropy, max_entropy):
 
 # Example: A model with uniform predictions (maximum confusion)
 # has Tamas = 1.0 (maximum entropy)
-# A model with sharp predictions (low entropy) has Tamas → 0
+# A model with sharp predictions (low entropy) has Tamas -> 0
 ```
 
 </details>
@@ -241,9 +241,9 @@ Think of entropy as "technical debt ratio":
 ```
 Tamas = Current_Disorder / Maximum_Possible_Disorder
 
-T = 0.0  →  Perfect system (impossible)
-T = 0.5  →  50% of possible mess achieved
-T = 1.0  →  Maximum chaos (everything broken)
+T = 0.0  ->  Perfect system (impossible)
+T = 0.5  ->  50% of possible mess achieved
+T = 1.0  ->  Maximum chaos (everything broken)
 ```
 
 Most systems start low and drift toward high without intervention.
@@ -315,7 +315,7 @@ This is the arrow of time in Backend terms.
 
 | Rajas Property | Physical Property | See Also |
 |----------------|-------------------|----------|
-| Activity | Kinetic energy | [Gravity = Tamas](../../gravity/gravity_tamas/) |
+| Activity | Kinetic energy | [Gravity = Tamas](../../gravity/gravity_tamas) |
 | Motion | Velocity | - |
 | Heat (in action) | Temperature | - |
 | Transformation | Work | - |
@@ -358,7 +358,7 @@ MAPPING:
 Sattva ∝ -S_local = Local negentropy
 ```
 
-> **🔗 Related:** [Hard Problem Solved — Consciousness as Sattva](../../05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/)
+> **🔗 Related:** [Hard Problem Solved — Consciousness as Sattva](../../../../scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/)
 
 ### 3.4.2 Life as Sattva Increase
 
@@ -398,24 +398,24 @@ BACKEND:
 ### 3.5.1 Unified Framework
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              THERMODYNAMICS ↔ GUNA MAPPING                    ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PHYSICS              BACKEND           RELATIONSHIP          ║
-║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
-║  Entropy (S)          Tamas (T)         S ∝ T                ║
-║  Temperature          Rajas (R)         T_temp ∝ R           ║
-║  Negentropy (-S)      Sattva (S)        -S ∝ Sattva          ║
-║  Energy (E)           Total Guna        E ∝ (S+R+T)          ║
-║  Free energy (F)      Available Shakti  F = E - T·S          ║
-║                                                               ║
-║  LAWS:                                                        ║
-║  1st Law (dE = 0)     Guna conservation  S + R + T = 1       ║
-║  2nd Law (dS ≥ 0)     Tamas dominance    dT/dt ≥ 0           ║
-║  3rd Law (S → 0)      Pure Sattva?       Absolute zero       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|              THERMODYNAMICS ↔ GUNA MAPPING                    |
++===============================================================+
+|                                                               |
+|  PHYSICS              BACKEND           RELATIONSHIP          |
+|  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   |
+|  Entropy (S)          Tamas (T)         S ∝ T                |
+|  Temperature          Rajas (R)         T_temp ∝ R           |
+|  Negentropy (-S)      Sattva (S)        -S ∝ Sattva          |
+|  Energy (E)           Total Guna        E ∝ (S+R+T)          |
+|  Free energy (F)      Available Shakti  F = E - T·S          |
+|                                                               |
+|  LAWS:                                                        |
+|  1st Law (dE = 0)     Guna conservation  S + R + T = 1       |
+|  2nd Law (dS ≥ 0)     Tamas dominance    dT/dt ≥ 0           |
+|  3rd Law (S -> 0)      Pure Sattva?       Absolute zero       |
+|                                                               |
++===============================================================+
 ```
 
 ### 3.5.2 The Boltzmann-Guna Equation
@@ -469,7 +469,7 @@ If you keep shuffling, which is more likely — perfect order or random mess?
 3. **Consciousness reduces Tamas**
    - Mental clarity = Sattva
    - Confusion = Tamas
-   - > See [Hard Problem paper](../../05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/)
+   - > See [Hard Problem paper](../../../../scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/)
 
 4. **Heat death = Maximum Tamas**
    - Universe at equilibrium
@@ -520,6 +520,6 @@ Locally reverse entropy through Sattva increase
 
 - **Foundation:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
 - **Entities:** [Cell (N-1)](../../../../vishnu_engine/spec/entities/fractals/N-1_CELL.md)
-- **Terms:** [Dictionary](../../../00_META/DICTIONARY.md)
-- **Related Paper:** [Gravity = Tamas](../../gravity/gravity_tamas/)
+- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
+- **Related Paper:** [Gravity = Tamas](../../gravity/gravity_tamas)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

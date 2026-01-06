@@ -37,7 +37,7 @@ v should decrease with r (Keplerian)
 
 OBSERVED:
 v stays constant or increases!
-→ Extra mass needed → Dark matter halo
+-> Extra mass needed -> Dark matter halo
 
 VEDIC INTERPRETATION:
 Adho Loka mass provides gravitational substrate
@@ -166,7 +166,7 @@ VALIDITY: ⚠️ PLAUSIBLE (needs more development)
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)
@@ -192,14 +192,14 @@ ROUNDED: 81%
 ```
 STANDARD MODEL ASSUMPTION:
 Dark matter = New particle type
-→ Should interact (weakly) with our detectors
-→ 40+ years: Nothing found
+-> Should interact (weakly) with our detectors
+-> 40+ years: Nothing found
 
 LOKA MODEL PREDICTION:
 Dark matter = Different dimensional band
-→ Only gravity crosses dimensions
-→ Particle detectors CANNOT detect
-→ Explains failure without "fine-tuning"
+-> Only gravity crosses dimensions
+-> Particle detectors CANNOT detect
+-> Explains failure without "fine-tuning"
 ```
 
 ---

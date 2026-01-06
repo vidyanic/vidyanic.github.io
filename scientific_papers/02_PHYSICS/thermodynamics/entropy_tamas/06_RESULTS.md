@@ -34,7 +34,7 @@
 
 | Process | ΔS | ΔT (Tamas) | Match |
 |---------|-----|------------|-------|
-| Heat flow (hot→cold) | + | + | ✓ |
+| Heat flow (hot->cold) | + | + | ✓ |
 | Gas expansion (free) | + | + | ✓ |
 | Mixing | + | + | ✓ |
 | Chemical equilibrium | + | + | ✓ |
@@ -46,11 +46,11 @@ Both frameworks explain temporal asymmetry:
 
 ```
 ENTROPY VIEW:
-Past (low S) → Future (high S)
+Past (low S) -> Future (high S)
 dS/dt > 0 defines direction
 
 GUNA VIEW:
-Past (Sattva) → Future (Tamas)
+Past (Sattva) -> Future (Tamas)
 dT/dt > 0 defines direction
 
 IDENTICAL STRUCTURE
@@ -149,7 +149,7 @@ Activity level at given disorder
 **Guna Framework:**
 ```
 CYCLICAL MODEL:
-Pralaya (dissolution) → Srishti (creation) → Sthiti (maintenance) → Pralaya
+Pralaya (dissolution) -> Srishti (creation) -> Sthiti (maintenance) -> Pralaya
 
 After full Pralaya:
 Tamas = maximum

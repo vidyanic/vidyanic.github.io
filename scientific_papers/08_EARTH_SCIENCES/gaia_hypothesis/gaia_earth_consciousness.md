@@ -60,8 +60,8 @@
 **The puzzle:**
 - Oxygen is reactive (should disappear)
 - Maintained at 21% for ~300 million years
-- Too low → No fire, limited respiration
-- Too high → Everything burns
+- Too low -> No fire, limited respiration
+- Too high -> Everything burns
 
 **The regulation:**
 - Photosynthesis produces O₂
@@ -131,16 +131,16 @@
 
 ```
 BRAHMANDA (Universe)
-    │
-    ↓ Contains
+    |
+    v Contains
     
 LOKAS (Dimensional layers)
-    │
-    ↓ Within Bhuloka
+    |
+    v Within Bhuloka
     
 PRITHVI (Earth)
-    │
-    ↓ Contains
+    |
+    v Contains
     
 ALL JIVAS (Living beings)
 ```
@@ -178,8 +178,8 @@ ALL JIVAS (Living beings)
 
 **Lovelock's thought experiment:**
 - Imaginary planet with dark/light daisies
-- Temperature changes → Daisy ratio changes
-- Ratio change → Temperature regulated
+- Temperature changes -> Daisy ratio changes
+- Ratio change -> Temperature regulated
 - Simple life creates complex stability
 
 ---

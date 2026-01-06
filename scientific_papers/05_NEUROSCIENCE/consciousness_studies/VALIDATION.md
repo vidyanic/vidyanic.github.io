@@ -15,13 +15,13 @@ EASY PROBLEMS (functional):
 - How does the brain process information?
 - How do we discriminate, categorize, react?
 - How do we report mental states?
-→ Answer: Computational/neural mechanisms
+-> Answer: Computational/neural mechanisms
 
 HARD PROBLEM (experiential):
 - WHY is there subjective experience at all?
 - Why does information processing feel like something?
 - Why isn't it all "in the dark"?
-→ No materialist answer works
+-> No materialist answer works
 ```
 
 ### The Explanatory Gap
@@ -29,7 +29,7 @@ HARD PROBLEM (experiential):
 ```
 Physical description ≠ Experiential reality
 
-Brain state B₁ → Neural firing patterns
+Brain state B₁ -> Neural firing patterns
              ≠ "The redness of red"
              ≠ "What it's like to be..."
 
@@ -46,11 +46,11 @@ Current science: Gap = ∞ (unbridgeable)
 
 ```
 MATERIALIST ASSUMPTION:
-Matter → Complexity → Consciousness (emergent)
+Matter -> Complexity -> Consciousness (emergent)
 PROBLEM: Can't explain HOW emergence happens
 
 VEDIC AXIOM:
-Consciousness → Interacts with Matter → Experience
+Consciousness -> Interacts with Matter -> Experience
 Chaitanya (चैतन्य) is fundamental, not emergent
 
 FORMULA:
@@ -63,7 +63,7 @@ Experience = Atman witnessing through body-mind
 ```
 WESTERN PROBLEM:
 Observer is part of observed system
-→ Infinite regress: Who observes the observer?
+-> Infinite regress: Who observes the observer?
 
 VEDIC SOLUTION:
 Sakshi (साक्षी) = Pure Witness
@@ -190,7 +190,7 @@ VEDIC: Zombie = Body without Atman
 
 ```
 CONFIDENCE FORMULA:
-═══════════════════════════════════════════
+===========================================
 C = (E_peer × 0.30) + (E_replication × 0.25) + 
     (F_symmetry × 0.15) + (L_validity × 0.15) + 
     (V_correlation × 0.15)
@@ -223,7 +223,7 @@ PROBLEM: Still doesn't explain WHY Φ feels like something
 
 VEDIC ENHANCEMENT:
 Φ = Measure of Atman's interface complexity
-Higher Φ → Clearer Atman experience through that system
+Higher Φ -> Clearer Atman experience through that system
 Φ doesn't CREATE consciousness; it measures ACCESS to it
 ```
 

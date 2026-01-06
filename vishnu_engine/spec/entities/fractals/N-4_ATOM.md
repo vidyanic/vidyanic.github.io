@@ -223,11 +223,11 @@
    ------------------------------------------------------------------------
                                                                            
       परमाणु (Paramanu) — The ultimate indivisible particle               
-          ↓ (combines in pairs)                                            
+          v (combines in pairs)                                            
       द्वयणुक (Dvyanuka) — Binary molecule (2 paramanus)                   
-          ↓ (combines in threes)                                           
+          v (combines in threes)                                           
       त्र्यणुक (Tryanuka) — Triad (3 dvyanukas = 6 paramanus)              
-          ↓ (continues combining)                                          
+          v (continues combining)                                          
       Visible Matter — When aggregate is large enough                      
                                                                            
    ------------------------------------------------------------------------

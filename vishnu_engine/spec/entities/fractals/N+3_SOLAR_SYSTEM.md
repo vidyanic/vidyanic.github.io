@@ -220,7 +220,7 @@
    HOW IT WORKS:                                                              
    ------------------------------------------------------------------------
                                                                            
-      GRAHA (N+3) --[Rashmi/Rays]--► NADIS (N) --► ORGANS (N-1)           
+      GRAHA (N+3) --[Rashmi/Rays]--> NADIS (N) --> ORGANS (N-1)           
                                                                            
       The planetary "frequency" is received by specific Nadis             
       These Nadis route the "signal" to corresponding organs              

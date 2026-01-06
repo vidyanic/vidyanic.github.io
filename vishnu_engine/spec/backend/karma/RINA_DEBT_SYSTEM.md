@@ -276,23 +276,23 @@ class JivaDataStructure:
 
 ```
 LEVEL 0: Brahman (ब्रह्मन्)
-           ↓ [Sankalpa/Intent]
+           v [Sankalpa/Intent]
 LEVEL 1: Mahat (महत्) — Universal intellect
-           ↓ [Individualization]
+           v [Individualization]
 LEVEL 2: Ahamkara (अहंकार) — Ego/I-sense
-           ↓ [Bifurcation]
+           v [Bifurcation]
       ---------
-      ↓         ↓
+      v         v
   SUBJECTIVE  OBJECTIVE
-      ↓         ↓
+      v         v
 LEVEL 3a: Manas    LEVEL 3b: Tanmatras
    (Mind)         (Subtle elements)
-      ↓              ↓
+      v              v
 LEVEL 4a: Indriyas  LEVEL 4b: Mahabhutas
    (Senses)        (Gross elements)
-      ↓              ↓
+      v              v
       --------------
-             ↓
+             v
 LEVEL 5: Physical Universe (Jagat / जगत्)
 ```
 
@@ -300,15 +300,15 @@ LEVEL 5: Physical Universe (Jagat / जगत्)
 
 ```
 Physical Body (Annamaya)
-      ↑ [Death/Meditation]
+      ^ [Death/Meditation]
 Energy Body (Pranamaya)
-      ↑ [Pranayama]
+      ^ [Pranayama]
 Mental Body (Manomaya)
-      ↑ [Meditation]
+      ^ [Meditation]
 Wisdom Body (Vijnanamaya)
-      ↑ [Jnana]
+      ^ [Jnana]
 Bliss Body (Anandamaya)
-      ↑ [Samadhi]
+      ^ [Samadhi]
 Atman = Brahman
 ```
 
@@ -416,8 +416,8 @@ class AstrologicalDoshas:
 
 ## 📁 Related Files
 
-- [Karma Algorithm](./karma_algorithm.md)
-- [Manushya Complete Design](../entities/MANUSHYA_COMPLETE_DESIGN.md)
-- [Jyotisha Complete](../jyotisha/JYOTISHA_COMPLETE.md)
-- [Ayurveda Complete](../ayurveda/AYURVEDA_COMPLETE.md)
+- [Karma Algorithm](../../../../vishnu_engine/spec/backend/karma/)
+- [Manushya Complete Design](../../../../entities/MANUSHYA_COMPLETE_DESIGN.md)
+- [Jyotisha Complete](../../../../jyotisha/JYOTISHA_COMPLETE.md)
+- [Ayurveda Complete](../../../../ayurveda/AYURVEDA_COMPLETE.md)
 

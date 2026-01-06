@@ -1,12 +1,12 @@
 # ⏳ AGING = SAMSKARA ACCUMULATION — Your Save File Is Getting Corrupted
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯  
+> **🔮 GLITCH LEVEL:** 🤯🤯🤯  
 > **CONFIDENCE:** 81%  
 > **DIFFICULTY:** Relatable
 
 ---
 
-## 🔴 THE GLITCH
+## ⚠️ THE GLITCH
 
 Your body degrades over time. Why?
 
@@ -63,25 +63,25 @@ Yes — and the methods align across science and Backend:
 
 ---
 
-## 🎮 THE GAME ANALOGY
+## 🔮 THE GAME ANALOGY
 
 ```
 GAME SAVE FILE OVER TIME:
-┌────────────────────────────────────────────────┐
-│  New Game: Clean save, fast load times         │
-│  After 100 hours: Some corruption, slower      │
-│  After 1000 hours: Fragmented, glitchy         │
-│  Eventually: Save corrupted, need new game     │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  New Game: Clean save, fast load times         |
+|  After 100 hours: Some corruption, slower      |
+|  After 1000 hours: Fragmented, glitchy         |
+|  Eventually: Save corrupted, need new game     |
++------------------------------------------------+
 
 YOUR BODY OVER TIME:
-┌────────────────────────────────────────────────┐
-│  Birth: Clean hardware, minimal Samskaras      │
-│  Adult: Experiences accumulate, still good     │
-│  Elder: Heavy Samskara load, degradation       │
-│  Death: Body too corrupted, consciousness      │
-│         transfers to fresh hardware (rebirth)  │
-└────────────────────────────────────────────────┘
++------------------------------------------------+
+|  Birth: Clean hardware, minimal Samskaras      |
+|  Adult: Experiences accumulate, still good     |
+|  Elder: Heavy Samskara load, degradation       |
+|  Death: Body too corrupted, consciousness      |
+|         transfers to fresh hardware (rebirth)  |
++------------------------------------------------+
 ```
 
 ---
@@ -146,7 +146,7 @@ You can't stop the clock, but you can **slow it by maintaining Sattva**.
 
 ## 🔗 NEXT PAPER (Phase 5 Begins)
 
-**[Heisenberg Uncertainty →](../../../02_PHYSICS/quantum_mechanics/heisenberg_uncertainty/README.md)**  
+**[Heisenberg Uncertainty ->](./02_PHYSICS/quantum_mechanics/heisenberg_uncertainty/README.md)**  
 *"Why can't we know everything at once?"*  
 *Spoiler: The engine has render resolution limits.*
 

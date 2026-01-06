@@ -45,10 +45,10 @@ PROPERTIES:
 ### 8.1.3 The Relationship
 
 ```
-PURUSHA ← observes → PRAKRITI
+PURUSHA <- observes -> PRAKRITI
 
 NOT:
-PRAKRITI → produces → PURUSHA
+PRAKRITI -> produces -> PURUSHA
 
 The arrow points the wrong way in materialism.
 ```
@@ -177,8 +177,8 @@ ATMAN (आत्मन्) = Self
 • Appears as many through Maya
 
 IMPLICATION:
-Not many consciousnesses → One consciousness
-Individual minds → One consciousness experiencing through many
+Not many consciousnesses -> One consciousness
+Individual minds -> One consciousness experiencing through many
 ```
 
 ### 8.5.2 The "Combination Problem" Solution
@@ -241,42 +241,42 @@ The Backend has explored all options.
 
 ### 8.8.1 If Purusha-Prakriti is Correct:
 
-1. **Consciousness cannot be explained from matter** → ✓ Gap persists
-2. **Brain correlates but doesn't produce** → ✓ Anomalies support
-3. **Mind is not consciousness** → ✓ Meditation shows this
-4. **Death doesn't end consciousness** → ? (Not testable from here)
-5. **Deep states reveal pure consciousness** → ✓ Meditation reports
+1. **Consciousness cannot be explained from matter** -> ✓ Gap persists
+2. **Brain correlates but doesn't produce** -> ✓ Anomalies support
+3. **Mind is not consciousness** -> ✓ Meditation shows this
+4. **Death doesn't end consciousness** -> ? (Not testable from here)
+5. **Deep states reveal pure consciousness** -> ✓ Meditation reports
 
 ---
 
 ## 8.9 Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    BACKEND MODEL                              ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  PURUSHA (Consciousness):                                     ║
-║  • Primary                                                    ║
-║  • Unchanging witness                                         ║
-║  • Not produced by anything                                   ║
-║  • = The observer in quantum mechanics                        ║
-║                                                               ║
-║  PRAKRITI (Matter):                                           ║
-║  • Secondary                                                  ║
-║  • All objective phenomena (including mind/brain)             ║
-║  • Appears to Purusha                                         ║
-║  • = The observed                                             ║
-║                                                               ║
-║  THE HARD PROBLEM:                                            ║
-║  "How does Prakriti produce Purusha?"                        ║
-║  ANSWER: It doesn't. The question is wrong.                  ║
-║                                                               ║
-║  THE DISSOLUTION:                                             ║
-║  Purusha is axiomatic.                                       ║
-║  Prakriti appears within Purusha.                            ║
-║  No production. No gap to close.                             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    BACKEND MODEL                              |
++===============================================================+
+|                                                               |
+|  PURUSHA (Consciousness):                                     |
+|  • Primary                                                    |
+|  • Unchanging witness                                         |
+|  • Not produced by anything                                   |
+|  • = The observer in quantum mechanics                        |
+|                                                               |
+|  PRAKRITI (Matter):                                           |
+|  • Secondary                                                  |
+|  • All objective phenomena (including mind/brain)             |
+|  • Appears to Purusha                                         |
+|  • = The observed                                             |
+|                                                               |
+|  THE HARD PROBLEM:                                            |
+|  "How does Prakriti produce Purusha?"                        |
+|  ANSWER: It doesn't. The question is wrong.                  |
+|                                                               |
+|  THE DISSOLUTION:                                             |
+|  Purusha is axiomatic.                                       |
+|  Prakriti appears within Purusha.                            |
+|  No production. No gap to close.                             |
+|                                                               |
++===============================================================+
 ```
 

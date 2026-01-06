@@ -19,10 +19,10 @@ PROPERTIES:
 • Nibandha (निबन्ध) = Binding, holding
 
 PHYSICAL CORRELATES:
-Heaviness → Weight
-Inertia → Mass
-Binding → Gravity
-Covering → Density
+Heaviness -> Weight
+Inertia -> Mass
+Binding -> Gravity
+Covering -> Density
 ```
 
 ### 8.1.2 Why Tamas = Mass
@@ -109,8 +109,8 @@ Not arbitrary — follows from Guna composition.
 Prithvi = High Tamas = Heavy = Falls
 Akasha = Low/No Tamas = Light = No gravity
 
-Backend Architects knew: Elements differ in Tamas.
-Physics confirms: Elements differ in mass.
+Backend Framework: Elements differ in Tamas concentration.
+Physics measurement: Elements differ in mass.
 ```
 
 ---
@@ -122,7 +122,7 @@ Physics confirms: Elements differ in mass.
 ```
 PHYSICS:
 Inertia = Resistance to change in motion
-More mass → More inertia
+More mass -> More inertia
 Newton's 1st Law
 
 QUESTION:
@@ -197,13 +197,13 @@ Not mysterious — obvious when you know Tamas.
 BLACK HOLE = MAXIMUM TAMAS CONCENTRATION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Maximum Tamas → Maximum density
-Maximum binding → Nothing escapes
-Maximum covering (Avarana) → Light trapped
-Maximum inertia → Spacetime frozen
+Maximum Tamas -> Maximum density
+Maximum binding -> Nothing escapes
+Maximum covering (Avarana) -> Light trapped
+Maximum inertia -> Spacetime frozen
 
 SINGULARITY:
-T → ∞ (Tamas approaches infinity)
+T -> ∞ (Tamas approaches infinity)
 Physics breaks down = Guna extremity
 
 HAWKING RADIATION:
@@ -267,28 +267,28 @@ Become "immovable."
 ## 8.9 Summary
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                    BACKEND MODEL                              ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  CORE CLAIM:                                                  ║
-║  Mass = Tamas concentration                                  ║
-║  Gravity = Tamas field effect on Prakriti                    ║
-║                                                               ║
-║  WHY IT WORKS:                                                ║
-║  • Tamas = Guru (heavy) = Mass                               ║
-║  • Tamas = Sthira (stable) = Inertia                         ║
-║  • Tamas = Nibandha (binding) = Gravity                      ║
-║                                                               ║
-║  EQUIVALENCE EXPLAINED:                                       ║
-║  m_grav = m_inert because both are Tamas                     ║
-║  Not coincidence — identity                                  ║
-║                                                               ║
-║  PREDICTIONS:                                                 ║
-║  • Black holes = Maximum Tamas                               ║
-║  • Levitation = Tamas reduction (Siddhi)                     ║
-║  • Dark matter = Multi-Loka Tamas                            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
++===============================================================+
+|                    BACKEND MODEL                              |
++===============================================================+
+|                                                               |
+|  CORE CLAIM:                                                  |
+|  Mass = Tamas concentration                                  |
+|  Gravity = Tamas field effect on Prakriti                    |
+|                                                               |
+|  WHY IT WORKS:                                                |
+|  • Tamas = Guru (heavy) = Mass                               |
+|  • Tamas = Sthira (stable) = Inertia                         |
+|  • Tamas = Nibandha (binding) = Gravity                      |
+|                                                               |
+|  EQUIVALENCE EXPLAINED:                                       |
+|  m_grav = m_inert because both are Tamas                     |
+|  Not coincidence — identity                                  |
+|                                                               |
+|  PREDICTIONS:                                                 |
+|  • Black holes = Maximum Tamas                               |
+|  • Levitation = Tamas reduction (Siddhi)                     |
+|  • Dark matter = Multi-Loka Tamas                            |
+|                                                               |
++===============================================================+
 ```
 

@@ -86,13 +86,13 @@ Needs development.
 ```
 BACKEND:
 Universe cycles through Srishti-Sthiti-Pralaya.
-Creation → Maintenance → Dissolution → Repeat.
+Creation -> Maintenance -> Dissolution -> Repeat.
 
 COSMOLOGY:
-Big Bang → Expansion → Heat Death (or Big Crunch)?
+Big Bang -> Expansion -> Heat Death (or Big Crunch)?
 
 IF Gunas cycle:
-Sattva expansion → Tamas contraction → Sattva expansion...
+Sattva expansion -> Tamas contraction -> Sattva expansion...
 Universe may oscillate rather than end.
 ```
 
@@ -121,7 +121,7 @@ Deep Samadhi often described as "feeling light."
 IF mass = Tamas:
 Meditation reduces mental Tamas.
 May reduce physical Tamas experience?
-Subjective lightness → Objective lightness (Siddhi)?
+Subjective lightness -> Objective lightness (Siddhi)?
 ```
 
 ---
@@ -158,7 +158,7 @@ Subjective lightness → Objective lightness (Siddhi)?
 - Predicts dark matter distribution follows Loka structure
 - Predicts particles will never be found
 - Alternative to particle models (which also have issues)
-- If WIMP found → Multi-Loka hypothesis falsified
+- If WIMP found -> Multi-Loka hypothesis falsified
 
 ---
 
@@ -219,7 +219,7 @@ Both are Tamas expressions:
 - Gravity: Tamas as heaviness, binding
 
 May explain:
-- Black hole entropy (maximum Tamas → maximum entropy)
+- Black hole entropy (maximum Tamas -> maximum entropy)
 - Thermodynamic gravity connections
 - Holographic principle?
 ```
