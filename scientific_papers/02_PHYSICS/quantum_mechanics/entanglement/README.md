@@ -1,5 +1,9 @@
 # 🔗 ENTANGLEMENT — Same Object, Different Render Locations
 
+> **"यथा एकस्मिन्नग्नौ क्षिप्तं सर्वं जगत्"**  
+> "As the entire world is cast from one fire."  
+> — Mundaka Upanishad 2.1.1
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 91%  
 > **DIFFICULTY:** Mind-breaking
@@ -99,24 +103,24 @@ No distance in backend — only relationships.
 
 ---
 
-## 📖 PAPER SECTIONS
+## 📁 Paper Sections
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The non-locality explained |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | What Einstein hated |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Bell tests, Aspect |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Indrajala model |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Same-object hypothesis |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | How tested |
-| [06_RESULTS](./06_RESULTS.md) | Experimental confirmation |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Macroscopic entanglement |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Shared memory reference |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Space is illusion |
-| [10_VALIDATION](./10_VALIDATION.md) | Bell inequality proofs |
-| [11_CONCLUSION](./11_CONCLUSION.md) | Connection is fundamental |
-| [12_REFERENCES](./12_REFERENCES.md) | All citations |
-| [13_APPENDICES](./13_APPENDICES.md) | Technical details |
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | The non-locality explained |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | What Einstein hated |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Bell tests, Aspect |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Indrajala model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Same-object hypothesis |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | How tested |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Experimental confirmation |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Macroscopic entanglement |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Shared memory reference |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Space is illusion |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Bell inequality proofs |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Connection is fundamental |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All citations |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Technical details |
 
 ---
 

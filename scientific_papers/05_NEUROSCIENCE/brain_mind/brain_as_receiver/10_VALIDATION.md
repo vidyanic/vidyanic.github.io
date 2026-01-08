@@ -1,7 +1,7 @@
 # 10. Validation
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
-> **🔗 Template:** [Validation Template](./00_META/VALIDATION_TEMPLATE.md)
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)  
+> **🔗 Template:** [Validation Template](./01_FOUNDATION/VALIDATION_TEMPLATE.md)
 
 ---
 
@@ -232,5 +232,6 @@ OVERALL: 84% (Strong)
 
 ---
 
-*Paper continues: [11_CONCLUSION.md](./11_CONCLUSION.md)*
+---
 
+**Next:** [11_CONCLUSION.md](./11_CONCLUSION.md)

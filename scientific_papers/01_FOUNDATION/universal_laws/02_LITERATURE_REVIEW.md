@@ -117,5 +117,5 @@
 
 ---
 
-**Next Section:** [03_THEORETICAL_FRAMEWORK.md](../../../scientific_papers/03_THEORETICAL_FRAMEWORK.md)
+**Next Section:** [03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md)
 

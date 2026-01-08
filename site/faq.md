@@ -18,7 +18,7 @@ Project Shunya-0 documents the "backend source code" of reality as described in 
 
 **Shunya (शून्य)** means "void" or "zero" in Sanskrit. It represents:
 - The potential before manifestation
-- The number zero (invented in India)
+- The number zero
 - The emptiness from which form emerges
 - The state of pure consciousness
 
@@ -129,8 +129,9 @@ We're transparent about uncertainty.
 
 1. **Quick:** Read [Why Reality is Rendered](./narratives/why_reality_is_rendered.md)
 2. **Deeper:** Explore [Narratives](./narratives/) section
-3. **Practical:** Try [Daily Sadhana](./practical/01_DAILY_SADHANA.md)
-4. **Academic:** Browse [Research Papers](../scientific_papers/)
+3. **Foundation:** Explore [Index of how to browse](../scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING.md)
+4. **Practical:** Try [Daily Sadhana](./practical/01_DAILY_SADHANA.md)
+5. **Academic:** Browse [Research Papers](../scientific_papers/)
 
 ### Is meditation required?
 

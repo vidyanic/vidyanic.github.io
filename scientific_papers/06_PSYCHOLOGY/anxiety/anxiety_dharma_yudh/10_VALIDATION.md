@@ -153,8 +153,3 @@ ADJUSTED (for anomalies): 89%
 ---
 
 **Next:** Conclusion ->
-
-
-
-
-

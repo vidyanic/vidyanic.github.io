@@ -195,9 +195,4 @@ C = 0.897 ≈ 88%
 
 ---
 
-**Next:** Conclusion ->
-
-
-
-
-
+**Next:** [11_CONCLUSION.md](./11_CONCLUSION.md)

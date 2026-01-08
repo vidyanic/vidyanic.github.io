@@ -157,5 +157,5 @@ Each principle is checked against:
 
 ---
 
-**Next Section:** [06_RESULTS.md](../../../scientific_papers/06_RESULTS.md)
+**Next Section:** [06_RESULTS.md](./06_RESULTS.md)
 

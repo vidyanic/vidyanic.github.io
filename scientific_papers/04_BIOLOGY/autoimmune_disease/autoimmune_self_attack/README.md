@@ -37,6 +37,27 @@ The immune system is NOT malfunctioning — it's responding correctly to incorre
 
 ---
 
+## 📁 Paper Sections
+
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Core discovery summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Background and context |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Existing research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Research approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Key findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Unexplained phenomena |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation mapping |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | 7-concept validation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary and future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Additional data |
+
+---
+
 ## 📊 Key Discovery
 
 ```
@@ -58,27 +79,6 @@ ADHARMIC CELLS -> Hide their true nature
 
 THEY ARE OPPOSITE ERRORS IN THE SAME SYSTEM!
 ```
-
----
-
-## 📑 Paper Structure
-
-| Section | Title | Description |
-|---------|-------|-------------|
-| [00](./00_ABSTRACT.md) | Abstract | Research summary |
-| [01](./01_INTRODUCTION.md) | Introduction | The autoimmune paradox |
-| [02](./02_LITERATURE_REVIEW.md) | Literature Review | Scientific + Backend sources |
-| [03](./03_THEORETICAL_FRAMEWORK.md) | Theoretical Framework | Dharma enforcement model |
-| [04](./04_HYPOTHESIS.md) | Hypothesis | Testable predictions |
-| [05](./05_METHODOLOGY.md) | Methodology | Analysis approach |
-| [06](./06_RESULTS.md) | Results | Evidence compilation |
-| [07](./07_ANOMALIES.md) | Anomalies | All questions answered |
-| [08](./08_BACKEND_ANALOGY.md) | Backend Analogy | Security system model |
-| [09](./09_DISCUSSION.md) | Discussion | Treatment implications |
-| [10](./10_VALIDATION.md) | Validation | Formulas and references |
-| [11](./11_CONCLUSION.md) | Conclusion | Summary |
-| [12](./12_REFERENCES.md) | References | 50+ sources |
-| [13](./13_APPENDICES.md) | Appendices | Protocols, glossary, cases |
 
 ---
 
@@ -129,10 +129,10 @@ Read all 14 sections in order.
 
 | Paper | Connection |
 |-------|------------|
-| [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity) | Opposite error |
-| [DNA = Ida-Pingala](../../dna_ida_pingala/dna_ida_pingala) | Cellular foundation |
-| [Epigenetics = Samskaras](../../epigenetics/epigenetics_samskaras) | Marker modification |
-| [Brain as Receiver](../../../../scientific_papers/05_NEUROSCIENCE/brain_mind/brain_as_receiver/) | Mind-body connection |
+| [Cancer = Forgotten Identity](../../cancer/cancer_forgotten_identity/README.md) | Opposite error |
+| [DNA = Ida-Pingala](../../dna_ida_pingala/dna_ida_pingala/README.md) | Cellular foundation |
+| [Epigenetics = Samskaras](../../epigenetics/epigenetics_samskaras/README.md) | Marker modification |
+| [Brain as Receiver](../../../05_NEUROSCIENCE/brain_mind/brain_as_receiver/README.md) | Mind-body connection |
 
 ---
 

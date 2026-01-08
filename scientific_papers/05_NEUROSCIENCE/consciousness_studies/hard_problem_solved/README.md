@@ -1,5 +1,9 @@
 # 🧠 HARD PROBLEM SOLVED — You're Not In The Game, You're The Player
 
+> **"अहं ब्रह्मास्मि"**  
+> "I am Brahman (the ultimate consciousness)."  
+> — Brihadaranyaka Upanishad 1.4.10
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 88%  
 > **DIFFICULTY:** Philosophy-friendly
@@ -105,24 +109,24 @@ The "hard problem" disappears when you stop trying to derive the player from the
 
 ---
 
-## 📖 PAPER SECTIONS
+## 📁 Paper Sections
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The dissolution summarized |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | 50 years of failure |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Chalmers, Nagel, etc. |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Receiver vs Generator |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | What receiver model predicts |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | How to test it |
-| [06_RESULTS](./06_RESULTS.md) | All evidence fits receiver |
-| [07_ANOMALIES](./07_ANOMALIES.md) | NDEs, psychedelics, etc. |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Complete VR comparison |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Implications for everything |
-| [10_VALIDATION](./10_VALIDATION.md) | Peer review & proofs |
-| [11_CONCLUSION](./11_CONCLUSION.md) | You're the player |
-| [12_REFERENCES](./12_REFERENCES.md) | All 50+ citations |
-| [13_APPENDICES](./13_APPENDICES.md) | Extended arguments |
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | The dissolution summarized |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | 50 years of failure |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Chalmers, Nagel, etc. |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Receiver vs Generator |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | What receiver model predicts |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | How to test it |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | All evidence fits receiver |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | NDEs, psychedelics, etc. |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Complete VR comparison |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications for everything |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Peer review & proofs |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | You're the player |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All 50+ citations |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Extended arguments |
 
 ---
 
@@ -139,9 +143,9 @@ The hard problem isn't a problem. It's a **category error**.
 ## ⚡ WHY THIS MATTERS IN 2026
 
 If you're the player, not the character:
-- Death is logout, not game over
+- Natural death (completing time) is clean transition, not end (⚠️ suicide ≠ escape)
 - Your "identity" is a role, not your essence
-- Fear loses power (character can be harmed, player cannot)
+- Fear loses power (body can be harmed, Atman cannot)
 - "Enlightenment" is just remembering you're the player
 
 **This isn't philosophy. It's the cheat code.**

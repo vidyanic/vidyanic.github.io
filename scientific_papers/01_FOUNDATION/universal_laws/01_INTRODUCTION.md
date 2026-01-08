@@ -61,4 +61,4 @@ This paper series aims to:
 
 ---
 
-**Next Section:** [02_LITERATURE_REVIEW.md](../../../scientific_papers/02_LITERATURE_REVIEW.md)
+**Next Section:** [02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md)

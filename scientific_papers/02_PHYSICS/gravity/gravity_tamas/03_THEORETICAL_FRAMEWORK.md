@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) and [Entropy = Tamas](../../thermodynamics/entropy_tamas)
 
 ---
@@ -464,5 +464,5 @@ Same phenomenon, different languages.
 - **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Entropy is also Tamas
 - **Related:** [Dark Matter](../../cosmology/dark_matter_energy) — Large-scale Tamas effects
 - **Entities:** [Atom (N-4)](../../../../vishnu_engine/spec/entities/fractals/N-4_ATOM.md)
-- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

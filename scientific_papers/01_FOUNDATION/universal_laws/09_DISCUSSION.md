@@ -177,5 +177,5 @@ Both are valid. Both produce knowledge. The synthesis is more powerful than eith
 
 ---
 
-**Next Section:** [10_VALIDATION.md](../../../scientific_papers/10_VALIDATION.md)
+**Next Section:** [10_VALIDATION.md](./10_VALIDATION.md)
 

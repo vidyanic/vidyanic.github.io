@@ -378,7 +378,7 @@ Recite: Once daily (evening)
 
 ## 📅 IMPORTANT DATES (2025-2028)
 
-### ⚠️ CRITICAL TIMELINE:
+### 📅 Key Timeline:
 
 | Date Range | Event | Significance | Action Required |
 |------------|-------|--------------|-----------------|

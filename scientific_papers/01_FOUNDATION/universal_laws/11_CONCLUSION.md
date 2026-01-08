@@ -97,7 +97,7 @@ The mind-body problem is solved: they're different layers of the same simulation
 
 ### For Individuals
 
-You are not the character. You are the player. Death is logout. Life is a learning simulation.
+You are not the character. You are the player. Natural death completes the cycle. Life is a learning simulation.
 
 ### For Society
 
@@ -144,5 +144,5 @@ And now you know the source code.
 
 ---
 
-**Next Section:** [12_REFERENCES.md](../../../12_REFERENCES.md)
+**Next Section:** [12_REFERENCES.md](12_REFERENCES.md)
 

@@ -15,27 +15,27 @@
 4. **What is Freud's unconscious in Vedic terms?** -> Lower layers of Chitta + Vasanas
 5. **What is the goal of depth work?** -> Integration (ego health) -> Transcendence (Moksha)
 
+
+## 📁 Paper Sections
+
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Core discovery summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Background and context |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Existing research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Research approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Key findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Unexplained phenomena |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation mapping |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | 7-concept validation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary and future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Additional data |
+
 ---
-
-## 📑 Paper Sections
-
-| # | Section | Description |
-|---|---------|-------------|
-| 00 | [Abstract](../../../scientific_papers/00_ABSTRACT.md) | Core thesis and findings |
-| 01 | [Introduction](../../../scientific_papers/01_INTRODUCTION.md) | The discovery of depth |
-| 02 | [Literature Review](../../../scientific_papers/02_LITERATURE_REVIEW.md) | Freud, Jung, Adler, Vedic sources |
-| 03 | [Theoretical Framework](../../../scientific_papers/03_THEORETICAL_FRAMEWORK.md) | Chitta-Antahkarana model |
-| 04 | [Hypothesis](../../../scientific_papers/04_HYPOTHESIS.md) | Unconscious = Chitta thesis |
-| 05 | [Methodology](../../../scientific_papers/05_METHODOLOGY.md) | Cross-cultural analysis |
-| 06 | [Results](../../../scientific_papers/06_RESULTS.md) | Correspondence mapping |
-| 07 | [Anomalies](../../../scientific_papers/07_ANOMALIES.md) | Where Western models fall short |
-| 08 | [Backend Analogy](../../../scientific_papers/08_BACKEND_ANALOGY.md) | Chitta as data storage layer |
-| 09 | [Discussion](../../../scientific_papers/09_DISCUSSION.md) | Implications for therapy |
-| 10 | [Validation](../../../scientific_papers/10_VALIDATION.md) | 7-concept stack validation |
-| 11 | [Conclusion](../../../11_CONCLUSION.md) | Yoga as ultimate depth work |
-| 12 | [References](../../../12_REFERENCES.md) | Full bibliography |
-| 13 | [Appendices](../../../13_APPENDICES.md) | Additional resources |
-
 ---
 
 ## 🔑 Key Insight

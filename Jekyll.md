@@ -45,7 +45,7 @@ knowledge_core/
 │   └── images/              # All images organized by category
 │
 ├── scientific_papers/       # Academic research (14-section format)
-│   ├── 00_META/             # Meta documentation
+│   ├── 01_FOUNDATION/       # Foundation documentation
 │   ├── 02_PHYSICS/          # Physics papers
 │   └── ...                  # Other subject areas
 │
@@ -123,7 +123,7 @@ Files are treated as pages even without `---` header blocks.
 ![Image](../images/AI/image.png)
 
 # From deep paths (depth 4)
-[Dictionary](../../../00_META/DICTIONARY.md)
+[Dictionary](../../../01_FOUNDATION/DICTIONARY.md)
 [Engine](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 ```
 
@@ -148,7 +148,7 @@ Path:    ../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md
 | Root (`index.md`) | `.` | `site/stories/` | `./site/stories/` |
 | Depth 1 (`site/`) | `..` | `scientific_papers/` | `../scientific_papers/` |
 | Depth 2 (`site/stories/`) | `../..` | `vishnu_engine/` | `../../vishnu_engine/` |
-| Depth 3 | `../../..` | `00_META/` | `../../../00_META/` |
+| Depth 3 | `../../..` | `01_FOUNDATION/` | `../../../01_FOUNDATION/` |
 | Depth 4 | `../../../..` | `site/images/` | `../../../../site/images/` |
 
 ### ❌ Patterns to AVOID

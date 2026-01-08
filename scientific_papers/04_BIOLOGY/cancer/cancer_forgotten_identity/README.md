@@ -1,8 +1,9 @@
 # 🦠 CANCER = FORGOTTEN IDENTITY — When A Cell Loses Its Quest Marker
 
-> **🎮 GLITCH LEVEL:** 🤯🤯🤯  
-> **CONFIDENCE:** 83%  
-> **DIFFICULTY:** Biology + Purpose
+> **"स्वधर्मे निधनं श्रेयः परधर्मो भयावहः"**
+> "Svadharme nidhanam shreyah paradharmo bhayavahah"
+> "Better is death in one's own Dharma; following another's Dharma is dangerous."
+> — Bhagavad Gita 3.35
 
 ---
 
@@ -103,22 +104,22 @@ Treatment: Svadharma-restoration -> Sattva re-establishment -> Re-differentiatio
 
 ## 📖 PAPER SECTIONS
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | Identity loss model |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | What is cancer? |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Differentiation research |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Svadharma mechanics |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Identity loss hypothesis |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Testing approaches |
-| [06_RESULTS](./06_RESULTS.md) | Differentiation therapy data |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Spontaneous remission |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | NPC corruption model |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Treatment implications |
-| [10_VALIDATION](./10_VALIDATION.md) | Evidence summary |
-| [11_CONCLUSION](./11_CONCLUSION.md) | Restore identity, not just kill |
-| [12_REFERENCES](./12_REFERENCES.md) | All sources |
-| [13_APPENDICES](./13_APPENDICES.md) | Dharma mechanics |
+| # | Section | File | What It Covers |
+|---|---------|------|----------------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Identity loss model |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | What is cancer? |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Differentiation research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Svadharma mechanics |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Identity loss hypothesis |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Testing approaches |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Differentiation therapy data |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Spontaneous remission |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | NPC corruption model |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Treatment implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Evidence summary |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Restore identity, not just kill |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All sources |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Dharma mechanics |
 
 ---
 
@@ -145,7 +146,7 @@ Are YOU living your Svadharma? Or are you a cancer to the social body?
 
 ## 🔗 NEXT PAPER
 
-**[Aging = Samskara Accumulation ->](./aging/aging_samskara/README.md)**  
+**[Aging = Samskara Accumulation ->](../../aging/aging_samskara/README.md)**  
 *"Why does the body degrade over time?"*  
 *Spoiler: Save file corruption accumulates until reboot is needed.*
 

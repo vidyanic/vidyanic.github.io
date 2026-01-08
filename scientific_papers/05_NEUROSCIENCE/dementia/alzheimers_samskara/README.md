@@ -7,6 +7,27 @@
 
 ---
 
+## 📁 Paper Sections
+
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Core discovery summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Background and context |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Existing research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Research approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Key findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Unexplained phenomena |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation mapping |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | 7-concept validation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary and future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Additional data |
+
+---
+
 ## 🎯 KEY QUESTION
 
 **What really causes Alzheimer's disease, and why do current treatments fail?**
@@ -22,27 +43,6 @@
 | Why memory loss? | System deletes recent to preserve ancient/core |
 | Why no cure? | Treating plaque, not the overload |
 | Prevention? | Regular Samskara processing (meditation, sleep, forgiveness) |
-
----
-
-## 📖 PAPER STRUCTURE
-
-| # | Section | File | Status |
-|---|---------|------|--------|
-| 0 | Abstract | `00_ABSTRACT.md` | ✅ |
-| 1 | Introduction | `01_INTRODUCTION.md` | ✅ |
-| 2 | Literature Review | `02_LITERATURE_REVIEW.md` | ✅ |
-| 3 | Theoretical Framework | `03_THEORETICAL_FRAMEWORK.md` | ✅ |
-| 4 | Hypothesis | `04_HYPOTHESIS.md` | ✅ |
-| 5 | Methodology | `05_METHODOLOGY.md` | ✅ |
-| 6 | Results | `06_RESULTS.md` | ✅ |
-| 7 | Anomalies | `07_ANOMALIES.md` | ✅ |
-| 8 | Backend Analogy | `08_BACKEND_ANALOGY.md` | ✅ |
-| 9 | Discussion | `09_DISCUSSION.md` | ✅ |
-| 10 | Validation | `10_VALIDATION.md` | ✅ |
-| 11 | Conclusion | `11_CONCLUSION.md` | ✅ |
-| 12 | References | `12_REFERENCES.md` | ✅ |
-| 13 | Appendices | `13_APPENDICES.md` | ✅ |
 
 ---
 
@@ -141,10 +141,10 @@
 
 ## 🔗 RELATED PAPERS
 
-- [Anxiety = Dharma Yudh](../../../../scientific_papers/06_PSYCHOLOGY/anxiety/anxiety_dharma_yudh/)
-- [Cancer = Forgotten Identity](../../../../scientific_papers/04_BIOLOGY/cancer/)
-- [Aging = Samskara Accumulation](../../../../scientific_papers/04_BIOLOGY/aging/)
-- [Dreams/Sleep](../../../../sleep/dreams_sleep/)
+- [Anxiety = Dharma Yudh](../../../06_PSYCHOLOGY/anxiety/anxiety_dharma_yudh/README.md)
+- [Cancer = Forgotten Identity](../../../04_BIOLOGY/cancer/cancer_forgotten_identity/README.md)
+- [Aging = Samskara Accumulation](../../../04_BIOLOGY/aging/aging_samskara/README.md)
+- [Dreams/Sleep](../../altered_states/dreams_sleep/README.md)
 
 ---
 

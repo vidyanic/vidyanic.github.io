@@ -205,5 +205,5 @@ Anomalies are not failures of the model — they are **edge cases** that reveal 
 
 ---
 
-**Next Section:** [08_BACKEND_ANALOGY.md](../../../scientific_papers/08_BACKEND_ANALOGY.md)
+**Next Section:** [08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md)
 

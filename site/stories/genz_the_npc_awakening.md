@@ -212,7 +212,14 @@ Think of it like:
 - Next life = New Game+ with carried stats
 - Moksha (liberation) = finally quitting to main menu
 
-**Death isn't game over. It's a loading screen.**
+**Natural death (completing your time) = Clean save file for next run.**
+
+> **About quitting early:** Here's the thing — Alt+F4'ing doesn't end the game.
+> Your progress saves. The challenges stay queued. The only way to complete
+> the level is to actually complete it. Every run has a purpose.
+>
+> **The mechanic:** Your life has allocated quests (Dharma). Finishing them  
+> properly is the path forward. The game continues until you level up.
 
 ![Ego Death Level Complete](../images/Gamers/Ego%20Death%20%3A%20Level%20Complete.png)
 *Ego Death: Level Complete — The hardest boss is the one you thought was you*

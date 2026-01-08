@@ -1,6 +1,6 @@
 # 1. Introduction
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
 
 ---
@@ -152,7 +152,7 @@ Throughout this paper, we use precise terminology:
 
 | Term | Meaning | See Also |
 |------|---------|----------|
-| **Consciousness** | Subjective experience, awareness | [Dictionary](./00_META/DICTIONARY.md) |
+| **Consciousness** | Subjective experience, awareness | [Dictionary](./01_FOUNDATION/DICTIONARY.md) |
 | **Purusha (पुरुष)** | Witness-consciousness | [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **Antahkarana (अन्तःकरण)** | Inner instrument (mind complex) | [Human (N)](../../../../vishnu_engine/spec/entities/human/N_HUMAN.md) |
 | **Atman (आत्मन्)** | Individual consciousness | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md) |

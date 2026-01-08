@@ -251,4 +251,3 @@ The thesis that **Western depth psychology rediscovered Chitta, and the Vedic mo
 ---
 
 *Next: [11_CONCLUSION.md](../../../11_CONCLUSION.md)*
-

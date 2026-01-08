@@ -65,4 +65,4 @@ $$\text{Reality} = \frac{\text{Sattva} \times \text{Dharma}}{\text{Rajas} + \tex
 
 ---
 
-**Next Section:** [04_HYPOTHESIS.md](../../../scientific_papers/04_HYPOTHESIS.md)
+**Next Section:** [04_HYPOTHESIS.md](./04_HYPOTHESIS.md)

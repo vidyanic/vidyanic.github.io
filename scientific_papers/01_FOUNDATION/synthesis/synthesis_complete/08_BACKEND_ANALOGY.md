@@ -206,7 +206,7 @@ The simulation analogy is not just a teaching tool. It appears to be **literally
 
 If you're the developer playing a game you forgot you made:
 
-1. **Death is logout, not deletion**
+1. **Natural death completes the cycle, not deletion**
 2. **Suffering is feedback, not punishment**
 3. **Purpose is play (Lila), not achievement**
 4. **Liberation is remembering, not escaping**

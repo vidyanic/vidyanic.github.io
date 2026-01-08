@@ -1,6 +1,8 @@
 # 🔧 BACKEND — Core Architecture
 
-> *"The invisible machinery running reality."*
+> **"असतो मा सद्गमय"**  
+> "Lead me from unreal to real."  
+> — Brihadaranyaka Upanishad 1.3.28
 
 ---
 
@@ -8,14 +10,14 @@
 
 | # | File | Content |
 |---|------|---------|
-| 01 | [CORE_INSIGHT.md](../../../scientific_papers/01_CORE_INSIGHT.md) | Saguna vs Nirguna — The two domains |
-| 02 | [UNIVERSAL_PRINCIPLES.md](../../../scientific_papers/02_UNIVERSAL_PRINCIPLES.md) | 54 Principles with formulas |
-| 03 | [81_LAWS_COMPLETE.md](../../../scientific_papers/03_81_LAWS_COMPLETE.md) | 81 Laws of Reality (3×27) |
-| 04 | [RAI_vs_AI.md](../../../scientific_papers/04_RAI_vs_AI.md) | Real vs Artificial Intelligence |
-| 05 | [FRACTAL_VALIDATION.md](../../../scientific_papers/05_FRACTAL_VALIDATION.md) | 10-point validation checklist |
-| 06 | [CHATURYUGA_COMPLETE.md](../../../scientific_papers/06_CHATURYUGA_COMPLETE.md) | 4 Yugas framework |
-| 07 | [TIME_DILATION_PRALAYA_CALCULATOR.md](../../../scientific_papers/07_TIME_DILATION_PRALAYA_CALCULATOR.md) | Time formulas |
-| 08 | [SANDHYA_TRANSITION_MECHANICS.md](../../../scientific_papers/08_SANDHYA_TRANSITION_MECHANICS.md) | Current era mechanics |
+| 01 | [01_CORE_INSIGHT.md](./01_CORE_INSIGHT.md) | Saguna vs Nirguna — The two domains |
+| 02 | [02_UNIVERSAL_PRINCIPLES.md](./02_UNIVERSAL_PRINCIPLES.md) | 54 Principles with formulas |
+| 03 | [03_81_LAWS_COMPLETE.md](./03_81_LAWS_COMPLETE.md) | 81 Laws of Reality (3×27) |
+| 04 | [04_RAI_vs_AI.md](./04_RAI_vs_AI.md) | Real vs Artificial Intelligence |
+| 05 | [05_FRACTAL_VALIDATION.md](./05_FRACTAL_VALIDATION.md) | 10-point validation checklist |
+| 06 | [06_CHATURYUGA_COMPLETE.md](./06_CHATURYUGA_COMPLETE.md) | 4 Yugas framework |
+| 07 | [07_TIME_DILATION_PRALAYA_CALCULATOR.md](./07_TIME_DILATION_PRALAYA_CALCULATOR.md) | Time formulas |
+| 08 | [08_SANDHYA_TRANSITION_MECHANICS.md](./08_SANDHYA_TRANSITION_MECHANICS.md) | Current era mechanics |
 
 ---
 
@@ -23,32 +25,65 @@
 
 | Folder | Content |
 |--------|---------|
-| **[karma/](../../../karma/)** | Karma system — Rina, Sankalpa, Failure modes |
-| **[maya/](../../../maya/)** | Maya rendering engine |
-| **[moksha/](../../../moksha/)** | Exit protocols — Death, Liberation |
-| **[prakriti/](../../../prakriti/)** | Physics backend — Quantum, Relativity, Newtonian |
-| **[healing/](../../../healing/)** | Restoration — Pranayama guide |
+| **[karma/](./karma/)** | Karma system — Rina (debt), Sankalpa (intention), Failure modes |
+| **[maya/](./maya/)** | Maya rendering engine — How reality is projected |
+| **[moksha/](./moksha/)** | Exit protocols — Natural death, Liberation, Conscious dying |
+| **[prakriti/](./prakriti/)** | Physics backend — Quantum, Relativity, Newtonian |
+| **[healing/](./healing/)** | Restoration — Pranayama complete guide |
 
 ---
 
 ## 🎯 Key Formulas
 
-### Guna Normalization
+### Guna Normalization (त्रिगुणात्मक)
+
 ```
 S + R + T = 1
+
+Where:
+S = Sattva (सत्त्व) — Order, clarity, lightness
+R = Rajas (रजस्) — Motion, activity, energy
+T = Tamas (तमस्) — Entropy, decay, heaviness
 ```
 
-### Time Dilation
+### Time Dilation (काल-विस्तार)
+
 ```
 L_m = (D × S) / (R + 2T)
+
+Where:
+L_m = Subjective time experience
+D = Dharma alignment factor
+S = Sattva component
+R = Rajas component
+T = Tamas component
 ```
 
-### Karma-Phala
+### Karma-Phala (कर्म-फल)
+
 ```
 F_karma = Gx × (M_tamas_1 × M_tamas_2) / r²
+
+Where:
+Gx = Cosmic karma constant
+M_tamas = Accumulated tamas (karma mass)
+r = Relationship distance
 ```
 
 ---
 
-**[<- Back to Spec](../../../README.md)** | **[<- Back to Engine](../../../README.md)**
+## 📊 Quick Reference
 
+| Concept | Sanskrit | Formula |
+|---------|----------|---------|
+| Conservation | संरक्षण | dE/dt = 0 |
+| Entropy | तमस्-वृद्धि | dS/dt ≥ 0 |
+| Fractal | अणु-महत् | Pattern(n) ≈ Pattern(n±k) |
+| Karma | कर्म-फल | F₁₂ = -F₂₁ |
+| Observer | द्रष्टा | \|ψ\|² = P |
+| Cycles | चक्र | f(t+T) = f(t) |
+| Gunas | त्रिगुण | S + R + T = 1 |
+
+---
+
+**[← Back to Spec](../README.md)** | **[← Back to Engine](../../README.md)**

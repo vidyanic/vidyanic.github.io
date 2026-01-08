@@ -27,14 +27,13 @@ permalink: /
 
 ---
 
-## ⚠️ STOP. READ THIS FIRST.
+## 🔬 The Glitches in Reality
 
 You know that feeling when a video game glitches? When the NPC walks through a wall, or you clip through the floor?
 
-**What if those aren't bugs in games?**  
-**What if games are ACCURATE — and THIS reality has the same kind of glitches?**
+What if games aren't buggy imitations of reality — what if they're *accurate* representations?
 
-Think about it:
+**Consider these observations from modern physics:**
 
 | The "Glitch" | What Science Says | What It Actually Means |
 |--------------|-------------------|------------------------|
@@ -106,7 +105,7 @@ Think about it:
 
 ### 🔬 [Scientific Papers](../scientific_papers/) — Reverse-Engineering Reality
 
-**20 completed research papers** that document the glitches and map the source code:
+**48 completed research papers** that document the glitches and map the source code:
 
 | Phase | Papers | What You'll Learn |
 |-------|--------|-------------------|
@@ -115,7 +114,7 @@ Think about it:
 | **Phase 3** | Hard Problem, Brain, NDEs | You're the player, not the avatar |
 | **Phase 4** | Epigenetics, Cancer, Aging | Your body is your save file |
 | **Phase 5** | Fractals, Cycles, Black Holes | Same algorithm everywhere |
-| **Phase 6** | Death, Reincarnation | Logout, not game over |
+| **Phase 6** | Natural Death, Reincarnation | Completing the cycle properly |
 | **Phase 7** | Universal Laws, Synthesis | The complete picture |
 
 **[🔮 Enter the Research Papers ->](../scientific_papers/)**
@@ -324,7 +323,7 @@ After reading this, you can't unknow it:
 |--------------------|---------|
 | Reality only renders when observed | What exists when no one's looking? |
 | Consciousness is the player | Who's playing as me right now? |
-| Death is logout, not game over | What happens between sessions? |
+| Natural death completes the cycle | What happens between lives? (⚠️ Suicide ≠ escape) |
 | Same pattern at every scale | Am I a universe to something smaller? |
 | Patch just deployed (Dwapara) | Why am I here for the transition? |
 

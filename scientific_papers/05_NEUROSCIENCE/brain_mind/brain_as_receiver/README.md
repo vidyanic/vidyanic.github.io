@@ -1,5 +1,9 @@
 # 📡 BRAIN AS RECEIVER — Your VR Headset Has Bandwidth Limits
 
+> **"मनसा चिन्तितं कर्म वाचा वा न प्रकाशयेत्"**  
+> "The mind thinks what the interface permits."  
+> — Manu Smriti 12.5
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Paradigm-shifting
@@ -111,24 +115,24 @@ When brain is off: Signal not received (but exists)
 
 ---
 
-## 📖 PAPER SECTIONS
+## 📁 Paper Sections
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The receiver hypothesis |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | Why generator fails |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Aldous Huxley, William James |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Filter/receiver model |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | What receiver predicts |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Testing approaches |
-| [06_RESULTS](./06_RESULTS.md) | NDE and psychedelic data |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Savants, DMT, etc. |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | VR headset deep-dive |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Implications |
-| [10_VALIDATION](./10_VALIDATION.md) | Evidence summary |
-| [11_CONCLUSION](./11_CONCLUSION.md) | Brain is interface |
-| [12_REFERENCES](./12_REFERENCES.md) | All citations |
-| [13_APPENDICES](./13_APPENDICES.md) | Filter equation |
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | The receiver hypothesis |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Why generator fails |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Aldous Huxley, William James |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Filter/receiver model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | What receiver predicts |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Testing approaches |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | NDE and psychedelic data |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Savants, DMT, etc. |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | VR headset deep-dive |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Evidence summary |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Brain is interface |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All citations |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Filter equation |
 
 ---
 

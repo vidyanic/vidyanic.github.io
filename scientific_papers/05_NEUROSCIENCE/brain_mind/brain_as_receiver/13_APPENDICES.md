@@ -1,6 +1,6 @@
 # 13. Appendices
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 
 ---
 
@@ -234,7 +234,7 @@ C_local = C_∞ × (1 - 0.95) = 0.05 × C_∞
 | Anubhava | अनुभव | Direct experience |
 | Samadhi | समाधि | Absorption/no-filter state |
 
-> **🔗 See:** [Dictionary](./00_META/DICTIONARY.md) for complete glossary
+> **🔗 See:** [Dictionary](./01_FOUNDATION/DICTIONARY.md) for complete glossary
 
 ---
 

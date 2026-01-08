@@ -1,6 +1,6 @@
 # 9. Discussion
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 
 ---
 

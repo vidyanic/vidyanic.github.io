@@ -56,20 +56,20 @@ NO NORMAL EXPLANATION WORKS:
 
 | # | Section | File | Key Content |
 |---|---------|------|-------------|
-| 0 | Abstract | `00_ABSTRACT.md` | 250-word summary |
-| 1 | Introduction | `01_INTRODUCTION.md` | The phenomenon |
-| 2 | Literature Review | `02_LITERATURE_REVIEW.md` | 60 years of research |
-| 3 | Theoretical Framework | `03_THEORETICAL_FRAMEWORK.md` | What transfers |
-| 4 | Hypothesis | `04_HYPOTHESIS.md` | Testable predictions |
-| 5 | Methodology | `05_METHODOLOGY.md` | Stevenson-Tucker protocol |
-| 6 | Results | `06_RESULTS.md` | Landmark cases, statistics |
-| 7 | Anomalies | `07_ANOMALIES.md` | All puzzles explained |
-| 8 | Backend Analogy | `08_BACKEND_ANALOGY.md` | Save file / New Game+ model |
-| 9 | Discussion | `09_DISCUSSION.md` | Implications |
-| 10 | Validation | `10_VALIDATION.md` | Confidence calculation |
-| 11 | Conclusion | `11_CONCLUSION.md` | Summary |
-| 12 | References | `12_REFERENCES.md` | 36 sources |
-| 13 | Appendices | `13_APPENDICES.md` | Case summaries, glossary |
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | 250-word summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | The phenomenon |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | 60 years of research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | What transfers |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Stevenson-Tucker protocol |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Landmark cases, statistics |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | All puzzles explained |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Save file / New Game+ model |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Confidence calculation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | 36 sources |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Case summaries, glossary |
 
 ---
 
@@ -112,9 +112,9 @@ NO NORMAL EXPLANATION WORKS:
 
 ## 🔗 RELATED PAPERS
 
-- [Death Mechanics](../../../../scientific_papers/05_NEUROSCIENCE/death/death_mechanics/) — What happens at death
-- [NDE Evidence](../../../../scientific_papers/05_NEUROSCIENCE/near_death/nde_evidence/) — Consciousness during death
-- [Hard Problem Solved](../../../../scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/) — Why consciousness is fundamental
+- [Death Mechanics](../../../05_NEUROSCIENCE/death/death_mechanics/README.md) — What happens at natural death
+- [NDE Evidence](../../../05_NEUROSCIENCE/near_death/nde_evidence/README.md) — Consciousness during death
+- [Hard Problem Solved](../../../05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/README.md) — Why consciousness is fundamental
 
 ---
 

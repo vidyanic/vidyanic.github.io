@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)  
 > **🔗 Foundation:** [Brain as Receiver](../../brain_mind/brain_as_receiver) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---

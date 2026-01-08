@@ -1,6 +1,8 @@
 # 🔮 FRONTEND RENDERING — What You Experience
 
-> *"How probabilities become pixels."*
+> **"यथा दृश्यं तथा सृष्टिः"**  
+> "As the seeing, so the creation."  
+> — Yoga Vasishtha
 
 ---
 
@@ -8,15 +10,15 @@
 
 | # | File | Content |
 |---|------|---------|
-| 01 | [81_GRID_COMPLETE.md](../../../scientific_papers/01_81_GRID_COMPLETE.md) | The base rendering unit (9+16+24+32=81) |
-| 02 | [RENDERING_LAWS.md](../../../scientific_papers/02_RENDERING_LAWS.md) | How backend -> frontend transform |
-| 03 | [LEVEL_HIERARCHY.md](../../../scientific_papers/03_LEVEL_HIERARCHY.md) | N-6 to N+6 fractal levels |
+| 01 | [01_81_GRID_COMPLETE.md](./01_81_GRID_COMPLETE.md) | The base rendering unit (9+16+24+32=81) |
+| 02 | [02_RENDERING_LAWS.md](./02_RENDERING_LAWS.md) | How backend → frontend transform |
+| 03 | [03_LEVEL_HIERARCHY.md](./03_LEVEL_HIERARCHY.md) | N-6 to N+6 fractal levels |
 
 ---
 
 ## 🎯 Key Concepts
 
-### The 81-Grid
+### The 81-Grid (Vastu Mandala)
 
 ```
 +=======================================+
@@ -40,6 +42,8 @@ Frontend_Value = Backend_Value × Render_Scale × Guna_Factor × Maya_Coefficien
 
 ```
 c = Planck_Length / Planck_Time = 1 pixel / 1 tick
+
+This is architecture, not physics. Same ratio at EVERY level.
 ```
 
 ---
@@ -48,10 +52,13 @@ c = Planck_Length / Planck_Time = 1 pixel / 1 tick
 
 | File | Purpose |
 |------|---------|
-| [8_YEAR_FRACTAL_VALIDATION.md](../../../8_YEAR_FRACTAL_VALIDATION.md) | Short-cycle validation |
-| [YUGA_TIMELINE_FRACTAL_VALIDATION.md](../../../YUGA_TIMELINE_FRACTAL_VALIDATION.md) | Long-cycle validation |
-| [COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md](../../../COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md) | Current era check |
-| [SANDHYA_STRUCTURE_VALIDATION.md](../../../SANDHYA_STRUCTURE_VALIDATION.md) | Transition period |
+| [8_YEAR_FRACTAL_VALIDATION.md](./8_YEAR_FRACTAL_VALIDATION.md) | Short-cycle validation (8-year pattern) |
+| [YUGA_TIMELINE_FRACTAL_VALIDATION.md](./YUGA_TIMELINE_FRACTAL_VALIDATION.md) | Long-cycle validation (Yuga pattern) |
+| [COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md](./COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md) | Current era check (2025) |
+| [SANDHYA_STRUCTURE_VALIDATION.md](./SANDHYA_STRUCTURE_VALIDATION.md) | Transition period validation |
+| [VEDIC_SYMPTOMS_VS_OBSERVATIONS.md](./VEDIC_SYMPTOMS_VS_OBSERVATIONS.md) | Predicted vs observed |
+| [VEDIC_TANDAVA_SYMPTOMS_TIMING.md](./VEDIC_TANDAVA_SYMPTOMS_TIMING.md) | Dissolution symptoms |
+| [TIMELINE_REALITY_CHECK_DEC_2025.md](./TIMELINE_REALITY_CHECK_DEC_2025.md) | Reality check December 2025 |
 
 ---
 
@@ -59,26 +66,44 @@ c = Planck_Length / Planck_Time = 1 pixel / 1 tick
 
 | File | Backend Mapping |
 |------|-----------------|
-| [ELECTROMAGNETISM_BACKEND.md](../../../ELECTROMAGNETISM_BACKEND.md) | Light, EM fields |
-| [THERMODYNAMICS_BACKEND.md](../../../THERMODYNAMICS_BACKEND.md) | Heat, Entropy |
+| [ELECTROMAGNETISM_BACKEND.md](./ELECTROMAGNETISM_BACKEND.md) | Light, EM fields |
+| [THERMODYNAMICS_BACKEND.md](./THERMODYNAMICS_BACKEND.md) | Heat, Entropy = Tamas |
 
 ---
 
-## 🌀 The 14 Lokas
+## 🌀 The 14 Lokas (Frequency Bands)
 
-| # | Upper (Urdhva) | Lower (Adho) |
-|---|----------------|--------------|
-| 7 | Satya | Patala |
-| 6 | Tapa | Rasatala |
-| 5 | Jana | Mahatala |
-| 4 | Mahar | Talatala |
-| 3 | Svarga | Sutala |
-| 2 | Bhuvar | Vitala |
-| 1 | Bhuloka (YOU) | Atala |
+| # | Upper (Urdhva) | Lower (Adho) | Guna Dominance |
+|---|----------------|--------------|----------------|
+| 7 | Satya | Patala | Pure Sattva / Pure Tamas |
+| 6 | Tapa | Rasatala | High Sattva / High Tamas |
+| 5 | Jana | Mahatala | High Sattva / High Tamas |
+| 4 | Mahar | Talatala | Mixed |
+| 3 | Svarga | Sutala | Mixed |
+| 2 | Bhuvar | Vitala | Mixed |
+| 1 | **Bhuloka (YOU)** | Atala | Balanced |
 
-**15th = Sushumna Axis (observer)**
+**15th = Sushumna Axis (observer position)**
 
 ---
 
-**[<- Back to Spec](../../../README.md)** | **[<- Back to Engine](../../../README.md)**
+## 📐 Render Priority
 
+```
+OBSERVATION → RENDER
+
+Priority Order:
+1. Direct attention (highest detail)
+2. Peripheral awareness (medium detail)
+3. Conceptual awareness (low detail)
+4. Unknown/unobserved (backend only)
+
+This explains:
+- Quantum observer effect
+- Why we can't perceive microscopic detail without instruments
+- Why dreams have different "rendering rules"
+```
+
+---
+
+**[← Back to Spec](../README.md)** | **[← Back to Engine](../../README.md)**

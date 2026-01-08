@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [81-Grid — 14 Lokas](../../../../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)
 
 ---
@@ -484,5 +484,5 @@ Some halos show asymmetry (consistent with multi-Loka model).
 - **Related:** [Gravity = Tamas](../../gravity/gravity_tamas) — Why mass curves spacetime
 - **Related:** [Entropy = Tamas](../../thermodynamics/entropy_tamas) — Tamas properties
 - **Principles:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
-- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

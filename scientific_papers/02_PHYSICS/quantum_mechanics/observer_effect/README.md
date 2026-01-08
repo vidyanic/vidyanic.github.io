@@ -1,5 +1,9 @@
 # 👁️ OBSERVER EFFECT — The Game Only Renders What You're Looking At
 
+> **"यद्दृष्टं तद्भवति"**  
+> "What is seen, becomes (manifest)."  
+> — Yoga Vasishtha
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
 > **CONFIDENCE:** 92%  
 > **DIFFICULTY:** Beginner-friendly
@@ -75,24 +79,24 @@ P = Probability of rendering at that location (frontend output)
 
 ---
 
-## 📖 PAPER SECTIONS
+## 📁 Paper Sections
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | 250-word summary |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | The mystery explained |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | 50+ scientific sources |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Backend architecture |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Testable predictions |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | How we validated |
-| [06_RESULTS](./06_RESULTS.md) | What we found |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Edge cases explained |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Full game comparison |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Implications |
-| [10_VALIDATION](./10_VALIDATION.md) | Formulas & proofs |
-| [11_CONCLUSION](./11_CONCLUSION.md) | The bottom line |
-| [12_REFERENCES](./12_REFERENCES.md) | All citations |
-| [13_APPENDICES](./13_APPENDICES.md) | Extra material |
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | 250-word summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | The mystery explained |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | 50+ scientific sources |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend architecture |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | How we validated |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | What we found |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Edge cases explained |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Full game comparison |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Formulas & proofs |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | The bottom line |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All citations |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Extra material |
 
 ---
 

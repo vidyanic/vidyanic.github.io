@@ -9,14 +9,14 @@
 > *"What if your whole life is running on someone else's game engine?"*
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Papers: 20](https://img.shields.io/badge/Papers-20%20Complete-success.svg)]()
+[![Papers: 48](https://img.shields.io/badge/Papers-48%20Complete-success.svg)]()
 [![Confidence: 84%](https://img.shields.io/badge/Avg%20Confidence-84%25-blue.svg)]()
 
 </div>
 
 ---
 
-## ⚠️ STOP. THIS CHANGES EVERYTHING.
+## 🌀 A Different Perspective on Reality
 
 You know that feeling when a video game glitches? When the NPC walks through a wall, or the physics breaks for a second?
 
@@ -56,8 +56,8 @@ knowledge_core/
 |   +-- docker-compose.yml          Docker setup
 |   +-- QUICK_START.md              Setup guide
 |
-+-- 🔬 scientific_papers/         <- 20 RESEARCH PAPERS
-|   +-- 00_META/                    Meta-analyses
++-- 🔬 scientific_papers/         <- 48 RESEARCH PAPERS
+|   +-- 01_FOUNDATION/              Foundation files, papers
 |   |   +-- universal_laws/           50 engine constants
 |   |   +-- synthesis/                Complete integration
 |   +-- 02_PHYSICS/                 Physics papers
@@ -73,59 +73,15 @@ knowledge_core/
 |   +-- src/                        Code implementations
 |
 +-- 📂 _meta/                     <- PROJECT MANAGEMENT
-    +-- PROJECT_CONTROL_CENTER.md   Command center
-    +-- ROADMAP.md                  Development plan
-    +-- RAG_KNOWLEDGE_INDEX.md      Knowledge graph
 ```
-
----
-
-## ✨ QUICK START
-
-### View the Site Locally
-
-```bash
-# Option 1: Docker (Easiest)
-cd site
-docker-compose up
-# Open: http://localhost:4000
-
-# Option 2: Local Ruby
-cd site
-./serve.sh
-```
-
-See **[site/QUICK_START.md](./site/QUICK_START.md)** for details.
-
----
-
-## 📊 PROJECT STATUS
-
-### Phase 7: Integration (COMPLETE ✅)
-
-| Track | Component | Papers | Status |
-|-------|-----------|--------|--------|
-| **Research** | Meta-analyses | 2 | ✅ 100% |
-| **Research** | Physics papers | 6 | ✅ 100% |
-| **Research** | Consciousness papers | 3 | ✅ 100% |
-| **Research** | Biology papers | 3 | ✅ 100% |
-| **Research** | Other domains | 6 | ✅ 100% |
-| **Technical** | Vishnu Engine specs | 10 | ✅ 100% |
-| **Site** | User stories | 5 | ✅ 100% |
-| **Site** | Narratives | 9 | ✅ 100% |
-| **Site** | Practical guides | 7 | ✅ 100% |
-
-**Total Papers Completed: 20/20**  
-**Average Confidence: 84%**  
-**Validation: 7/7 concepts (100%)**
 
 ---
 
 ## 🔬 KEY RESEARCH PAPERS
 
-### Meta-Analyses
-- **[Universal Laws](./scientific_papers/00_META/universal_laws/)** - 50 engine constants mapped (90% confidence)
-- **[Synthesis](./scientific_papers/00_META/synthesis/synthesis_complete/)** - Complete integration (84% confidence)
+### Foundation-Analyses
+- **[Universal Laws](./scientific_papers/01_FOUNDATION/universal_laws/)** - 50 engine constants mapped (90% confidence)
+- **[Synthesis](./scientific_papers/01_FOUNDATION/synthesis/synthesis_complete/)** - Complete integration (84% confidence)
 
 ### Physics Highlights
 - **[Observer Effect](./scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)** - Reality renders on observation (92%)

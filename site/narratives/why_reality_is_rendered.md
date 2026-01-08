@@ -57,9 +57,12 @@ What's ACTUALLY happening:
 
 If reality is rendered, then:
 
-1. **Death is logout** — You take off the headset, the game ends, you respawn
+1. **Natural death is completing your session** — Finishing your allocated time properly, clean transition to next
 2. **Physics has limits** — Planck length/time = pixel/frame limits
 3. **Consciousness is primary** — The player exists before the game
+
+> **Note:** Each life has an allocated journey. The path through challenges  
+> is the path of growth. Completing one's dharma enables proper transition.
 4. **You can "hack" it** — Siddhis are exploits
 
 ---

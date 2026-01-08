@@ -1,8 +1,9 @@
 # ⏳ AGING = SAMSKARA ACCUMULATION — Your Save File Is Getting Corrupted
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯  
-> **CONFIDENCE:** 81%  
-> **DIFFICULTY:** Relatable
+> **"जरामरणमोक्षाय मामाश्रित्य यतन्ति ये"**
+> "Jaramaranamokshaya mamashritya yatanti ye"
+> "Those who strive for liberation from old age and death, taking refuge in Me."
+> — Bhagavad Gita 7.29
 
 ---
 
@@ -104,22 +105,22 @@ Interventions increase Sattva OR reduce Tamas accumulation
 
 ## 📖 PAPER SECTIONS
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The accumulation model |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | Why we age |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Aging research |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Samskara mechanics |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Testable predictions |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Correlation analysis |
-| [06_RESULTS](./06_RESULTS.md) | Meditation & aging data |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Centenarians, Yogis |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Save file fragmentation |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Longevity implications |
-| [10_VALIDATION](./10_VALIDATION.md) | Evidence scoring |
-| [11_CONCLUSION](./11_CONCLUSION.md) | Slow down the clock |
-| [12_REFERENCES](./12_REFERENCES.md) | All studies |
-| [13_APPENDICES](./13_APPENDICES.md) | Anti-aging practices |
+| # | Section | File | What It Covers |
+|---|---------|------|----------------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | The accumulation model |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Why we age |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Aging research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Samskara mechanics |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Correlation analysis |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Meditation & aging data |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Centenarians, Yogis |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Save file fragmentation |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Longevity implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Evidence scoring |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Slow down the clock |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All studies |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Anti-aging practices |
 
 ---
 
@@ -144,11 +145,11 @@ You can't stop the clock, but you can **slow it by maintaining Sattva**.
 
 ---
 
-## 🔗 NEXT PAPER (Phase 5 Begins)
+## 🔗 NEXT PAPER
 
-**[Heisenberg Uncertainty ->](./02_PHYSICS/quantum_mechanics/heisenberg_uncertainty/README.md)**  
-*"Why can't we know everything at once?"*  
-*Spoiler: The engine has render resolution limits.*
+**[Evolution = Jiva Yatra ->](../../evolution/evolution_jiva_yatra/README.md)**  
+*"Is evolution random or purposeful?"*  
+*Spoiler: The soul journeys through 8.4 million forms.*
 
 ---
 

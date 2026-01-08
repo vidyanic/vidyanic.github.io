@@ -37,6 +37,27 @@ Backend documentation located Atman (Self) in the heart. Science is now discover
 
 ---
 
+## 📁 Paper Sections
+
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Core discovery summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Background and context |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Existing research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Research approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Key findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Unexplained phenomena |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation mapping |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | 7-concept validation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary and future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Additional data |
+
+---
+
 ## 📊 Key Discovery
 
 ```
@@ -53,27 +74,6 @@ LOCATION:          Where Atman interfaces with body
 
 Overall Confidence: 88%
 ```
-
----
-
-## 📑 Paper Structure
-
-| Section | Title | Description |
-|---------|-------|-------------|
-| [00](./00_ABSTRACT.md) | Abstract | Research summary |
-| [01](./01_INTRODUCTION.md) | Introduction | The heart mystery |
-| [02](./02_LITERATURE_REVIEW.md) | Literature Review | Research + Backend sources |
-| [03](./03_THEORETICAL_FRAMEWORK.md) | Theoretical Framework | Heart-consciousness model |
-| [04](./04_HYPOTHESIS.md) | Hypothesis | Testable predictions |
-| [05](./05_METHODOLOGY.md) | Methodology | Validation approach |
-| [06](./06_RESULTS.md) | Results | Complete validation |
-| [07](./07_ANOMALIES.md) | Anomalies | All questions answered |
-| [08](./08_BACKEND_ANALOGY.md) | Backend Analogy | System architecture |
-| [09](./09_DISCUSSION.md) | Discussion | Implications |
-| [10](./10_VALIDATION.md) | Validation | Formulas and references |
-| [11](./11_CONCLUSION.md) | Conclusion | Summary |
-| [12](./12_REFERENCES.md) | References | 40 sources |
-| [13](./13_APPENDICES.md) | Appendices | Training protocols |
 
 ---
 
@@ -125,9 +125,9 @@ Read [Appendix A](./13_APPENDICES.md) for coherence training protocol.
 
 | Paper | Connection |
 |-------|------------|
-| [Brain as Receiver](../../../../scientific_papers/05_NEUROSCIENCE/brain_mind/brain_as_receiver/) | Brain-consciousness interface |
-| [Placebo = Sankalpa](../../integrative/placebo_sankalpa) | Mind-body connection |
-| [Death Mechanics](../../../../scientific_papers/05_NEUROSCIENCE/death/death_mechanics/) | Heart's role in death |
+| [Brain as Receiver](../../../05_NEUROSCIENCE/brain_mind/brain_as_receiver/README.md) | Brain-consciousness interface |
+| [Placebo = Sankalpa](../../integrative/placebo_sankalpa/README.md) | Mind-body connection |
+| [Death Mechanics](../../../05_NEUROSCIENCE/death/death_mechanics/README.md) | Heart's role in death |
 
 ---
 

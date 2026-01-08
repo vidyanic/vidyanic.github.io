@@ -1,6 +1,6 @@
 # 1. Introduction
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)  
 > **🔗 Related:** [Brain as Receiver](../../brain_mind/brain_as_receiver)
 
 ---

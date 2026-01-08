@@ -90,13 +90,13 @@
 ### 12.1.9 Meta Papers
 
 22. **Universal Laws** — "50 engine constants"  
-   Path: `scientific_papers/00_META/universal_laws/`
+   Path: `scientific_papers/01_FOUNDATION/universal_laws/`
 
 23. **Fractal Validation** — "10-point checklist"  
    Path: `scientific_papers/10_MATHEMATICS/fractals/fractal_symmetry_validation/`
 
 24. **Synthesis** — "Complete integration"  
-   Path: `scientific_papers/00_META/synthesis/synthesis_complete/`
+   Path: `scientific_papers/01_FOUNDATION/synthesis/synthesis_complete/`
 
 ---
 

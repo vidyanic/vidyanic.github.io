@@ -182,11 +182,11 @@ If reality IS a simulation-like system:
 
 1. **Physics is not discovery but reverse-engineering**
 2. **Consciousness is the player, not an emergent property**
-3. **Death is logout, not game over**
+3. **Natural death completes the cycle, not game over**
 4. **"Miracles" are just accessing admin features**
 5. **Liberation is remembering you're the player**
 
 ---
 
-**Next Section:** [09_DISCUSSION.md](../../../scientific_papers/09_DISCUSSION.md)
+**Next Section:** [09_DISCUSSION.md](./09_DISCUSSION.md)
 

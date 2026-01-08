@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** This section builds on [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 
 ---
@@ -473,5 +473,5 @@ Therefore: No infinite regress
 
 - **Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 - **Principles:** [Universal Principles](../../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
-- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)

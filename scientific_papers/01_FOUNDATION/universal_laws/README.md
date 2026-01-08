@@ -41,20 +41,20 @@ They're **engine constants** — parameters of the simulation that cannot be cha
 
 | # | Section | File | Summary |
 |---|---------|------|---------|
-| 00 | Abstract | [00_ABSTRACT.md](../../../scientific_papers/00_ABSTRACT.md) | 50 principles overview |
-| 01 | Introduction | [01_INTRODUCTION.md](../../../scientific_papers/01_INTRODUCTION.md) | The concept of Rta |
-| 02 | Literature Review | [02_LITERATURE_REVIEW.md](../../../scientific_papers/02_LITERATURE_REVIEW.md) | Vedic + Scientific sources |
-| 03 | Theoretical Framework | [03_THEORETICAL_FRAMEWORK.md](../../../scientific_papers/03_THEORETICAL_FRAMEWORK.md) | 54-81 model structure |
-| 04 | Hypothesis | [04_HYPOTHESIS.md](../../../scientific_papers/04_HYPOTHESIS.md) | Testable predictions |
-| 05 | Methodology | [05_METHODOLOGY.md](../../../scientific_papers/05_METHODOLOGY.md) | Validation approach |
-| 06 | Results | [06_RESULTS.md](../../../scientific_papers/06_RESULTS.md) | 50 principles mapped |
-| 07 | Anomalies | [07_ANOMALIES.md](../../../scientific_papers/07_ANOMALIES.md) | Edge cases explained |
-| 08 | Backend Analogy | [08_BACKEND_ANALOGY.md](../../../scientific_papers/08_BACKEND_ANALOGY.md) | Simulation framework |
-| 09 | Discussion | [09_DISCUSSION.md](../../../scientific_papers/09_DISCUSSION.md) | Implications |
-| 10 | Validation | [10_VALIDATION.md](../../../scientific_papers/10_VALIDATION.md) | Mathematical proofs |
-| 11 | Conclusion | [11_CONCLUSION.md](../../../11_CONCLUSION.md) | Summary & future work |
-| 12 | References | [12_REFERENCES.md](../../../12_REFERENCES.md) | Full bibliography |
-| 13 | Appendices | [13_APPENDICES.md](../../../13_APPENDICES.md) | Complete data tables |
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | 50 principles overview |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | The concept of Rta |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Vedic + Scientific sources |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | 54-81 model structure |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Validation approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | 50 principles mapped |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Edge cases explained |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation framework |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Mathematical proofs |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary & future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Full bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Complete data tables |
 
 ---
 
@@ -113,9 +113,9 @@ You're not discovering rules. You're reading the game's documentation.
 
 ## 🔗 Related Papers
 
-- [Synthesis](../synthesis) — Complete integration
-- [Observer Effect](../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) — Quantum validation
-- [Entropy = Tamas](../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/) — Physics mapping
+- [📖 Synthesis](../synthesis/README.md) — Complete integration
+- [📖 Observer Effect](../../02_PHYSICS/quantum_mechanics/observer_effect/README.md) — Quantum validation
+- [📖 Entropy = Tamas](../../02_PHYSICS/thermodynamics/entropy_tamas/README.md) — Physics mapping
 
 ---
 

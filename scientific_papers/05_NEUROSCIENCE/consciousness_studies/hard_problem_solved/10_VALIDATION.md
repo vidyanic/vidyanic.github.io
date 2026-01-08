@@ -195,3 +195,6 @@ ROUNDED: 88% (conservative, accounting for philosophical nature)
 +===============================================================+
 ```
 
+---
+
+**Next:** [11_CONCLUSION.md](./11_CONCLUSION.md)

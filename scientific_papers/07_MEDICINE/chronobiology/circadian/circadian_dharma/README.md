@@ -37,6 +37,27 @@ The 2017 Nobel Prize validated what Dinacharya (Vedic daily routine) encoded tho
 
 ---
 
+## 📁 Paper Sections
+
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Core discovery summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Background and context |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Existing research |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Backend model |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Research approach |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Key findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Unexplained phenomena |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Simulation mapping |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | 7-concept validation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary and future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | Bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Additional data |
+
+---
+
 ## 📊 Key Discovery
 
 ```
@@ -51,27 +72,6 @@ HEALTH:   Following rhythm = Optimal function
 
 Overall Confidence: 92%
 ```
-
----
-
-## 📑 Paper Structure
-
-| Section | Title | Description |
-|---------|-------|-------------|
-| [00](.././00_ABSTRACT.md) | Abstract | Research summary |
-| [01](.././01_INTRODUCTION.md) | Introduction | The hidden clock |
-| [02](.././02_LITERATURE_REVIEW.md) | Literature Review | Research + Ayurveda |
-| [03](.././03_THEORETICAL_FRAMEWORK.md) | Theoretical Framework | Dharma-rhythm model |
-| [04](.././04_HYPOTHESIS.md) | Hypothesis | Testable predictions |
-| [05](.././05_METHODOLOGY.md) | Methodology | Validation approach |
-| [06](.././06_RESULTS.md) | Results | Complete validation |
-| [07](.././07_ANOMALIES.md) | Anomalies | All questions answered |
-| [08](.././08_BACKEND_ANALOGY.md) | Backend Analogy | System clock analogy |
-| [09](.././09_DISCUSSION.md) | Discussion | Implications |
-| [10](.././10_VALIDATION.md) | Validation | Formulas and references |
-| [11](.././11_CONCLUSION.md) | Conclusion | Summary |
-| [12](.././12_REFERENCES.md) | References | 35+ sources |
-| [13](.././13_APPENDICES.md) | Appendices | Dinacharya protocols |
 
 ---
 
@@ -122,9 +122,9 @@ Read [Appendix A](.././13_APPENDICES.md#appendix-a-complete-dinacharya-protocol.
 
 | Paper | Connection |
 |-------|------------|
-| [Heart Intelligence](../../../cardiology/heart_intelligence) | Heart has its own clock |
-| [Dreams/Sleep](../../../../../scientific_papers/05_NEUROSCIENCE/altered_states/dreams_sleep/) | Sleep cycles |
-| [Aging = Samskara](../../../../../scientific_papers/04_BIOLOGY/aging/aging_samskara/) | Disruption accelerates aging |
+| [Heart Intelligence](../../../cardiology/heart_intelligence/README.md) | Heart has its own clock |
+| [Dreams/Sleep](../../../../05_NEUROSCIENCE/altered_states/dreams_sleep/README.md) | Sleep cycles |
+| [Aging = Samskara](../../../../04_BIOLOGY/aging/aging_samskara/README.md) | Disruption accelerates aging |
 
 ---
 

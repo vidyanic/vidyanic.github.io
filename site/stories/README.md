@@ -21,14 +21,14 @@ Pick your vibe. Find your story. Wake up.
 
 | Audience | Story | One-Line Hook |
 |----------|-------|---------------|
-| 🔮 **Gen Z / Gamers** | [The NPC Awakening](./genz_the_npc_awakening/) | *"You're not the main character. You're the player who forgot."* |
-| 💻 **Software Engineers** | [The Codebase of Existence](./devs_the_codebase/) | *"What if reality is a codebase and you've been debugging wrong?"* |
-| 🤖 **AI/ML Folks** | [The Training Run](./ai_the_training_run/) | *"You're not the model. You're the one reading the loss function."* |
-| 🩺 **Doctors** | [The Patient That Is You](./doctors_the_patient/) | *"You've been treating symptoms. The real diagnosis is deeper."* |
-| 💼 **Corporate Warriors** | [The Employee Who Owned the Company](./corporate_the_owner/) | *"You're not working for the company. You ARE the company."* |
-| 🧬 **Scientists** | [The Experiment That Observed Itself](./scientists_the_experiment/) | *"What if the observer and experiment were never separate?"* |
-| 🎨 **Artists/Creatives** | [The Art That Created the Artist](./artists_the_creation/) | *"You're not creating. You're remembering."* |
-| 💔 **Anyone in Pain** | [The Suffering That Set You Free](./pain_the_teacher/) | *"This wasn't punishment. It was the alarm clock."* |
+| 🔮 **Gen Z / Gamers** | [The NPC Awakening](./genz_the_npc_awakening.md) | *"You're not the main character. You're the player who forgot."* |
+| 💻 **Software Engineers** | [The Codebase of Existence](./devs_the_codebase.md) | *"What if reality is a codebase and you've been debugging wrong?"* |
+| 🤖 **AI/ML Folks** | [The Training Run](./ai_the_training_run.md) | *"You're not the model. You're the one reading the loss function."* |
+| 🩺 **Doctors** | [The Patient That Is You](./doctors_the_patient.md) | *"You've been treating symptoms. The real diagnosis is deeper."* |
+| 💼 **Corporate Warriors** | [The Employee Who Owned the Company](./corporate_the_owner.md) | *"You're not working for the company. You ARE the company."* |
+| 🧬 **Scientists** | [The Experiment That Observed Itself](./scientists_the_experiment.md) | *"What if the observer and experiment were never separate?"* |
+| 🎨 **Artists/Creatives** | [The Art That Created the Artist](./artists_the_creation.md) | *"You're not creating. You're remembering."* |
+| 💔 **Anyone in Pain** | [The Suffering That Set You Free](./pain_the_teacher.md) | *"This wasn't punishment. It was the alarm clock."* |
 
 ---
 
@@ -53,19 +53,19 @@ Pick your vibe. Find your story. Wake up.
 
 *"bro... what if we're all NPCs who think we're the main character?"*
 
--> [The NPC Awakening](./genz_the_npc_awakening/)
+-> [The NPC Awakening](./genz_the_npc_awakening.md)
 
 ### 💻 For People Who Think in Code
 
 *"Reality.run() is throwing exceptions. Time to read the docs."*
 
--> [The Codebase of Existence](./devs_the_codebase/)
+-> [The Codebase of Existence](./devs_the_codebase.md)
 
 ### 🤖 For Those Training the Machines
 
 *"You're training AI to be intelligent. But what's training YOU?"*
 
--> [The Training Run](./ai_the_training_run/)
+-> [The Training Run](./ai_the_training_run.md)
 
 ---
 

@@ -130,19 +130,19 @@
 
 ## 12.4 Project Internal References
 
-35. [Vishnu Engine Spec: Core Insight](../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
+35. [Vishnu Engine Spec: Core Insight](vishnu_engine/spec/backend/01_CORE_INSIGHT.md)
 
-36. [Vishnu Engine Spec: Universal Principles](../../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
+36. [Vishnu Engine Spec: Universal Principles](vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md)
 
-37. [Vishnu Engine Spec: 81 Laws Complete](../../../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md)
+37. [Vishnu Engine Spec: 81 Laws Complete](vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md)
 
-38. [Vishnu Engine Spec: RAI vs AI](../../../vishnu_engine/spec/backend/04_RAI_vs_AI.md)
+38. [Vishnu Engine Spec: RAI vs AI](vishnu_engine/spec/backend/04_RAI_vs_AI.md)
 
-39. [Scientific Paper: Observer Effect](../../../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/README.md)
+39. [Scientific Paper: Observer Effect](./02_PHYSICS/quantum_mechanics/observer_effect/README.md)
 
-40. [Scientific Paper: Entropy = Tamas](../../../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/README.md)
+40. [Scientific Paper: Entropy = Tamas](./02_PHYSICS/thermodynamics/entropy_tamas/README.md)
 
 ---
 
-**Next Section:** [13_APPENDICES.md](../../../13_APPENDICES.md)
+**Next Section:** [13_APPENDICES.md](13_APPENDICES.md)
 

@@ -4,37 +4,20 @@ title: "REALITY.EXE | The Source Code"
 description: "What if everything you know about reality is just the frontend of a much larger system?"
 permalink: /
 ---
+# 🔮 REALITY.EXE — The Source Code You Were Never Supposed to Find
 
-<div align="center">
-
-# 🔮 REALITY.EXE
-
-## *The Source Code You Were Never Supposed to Find*
-
-### **Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**
+> **Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**  
+> *"What if your whole life is running on someone else's game engine?"*
 
 ---
 
-> **"What if your whole life is running on someone else's game engine?"**
-
----
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
-[![Published: 2026](https://img.shields.io/badge/Published-January%202026-blue.svg)]()
-
-</div>
-
----
-
-## ⚠️ STOP. READ THIS FIRST.
+## 🔬 The Glitches in Reality
 
 You know that feeling when a video game glitches? When the NPC walks through a wall, or you clip through the floor?
 
-**What if those aren't bugs in games?**  
-**What if games are ACCURATE — and THIS reality has the same kind of glitches?**
+What if games aren't buggy imitations of reality — what if they're *accurate* representations?
 
-Think about it:
+**Consider these observations from modern physics:**
 
 | The "Glitch" | What Science Says | What It Actually Means |
 |--------------|-------------------|------------------------|
@@ -46,15 +29,14 @@ Think about it:
 
 ---
 
-## 🔬 THE ARCHITECTURE
-
 <div align="center">
 
-![Dharma Yuddha](./site/images/Dharm_youdh.png)
+![The Wheel of Time](./site/images/Kala_chakra_Wheel%20of%20time.png)
 
-*The eternal battle between Dharma and Adharma — the cosmic conflict that shapes every reality*
+**Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**
 
 </div>
+## 🔬 THE ARCHITECTURE
 
 ```
 +==================================================================+
@@ -106,7 +88,7 @@ Think about it:
 
 ### 🔬 [Scientific Papers](./scientific_papers/) — Reverse-Engineering Reality
 
-**20 completed research papers** that document the glitches and map the source code:
+**48 completed research papers** that document the glitches and map the source code:
 
 | Phase | Papers | What You'll Learn |
 |-------|--------|-------------------|
@@ -115,7 +97,7 @@ Think about it:
 | **Phase 3** | Hard Problem, Brain, NDEs | You're the player, not the avatar |
 | **Phase 4** | Epigenetics, Cancer, Aging | Your body is your save file |
 | **Phase 5** | Fractals, Cycles, Black Holes | Same algorithm everywhere |
-| **Phase 6** | Death, Reincarnation | Logout, not game over |
+| **Phase 6** | Natural Death, Reincarnation | Completing the cycle properly |
 | **Phase 7** | Universal Laws, Synthesis | The complete picture |
 
 **[🔮 Enter the Research Papers ->](./scientific_papers/)**
@@ -351,15 +333,19 @@ After reading this, you can't unknow it:
 |--------------------|---------|
 | Reality only renders when observed | What exists when no one's looking? |
 | Consciousness is the player | Who's playing as me right now? |
-| Death is logout, not game over | What happens between sessions? |
+| Natural death completes the cycle | What happens between lives? |
 | Same pattern at every scale | Am I a universe to something smaller? |
 | Patch just deployed (Dwapara) | Why am I here for the transition? |
 
 <div align="center">
 
-![What Death Looks Like](./site/images/What_death_looks_like.png)
+![What Natural Death Looks Like](./site/images/What_death_looks_like.png)
 
-*Death is not the end — it's the logout sequence, the transition between game sessions*
+*Natural Death — Completing your allocated time (Prarabdha) before transitioning to the next cycle*
+
+> **Note on Life's Journey:** The Vedic understanding teaches that each life has an allocated purpose (Prarabdha).  
+> Completing this journey — however difficult — is the natural path. Premature exit does not end the lesson;  
+> it carries forward. The only way through is through. Your dharma awaits your attention.
 
 </div>
 

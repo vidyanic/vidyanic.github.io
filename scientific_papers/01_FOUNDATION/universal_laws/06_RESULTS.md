@@ -204,5 +204,5 @@
 
 ---
 
-**Next Section:** [07_ANOMALIES.md](../../../scientific_papers/07_ANOMALIES.md)
+**Next Section:** [07_ANOMALIES.md](./07_ANOMALIES.md)
 

@@ -144,5 +144,5 @@ The hypothesis would be **falsified** if:
 
 ---
 
-**Next Section:** [05_METHODOLOGY.md](../../../scientific_papers/05_METHODOLOGY.md)
+**Next Section:** [05_METHODOLOGY.md](./05_METHODOLOGY.md)
 

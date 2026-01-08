@@ -58,20 +58,20 @@ ALL PARADOXES RESOLVED:
 
 | # | Section | File | Key Content |
 |---|---------|------|-------------|
-| 0 | Abstract | `00_ABSTRACT.md` | 250-word summary |
-| 1 | Introduction | `01_INTRODUCTION.md` | The mystery |
-| 2 | Literature Review | `02_LITERATURE_REVIEW.md` | Physics + Backend sources |
-| 3 | Theoretical Framework | `03_THEORETICAL_FRAMEWORK.md` | 81-grid, 15th axis |
-| 4 | Hypothesis | `04_HYPOTHESIS.md` | Processing center prediction |
-| 5 | Methodology | `05_METHODOLOGY.md` | Structural correspondence |
-| 6 | Results | `06_RESULTS.md` | 100% pattern match |
-| 7 | Anomalies | `07_ANOMALIES.md` | All paradoxes resolved |
-| 8 | Backend Analogy | `08_BACKEND_ANALOGY.md` | Cosmic CPU model |
-| 9 | Discussion | `09_DISCUSSION.md` | Implications |
-| 10 | Validation | `10_VALIDATION.md` | Confidence calculation |
-| 11 | Conclusion | `11_CONCLUSION.md` | Summary |
-| 12 | References | `12_REFERENCES.md` | 34 sources |
-| 13 | Appendices | `13_APPENDICES.md` | 81-grid, formulas |
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | 250-word summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | The mystery |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Physics + Backend sources |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | 81-grid, 15th axis |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Processing center prediction |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Structural correspondence |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | 100% pattern match |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | All paradoxes resolved |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Cosmic CPU model |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Confidence calculation |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | 34 sources |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | 81-grid, formulas |
 
 ---
 
@@ -113,9 +113,9 @@ ALL PARADOXES RESOLVED:
 
 ## 🔗 RELATED PAPERS
 
-- [Observer Creates Reality](../../../../scientific_papers/03_QUANTUM/observer_effect/observer_creates_reality/) — Observer is fundamental
-- [Fractal Spacetime](../../../../scientific_papers/02_PHYSICS/spacetime/fractal_spacetime/) — Same pattern all scales
-- [Death Mechanics](../../../../scientific_papers/05_NEUROSCIENCE/death/death_mechanics/) — Transition through 15th axis
+- [Observer Effect](../../02_PHYSICS/quantum_mechanics/observer_effect/README.md) — Observer is fundamental
+- [Fractal Rendering](../../02_PHYSICS/cosmology/fractal_rendering/README.md) — Same pattern all scales
+- [Death Mechanics](../../05_NEUROSCIENCE/death/death_mechanics/README.md) — Transition through 15th axis
 
 ---
 

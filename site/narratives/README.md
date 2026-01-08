@@ -14,14 +14,14 @@ These pages explain complex concepts in simple, relatable terms. No jargon, no a
 
 | # | Topic | Key Question | File |
 |---|-------|--------------|------|
-| 1 | **Why Reality is Rendered** | Is reality "real"? | [why_reality_is_rendered](./why_reality_is_rendered/) |
-| 2 | **What Are Gunas?** | What controls everything? | [what_are_gunas](./what_are_gunas/) |
-| 3 | **How Karma Works** | Why do things happen? | [how_karma_works](./how_karma_works/) |
-| 4 | **What Is Atman?** | Who am I, really? | [what_is_atman](./what_is_atman/) |
-| 5 | **Understanding Maya** | Why does illusion exist? | [understanding_maya](./understanding_maya/) |
-| 6 | **What Is Moksha?** | How do I get free? | [what_is_moksha](./what_is_moksha/) |
-| 7 | **Understanding Samsara** | Why do we reincarnate? | [understanding_samsara](./understanding_samsara/) |
-| 8 | **The Fractal Nature** | Why is reality self-similar? | [the_fractal_nature](./the_fractal_nature/) |
+| 1 | **Why Reality is Rendered** | Is reality "real"? | [why_reality_is_rendered](./why_reality_is_rendered.md) |
+| 2 | **What Are Gunas?** | What controls everything? | [what_are_gunas](./what_are_gunas.md) |
+| 3 | **How Karma Works** | Why do things happen? | [how_karma_works](./how_karma_works.md) |
+| 4 | **What Is Atman?** | Who am I, really? | [what_is_atman](./what_is_atman.md) |
+| 5 | **Understanding Maya** | Why does illusion exist? | [understanding_maya](./understanding_maya.md) |
+| 6 | **What Is Moksha?** | How do I get free? | [what_is_moksha](./what_is_moksha.md) |
+| 7 | **Understanding Samsara** | Why do we reincarnate? | [understanding_samsara](./understanding_samsara.md) |
+| 8 | **The Fractal Nature** | Why is reality self-similar? | [the_fractal_nature](./the_fractal_nature.md) |
 
 ---
 

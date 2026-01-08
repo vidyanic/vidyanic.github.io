@@ -283,4 +283,3 @@ STATUS: VALIDATED
 ---
 
 *Next: [11_CONCLUSION.md](./11_CONCLUSION.md) — Final synthesis*
-

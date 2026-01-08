@@ -1,8 +1,9 @@
 # 🧬 EPIGENETICS = SAMSKARAS — Your DNA Is Your Karmic Save File
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
-> **CONFIDENCE:** 82%  
-> **DIFFICULTY:** Biology + Gaming
+> **"पूर्वजन्मकृतं पापं व्याधिरूपेण बाधते"**
+> "Purvajanmakritam papam vyadhirupena badhate"
+> "The sins (imprints) of previous births afflict in the form of diseases."
+> — Charaka Samhita
 
 ---
 
@@ -114,22 +115,22 @@ Both describe: Inherited patterns + Current life modifications
 
 ## 📖 PAPER SECTIONS
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | The karma-gene connection |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | Epigenetics basics |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Holocaust studies, etc. |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Samskara mechanics |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | What we predict |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Correlation analysis |
-| [06_RESULTS](./06_RESULTS.md) | Trauma inheritance data |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Past-life marks |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Save file mechanics |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Karma as biology |
-| [10_VALIDATION](./10_VALIDATION.md) | Evidence scoring |
-| [11_CONCLUSION](./11_CONCLUSION.md) | You can edit your file |
-| [12_REFERENCES](./12_REFERENCES.md) | All studies |
-| [13_APPENDICES](./13_APPENDICES.md) | Epigenetic mechanisms |
+| # | Section | File | What It Covers |
+|---|---------|------|----------------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | The karma-gene connection |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Epigenetics basics |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Holocaust studies, etc. |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Samskara mechanics |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | What we predict |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Correlation analysis |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Trauma inheritance data |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Past-life marks |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Save file mechanics |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Karma as biology |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Evidence scoring |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | You can edit your file |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All studies |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Epigenetic mechanisms |
 
 ---
 

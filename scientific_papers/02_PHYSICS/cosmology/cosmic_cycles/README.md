@@ -1,5 +1,9 @@
 # 🔄 COSMIC CYCLES — The Universe Has Patch Schedules
 
+> **"कालो गतिनिवर्तकः"**  
+> "Time is the mover and returner (of all things)."  
+> — Mahabharata
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Timeline perspective
@@ -129,24 +133,24 @@ Kali = 100x (but mostly blocked by Tamas)
 
 ---
 
-## 📖 PAPER SECTIONS
+## 📁 Paper Sections
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](./00_ABSTRACT.md) | Cycles overview |
-| [01_INTRODUCTION](./01_INTRODUCTION.md) | Why cycles exist |
-| [02_LITERATURE_REVIEW](./02_LITERATURE_REVIEW.md) | Scientific cycles + Yuga |
-| [03_THEORETICAL_FRAMEWORK](./03_THEORETICAL_FRAMEWORK.md) | Nested cycle architecture ✅ |
-| [04_HYPOTHESIS](./04_HYPOTHESIS.md) | Yuga transition predictions ✅ |
-| [05_METHODOLOGY](./05_METHODOLOGY.md) | Historical pattern analysis ✅ |
-| [06_RESULTS](./06_RESULTS.md) | Correlation findings ✅ |
-| [07_ANOMALIES](./07_ANOMALIES.md) | Timeline discrepancies ✅ |
-| [08_BACKEND_ANALOGY](./08_BACKEND_ANALOGY.md) | Server patch schedules ✅ |
-| [09_DISCUSSION](./09_DISCUSSION.md) | Dwapara implications ✅ |
-| [10_VALIDATION](./10_VALIDATION.md) | Mathematical ratios ✅ |
-| [11_CONCLUSION](./11_CONCLUSION.md) | You're at a transition ✅ |
-| [12_REFERENCES](./12_REFERENCES.md) | All citations ✅ |
-| [13_APPENDICES](./13_APPENDICES.md) | Cycle calculations ✅ |
+| # | Section | File | Summary |
+|---|---------|------|---------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | Cycles overview |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Why cycles exist |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | Scientific cycles + Yuga |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Nested cycle architecture |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Yuga transition predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Historical pattern analysis |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | Correlation findings |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | Timeline discrepancies |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Server patch schedules |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Dwapara implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Mathematical ratios |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | You're at a transition |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | All citations |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Cycle calculations |
 
 ---
 
@@ -177,7 +181,7 @@ The transition brings seekers to the knowledge they need.
 
 ## 🔗 NEXT PAPER
 
-**[Black Holes = 15th Axis ->](../../../../black_holes_15th_axis/README.md)**  
+**[📖 Black Holes = 15th Axis ->](../../../09_ASTRONOMY/black_holes/black_hole_15th_axis/README.md)**  
 *"What are black holes really?"*  
 *Spoiler: Cosmic processing centers / admin servers.*
 

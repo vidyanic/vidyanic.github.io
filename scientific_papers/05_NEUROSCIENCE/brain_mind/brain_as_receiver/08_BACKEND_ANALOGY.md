@@ -1,6 +1,6 @@
 # 8. Backend Analogy
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md)  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md)  
 > **🔗 Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---

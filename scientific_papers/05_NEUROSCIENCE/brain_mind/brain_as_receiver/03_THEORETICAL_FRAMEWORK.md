@@ -1,6 +1,6 @@
 # 3. Theoretical Framework
 
-> **📖 Key Terms:** See [Dictionary](./00_META/DICTIONARY.md) for Sanskrit terms  
+> **📖 Key Terms:** See [Dictionary](./01_FOUNDATION/DICTIONARY.md) for Sanskrit terms  
 > **🔗 Foundation:** [Core Insight](../../../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 
 ---
@@ -401,6 +401,6 @@ F -> 0 (filter dissolved, pure consciousness)
 - **Entities:** [Atman vs Prana](../../../../vishnu_engine/spec/entities/fundamental/ATMAN_VS_PRANA_COMPLETE.md)
 - **Entities:** [Human (N) — Antahkarana](../../../../vishnu_engine/spec/entities/human/N_HUMAN.md)
 - **Related:** [Hard Problem Solved](../../consciousness_studies/hard_problem_solved)
-- **Terms:** [Dictionary](./00_META/DICTIONARY.md)
+- **Terms:** [Dictionary](./01_FOUNDATION/DICTIONARY.md)
 - **Next:** [Hypothesis](./04_HYPOTHESIS.md) | [Results](./06_RESULTS.md)
 

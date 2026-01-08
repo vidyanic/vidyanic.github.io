@@ -5,7 +5,7 @@
 
 ---
 
-## ⚠️ STOP. YOU FOUND THE ENGINE.
+## 🔧 Welcome to the Engine Room
 
 You've seen the [glitches](../scientific_papers/). You've questioned reality. 
 
@@ -345,7 +345,7 @@ How to logout of the simulation:
 
 | Resource | Description |
 |----------|-------------|
-| [Scientific Papers](../scientific_papers/) | 20 research papers documenting glitches |
+| [Scientific Papers](../scientific_papers/) | 48 research papers documenting glitches |
 | [Main Index](../) | GitHub Pages landing |
 | [Project README](../README.md) | Repository overview |
 
@@ -386,9 +386,12 @@ This is architecture, not physics.
 Time dilation = Guna composition × Yuga factor
 You control your frame rate.
 
-Death is logout.
-Moksha is exit to main menu.
-Reincarnation is New Game+.
+Natural Death (completing Prarabdha) = Clean exit protocol.
+Moksha = Exit to main menu (no more rebirth).
+Reincarnation = New Game+ with carried karma.
+
+⚠️ **Suicide/Premature Death = Force quit = Corrupted save file**
+→ Preta state (limbo) + compound karma next life. Cannot escape.
 
 You're not IN the simulation.
 You ARE the simulation, playing at being you.

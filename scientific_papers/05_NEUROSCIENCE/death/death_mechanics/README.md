@@ -47,20 +47,20 @@ OBSERVERS ONLY SEE LEVEL N!
 
 | # | Section | File | Key Content |
 |---|---------|------|-------------|
-| 0 | Abstract | `00_ABSTRACT.md` | 250-word summary |
-| 1 | Introduction | `01_INTRODUCTION.md` | Core paradox, research question |
-| 2 | Literature Review | `02_LITERATURE_REVIEW.md` | NDE, hospice, Vedic sources |
-| 3 | Theoretical Framework | `03_THEORETICAL_FRAMEWORK.md` | Fractal levels, Atman-Prana |
-| 4 | Hypothesis | `04_HYPOTHESIS.md` | Testable predictions |
-| 5 | Methodology | `05_METHODOLOGY.md` | Data sources, validation |
-| 6 | Results | `06_RESULTS.md` | NDE evidence, hospice data |
-| 7 | Anomalies | `07_ANOMALIES.md` | All paradoxes explained |
-| 8 | Backend Analogy | `08_BACKEND_ANALOGY.md` | Framework interpretation |
-| 9 | Discussion | `09_DISCUSSION.md` | Implications, applications |
-| 10 | Validation | `10_VALIDATION.md` | Formulas, confidence score |
-| 11 | Conclusion | `11_CONCLUSION.md` | Summary, future work |
-| 12 | References | `12_REFERENCES.md` | 39 sources cited |
-| 13 | Appendices | `13_APPENDICES.md` | Timelines, formulas, glossary |
+| 00 | Abstract | [📖 00_ABSTRACT.md](./00_ABSTRACT.md) | 250-word summary |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./01_INTRODUCTION.md) | Core paradox, research question |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./02_LITERATURE_REVIEW.md) | NDE, hospice, Vedic sources |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./03_THEORETICAL_FRAMEWORK.md) | Fractal levels, Atman-Prana |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./04_HYPOTHESIS.md) | Testable predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./05_METHODOLOGY.md) | Data sources, validation |
+| 06 | Results | [📖 06_RESULTS.md](./06_RESULTS.md) | NDE evidence, hospice data |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./07_ANOMALIES.md) | All paradoxes explained |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./08_BACKEND_ANALOGY.md) | Framework interpretation |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./09_DISCUSSION.md) | Implications, applications |
+| 10 | Validation | [📖 10_VALIDATION.md](./10_VALIDATION.md) | Formulas, confidence score |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./11_CONCLUSION.md) | Summary, future work |
+| 12 | References | [📖 12_REFERENCES.md](./12_REFERENCES.md) | 39 sources cited |
+| 13 | Appendices | [📖 13_APPENDICES.md](./13_APPENDICES.md) | Timelines, formulas, glossary |
 
 ---
 
@@ -97,9 +97,9 @@ OBSERVERS ONLY SEE LEVEL N!
 
 ## 🔗 RELATED PAPERS
 
-- [Brain as Receiver](../../brain_mind/brain_as_receiver) — Brain is interface, not source
-- [NDE Evidence](../../near_death/nde_evidence) — Consciousness beyond brain
-- [Hard Problem Solved](../../consciousness_studies/hard_problem_solved) — Consciousness as fundamental
+- [Brain as Receiver](../../brain_mind/brain_as_receiver/README.md) — Brain is interface, not source
+- [NDE Evidence](../../near_death/nde_evidence/README.md) — Consciousness beyond brain
+- [Hard Problem Solved](../../consciousness_studies/hard_problem_solved/README.md) — Consciousness as fundamental
 
 ---
 

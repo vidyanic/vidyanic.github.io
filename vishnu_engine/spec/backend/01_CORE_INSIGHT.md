@@ -180,7 +180,22 @@ This is the domain where:
 - Karma is **ACCUMULATING**
 - Time is **RUNNING**
 - Cycles are **OPERATING**
-- Death is **REAL** (for avatars)
+- Natural Death (completing allocated time) is **REAL** (for avatars)
+
+> **Key Distinction:** Natural death ≠ Premature exit
+> 
+> **Natural Death (Prarabdha completion):**
+> - Atman disconnects after completing allocated time
+> - Orderly transition sequence
+> - Clean transition to next phase
+> 
+> **Incomplete Exit:**
+> - Departure before Prarabdha exhausts
+> - Transition state until natural time
+> - Lessons continue in next cycle
+> 
+> **Vedic Understanding:** Each life has allocated purpose.
+> The path through challenges is the path of growth.
 
 ### The Cosmic Confusion (Avidya/अविद्या)
 
@@ -348,7 +363,7 @@ You THINK you are INSIDE the game.
 Gunas ACTIVE:   Avatar has stats (Sattva/Rajas/Tamas)
 Karma ACTIVE:   Actions have results
 Time RUNNING:   Game clock ticks
-Death REAL:     Game Over screen possible
+Death REAL:     Natural end of allocated time (Prarabdha completion)
 ```
 
 ### NIRGUNA MODE (Realizing the Truth)

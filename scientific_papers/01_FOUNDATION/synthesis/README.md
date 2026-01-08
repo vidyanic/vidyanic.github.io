@@ -1,5 +1,9 @@
 # 🌀 SYNTHESIS — The Complete Picture
 
+> **"सर्वं खल्विदं ब्रह्म"**  
+> "All this is indeed Brahman."  
+> — Chandogya Upanishad 3.14.1
+
 > **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (MAXIMUM)  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Integration of everything
@@ -13,7 +17,7 @@ You've seen the pieces:
 - Physics measures backend qualities
 - Consciousness is the player, not the game
 - Life fights entropy through Sattva
-- Death is logout, not game over
+- Natural death completes the cycle (suicide ≠ escape)
 - Everything is fractally structured
 
 **Now: What's the complete picture?**
@@ -140,7 +144,7 @@ Yes, through:
 
 ---
 
-## 🔗 THE 20-PAPER JOURNEY SUMMARY
+## 🔗 THE 48-PAPER JOURNEY SUMMARY
 
 | Phase | Discovery | Key Insight |
 |-------|-----------|-------------|
@@ -149,29 +153,29 @@ Yes, through:
 | **3: Consciousness** | Hard Problem, Brain, NDEs | You're the player |
 | **4: Life** | Epigenetics, Cancer, Aging | Body is karma vehicle |
 | **5: Architecture** | Fractals, Cycles, Black Holes | One algorithm everywhere |
-| **6: Death** | Death Mechanics, Reincarnation | Logout, not game over |
+| **6: Natural Death** | Death Mechanics, Reincarnation | Completing Prarabdha properly |
 | **7: Integration** | Laws, Validation, Synthesis | All is Brahman |
 
 ---
 
 ## 📖 PAPER SECTIONS
 
-| Section | What It Covers |
-|---------|----------------|
-| [00_ABSTRACT](../../../scientific_papers/00_ABSTRACT.md) | The unified picture |
-| [01_INTRODUCTION](../../../scientific_papers/01_INTRODUCTION.md) | Why synthesis matters |
-| [02_LITERATURE_REVIEW](../../../scientific_papers/02_LITERATURE_REVIEW.md) | All 20 papers |
-| [03_THEORETICAL_FRAMEWORK](../../../scientific_papers/03_THEORETICAL_FRAMEWORK.md) | Complete architecture |
-| [04_HYPOTHESIS](../../../scientific_papers/04_HYPOTHESIS.md) | Unified predictions |
-| [05_METHODOLOGY](../../../scientific_papers/05_METHODOLOGY.md) | Integration approach |
-| [06_RESULTS](../../../scientific_papers/06_RESULTS.md) | How pieces fit |
-| [07_ANOMALIES](../../../scientific_papers/07_ANOMALIES.md) | What's still unknown |
-| [08_BACKEND_ANALOGY](../../../scientific_papers/08_BACKEND_ANALOGY.md) | Full simulation map |
-| [09_DISCUSSION](../../../scientific_papers/09_DISCUSSION.md) | Living implications |
-| [10_VALIDATION](../../../scientific_papers/10_VALIDATION.md) | Cross-paper consistency |
-| [11_CONCLUSION](../../../11_CONCLUSION.md) | All is Brahman |
-| [12_REFERENCES](../../../12_REFERENCES.md) | Complete bibliography |
-| [13_APPENDICES](../../../13_APPENDICES.md) | Extended diagrams |
+| # | Section | File | What It Covers |
+|---|---------|------|----------------|
+| 00 | Abstract | [📖 00_ABSTRACT.md](./synthesis_complete/00_ABSTRACT.md) | The unified picture |
+| 01 | Introduction | [📖 01_INTRODUCTION.md](./synthesis_complete/01_INTRODUCTION.md) | Why synthesis matters |
+| 02 | Literature Review | [📖 02_LITERATURE_REVIEW.md](./synthesis_complete/02_LITERATURE_REVIEW.md) | All 48 papers |
+| 03 | Theoretical Framework | [📖 03_THEORETICAL_FRAMEWORK.md](./synthesis_complete/03_THEORETICAL_FRAMEWORK.md) | Complete architecture |
+| 04 | Hypothesis | [📖 04_HYPOTHESIS.md](./synthesis_complete/04_HYPOTHESIS.md) | Unified predictions |
+| 05 | Methodology | [📖 05_METHODOLOGY.md](./synthesis_complete/05_METHODOLOGY.md) | Integration approach |
+| 06 | Results | [📖 06_RESULTS.md](./synthesis_complete/06_RESULTS.md) | How pieces fit |
+| 07 | Anomalies | [📖 07_ANOMALIES.md](./synthesis_complete/07_ANOMALIES.md) | What's still unknown |
+| 08 | Backend Analogy | [📖 08_BACKEND_ANALOGY.md](./synthesis_complete/08_BACKEND_ANALOGY.md) | Full simulation map |
+| 09 | Discussion | [📖 09_DISCUSSION.md](./synthesis_complete/09_DISCUSSION.md) | Living implications |
+| 10 | Validation | [📖 10_VALIDATION.md](./synthesis_complete/10_VALIDATION.md) | Cross-paper consistency |
+| 11 | Conclusion | [📖 11_CONCLUSION.md](./synthesis_complete/11_CONCLUSION.md) | All is Brahman |
+| 12 | References | [📖 12_REFERENCES.md](./synthesis_complete/12_REFERENCES.md) | Complete bibliography |
+| 13 | Appendices | [📖 13_APPENDICES.md](./synthesis_complete/13_APPENDICES.md) | Extended diagrams |
 
 ---
 
