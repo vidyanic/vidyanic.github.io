@@ -9,7 +9,7 @@
 
 ## 📋 Table of Contents
 
-1. [The Four Laws as Vedic Principles](#1-laws)
+1. [The Four Laws as Universal Principles](#1-laws)
 2. [Temperature: Rajas Concentration](#2-temperature)
 3. [Entropy: Tamas Accumulation](#3-entropy)
 4. [Heat: Energy Exchange Protocol](#4-heat)
@@ -18,7 +18,7 @@
 
 ---
 
-## 1. The Four Laws as Vedic Principles {#1-laws}
+## 1. The Four Laws as Universal Principles {#1-laws}
 
 ```
 ------------------------------------------------------------------------------

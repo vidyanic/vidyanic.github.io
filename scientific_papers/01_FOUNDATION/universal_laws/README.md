@@ -122,5 +122,3 @@ You're not discovering rules. You're reading the game's documentation.
 **ॐ तत् सत्**
 
 ---
-
-*Last Updated: January 2026*

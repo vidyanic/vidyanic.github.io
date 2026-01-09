@@ -17,14 +17,14 @@ These are practical, step-by-step guides for applying Vedic wisdom in daily life
 
 | # | Guide | What It Covers |
 |---|-------|----------------|
-| 01 | [Daily Sadhana](./01_DAILY_SADHANA.md) | Complete morning-to-night practice routine |
-| 02 | [Meditation Guide](./02_MEDITATION_GUIDE.md) | How to meditate effectively |
-| 03 | [Mantra Guide](./03_MANTRA_GUIDE.md) | Using mantras for transformation |
-| 04 | [Guna Management](./04_GUNA_MANAGEMENT.md) | Balancing Sattva, Rajas, Tamas |
-| 05 | [Karma Clearing](./05_KARMA_CLEARING.md) | Practical liberation techniques |
-| 06 | [Emergency Protocols](./06_EMERGENCY_PROTOCOLS.md) | Crisis handling with mantras |
-| — | [Transition Guide](./06_PRACTICAL_TRANSITION_GUIDE.md) | Yuga Sandhya preparation |
-| — | [Kali-Dwapara Survival](./KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md) | Complete survival guide |
+| 01 | [Daily Sadhana](./01_DAILY_SADHANA.md) | [Complete morning-to-night practice routine](./01_DAILY_SADHANA.md) |
+| 02 | [Meditation Guide](./02_MEDITATION_GUIDE.md) | [How to meditate effectively](./02_MEDITATION_GUIDE.md) |
+| 03 | [Mantra Guide](./03_MANTRA_GUIDE.md) | [Using mantras for transformation](./03_MANTRA_GUIDE.md) |
+| 04 | [Guna Management](./04_GUNA_MANAGEMENT.md) | [Balancing Sattva, Rajas, Tamas](./04_GUNA_MANAGEMENT.md) |
+| 05 | [Karma Clearing](./05_KARMA_CLEARING.md) | [Practical liberation techniques](./05_KARMA_CLEARING.md) |
+| 06 | [Emergency Protocols](./06_EMERGENCY_PROTOCOLS.md) | [Crisis handling with mantras](./06_EMERGENCY_PROTOCOLS.md) |
+| — | [Transition Guide](./06_PRACTICAL_TRANSITION_GUIDE.md) | [Yuga Sandhya preparation](./06_PRACTICAL_TRANSITION_GUIDE.md) |
+| — | [Kali-Dwapara Survival](./KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md) | [Complete survival guide](./KALI_DWAPARA_SANDHYA_SURVIVAL_GUIDE.md) |
 
 ---
 
@@ -50,11 +50,11 @@ These are practical, step-by-step guides for applying Vedic wisdom in daily life
 
 | Stage | Guide | Time Investment |
 |-------|-------|-----------------|
-| **Week 1** | Daily Sadhana | 10-15 min/day |
-| **Week 2** | Meditation Guide | +10 min/day |
-| **Week 3** | Guna Management | All day awareness |
-| **Week 4** | Mantra Guide | +15 min/day |
-| **Ongoing** | Karma Clearing | Integrated practice |
+| [**Week 1**](./01_DAILY_SADHANA.md) | [Daily Sadhana](./01_DAILY_SADHANA.md) | [10-15 min/day](./01_DAILY_SADHANA.md) |
+| [**Week 2**](./02_MEDITATION_GUIDE.md) | [Meditation Guide](./02_MEDITATION_GUIDE.md) | [+10 min/day](./02_MEDITATION_GUIDE.md) |
+| [**Week 3**](./04_GUNA_MANAGEMENT.md) | [Guna Management](./04_GUNA_MANAGEMENT.md) | [All day awareness](./04_GUNA_MANAGEMENT.md) |
+| [**Week 4**](./03_MANTRA_GUIDE.md) | [Mantra Guide](./03_MANTRA_GUIDE.md) | [+15 min/day](./03_MANTRA_GUIDE.md) |
+| [**Ongoing**](./05_KARMA_CLEARING.md) | [Karma Clearing](./05_KARMA_CLEARING.md) | [Integrated practice](./05_KARMA_CLEARING.md) |
 
 ---
 

@@ -97,15 +97,15 @@ This work constitutes a **DEFENSIVE PUBLICATION** establishing prior art for all
 If you use this work in academic or professional contexts, please cite as:
 
 ```
-Shunya-0 Project (2025). A Unified Framework Integrating Vedic Principles 
-and Modern Physics. Retrieved from https://github.com/ranjeet-sunya/Bramhagyan
+Shunya-0 Project (2025). A Unified Framework for Universal Sense-Making 
+across all Knowledge Fields. Retrieved from https://github.com/ranjeet-sunya/Bramhagyan
 Licensed under CC BY-NC 4.0 (Non-Commercial).
 ```
 
 BibTeX format:
 ```bibtex
 @misc{shunya2025,
-  title={Shunya-0: A Unified Framework Integrating Vedic Principles and Modern Physics},
+  title={Shunya-0: A Unified Framework for Universal Sense-Making across all Knowledge Fields},
   author={Shunya-0 Project Contributors},
   year={2025},
   url={https://github.com/ranjeet-sunya/Bramhagyan},

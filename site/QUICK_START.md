@@ -12,7 +12,7 @@
 
 ### Step 1: Navigate to site directory
 ```bash
-cd /Users/ranjeet/Shunya-0/knowledge_core/site
+cd ./site
 ```
 
 ### Step 2: Start Docker

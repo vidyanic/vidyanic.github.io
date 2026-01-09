@@ -7,7 +7,7 @@ version: '3.8'
 services:
   jekyll:
     image: jekyll/jekyll:4.2.2
-    command: sh -c "bundle install && jekyll serve --config _config.yml,_config_local.yml --force_polling --livereload --host 0.0.0.0"
+    command: sh -c "bundle install && jekyll serve --config _config.yml,_config_local.yml --force_polling --livereload --incremental --host 0.0.0.0"
     ports:
       - "4000:4000"
       - "35729:35729"  # LiveReload port

@@ -10,9 +10,9 @@
 
 | # | File | Content |
 |---|------|---------|
-| 01 | [01_81_GRID_COMPLETE.md](./01_81_GRID_COMPLETE.md) | The base rendering unit (9+16+24+32=81) |
-| 02 | [02_RENDERING_LAWS.md](./02_RENDERING_LAWS.md) | How backend → frontend transform |
-| 03 | [03_LEVEL_HIERARCHY.md](./03_LEVEL_HIERARCHY.md) | N-6 to N+6 fractal levels |
+| 01 | [01_81_GRID_COMPLETE.md](./01_81_GRID_COMPLETE.md) | [The base rendering unit (9+16+24+32=81)](./01_81_GRID_COMPLETE.md) |
+| 02 | [02_RENDERING_LAWS.md](./02_RENDERING_LAWS.md) | [How backend → frontend transform](./02_RENDERING_LAWS.md) |
+| 03 | [03_LEVEL_HIERARCHY.md](./03_LEVEL_HIERARCHY.md) | [N-6 to N+6 fractal levels](./03_LEVEL_HIERARCHY.md) |
 
 ---
 
@@ -52,13 +52,13 @@ This is architecture, not physics. Same ratio at EVERY level.
 
 | File | Purpose |
 |------|---------|
-| [8_YEAR_FRACTAL_VALIDATION.md](./8_YEAR_FRACTAL_VALIDATION.md) | Short-cycle validation (8-year pattern) |
-| [YUGA_TIMELINE_FRACTAL_VALIDATION.md](./YUGA_TIMELINE_FRACTAL_VALIDATION.md) | Long-cycle validation (Yuga pattern) |
-| [COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md](./COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md) | Current era check (2025) |
-| [SANDHYA_STRUCTURE_VALIDATION.md](./SANDHYA_STRUCTURE_VALIDATION.md) | Transition period validation |
-| [VEDIC_SYMPTOMS_VS_OBSERVATIONS.md](./VEDIC_SYMPTOMS_VS_OBSERVATIONS.md) | Predicted vs observed |
-| [VEDIC_TANDAVA_SYMPTOMS_TIMING.md](./VEDIC_TANDAVA_SYMPTOMS_TIMING.md) | Dissolution symptoms |
-| [TIMELINE_REALITY_CHECK_DEC_2025.md](./TIMELINE_REALITY_CHECK_DEC_2025.md) | Reality check December 2025 |
+| [8_YEAR_FRACTAL_VALIDATION.md](./8_YEAR_FRACTAL_VALIDATION.md) | [Short-cycle validation (8-year pattern)](./8_YEAR_FRACTAL_VALIDATION.md) |
+| [YUGA_TIMELINE_FRACTAL_VALIDATION.md](./YUGA_TIMELINE_FRACTAL_VALIDATION.md) | [Long-cycle validation (Yuga pattern)](./YUGA_TIMELINE_FRACTAL_VALIDATION.md) |
+| [COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md](./COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md) | [Current era check (2025)](./COMPLETE_FRACTAL_TIMELINE_VALIDATION_2025.md) |
+| [SANDHYA_STRUCTURE_VALIDATION.md](./SANDHYA_STRUCTURE_VALIDATION.md) | [Transition period validation](./SANDHYA_STRUCTURE_VALIDATION.md) |
+| [VEDIC_SYMPTOMS_VS_OBSERVATIONS.md](./VEDIC_SYMPTOMS_VS_OBSERVATIONS.md) | [Predicted vs observed](./VEDIC_SYMPTOMS_VS_OBSERVATIONS.md) |
+| [VEDIC_TANDAVA_SYMPTOMS_TIMING.md](./VEDIC_TANDAVA_SYMPTOMS_TIMING.md) | [Dissolution symptoms](./VEDIC_TANDAVA_SYMPTOMS_TIMING.md) |
+| [TIMELINE_REALITY_CHECK_DEC_2025.md](./TIMELINE_REALITY_CHECK_DEC_2025.md) | [Reality check December 2025](./TIMELINE_REALITY_CHECK_DEC_2025.md) |
 
 ---
 
@@ -66,8 +66,8 @@ This is architecture, not physics. Same ratio at EVERY level.
 
 | File | Backend Mapping |
 |------|-----------------|
-| [ELECTROMAGNETISM_BACKEND.md](./ELECTROMAGNETISM_BACKEND.md) | Light, EM fields |
-| [THERMODYNAMICS_BACKEND.md](./THERMODYNAMICS_BACKEND.md) | Heat, Entropy = Tamas |
+| [ELECTROMAGNETISM_BACKEND.md](./ELECTROMAGNETISM_BACKEND.md) | [Light, EM fields](./ELECTROMAGNETISM_BACKEND.md) |
+| [THERMODYNAMICS_BACKEND.md](./THERMODYNAMICS_BACKEND.md) | [Heat, Entropy = Tamas](./THERMODYNAMICS_BACKEND.md) |
 
 ---
 

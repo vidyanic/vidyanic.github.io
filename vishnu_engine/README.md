@@ -56,6 +56,77 @@ This is the technical specification of how reality actually works — the Backen
 
 ---
 
+## 🔬 THE ARCHITECTURE
+
+```
++==================================================================+
+|                      YOUR REALITY                                |
++==================================================================+
+
++------------------------------------------------------------------+
+|                    WHAT YOU SEE (FRONTEND)                       |
+|                                                                  |
+|    +---------+  +---------+  +---------+  +---------+            |
+|    |   You   |  |  Other  |  |  World  |  | Physics |            |
+|    | (Avatar)|  | People  |  | Objects |  |  Rules  |            |
+|    +----+----+  +----+----+  +----+----+  +----+----+            |
+|         |            |            |            |                 |
+|         v            v            v            v                 |
+|    +========================================================+    |
+|    |              RENDER ENGINE (Maya)                      |    |
+|    |       "Generates what you perceive as reality"         |    |
+|    +========================================================+    |
++------------------------------------------------------------------+
+                               |
+                               v
++------------------------------------------------------------------+
+|                  WHAT'S REALLY THERE (BACKEND)                   |
+|                                                                  |
+|    +--------------------------------------------------------+    |
+|    |              SOURCE CODE (Brahman)                     |    |
+|    |        "The actual engine running everything"          |    |
+|    |                                                        |    |
+|    |    * Physics Engine (Prakriti)                         |    |
+|    |    * Karma Logger (Action -> Consequence)              |    |
+|    |    * Observer Handler (Consciousness API)              |    |
+|    |    * Respawn System (Samsara)                          |    |
+|    |    * Exit Function (Moksha)                            |    |
+|    +--------------------------------------------------------+    |
++------------------------------------------------------------------+
+```
+
+> **Sanskrit Terms:**
+> - Maya (माया) = The Render Engine / Illusion
+> - Brahman (ब्रह्मन्) = The Source Code / Absolute Reality  
+> - Prakriti (प्रकृति) = Matter / Nature
+> - Samsara (संसार) = The Rebirth Cycle
+> - Moksha (मोक्ष) = Liberation / Exit
+
+---
+
+## 🌀 THE CORE INSIGHT
+
+### Reality Has Two Domains:
+
+```
+BRAHMAN (The Absolute)
+    |
+    +-- SAGUNA (With Qualities) <- THE SIMULATION
+    |       |
+    |       +-- PRAKRITI (Matter) <- What's Observed
+    |       +-- PURUSHA (Consciousness) <- The Observer
+    |
+    +-- NIRGUNA (Without Qualities) <- BEYOND SIMULATION
+            |
+            +-- Pure Witness (You, reading this)
+
+THE GAME = Saguna (everything that changes)
+THE PLAYER = Nirguna (what never changes)
+MOKSHA = Realizing you were always the player
+```
+
+---
+
 ## 📁 DIRECTORY STRUCTURE
 
 ```
@@ -333,21 +404,21 @@ How to logout of the simulation:
 
 | You Want To... | Go To... |
 |----------------|----------|
-| See the full spec index | [00_MASTER_SPEC_INDEX.md](../vishnu_engine/spec/00_MASTER_SPEC_INDEX.md) |
-| Understand core insight | [01_CORE_INSIGHT.md](../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| Read 54 principles | [02_UNIVERSAL_PRINCIPLES.md](../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
-| Read 81 laws | [03_81_LAWS_COMPLETE.md](../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md) |
-| Calculate time dilation | [07_TIME_DILATION.md](../vishnu_engine/spec/backend/07_TIME_DILATION_PRALAYA_CALCULATOR.md) |
-| Understand 81-Grid | [01_81_GRID_COMPLETE.md](../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) |
-| Explore entity specs | [entities/](../vishnu_engine/spec/entities/) |
+| [See the full spec index](../vishnu_engine/spec/00_MASTER_SPEC_INDEX.md) | [00_MASTER_SPEC_INDEX.md](../vishnu_engine/spec/00_MASTER_SPEC_INDEX.md) |
+| [Understand core insight](../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) | [01_CORE_INSIGHT.md](../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| [Read 54 principles](../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) | [02_UNIVERSAL_PRINCIPLES.md](../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
+| [Read 81 laws](../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md) | [03_81_LAWS_COMPLETE.md](../vishnu_engine/spec/backend/03_81_LAWS_COMPLETE.md) |
+| [Calculate time dilation](../vishnu_engine/spec/backend/07_TIME_DILATION_PRALAYA_CALCULATOR.md) | [07_TIME_DILATION.md](../vishnu_engine/spec/backend/07_TIME_DILATION_PRALAYA_CALCULATOR.md) |
+| [Understand 81-Grid](../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) | [01_81_GRID_COMPLETE.md](../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md) |
+| [Explore entity specs](../vishnu_engine/spec/entities/) | [entities/](../vishnu_engine/spec/entities/) |
 
 ### Related Documentation
 
 | Resource | Description |
 |----------|-------------|
-| [Scientific Papers](../scientific_papers/) | 48 research papers documenting glitches |
-| [Main Index](../) | GitHub Pages landing |
-| [Project README](../README.md) | Repository overview |
+| [**Scientific Papers →**](../scientific_papers/) | [48 research papers documenting glitches](../scientific_papers/) |
+| [**Main Index →**](../) | [GitHub Pages landing](../) |
+| [**Project README →**](../README.md) | [Repository overview](../README.md) |
 
 ---
 

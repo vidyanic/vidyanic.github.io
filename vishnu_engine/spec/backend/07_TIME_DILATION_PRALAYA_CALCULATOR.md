@@ -1444,9 +1444,3 @@ SAME PATTERN: Prevent catastrophic collapse through regular resets!
 **तत् त्वम् असि** — You ARE That eternal consciousness beyond time.
 
 ---
-
-*Last Updated: December 28, 2025*
-*Status: Kali-Dvapara Sandhya (Active Transition)*
-*Next Checkpoint: 2028 (Full Dvapara Activation)*
-
-

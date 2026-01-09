@@ -27,7 +27,7 @@
 | 9 | पञ्च कोश (Pancha Kosha) | Five Sheaths | Layer model | Physical -> Bliss |
 | 10 | कालचक्र (Kalacakra) | Time Wheel | Cyclic time | f(t+T) = f(t) |
 
-### A.3 Quantum-Vedic Principles (11-15)
+### A.3 Quantum-Universal Principles (11-15)
 
 | # | Sanskrit | English | Function | Formula |
 |---|----------|---------|----------|---------|

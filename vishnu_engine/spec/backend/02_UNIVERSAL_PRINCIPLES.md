@@ -18,7 +18,7 @@ This document consolidates ALL discovered principles across:
 **Total Principles: 54**
 - Foundational Axioms: 1-5
 - Operational Principles: 6-10
-- Quantum-Vedic Principles: 11-15
+- Universal Principles: 11-15
 - Efficiency Principles: 16-20
 - Dharma Principles: 21-23
 - Exit Principles (Moksha): 24-25
@@ -1507,7 +1507,7 @@ Vishnu -> Creates IMPROVED rules -> Better simulation
 | 9 | **Pancha Kosha** | पञ्च कोश | Five sheaths wrap Atman |
 | 10 | **Kalacakra** | कालचक्र | Time is cyclic, not linear |
 
-## Part III: Quantum-Vedic Principles (11-15)
+## Part III: Universal Principles (11-15)
 
 | # | Principle | Sanskrit | Core Statement |
 |---|-----------|----------|----------------|

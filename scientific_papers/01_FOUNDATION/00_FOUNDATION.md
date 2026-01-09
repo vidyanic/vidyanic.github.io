@@ -419,7 +419,3 @@ All research papers in all domains build upon these axioms and use this methodol
 
 ---
 
-*Word Count: ~2,500*  
-*Version: 1.0*  
-*Last Updated: January 2, 2026*
-

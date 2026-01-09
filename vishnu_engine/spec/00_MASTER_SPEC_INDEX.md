@@ -212,7 +212,3 @@ output = sattva * x + rajas * max(0,x) + tamas * sigmoid(x)
 ---
 
 **ॐ तत् सत्**
-
-*Last Updated: January 2, 2026*
-*Status: Specification Complete — Ready for Implementation*
-

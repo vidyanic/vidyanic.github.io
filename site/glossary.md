@@ -1,6 +1,9 @@
 # 📚 Glossary of Terms
 
-> Sanskrit-English dictionary for Project Shunya-0
+> **Multi-disciplinary dictionary: Sanskrit · Scientific · Computational**  
+> Understanding universal principles through multiple lenses
+
+**How to use:** Each term includes Sanskrit, English, and systemic/computational equivalents. Use whichever terminology resonates with you — the concepts are universal.
 
 ---
 
@@ -16,7 +19,12 @@
 **Bliss** — Not pleasure (which has an opposite), but the fundamental nature of consciousness as unconditional fullness. One of three aspects of Brahman: Sat-Chit-Ananda.
 
 ### Atman (आत्मन्)
-**True Self** — The individual consciousness that is, upon investigation, found to be identical with Brahman. "That which you seek is what is seeking."
+**True Self / Observer Instance / User Handle**  
+The individual consciousness that is, upon investigation, found to be identical with Brahman. "That which you seek is what is seeking."
+
+**Systemic:** User Handle — Your unique observer instance in the system  
+**Gaming:** The Player (not the avatar)  
+**Physics:** The Observer (not the observed)
 
 ### Avidya (अविद्या)
 **Ignorance** — Not knowing one's true nature. The root cause of suffering. Not stupidity, but fundamental misidentification.
@@ -29,7 +37,13 @@
 **Point/Seed** — The concentrated point of creative potential. From Bindu, manifestation expands.
 
 ### Brahman (ब्रह्मन्)
-**The Absolute** — Pure consciousness, the substrate of all reality. Not a god, but that which is. Sat-Chit-Ananda: Existence-Consciousness-Bliss.
+**The Absolute / Root Process / Source Code**  
+Pure consciousness, the substrate of all reality. Not a god, but that which is. Sat-Chit-Ananda: Existence-Consciousness-Bliss.
+
+**Systemic:** Root Process — The base runtime environment  
+**Gaming:** The Player (you, reading this)  
+**Physics:** The Universal Wave Function  
+**Programming:** The Source Code that compiles reality
 
 ### Buddhi (बुद्धि)
 **Intellect/Discriminative faculty** — The aspect of mind that discriminates, judges, and decides. Higher than Manas (thinking mind).
@@ -49,11 +63,17 @@
 ## D
 
 ### Dharma (धर्म)
-**Law/Duty/Nature** — Has multiple meanings:
+**Law/Duty/Nature / Systemic Order / Operational Logic**  
+Has multiple meanings:
 1. Cosmic law (like physics)
 2. Individual duty/role
 3. Natural order
 4. Righteousness
+
+**Systemic:** Operational Logic — The rules governing system behavior  
+**Programming:** The API contracts and system invariants  
+**Physics:** Natural Laws (F=ma, conservation laws)  
+**Gaming:** Game Rules
 
 ### Drishti-Srishti (दृष्टि-सृष्टि)
 **"Seeing-Creating"** — The principle that observation creates what is observed. Vedic formulation of observer effect.
@@ -104,7 +124,13 @@ Everything is a mixture: S + R + T = 1
 **Time** — One of the fundamental aspects of manifestation. Time is rendered, not absolute.
 
 ### Karma (कर्म)
-**Action/Consequence** — Every action creates impressions (samskaras) that shape future experience. Not punishment, but natural law.
+**Action/Consequence / Causality Loop / Event Logger**  
+Every action creates impressions (samskaras) that shape future experience. Not punishment, but natural law.
+
+**Systemic:** Feedback Loop — Input-output tracking system  
+**Physics:** Newton's 3rd Law (F₁₂ = -F₂₁)  
+**Programming:** Event Logger / Save File  
+**Gaming:** Reputation system / Skill progression
 
 ### Kosha (कोश)
 **Sheath/Layer** — The five sheaths covering Atman:
@@ -132,13 +158,25 @@ Everything is a mixture: S + R + T = 1
 **Sacred Sound** — Sound formulas that create specific vibrational effects. "Man" (mind) + "tra" (tool/protection).
 
 ### Maya (माया)
-**Illusion/Rendering Engine** — The power by which Brahman appears as the differentiated world. Not "fake" but "apparent" — neither fully real nor unreal.
+**Illusion/Rendering Engine / Interface Layer / Perceptual Matrix**  
+The power by which Brahman appears as the differentiated world. Not "fake" but "apparent" — neither fully real nor unreal.
+
+**Systemic:** Interface Layer — The frontend display layer  
+**Gaming:** GPU Rendering / Game Engine (like Unreal/Unity)  
+**Physics:** Wave Function Collapse (potential → actual)  
+**VR:** The headset that generates your experience
 
 ### Mithya (मिथ्या)
 **Dependent Reality** — That which exists but is not independently real. The world is mithya — real in experience but dependent on Brahman.
 
 ### Moksha (मोक्ष)
-**Liberation** — Freedom from the cycle of birth-death (samsara). Recognition of one's true nature as Brahman.
+**Liberation / Logic Exit / System Logout**  
+Freedom from the cycle of birth-death (samsara). Recognition of one's true nature as Brahman.
+
+**Systemic:** Exit Function — Proper shutdown/logout  
+**Gaming:** Beating the final level / Logging out consciously  
+**Programming:** return() statement / Process termination  
+**Physics:** Escaping the closed timelike curve
 
 ---
 

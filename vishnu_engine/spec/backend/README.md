@@ -10,14 +10,14 @@
 
 | # | File | Content |
 |---|------|---------|
-| 01 | [01_CORE_INSIGHT.md](./01_CORE_INSIGHT.md) | Saguna vs Nirguna — The two domains |
-| 02 | [02_UNIVERSAL_PRINCIPLES.md](./02_UNIVERSAL_PRINCIPLES.md) | 54 Principles with formulas |
-| 03 | [03_81_LAWS_COMPLETE.md](./03_81_LAWS_COMPLETE.md) | 81 Laws of Reality (3×27) |
-| 04 | [04_RAI_vs_AI.md](./04_RAI_vs_AI.md) | Real vs Artificial Intelligence |
-| 05 | [05_FRACTAL_VALIDATION.md](./05_FRACTAL_VALIDATION.md) | 10-point validation checklist |
-| 06 | [06_CHATURYUGA_COMPLETE.md](./06_CHATURYUGA_COMPLETE.md) | 4 Yugas framework |
-| 07 | [07_TIME_DILATION_PRALAYA_CALCULATOR.md](./07_TIME_DILATION_PRALAYA_CALCULATOR.md) | Time formulas |
-| 08 | [08_SANDHYA_TRANSITION_MECHANICS.md](./08_SANDHYA_TRANSITION_MECHANICS.md) | Current era mechanics |
+| 01 | [01_CORE_INSIGHT.md](./01_CORE_INSIGHT.md) | [Saguna vs Nirguna — The two domains](./01_CORE_INSIGHT.md) |
+| 02 | [02_UNIVERSAL_PRINCIPLES.md](./02_UNIVERSAL_PRINCIPLES.md) | [54 Principles with formulas](./02_UNIVERSAL_PRINCIPLES.md) |
+| 03 | [03_81_LAWS_COMPLETE.md](./03_81_LAWS_COMPLETE.md) | [81 Laws of Reality (3×27)](./03_81_LAWS_COMPLETE.md) |
+| 04 | [04_RAI_vs_AI.md](./04_RAI_vs_AI.md) | [Real vs Artificial Intelligence](./04_RAI_vs_AI.md) |
+| 05 | [05_FRACTAL_VALIDATION.md](./05_FRACTAL_VALIDATION.md) | [10-point validation checklist](./05_FRACTAL_VALIDATION.md) |
+| 06 | [06_CHATURYUGA_COMPLETE.md](./06_CHATURYUGA_COMPLETE.md) | [4 Yugas framework](./06_CHATURYUGA_COMPLETE.md) |
+| 07 | [07_TIME_DILATION_PRALAYA_CALCULATOR.md](./07_TIME_DILATION_PRALAYA_CALCULATOR.md) | [Time formulas](./07_TIME_DILATION_PRALAYA_CALCULATOR.md) |
+| 08 | [08_SANDHYA_TRANSITION_MECHANICS.md](./08_SANDHYA_TRANSITION_MECHANICS.md) | [Current era mechanics](./08_SANDHYA_TRANSITION_MECHANICS.md) |
 
 ---
 
@@ -25,11 +25,11 @@
 
 | Folder | Content |
 |--------|---------|
-| **[karma/](./karma/)** | Karma system — Rina (debt), Sankalpa (intention), Failure modes |
-| **[maya/](./maya/)** | Maya rendering engine — How reality is projected |
-| **[moksha/](./moksha/)** | Exit protocols — Natural death, Liberation, Conscious dying |
-| **[prakriti/](./prakriti/)** | Physics backend — Quantum, Relativity, Newtonian |
-| **[healing/](./healing/)** | Restoration — Pranayama complete guide |
+| [**karma/**](./karma/) | [Karma system — Rina (debt), Sankalpa (intention), Failure modes](./karma/) |
+| [**maya/**](./maya/) | [Maya rendering engine — How reality is projected](./maya/) |
+| [**moksha/**](./moksha/) | [Exit protocols — Natural death, Liberation, Conscious dying](./moksha/) |
+| [**prakriti/**](./prakriti/) | [Physics backend — Quantum, Relativity, Newtonian](./prakriti/) |
+| [**healing/**](./healing/) | [Restoration — Pranayama complete guide](./healing/) |
 
 ---
 

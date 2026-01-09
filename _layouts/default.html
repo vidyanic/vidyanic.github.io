@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
-  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/site/images/favicon.svg' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -44,48 +44,51 @@
 
     .page-header {
       background: var(--primary-gradient);
-      padding: 4rem 2rem 6rem !important;
+      padding: 1.5rem 2rem !important;
       text-align: center;
       color: white;
       margin-bottom: 0;
       position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
 
-    .page-header::after {
-      content: '';
-      position: absolute;
-      bottom: -2rem;
-      left: 0;
-      right: 0;
-      height: 3rem;
-      background: linear-gradient(to bottom, rgba(16, 185, 129, 0.1), transparent);
+    .header-titles {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      width: 100%;
     }
 
     .project-name {
       font-family: 'Outfit', sans-serif;
       font-weight: 800;
-      letter-spacing: -0.03em;
-      margin: 0 auto 1rem !important;
-      font-size: clamp(2rem, 6vw, 3.5rem) !important;
+      letter-spacing: -0.02em;
+      margin: 0 !important;
+      font-size: 1.75rem !important;
       text-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-      line-height: 1.1;
-      max-width: 900px;
+      line-height: 1.2;
     }
 
     .project-tagline {
-      font-weight: 400;
+      font-weight: 500;
       opacity: 0.95;
-      margin: 0 auto 2rem !important;
-      font-size: clamp(0.95rem, 2.5vw, 1.15rem) !important;
-      max-width: 700px;
-      line-height: 1.5;
+      margin: 0 !important;
+      font-size: 1.05rem !important;
+      line-height: 1.2;
+      border-left: 2px solid rgba(255, 255, 255, 0.3);
+      padding-left: 1.25rem;
     }
 
     .main-content {
-      max-width: 920px !important;
-      margin: -3rem auto 6rem !important;
+      max-width: 1200px !important;
+      margin: 2rem auto 6rem !important;
       background: white;
-      padding: 3.5rem 2rem !important;
+      padding: 2rem 2rem !important;
       border-radius: 16px;
       box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.1);
       position: relative;
@@ -94,9 +97,9 @@
 
     .content-full {
       width: 100%;
-      max-width: 920px;
-      /* Maintain max-width for content */
-      margin: -3rem auto 6rem;
+      max-width: 1200px;
+      /* Match main-content max-width */
+      margin: 2rem auto 6rem;
       /* Keep vertical spacing and centering */
       padding: 0;
       /* Remove padding */
@@ -112,51 +115,53 @@
 
     /* Typography */
     .main-content h1 {
-      margin: 3rem 0 2rem;
+      margin: 2.5rem 0 1.5rem;
       color: var(--text-header);
       font-family: 'Outfit', sans-serif;
-      font-weight: 800;
-      font-size: clamp(1.8rem, 4vw, 2.5rem);
+      font-weight: 700;
+      font-size: clamp(1.5rem, 3.5vw, 2rem);
       letter-spacing: -0.02em;
-      line-height: 1.2;
+      line-height: 1.3;
     }
 
     .main-content h1:first-of-type {
       margin-top: 0;
-      padding-bottom: 1.5rem;
+      padding-bottom: 1.25rem;
       border-bottom: 2px solid var(--border-color);
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
     }
 
     .main-content h2 {
       color: var(--text-header);
-      margin: 2.5rem 0 1.25rem;
+      margin: 2rem 0 1rem;
       font-weight: 700;
       font-family: 'Outfit', sans-serif;
-      font-size: clamp(1.4rem, 3vw, 1.875rem);
+      font-size: clamp(1.25rem, 2.5vw, 1.5rem);
       letter-spacing: -0.01em;
-      line-height: 1.3;
+      line-height: 1.4;
     }
 
     .main-content h3 {
       color: var(--text-header);
-      margin: 2rem 0 1rem;
+      margin: 1.75rem 0 0.875rem;
       font-weight: 600;
       font-family: 'Outfit', sans-serif;
-      font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-      line-height: 1.4;
+      font-size: clamp(1.1rem, 2vw, 1.25rem);
+      line-height: 1.5;
     }
 
     .main-content h4 {
       color: var(--text-main);
       margin: 1.5rem 0 0.75rem;
       font-weight: 600;
-      font-size: 1.125rem;
+      font-size: 1.05rem;
+      line-height: 1.5;
     }
 
     .main-content p {
-      margin: 1.25rem 0;
-      line-height: 1.7;
+      margin: 1rem 0;
+      line-height: 1.8;
+      /* Optimal reading width ~75 characters */
     }
 
     .main-content ul,
@@ -227,16 +232,38 @@
     @media (max-width: 768px) {
       body {
         font-size: 15px;
+        overflow-x: hidden;
       }
 
       .main-content {
-        padding: 2rem 1.5rem !important;
-        margin: -2rem 1rem 3rem !important;
-        border-radius: 12px;
+        padding: 1rem 0.5rem !important;
+        margin: 0 !important;
+        border-radius: 0px;
+        max-width: 100% !important;
+        width: 100%;
+        box-shadow: none;
+        overflow-x: hidden;
+      }
+
+      .main-content > * {
+        max-width: 100%;
+        overflow-x: hidden;
       }
 
       .page-header {
-        padding: 3rem 1.5rem 5rem !important;
+        padding: 1.25rem 1rem !important;
+      }
+
+      .header-titles {
+        gap: 0.5rem;
+        flex-direction: column;
+      }
+
+      .project-tagline {
+        border-left: none;
+        padding-left: 0;
+        opacity: 0.8;
+        font-size: 0.95rem !important;
       }
 
       .main-content h1 {
@@ -261,17 +288,18 @@
 
     /* Code Blocks - Clean and Seamless */
     .main-content div.highlighter-rouge {
-      margin: 2rem -2rem;
+      margin: 2rem 2rem;
       /* Extend beyond content padding */
       background: #f8fafc;
-      border-left: 3px solid #10b981;
       position: relative;
+      max-width: 100%;
     }
 
     .main-content div.highlight {
       margin: 0;
       padding: 0;
       background: transparent;
+      max-width: 100%;
     }
 
     .main-content .highlight pre {
@@ -281,6 +309,8 @@
       overflow-x: auto;
       line-height: 1.6;
       -webkit-overflow-scrolling: touch;
+      max-width: 100%;
+      box-sizing: border-box;
     }
 
     .main-content .highlight pre code {
@@ -293,16 +323,31 @@
       display: block;
       font-weight: 500;
       white-space: pre;
+      word-wrap: normal;
+      overflow-wrap: normal;
+      max-width: 100%;
     }
 
     @media (max-width: 768px) {
       .main-content div.highlighter-rouge {
-        margin: 1.5rem -1.5rem;
+        margin: 1.5rem 0;
+        /* Remove negative margin on mobile */
+        border-radius: 4px;
+        overflow: hidden;
       }
 
       .main-content .highlight pre {
-        padding: 1rem 1.5rem;
-        font-size: 0.85rem;
+        padding: 0.25rem;
+        font-size: 0.75rem;
+        overflow-x: auto;
+        max-width: 100%;
+      }
+
+      .main-content .highlight pre code {
+        font-size: 0.70rem;
+        white-space: pre;
+        word-wrap: normal;
+        overflow-wrap: normal;
       }
     }
 
@@ -356,10 +401,10 @@
     /* Tables */
     .main-content table {
       border-collapse: collapse;
-      width: 100%;
+      width: fit-content;
       margin: 2rem 0;
       border-radius: 8px;
-      overflow: hidden;
+      overflow: scroll;
       border: 1px solid var(--border-color);
     }
 
@@ -429,18 +474,10 @@
   {% include navigation.html %}
 
   <header class="page-header" role="banner">
-    <h1 class="project-name">{{ site.title }}</h1>
-    <h2 class="project-tagline">{{ site.subtitle | default: site.description }}</h2>
-    {% if site.github.is_project_page %}
-    <a href="{{ site.github.repository_url }}" class="btn">
-      <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"
-        style="vertical-align: middle; margin-right: 8px; display: inline-block;">
-        <path
-          d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" />
-      </svg>
-      View on GitHub
-    </a>
-    {% endif %}
+    <div class="header-titles">
+      <h2 class="project-name">{{ site.title }}</h2>
+      <span class="project-tagline">{{ site.subtitle | default: site.description }}</span>
+    </div>
   </header>
 
   <main id="content" class="{% if page.full_width %}content-full{% else %}main-content{% endif %}" role="main">

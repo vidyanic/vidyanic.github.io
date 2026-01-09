@@ -101,7 +101,7 @@
 
 ---
 
-## 6.3 Detailed Results: Quantum-Vedic Principles (11-15)
+## 6.3 Detailed Results: Quantum-Universal Principles (11-15)
 
 ### Principle #11: Shabda-Brahman (शब्द-ब्रह्मन्) — Sound as Foundation
 

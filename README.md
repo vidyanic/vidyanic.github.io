@@ -22,14 +22,14 @@ You know that feeling when a video game glitches? When the NPC walks through a w
 
 **What if games are ACCURATE — and THIS reality has the same glitches?**
 
-| You Experience... | Science Says... | What It Actually Means |
-|-------------------|-----------------|------------------------|
-| ⚛️ Particles only exist when observed | "Wave function collapse" | **Reality only renders what's being watched** |
-| 🌌 95% of universe is invisible | "Dark matter/energy" | **Only ONE frequency layer is loaded for you** |
-| 🧠 Can't find consciousness in brain | "Hard problem" | **The player isn't IN the game** |
-| ☯️ Experiences during brain death | "Hallucination?" | **VR headset temporarily removed** |
-| 🔗 Instant connection across space | "Spooky action" | **Same object, two render locations** |
-| ⏱️ Time feels different by mood | "Subjective perception" | **Processing speed varies by Guna state** |
+| You Experience... | Science Says... | Architecture View | Universal Meaning |
+|-------------------|-----------------|-------------------|-------------------|
+| ⚛️ Observation creates reality | "Wave function collapse" | **GPU Optimization / Lazy Loading** | Don't render what nobody's watching |
+| 🌌 95% of universe invisible | "Dark matter/energy" | **Unloaded Game Levels** | Other maps/dimensions not loaded for you |
+| 🧠 Can't find consciousness | "Hard problem" | **Player vs. Avatar** | Looking for player inside the character |
+| ☯️ Brain death experiences | "Hallucination?" | **VR Headset Removed** | Game paused, you (player) still aware |
+| 🔗 Instant connection | "Spooky action" | **Same Memory Pointer** | Two icons, one file on disk |
+| ⏱️ Time dilation | "Subjective perception" | **Variable Frame Rate** | Lag in the game, not in your mind |
 
 **The Backend Framework describes this source code architecture.**  
 **Scientists are just now finding the glitches that prove them right.**
@@ -129,15 +129,15 @@ knowledge_core/
 
 ## 🔗 KEY CONCEPTS
 
-| Concept | Scientific Term | What It Actually Is |
-|---------|----------------|---------------------|
-| **Brahman** | Consciousness field | The player (you) |
-| **Maya** | Quantum rendering | The game engine |
-| **Prakriti** | Energy-matter | The physics engine |
-| **Gunas** | State variables | S+R+T = 1 (all phenomena) |
-| **Karma** | Causality | Complete event logging |
-| **Dharma** | Natural law | The rules engine |
-| **Moksha** | Liberation | Exit the game loop |
+| Concept | Sanskrit | Systemic Logic | Universal Meaning |
+|---------|----------|----------------|-------------------|
+| **Brahman** | ब्रह्मन् | Root Process / Source Code | The player (you), not the game |
+| **Maya** | माया | Render Engine / Graphics API | Like Unreal/Unity engine |
+| **Prakriti** | प्रकृति | Physics Engine / Game Rules | Like Havok physics |
+| **Gunas** | गुण | RGB Values / State Variables | Three base qualities (S+R+T=1) |
+| **Karma** | कर्म | Event Logger / Save System | Every action logged & has consequences |
+| **Dharma** | धर्म | Game Rules / Operating System | The law code that runs everything |
+| **Moksha** | मोक्ष | Exit Function | Exit the execution loop |
 
 ---
 
@@ -157,7 +157,7 @@ Every paper passes the **7-Concept Stack**:
 
 ## 🌐 ONLINE ACCESS
 
-- **GitHub Pages:** https://bramhagyan.github.io/Bramhagyan/site
+- **Site:** https://ranjeet-sunya.github.io/Bramhagyan/
 - **Repository:** https://github.com/ranjeet-sunya/Bramhagyan
 
 ---
@@ -187,6 +187,3 @@ This project documents the backend architecture of that emergence.
 *Om Tat Sat — That is the Truth*
 
 ---
-
-*Last Updated: January 2026*  
-*Project Shunya-0 - Phase 7 Complete*

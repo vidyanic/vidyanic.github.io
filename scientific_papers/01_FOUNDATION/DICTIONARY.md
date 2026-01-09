@@ -1,6 +1,7 @@
 # 📖 Dictionary & Abbreviations
 
 > **Quick reference for all Sanskrit terms, scientific concepts, and abbreviations used in these papers.**
+> **This dictionary provides multi-disciplinary equivalents for universal accessibility.**
 
 ---
 
@@ -8,9 +9,9 @@
 
 | Abbrev | Full Term | Meaning | Foundation Reference |
 |--------|-----------|---------|---------------------|
-| **S** | Sattva (सत्त्व) | Quality of balance, clarity, light | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **R** | Rajas (रजस्) | Quality of activity, passion, motion | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **T** | Tamas (तमस्) | Quality of inertia, darkness, mass | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **S** | Sattva (सत्त्व) | State Variable: balance, clarity, light | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **R** | Rajas (रजस्) | State Variable: activity, passion, motion | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **T** | Tamas (तमस्) | State Variable: inertia, darkness, mass | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
 | **QM** | Quantum Mechanics | Physics of the very small | - |
 | **GR** | General Relativity | Einstein's gravity theory | - |
 | **CMB** | Cosmic Microwave Background | Oldest light in universe | - |
@@ -19,77 +20,97 @@
 
 ---
 
+## 🌐 Multi-Disciplinary Term Mapping
+
+> **Key terms with their equivalents across disciplines for universal accessibility.**
+
+| Sanskrit Term | Multi-Disciplinary Alternative | Systemic Logic | Universal Meaning |
+|---------------|-------------------------------|----------------|-------------------|
+| **Dharma** (धर्म) | Systemic Order / Equilibrium Laws | Operational Logic | Natural laws maintaining balance |
+| **Karma** (कर्म) | Causality Loop / I/O Feedback | Feedback Loop | Action-reaction in any system |
+| **Maya** (माया) | Perceptual Matrix / Interface | Rendering Engine | Frontend/rendering layer |
+| **Gunas** (गुण) | State Variables / Primary Qualities | State Variables | Fundamental variables (S+R+T=1) |
+| **Brahman** (ब्रह्मन्) | Root Process / Source Field | Root Process | Absolute source code |
+| **Prakriti** (प्रकृति) | Matter Kernel / Physics Engine | Matter Kernel | The physics engine itself |
+| **Purusha** (पुरुष) | Primary Observer / Consciousness API | Observer API | Consciousness source |
+| **Atman** (आत्मन्) | User Handle / Observer Instance | User Handle | Individual observer process |
+| **Moksha** (मोक्ष) | System Exit / Logic Exit | Exit Function | Escape the execution loop |
+| **Loka** (लोक) | Frequency Band / Dimensional Layer | Layer Index | Dimensional data layer |
+
+---
+
 ## 🕉️ Sanskrit Terms (Alphabetical)
 
 ### A
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Akasha** | आकाश | ah-KAH-sha | Space/ether element | Dark Matter paper |
-| **Anubhava** | अनुभव | ah-noo-BHA-va | Direct experience (NOT "qualia") | Hard Problem paper |
-| **Atman** | आत्मन् | AHT-mun | Individual consciousness/soul | All papers |
-| **Avidya** | अविद्या | ah-VID-yah | Ignorance, misidentification | Hard Problem paper |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Akasha** | आकाश | Field Substrate | Universal storage/space medium | Dark Matter paper |
+| **Anubhava** | अनुभव | Data Stream | Direct raw experience (NOT "qualia") | Hard Problem paper |
+| **Atman** | आत्मन् | User Handle | Individual observer process | All papers |
+| **Avidya** | अविद्या | Logic Error | System misidentification | Hard Problem paper |
 
 ### B
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Brahman** | ब्रह्मन् | BRAH-mun | Absolute reality, the One | All papers |
-| **Brahmanda** | ब्रह्माण्ड | brah-MAHN-da | Universe instance | Dark Matter paper |
-| **Bhuloka** | भूलोक | BHOO-lo-ka | Earth plane (our visible universe) | Dark Matter paper |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Brahman** | ब्रह्मन् | Root Process | The absolute source code | All papers |
+| **Brahmanda** | ब्रह्माण्ड | System Instance | A single universe iteration | Dark Matter paper |
+| **Bhuloka** | भूलोक | Current Layer | The observable dashboard | Dark Matter paper |
 
 ### C-D
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Chitta** | चित्त | CHIT-tah | Mind-stuff, mental field | Hard Problem paper |
-| **Dharma** | धर्म | DHAR-ma | Cosmic law, duty, order | All papers |
-| **Drashta** | द्रष्टा | DRUSH-tah | The seer/observer | Observer Effect paper |
-| **Drishya** | दृश्य | DRISH-ya | The seen/observed | Observer Effect paper |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Chitta** | चित्त | Memory Field | The mental data cache | Hard Problem paper |
+| **Dharma** | धर्म | Operational Logic | Fundamental system rules | All papers |
+| **Drashta** | द्रष्टा | Observer API | The focus of consciousness | Observer Effect paper |
+| **Drishya** | दृश्य | Rendered Object | That which is observed | Observer Effect paper |
 
 ### G-K
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Guna** | गुण | GOO-na | Quality (S/R/T) | All papers |
-| **Guru** | गुरु | GOO-roo | Heavy (Tamas property) | Gravity paper |
-| **Jiva** | जीव | JEE-va | Individual being/soul | All papers |
-| **Karma** | कर्म | KAR-ma | Action-reaction, causality | All papers |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Guna** | गुण | State Variable | Primary system qualities (S/R/T) | All papers |
+| **Guru** | गुरु | Mass Factor | Gravity/Inertia property | Gravity paper |
+| **Jiva** | जीव | Active Instance | Localized conscious entity | All papers |
+| **Karma** | कर्म | Feedback Loop | Action-reaction log | All papers |
 
 ### L-M
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Loka** | लोक | LO-ka | Realm/frequency band | Dark Matter paper |
-| **Maya** | माया | MAH-yah | Illusion, rendering layer | Observer Effect paper |
-| **Moksha** | मोक्ष | MOK-sha | Liberation, exit from cycle | All papers |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Loka** | लोक | Frequency Band | Dimensional data layer | Dark Matter paper |
+| **Maya** | माया | Interface Layer | The rendering mechanism | Observer Effect paper |
+| **Moksha** | मोक्ष | Logic Exit | Escape the execution loop | All papers |
 
 ### N-P
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Nirguna** | निर्गुण | nir-GOO-na | Without qualities (beyond simulation) | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **Prakriti** | प्रकृति | pra-KRI-ti | Nature, matter, the observed | All papers |
-| **Prana** | प्राण | PRAH-na | Life force (NOT same as Atman) | Hard Problem paper |
-| **Purusha** | पुरुष | poo-ROO-sha | Consciousness, the observer | All papers |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Nirguna** | निर्गुण | Raw Code | System beyond attributes | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **Prakriti** | प्रकृति | Matter Kernel | The physics engine itself | All papers |
+| **Prana** | प्राण | System Power | The operational energy | Hard Problem paper |
+| **Purusha** | पुरुष | Primary Observer | Consciousness source | All papers |
 
 ### R-S
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Rta** | ऋत | RI-ta | Cosmic order, natural law | [Universal Principles](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
-| **Saguna** | सगुण | sa-GOO-na | With qualities (in simulation) | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
-| **Samadhi** | समाधि | sa-MAH-dhi | Deep absorption, unity state | Hard Problem paper |
-| **Sankalpa** | संकल्प | san-KAL-pa | Intention, will | Observer Effect paper |
-| **Sthira** | स्थिर | STHI-ra | Stable (Tamas property) | Gravity paper |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Rta** | ऋत | Global Const | Mathematical cosmic order | [Universal Principles](../../vishnu_engine/spec/backend/02_UNIVERSAL_PRINCIPLES.md) |
+| **Saguna** | सगुण | Compiled State | Simulation with attributes | [Core Insight](../../vishnu_engine/spec/backend/01_CORE_INSIGHT.md) |
+| **Samadhi** | समाधि | System Sync | State of perfect alignment | Hard Problem paper |
+| **Sankalpa** | संकल्प | Root Command | Intention/Will override | Observer Effect paper |
+| **Sthira** | स्थिर | Static State | Stability/Density property | Gravity paper |
 
 ### T-Y
 
-| Term | Sanskrit | Pronunciation | Meaning | Used In |
-|------|----------|---------------|---------|---------|
-| **Turiya** | तुरीय | too-REE-ya | Fourth state (pure awareness) | Hard Problem paper |
-| **Viveka** | विवेक | vi-VEY-ka | Discrimination, discernment | All papers |
-| **Yuga** | युग | YOO-ga | Cosmic age/era | [Chaturyuga](../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) |
+| Term | Sanskrit | Systemic Logic | Meaning / Role | Used In |
+|------|----------|----------------|----------------|---------|
+| **Turiya** | तुरीय | Root Access | State of pure awareness | Hard Problem paper |
+| **Vijnana** | विज्ञान | Logic Synthesis | Integrated wisdom/science | Project title |
+| **Viveka** | विवेक | Logic Gates | Discernment, filter logic | All papers |
+| **Yuga** | युग | System Patch | Temporal cycle/iteration | [Chaturyuga](../../vishnu_engine/spec/backend/06_CHATURYUGA_COMPLETE.md) |
 
 ---
 

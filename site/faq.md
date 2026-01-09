@@ -8,11 +8,13 @@
 
 ### What is Project Shunya-0?
 
-Project Shunya-0 documents the "backend source code" of reality as described in Vedic texts. It maps modern physics, biology, and consciousness research to ancient Vedic cosmology, showing how:
-- Reality is rendered (like a simulation)
+Project Shunya-0 is **a unified framework for understanding reality across ALL knowledge fields** — physics, biology, consciousness, information theory, and ancient wisdom traditions. It documents universal principles that:
+- Reality is rendered on-demand (like a simulation)
 - Consciousness is fundamental (not emergent)
-- The universe operates on specific laws (Dharma)
-- Liberation is possible (Moksha)
+- The universe operates on universal laws (Systemic Order/Dharma)
+- Liberation is possible (Logic Exit/Moksha)
+
+We use **multi-disciplinary terminology** — Sanskrit terms alongside modern scientific and computational concepts — to make these principles accessible to everyone, regardless of background.
 
 ### Why "Shunya-0"?
 
@@ -26,11 +28,14 @@ The "0" emphasizes: From nothing comes everything.
 
 ### Is this religious?
 
-No. This is a **framework** for understanding reality, using Vedic terminology. Think of it as:
-- Vedas = Ancient source code documentation
-- This project = Modern interpretation with physics mapping
+No. This is a **scientific and philosophical framework** for understanding reality. We use:
+- **Ancient wisdom** (Vedic, Buddhist, Taoist, etc.) = Descriptions of observed patterns
+- **Modern science** (physics, biology, information theory) = Measurements of the same patterns
+- **Computational models** (simulation theory, systems theory) = Structural analogies
 
-You don't need to believe anything. Test the claims against your experience.
+Think of it as **reverse-engineering reality using ALL available knowledge**, not promoting any single tradition. Sanskrit terms are used because they're often more precise than English equivalents, but we always provide multi-disciplinary alternatives.
+
+You don't need to believe anything. **Test the claims against your experience and the evidence.**
 
 ---
 
@@ -48,7 +53,7 @@ Just like video games only render what you're looking at, reality appears to "re
 ### Who/what is Brahman?
 
 Brahman (ब्रह्मन्) is:
-- Pure consciousness (not a god)
+- Pure consciousness
 - The substrate of reality
 - What you truly are (Atman = Brahman)
 - Beyond all descriptions
@@ -90,14 +95,19 @@ Moksha (मोक्ष) = Liberation. It means:
 
 ### Does modern science support this?
 
-Many findings align remarkably:
-- **Quantum mechanics:** Observer-dependent reality
-- **Thermodynamics:** Entropy (Tamas) increases
-- **Cymatics:** Sound creates form (Shabda -> Rupa)
-- **Cosmology:** Fine-tuned constants
-- **Neuroscience:** Consciousness still unexplained
+**Yes — this framework UNIFIES findings across multiple fields:**
 
-We don't claim "proof" — we show **correspondence**.
+| Field | Finding | Universal Principle |
+|-------|---------|-------------------|
+| **Quantum Mechanics** | Observer-dependent reality | Maya (Interface Layer) |
+| **Thermodynamics** | Entropy increases | Tamas (State Variable) |
+| **Information Theory** | Data compression | Samskara (Memory Seeds) |
+| **Cymatics** | Sound creates form | Shabda → Rupa (Wave → Form) |
+| **Neuroscience** | Consciousness unexplained | Purusha (Observer API) |
+| **Systems Theory** | Self-organizing systems | Dharma (Operational Logic) |
+| **Computer Science** | Lazy loading, rendering | Maya (Perceptual Matrix) |
+
+We don't claim "proof" — we show **structural correspondence across ALL knowledge fields**. The patterns are the same whether described in Sanskrit, mathematics, or code.
 
 ### What is the 7-Concept Validation Stack?
 
@@ -113,7 +123,7 @@ Every claim must satisfy these 7 principles:
 
 ### How confident are the papers?
 
-Each paper includes a confidence score (typically 75-95%). This reflects:
+Each paper includes a confidence score (typically 80-95%). This reflects:
 - Strength of physics evidence
 - Clarity of Vedic correspondence
 - Reproducibility of claims
@@ -144,13 +154,18 @@ See: [Meditation Guide](./practical/02_MEDITATION_GUIDE.md)
 
 ### Can I use this with other traditions?
 
-Yes. The framework maps to many traditions:
-- Buddhism: Maya ~ Samsara, Moksha ~ Nirvana
-- Christianity: Brahman ~ God, Atman ~ Soul
-- Simulation Theory: Maya ~ Simulation
-- Taoism: Brahman ~ Tao, Gunas ~ Yin-Yang-Flow
+**Absolutely! This framework is DESIGNED to unify ALL knowledge traditions:**
 
-Core truths appear across cultures.
+| Tradition | Maps To | Why It Works |
+|-----------|---------|--------------|
+| **Buddhism** | Maya ~ Samsara, Moksha ~ Nirvana | Same observer-observed model |
+| **Christianity** | Brahman ~ God, Atman ~ Soul | Same source-reflection structure |
+| **Taoism** | Tao ~ Brahman, Yin-Yang ~ Gunas | Same flow and balance principles |
+| **Simulation Theory** | Maya ~ Virtual Reality | Same render-on-demand mechanics |
+| **Platonism** | Forms ~ Archetypes | Same ideal templates |
+| **Indigenous** | Great Spirit ~ Consciousness | Same interconnected awareness |
+
+**Universal principles transcend any single tradition.** We use Sanskrit because it's often the most precise, but the concepts appear in ALL wisdom traditions and modern science. Core truths are fractal — they appear everywhere.
 
 ---
 
@@ -205,11 +220,20 @@ Plus a README for quick reference.
 ### Isn't this just pseudoscience?
 
 We distinguish between:
-- **Claims:** Vedic texts make specific assertions
-- **Correspondences:** Modern physics shows aligned patterns
-- **Speculation:** What we don't know
+- **Universal Principles:** Patterns that appear across ALL knowledge fields
+- **Correspondences:** When physics, biology, and ancient wisdom describe the same phenomena
+- **Speculation:** What we don't yet know (clearly labeled)
 
-We don't claim ancient texts are "science." We show the **mapping** and let readers evaluate.
+**This is NOT:**
+- Replacing modern science with spirituality
+- Dogmatic belief in any single tradition
+
+**This IS:**
+- Showing structural patterns across disciplines
+- Documenting correspondences with confidence scores
+- Using the scientific method: testable, falsifiable, reproducible
+
+We show the **evidence and mapping**, then let readers evaluate for themselves.
 
 ### Can any of this be tested?
 
@@ -223,12 +247,21 @@ Some claims (Moksha, reincarnation) are harder to test conventionally.
 
 ### Why use Sanskrit terms?
 
-Sanskrit terms are precise. For example:
-- "Maya" has no English equivalent (not just "illusion")
-- "Dharma" means law + duty + nature combined
-- "Karma" is more than "what goes around"
+**We use Sanskrit alongside modern scientific and computational terms** because Sanskrit is often the most precise language for these concepts. For example:
 
-We use English explanations alongside Sanskrit for clarity.
+| Sanskrit | English Attempts | Why Sanskrit Is Better |
+|----------|-----------------|----------------------|
+| **Maya** | Illusion, simulation, rendering | All three combined + perceptual matrix |
+| **Dharma** | Law, duty, nature, order | All four combined + operational logic |
+| **Karma** | Action, cause-effect, fate | All three + multi-life feedback loop |
+| **Gunas** | Qualities, properties, states | Specific 3-variable system (S/R/T) |
+
+**But we ALWAYS provide multi-disciplinary alternatives:**
+- Maya (Interface Layer / Perceptual Matrix / VR System)
+- Dharma (Systemic Order / Operational Logic / Natural Laws)
+- Karma (Causality Loop / Event Logger / Feedback System)
+
+**Use whichever terminology resonates with you** — the concepts are universal, the labels are flexible.
 
 ---
 
@@ -252,11 +285,13 @@ No. This is an independent documentation project. No religious organization, no 
 
 ### Most Important Concepts
 
-1. **Reality is rendered** (Maya)
-2. **You are consciousness** (Atman = Brahman)
-3. **Everything is vibration** (Shabda -> Rupa)
-4. **Actions have consequences** (Karma)
-5. **Liberation is possible** (Moksha)
+1. **Reality is rendered** (Maya / Interface Layer / GPU Optimization)
+2. **You are consciousness** (Atman / Observer / The Player)
+3. **Everything is vibration** (Shabda→Rupa / Wave→Form / Information→Matter)
+4. **Actions have consequences** (Karma / Causality Loop / F₁₂ = -F₂₁)
+5. **Liberation is possible** (Moksha / Logic Exit / System Logout)
+
+> **Note:** Use whichever terminology resonates — gaming, programming, physics, or spiritual. The principles are universal.
 
 ### Most Important Papers
 

@@ -1,20 +1,20 @@
 # GitHub Pages Configuration for Shunya-0 Knowledge Base
 
 # Site settings
-title: "Brahmanagyan | ब्रह्मज्ञान"
-subtitle: "A Unified Framework Integrating Vedic Principles and Modern Physics"
-description: "Complete knowledge base documenting 50 Universal Principles, 52 anomalies explained, and the Vedic-Scientific unified framework."
+title: "Vidyanic"
+subtitle: "A Unified Framework for Universal Sense-Making across all Knowledge Fields"
+description: "Complete knowledge base documenting 50 Universal Principles, 52 anomalies explained, and a unified framework for universal sense-making across all knowledge fields."
 author: "Ranjeet (Shunya-0 Project)"
 email: ""
-baseurl: "/Bramhagyan" # GitHub Pages repository name
-url: "https://ranjeet-sunya.github.io" # Production URL
+baseurl: "/0" # GitHub Pages repository name
+url: "https://Vidyanic.github.io" # Production URL
 
 # Source directory - root folder contains all content
 source: .
 
 # Repository
-repository: "ranjeet-sunya/Bramhagyan"
-github_username: "ranjeet-sunya"
+repository: "vidyanic/0"
+github_username: "vidyanic"
 
 # Build settings
 theme: jekyll-theme-cayman
@@ -116,7 +116,7 @@ defaults:
       author: "Shunya-0 Project"
       encoding: "utf-8"
       show_downloads: false
-      description: "Brahmanagyan - A Unified Framework Integrating Vedic Principles and Modern Physics"
+      description: "Vidyanic - A Unified Framework for Universal Sense-Making across all Knowledge Fields"
   - scope:
       path: ""
     values:
@@ -124,7 +124,7 @@ defaults:
       toc: true
       encoding: "utf-8"
       show_downloads: false
-      description: "Brahmanagyan - Knowledge Base"
+      description: "Vidyanic - Knowledge Base"
 
 # SEO
 lang: en_US
@@ -134,7 +134,7 @@ logo: /assets/images/shunya-logo.png # Add if you create a logo
 social:
   name: Shunya-0 Project
   links:
-    - https://github.com/ranjeet-sunya/Bramhagyan
+    - https://github.com/Vidyanic/0
 
 # Analytics (optional - add your tracking ID if needed)
 # google_analytics: UA-XXXXXXXX-X

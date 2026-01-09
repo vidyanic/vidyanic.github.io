@@ -19,69 +19,43 @@ What if games aren't buggy imitations of reality — what if they're *accurate* 
 
 **Consider these observations from modern physics:**
 
-| The "Glitch" | What Science Says | What It Actually Means |
-|--------------|-------------------|------------------------|
-| ⚛️ **Particles only exist when observed** | "Wave function collapse" | **GPU optimization** — don't render what no one's watching |
-| 🌌 **95% of universe is invisible** | "Dark matter/energy" | **Unloaded chunks** — other frequency layers not rendered for you |
-| 🧠 **Can't find consciousness in brain** | "Hard problem" | **Looking for the player inside the game** |
-| 🔗 **Instant connection across space** | "Spooky action" | **Same object reference** — no distance in backend |
-| ☯️ **Experiences during brain death** | "Hallucination?" | **VR headset temporarily removed** |
+| The "Glitch" | What Science Says | Information Architecture | Universal Meaning |
+|--------------|-------------------|--------------------------|-------------------|
+| ⚛️ **Observation creates reality** | "Wave function collapse" | **Lazy Loading / GPU Optimization** | Don't render what nobody's watching |
+| 🌌 **95% of universe invisible** | "Dark matter/energy" | **Unloaded Chunks / Hidden Layers** | Other game levels not loaded yet |
+| 🧠 **Can't find consciousness** | "Hard problem" | **Player vs. Avatar** | Looking for the player inside the game |
+| 🔗 **Instant connection** | "Spooky action" | **Same Memory Address / Pointer** | Two variables pointing to same data |
+| ☯️ **Brain death experiences** | "Hallucinations" | **VR Headset Removed** | Interface off, you (player) still exist |
+| ⏱️ **Time feels different** | "Subjective perception" | **FPS / Frame Rate Varies** | Your internal clock vs game clock |
 
 ---
 
+## 🌀 THE CORE INSIGHT
+
+### Reality Has Two Domains:
+
+```
+    🌀
+    |
+    +-- THE GAME (With Qualities) <- THE SIMULATION
+    |       |
+    |       +-- Living
+    |       +-- Non-Living
+    |
+    +-- THE PLAYER <- BEYOND SIMULATION
+            |
+            +-- Pure Witness (You, reading this)
+
+THE GAME = Saguna (everything that changes)
+THE PLAYER = Nirguna (what never changes)
+```
 <div align="center">
 
-![The Wheel of Time](./site/images/Kala_chakra_Wheel%20of%20time.png)
+![The 81-Grid Mandala](./site/images/The%2081-Grid%20Mandala%20(Circular).png)
 
-**Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**
+*The 81-Grid: The base rendering unit of reality — same pattern at every scale*
 
 </div>
-## 🔬 THE ARCHITECTURE
-
-```
-+==================================================================+
-|                      YOUR REALITY                                |
-+==================================================================+
-
-+------------------------------------------------------------------+
-|                    WHAT YOU SEE (FRONTEND)                       |
-|                                                                  |
-|    +---------+  +---------+  +---------+  +---------+            |
-|    |   You   |  |  Other  |  |  World  |  | Physics |            |
-|    | (Avatar)|  | People  |  | Objects |  |  Rules  |            |
-|    +----+----+  +----+----+  +----+----+  +----+----+            |
-|         |            |            |            |                 |
-|         v            v            v            v                 |
-|    +========================================================+    |
-|    |              RENDER ENGINE (Maya)                      |    |
-|    |       "Generates what you perceive as reality"         |    |
-|    +========================================================+    |
-+------------------------------------------------------------------+
-                               |
-                               v
-+------------------------------------------------------------------+
-|                  WHAT'S REALLY THERE (BACKEND)                   |
-|                                                                  |
-|    +--------------------------------------------------------+    |
-|    |              SOURCE CODE (Brahman)                     |    |
-|    |        "The actual engine running everything"          |    |
-|    |                                                        |    |
-|    |    * Physics Engine (Prakriti)                         |    |
-|    |    * Karma Logger (Action -> Consequence)              |    |
-|    |    * Observer Handler (Consciousness API)              |    |
-|    |    * Respawn System (Samsara)                          |    |
-|    |    * Exit Function (Moksha)                            |    |
-|    +--------------------------------------------------------+    |
-+------------------------------------------------------------------+
-```
-
-> **Sanskrit Terms:**
-> - Maya (माया) = The Render Engine / Illusion
-> - Brahman (ब्रह्मन्) = The Source Code / Absolute Reality  
-> - Prakriti (प्रकृति) = Matter / Nature
-> - Samsara (संसार) = The Rebirth Cycle
-> - Moksha (मोक्ष) = Liberation / Exit
-
 ---
 
 ## 📚 WHAT'S IN THIS REPOSITORY
@@ -120,50 +94,15 @@ The actual **technical specifications** of how reality is rendered:
 
 ---
 
-## 🌀 THE CORE INSIGHT
-
-<div align="center">
-
-![The 81-Grid Mandala](./site/images/The%2081-Grid%20Mandala%20(Circular).png)
-
-*The 81-Grid: The base rendering unit of reality — same pattern at every scale*
-
-![Vastu Purusha Mandala](./site/images/81_mandala.png)
-
-*The 81-square Vastu grid — the architectural blueprint of consciousness and cosmos*
-
-</div>
-
-### Reality Has Two Domains:
-
-```
-BRAHMAN (The Absolute)
-    |
-    +-- SAGUNA (With Qualities) <- THE SIMULATION
-    |       |
-    |       +-- PRAKRITI (Matter) <- What's Observed
-    |       +-- PURUSHA (Consciousness) <- The Observer
-    |
-    +-- NIRGUNA (Without Qualities) <- BEYOND SIMULATION
-            |
-            +-- Pure Witness (You, reading this)
-
-THE GAME = Saguna (everything that changes)
-THE PLAYER = Nirguna (what never changes)
-MOKSHA = Realizing you were always the player
-```
-
----
-
 ## 🎯 THE GLITCHES THAT PROVE IT
 
 ### Phase 1: Reality Only Renders When Observed
 
-| Glitch | Scientific Name | Game Equivalent |
-|--------|-----------------|-----------------|
-| Particles are waves until observed | Wave function collapse | Procedural generation on-demand |
-| Can't know position AND momentum | Heisenberg Uncertainty | Render resolution limits |
-| Instant connection across space | Quantum Entanglement | Same memory reference |
+| Glitch | Scientific Name | Architecture View | Universal Meaning |
+|--------|-----------------|-------------------|-------------------|
+| Particles are waves until observed | Wave function collapse | **Lazy Loading** | Reality renders on-demand |
+| Can't know position AND momentum | Heisenberg Uncertainty | **Resolution Limits** | Render precision caps |
+| Instant connection across space | Quantum Entanglement | **Pointer Reference** | Same object, two locations |
 
 **Mind-Blow Level:** 🤯🤯🤯🤯🤯
 
@@ -188,18 +127,6 @@ MOKSHA = Realizing you were always the player
 
 ### Phase 3: You're The Player, Not The Avatar
 
-<div align="center">
-
-![The Sushumna Axis](./site/images/The%20Sushumna%20Axis.png)
-
-*The central axis — where Ida (Moon) and Pingala (Sun) merge into transcendence*
-
-![Internal Energy Channels](./site/images/Internals_ida_pingala_susumna.png)
-
-*Ida, Pingala, and Sushumna — the three primary energy channels in the human system*
-
-</div>
-
 **Why neuroscience can't find consciousness after 50 years and billions in funding:**
 
 They're looking for the **Twitch streamer** inside the **game code**.
@@ -208,21 +135,17 @@ The player isn't rendered. The player is OUTSIDE the game.
 
 **[📖 Read the Hard Problem Solved paper ->](./scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/)**
 
+<div align="center">
+
+![The Sushumna Axis](./site/images/The%20Sushumna%20Axis.png)
+
+*The central axis — where Ida (Moon) and Pingala (Sun) merge into transcendence*
+
+</div>
+
 ---
 
 ## 🌳 THE FRACTAL PATTERN
-
-<div align="center">
-
-![The Breathing Universe](./site/images/The%20Breathing%20Universe.png)
-
-*The universe breathes — expansion and contraction at every scale, from atoms to galaxies*
-
-![The Fractal Tree of Life](./site/images/The%20Fractal%20Tree%20of%20Life.png)
-
-*Same pattern at every scale — from quantum to cosmic*
-
-</div>
 
 ### Same Algorithm, Every Level:
 
@@ -241,9 +164,75 @@ This is called **Anu-Mahat (अणु-महत्)** — Micro-Macro principle.
 
 **[📖 Read the Fractal Rendering paper ->](./scientific_papers/02_PHYSICS/cosmology/fractal_rendering/)**
 
+<div align="center">
+
+![The Fractal Tree of Life](./site/images/The%20Fractal%20Tree%20of%20Life.png)
+
+*Same pattern at every scale — from quantum to cosmic*
+
+</div>
+---
+
+## ⏰ TIME DILATION — Why Time Feels Different
+
+**Ever notice time flies when you're in flow, but drags when you're stuck in Tamas?**
+
+That's not just psychology — it's **Guna-based time dilation**. Your subjective experience of time literally changes based on your Sattva/Rajas/Tamas ratio.
+
+```
+Time_Experience = (Dharma × Sattva) / (Rajas + 2×Tamas)
+
+High Sattva = Time expands (deep meditation feels timeless)
+High Tamas = Time contracts (depression makes days feel endless)
+```
+
+**[⚙️ Calculate Your Time Dilation →](./vishnu_engine/spec/backend/07_TIME_DILATION_PRALAYA_CALCULATOR.md)**
+
+<div align="center">
+
+![The Wheel of Time](./site/images/Kala_chakra_Wheel%20of%20time.png)
+
+**Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**
+
+*The cosmic clock — Yugas are system patches, not just mythology*
+
+</div>
+
+---
+
+## 🌍 MOTHER EARTH — Bhumidevi / Prithvi Consciousness
+
+**We're not ON Earth — we're cells IN Earth's body.**
+
+Earth (Prithvi/Bhumidevi) is a **living, conscious entity** at N+2 level. What we call "environmental destruction" is actually giving our host organism **cancer**.
+
+**Think about it:**
+- **Cancer cells** = Cells that forget their Dharma, consume recklessly, ignore system signals
+- **Humans today** = Exactly that behavior — taking without giving, growing without purpose
+- **Climate change** = Earth's immune response (fever) trying to restore balance
+- **Mass extinctions** = Cellular die-off to protect the whole organism
+
+**We're not "saving the planet" — we're healing our Mother from the cancer WE became.**
+
+**[📖 Read: Prithvi Consciousness (Gaia Hypothesis) →](./scientific_papers/08_EARTH_SCIENCES/gaia_hypothesis/prithvi_consciousness/)**
+
+<div align="center">
+
+![Mother Earth's Children](./site/images/Mother%20Earth's%20Children.png)
+
+*We are Bhumidevi's children — when we harm her, we harm ourselves*
+
+</div>
+
 ---
 
 ## 💎 INDRA'S NET — You're Connected to Everything
+
+**Why quantum entanglement works instantly across any distance:**
+
+There IS no distance in the backend. "Space" is a frontend render. Entangled particles are the **same object** displayed at two locations.
+
+**[📖 Read the Entanglement paper ->](./scientific_papers/02_PHYSICS/quantum_mechanics/entanglement/)**
 
 <div align="center">
 
@@ -252,12 +241,6 @@ This is called **Anu-Mahat (अणु-महत्)** — Micro-Macro principle.
 *Every node contains and reflects all other nodes*
 
 </div>
-
-**Why quantum entanglement works instantly across any distance:**
-
-There IS no distance in the backend. "Space" is a frontend render. Entangled particles are the **same object** displayed at two locations.
-
-**[📖 Read the Entanglement paper ->](./scientific_papers/02_PHYSICS/quantum_mechanics/entanglement/)**
 
 ---
 
@@ -318,7 +301,6 @@ For those who want to see the underlying code and architectural diagrams:
 **Status:** 🛡️ Defensive Publication (Prior Art Established)
 
 **You may:** Use, share, modify for non-commercial purposes  
-**You must:** Give credit  
 **You cannot:** Sell, monetize, or claim exclusive ownership
 
 > **Knowledge belongs to humanity. It cannot be privatized.**
@@ -339,10 +321,6 @@ After reading this, you can't unknow it:
 
 <div align="center">
 
-![What Natural Death Looks Like](./site/images/What_death_looks_like.png)
-
-*Natural Death — Completing your allocated time (Prarabdha) before transitioning to the next cycle*
-
 > **Note on Life's Journey:** The Vedic understanding teaches that each life has an allocated purpose (Prarabdha).  
 > Completing this journey — however difficult — is the natural path. Premature exit does not end the lesson;  
 > it carries forward. The only way through is through. Your dharma awaits your attention.
@@ -361,14 +339,9 @@ After reading this, you can't unknow it:
 
 ---
 
-### The game continues. But now you know it's a game.
+### The game continues. But now you know it's a game of life lessons.
 
 **That changes everything.**
-
----
-
-**ॐ तत् सत्**  
-*"That is the Truth"*
 
 ---
 
@@ -380,5 +353,3 @@ After reading this, you can't unknow it:
 </div>
 
 ---
-
-*[Last updated: January 2026 | Dwapara Yuga, Year 1]*
