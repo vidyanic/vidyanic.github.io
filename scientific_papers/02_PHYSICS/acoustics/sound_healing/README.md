@@ -198,7 +198,7 @@ SCIENTIFIC CORRELATES:
 
 ---
 
-**Mind-Blow Factor:** 🔊🔊🔊🔊🔊 (5/5)
+**Complexity Factor:** 🔊🔊🔊🔊🔊 (5/5)
 
 *Sound doesn't just affect reality — sound IS the foundation of reality.*
 

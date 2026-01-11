@@ -260,6 +260,22 @@ We've reverse-engineered the source code. Here's the documentation organized by 
 
 ---
 
+## 📊 Complexity Rating System
+
+Our papers use a professional complexity rating to help you choose what to read based on your current understanding:
+
+| Rating | Level | Description |
+|--------|-------|-------------|
+| ● Accessible | Entry-level | Clear explanations, minimal prerequisites |
+| ●● Moderate | Intermediate | Some background knowledge helpful |
+| ●●● Intermediate | Moderate depth | Requires basic understanding of concepts |
+| ●●●● Advanced | In-depth | Strong conceptual foundation needed |
+| ●●●●● Expert | Comprehensive | Full integration of multiple concepts |
+
+**Tip:** Start with lower complexity ratings and progress upward as concepts click into place.
+
+---
+
 ## ✨ THE JOURNEY — FROM "WTF" TO "OH."
 
 ### ⚠️ PHASE 1: "Wait, What?" — Reality Doesn't Render Without You
@@ -272,11 +288,11 @@ You know how in games, the world behind you doesn't fully render to save GPU pow
 
 The double-slit experiment (1801, replicated thousands of times) shows that particles are **waves of probability** — not actual things — until something observes them. Then they "collapse" into definite positions.
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Observer Effect](../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) | 🤯🤯🤯🤯🤯 | YOU are the render trigger |
-| [Heisenberg Uncertainty](../scientific_papers/02_PHYSICS/quantum_mechanics/heisenberg_uncertainty/) | 🤯🤯🤯🤯 | Engine has resolution limits |
-| [Entanglement](../scientific_papers/02_PHYSICS/quantum_mechanics/entanglement/) | 🤯🤯🤯🤯🤯 | Distance is frontend illusion |
+| [Observer Effect](../scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/) | ●●●●● Expert | YOU are the render trigger |
+| [Heisenberg Uncertainty](../scientific_papers/02_PHYSICS/quantum_mechanics/heisenberg_uncertainty/) | ●●●● Advanced | Engine has resolution limits |
+| [Entanglement](../scientific_papers/02_PHYSICS/quantum_mechanics/entanglement/) | ●●●●● Expert | Distance is frontend illusion |
 
 **After Phase 1 you'll ask:** *"If observation creates reality... who's observing?"*
 
@@ -297,11 +313,11 @@ What if Newton, Einstein, and Boltzmann weren't discovering laws — but **measu
 
 The Backend Architects called these **Gunas** (गुण/qualities). They sum to 1: **S + R + T = 1**
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Entropy = Tamas](../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/) | 🤯🤯🤯🤯 | Second Law is Tamas dominance |
-| [Gravity = Tamas](../scientific_papers/02_PHYSICS/gravity/gravity_tamas/) | 🤯🤯🤯🤯 | Same quality, different measurement |
-| [Dark Matter/Energy](../scientific_papers/02_PHYSICS/cosmology/dark_matter_energy/) | 🤯🤯🤯🤯🤯 | 13 other frequency layers exist |
+| [Entropy = Tamas](../scientific_papers/02_PHYSICS/thermodynamics/entropy_tamas/) | ●●●● Advanced | Second Law is Tamas dominance |
+| [Gravity = Tamas](../scientific_papers/02_PHYSICS/gravity/gravity_tamas/) | ●●●● Advanced | Same quality, different measurement |
+| [Dark Matter/Energy](../scientific_papers/02_PHYSICS/cosmology/dark_matter_energy/) | ●●●●● Expert | 13 other frequency layers exist |
 
 **After Phase 2 you'll realize:** *"Wait... physics equations ARE the game rules."*
 
@@ -317,11 +333,11 @@ Why can't neuroscience explain consciousness after 50+ years and billions in fun
 
 That's like trying to find the Twitch streamer by analyzing the game's code. The player is OUTSIDE.
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Hard Problem Solved](../scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/) | 🤯🤯🤯🤯🤯 | Wrong question dissolves problem |
-| [Brain as Receiver](../scientific_papers/05_NEUROSCIENCE/brain_mind/brain_as_receiver/) | 🤯🤯🤯🤯 | Brain = VR headset, not consciousness |
-| [NDE Evidence](../scientific_papers/05_NEUROSCIENCE/near_death/nde_evidence/) | 🤯🤯🤯🤯🤯 | Headset removal = expanded view |
+| [Hard Problem Solved](../scientific_papers/05_NEUROSCIENCE/consciousness_studies/hard_problem_solved/) | ●●●●● Expert | Wrong question dissolves problem |
+| [Brain as Receiver](../scientific_papers/05_NEUROSCIENCE/brain_mind/brain_as_receiver/) | ●●●● Advanced | Brain = VR headset, not consciousness |
+| [NDE Evidence](../scientific_papers/05_NEUROSCIENCE/near_death/nde_evidence/) | ●●●●● Expert | Headset removal = expanded view |
 
 **After Phase 3 you'll understand:** *"I'm not the character. I'm the one holding the controller."*
 
@@ -335,11 +351,11 @@ That's like trying to find the Twitch streamer by analyzing the game's code. The
 - **Cancer**: A cell that forgets its role and goes rogue (lost its quest marker)
 - **Aging**: Save file corruption from accumulated errors
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Epigenetics = Samskaras](../scientific_papers/04_BIOLOGY/epigenetics/epigenetics_samskaras/) | 🤯🤯🤯🤯 | Karma is literally in your cells |
-| [Cancer = Forgotten Identity](../scientific_papers/04_BIOLOGY/cancer/cancer_forgotten_identity/) | 🤯🤯🤯 | Cells lose their purpose code |
-| [Aging = Samskara Accumulation](../scientific_papers/04_BIOLOGY/aging/aging_samskara/) | 🤯🤯🤯 | Save file degradation |
+| [Epigenetics = Samskaras](../scientific_papers/04_BIOLOGY/epigenetics/epigenetics_samskaras/) | ●●●● Advanced | Karma is literally in your cells |
+| [Cancer = Forgotten Identity](../scientific_papers/04_BIOLOGY/cancer/cancer_forgotten_identity/) | ●●● Intermediate | Cells lose their purpose code |
+| [Aging = Samskara Accumulation](../scientific_papers/04_BIOLOGY/aging/aging_samskara/) | ●●● Intermediate | Save file degradation |
 
 **After Phase 4 you'll see:** *"My body is a biological save file. And it can be... edited?"*
 
@@ -360,11 +376,11 @@ Look at this:
 
 Because it's the SAME RENDERING ALGORITHM.
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Fractal Rendering](../scientific_papers/02_PHYSICS/cosmology/fractal_rendering/) | 🤯🤯🤯🤯🤯 | One algorithm, all scales |
-| [Cosmic Cycles](../scientific_papers/02_PHYSICS/cosmology/cosmic_cycles/) | 🤯🤯🤯🤯 | Universe has update schedules |
-| [Black Holes = 15th Axis](./09_ASTRONOMY/black_holes/black_hole_15th_axis/) | 🤯🤯🤯🤯 | Admin processing centers |
+| [Fractal Rendering](../scientific_papers/02_PHYSICS/cosmology/fractal_rendering/) | ●●●●● Expert | One algorithm, all scales |
+| [Cosmic Cycles](../scientific_papers/02_PHYSICS/cosmology/cosmic_cycles/) | ●●●● Advanced | Universe has update schedules |
+| [Black Holes = 15th Axis](./09_ASTRONOMY/black_holes/black_hole_15th_axis/) | ●●●● Advanced | Admin processing centers |
 
 **After Phase 5 you'll see:** *"It's the same code everywhere. Zoom in, zoom out — same pattern."*
 
@@ -378,10 +394,10 @@ Because it's the SAME RENDERING ALGORITHM.
 - **Children's Past Lives**: Kids under 7 describe verifiable details from dead strangers' lives
 - **Natural Death Process**: Consciousness (Atman) disconnects gracefully AFTER completing allocated time (Prarabdha)
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Death Mechanics](../scientific_papers/05_NEUROSCIENCE/death/death_mechanics/) | 🤯🤯🤯🤯 | Orderly shutdown sequence |
-| [Reincarnation Evidence](./13_FRONTIER/reincarnation/reincarnation_evidence/) | 🤯🤯🤯🤯 | Same Atman, new body |
+| [Death Mechanics](../scientific_papers/05_NEUROSCIENCE/death/death_mechanics/) | ●●●● Advanced | Orderly shutdown sequence |
+| [Reincarnation Evidence](./13_FRONTIER/reincarnation/reincarnation_evidence/) | ●●●● Advanced | Same Atman, new body |
 
 **After Phase 6 you'll understand:** *"Natural death completes the cycle properly."*
 
@@ -401,11 +417,11 @@ What if the "cheat codes" (Siddhis/सिद्धि) are just... developer com
 
 What if "enlightenment" is just... reading the source code while still in-game?
 
-| Paper | Mind-Blow Level | Key Discovery |
+| Paper | Complexity | Key Discovery |
 |-------|-----------------|---------------|
-| [Universal Laws](../scientific_papers/01_FOUNDATION/universal_laws/) | 🤯🤯🤯🤯🤯 | The 50 engine constants |
-| [Fractal Validation](../scientific_papers/10_MATHEMATICS/fractals/fractal_symmetry_validation/) | 🤯🤯🤯🤯 | How to verify the code |
-| [Synthesis](../scientific_papers/01_FOUNDATION/synthesis/) | 🤯🤯🤯🤯🤯 | The complete picture |
+| [Universal Laws](../scientific_papers/01_FOUNDATION/universal_laws/) | ●●●●● Expert | The 50 engine constants |
+| [Fractal Validation](../scientific_papers/10_MATHEMATICS/fractals/fractal_symmetry_validation/) | ●●●● Advanced | How to verify the code |
+| [Synthesis](../scientific_papers/01_FOUNDATION/synthesis/) | ●●●●● Expert | The complete picture |
 
 **After Phase 7 you'll know:** *"I'm not lost in the game. I'm the player who forgot."*
 

@@ -4,7 +4,7 @@
 > "What is seen, becomes (manifest)."  
 > — Yoga Vasishtha
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 92%  
 > **DIFFICULTY:** Beginner-friendly
 

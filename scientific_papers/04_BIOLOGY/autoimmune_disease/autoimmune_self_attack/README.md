@@ -95,7 +95,7 @@ THEY ARE OPPOSITE ERRORS IN THE SAME SYSTEM!
 
 ---
 
-## 💡 Mind-Blow Factor: 8/10
+## 💡 Complexity Factor: 8/10
 
 **Why This Matters:**
 

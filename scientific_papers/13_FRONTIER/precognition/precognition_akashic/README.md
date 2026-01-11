@@ -154,7 +154,7 @@
 
 ---
 
-**Mind-Blow Factor:** 🔮🔮🔮🔮🔮 (5/5)
+**Complexity Factor:** 🔮🔮🔮🔮🔮 (5/5)
 
 *The future isn't hidden — it's just in a library you haven't learned to access yet.*
 

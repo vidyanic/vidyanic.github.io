@@ -155,7 +155,7 @@
 
 ---
 
-**Mind-Blow Factor:** 🧬🧬🧬🧬🧬 (5/5)
+**Complexity Factor:** 🧬🧬🧬🧬🧬 (5/5)
 
 *Evolution isn't random — it's the soul's curriculum through 8.4 million forms.*
 

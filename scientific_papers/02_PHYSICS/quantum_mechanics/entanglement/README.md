@@ -4,7 +4,7 @@
 > "As the entire world is cast from one fire."  
 > — Mundaka Upanishad 2.1.1
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 91%  
 > **DIFFICULTY:** Mind-breaking
 

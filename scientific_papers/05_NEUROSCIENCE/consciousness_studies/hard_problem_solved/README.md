@@ -4,7 +4,7 @@
 > "I am Brahman (the ultimate consciousness)."  
 > — Brihadaranyaka Upanishad 1.4.10
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 88%  
 > **DIFFICULTY:** Philosophy-friendly
 

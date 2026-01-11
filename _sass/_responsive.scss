@@ -1,0 +1,250 @@
+// ═══════════════════════════════════════════════════════════════════════════════════
+// RESPONSIVE — All media queries consolidated
+// Cosmic Blue + Gold Theme
+// ═══════════════════════════════════════════════════════════════════════════════════
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// Tablet (max-width: 992px)
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (max-width: 992px) {
+  .footer-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// Mobile Navigation (max-width: 900px)
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (max-width: 900px) {
+  .nav-container {
+    padding: 0.75rem 1rem;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .nav-links {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+  }
+
+  .nav-link {
+    padding: 0.4rem 0.6rem;
+
+    svg {
+      width: 14px;
+      height: 14px;
+    }
+  }
+
+  // Hide feedback link in navbar on mobile (use floating button instead)
+  .nav-links .nav-link[href*="feedback"] {
+    display: none;
+  }
+
+  // Show floating feedback button on mobile
+  .feedback-floating {
+    display: flex;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// Mobile Content (max-width: 768px)
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (max-width: 768px) {
+  body {
+    font-size: 15px;
+    overflow-x: hidden;
+  }
+
+  .main-content {
+    padding: 1.25rem 0.5rem !important;
+    margin: 0 !important;
+    border-radius: 0;
+    max-width: 100% !important;
+    width: 100%;
+    box-shadow: none;
+    overflow-x: hidden;
+
+    > * {
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    h1 {
+      margin: 1.5rem 0 1rem;
+    }
+
+    h2 {
+      margin: 1.5rem 0 0.75rem;
+    }
+
+    // Code blocks mobile
+    div.highlighter-rouge {
+      margin: 1rem 0;
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+    }
+
+    .highlight pre {
+      padding: 0.75rem 1rem;
+      font-size: 0.8rem;
+      overflow-x: auto;
+      max-width: 100%;
+    }
+
+    .highlight pre code {
+      font-size: 0.75rem;
+      white-space: pre;
+      word-wrap: normal;
+      overflow-wrap: normal;
+    }
+
+    // Tables mobile - handled in _tables.scss
+  }
+
+  .page-header {
+    padding: 1rem !important;
+  }
+
+  .header-titles {
+    gap: 0.5rem;
+    flex-direction: column;
+  }
+
+  .project-tagline {
+    font-size: 0.9rem !important;
+  }
+  
+  // Buttons - smaller on mobile
+  .btn {
+    padding: 0.625rem 1.25rem;
+    font-size: 0.9rem;
+  }
+  
+  .btn-lg {
+    padding: 0.875rem 1.75rem;
+    font-size: 1rem;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// Small Mobile (max-width: 576px)
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (max-width: 576px) {
+  .site-footer {
+    padding: 3rem 0 0;
+  }
+
+  .footer-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 0 1.5rem;
+  }
+
+  .footer-bottom-content {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+    padding: 0 1.5rem;
+  }
+
+  .legal-section {
+    align-items: center;
+  }
+
+  .badges {
+    justify-content: center;
+  }
+  
+  // Human verification mobile
+  .human-verification {
+    padding: 1.5rem;
+  }
+  
+  // Support cards stack
+  .support-options {
+    grid-template-columns: 1fr;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// PRINT STYLES
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media print {
+  .main-navigation,
+  .site-footer,
+  .feedback-floating {
+    display: none !important;
+  }
+  
+  .main-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 1rem !important;
+    box-shadow: none !important;
+  }
+  
+  body {
+    font-size: 12pt;
+    color: var(--black);
+    background: var(--white);
+  }
+  
+  .main-content a {
+    color: var(--black);
+    text-decoration: underline;
+    
+    &::after {
+      content: " (" attr(href) ")";
+      font-size: 0.8em;
+    }
+  }
+  
+  .main-content blockquote {
+    border-left-color: var(--grey-400);
+    background: var(--white);
+    color: var(--black);
+  }
+  
+  .main-content table {
+    border-collapse: collapse;
+    
+    th, td {
+      border: 1px solid var(--grey-400);
+    }
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// REDUCED MOTION — Accessibility
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// HIGH CONTRAST MODE — Accessibility
+// ═══════════════════════════════════════════════════════════════════════════════════
+@media (prefers-contrast: high) {
+  .main-content a {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+  }
+  
+  .btn {
+    border-width: 3px;
+  }
+  
+  .main-content blockquote {
+    border-left-width: 6px;
+  }
+}

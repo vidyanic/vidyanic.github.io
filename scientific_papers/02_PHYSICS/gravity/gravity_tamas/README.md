@@ -4,7 +4,7 @@
 > "Earth, water, fire, air, space, mind, and intellect."  
 > — Bhagavad Gita 7.4
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 COMPLEXITY:** ●●●● Advanced  
 > **CONFIDENCE:** 87%  
 > **DIFFICULTY:** Mind-bending
 

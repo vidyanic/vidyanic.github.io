@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// VIDYANIC UNIFIED THEME — Cosmic Blue + Gold
+// Material Design Inspired • WCAG Compliant
+// ═══════════════════════════════════════════════════════════════════════════════════
+
+// 1. Variables & Design Tokens (Colors, Fonts, Spacing)
+@import "variables";
+
+// 2. Base Styles (Resets, Body, Global)
+@import "base";
+
+// 3. Button System (All button variants)
+@import "buttons";
+
+// 4. Layout Components
+@import "navigation";
+@import "header";
+@import "content";
+@import "tables";
+@import "code";
+@import "footer";
+
+// 5. Responsive & Print Styles
+@import "responsive";

@@ -397,7 +397,7 @@ You now know:
 
 ---
 
-**[← Back to Site](../index.md)** | **[Start Learning](../../scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING.md)**
+**[← Back to Site](../index.md)** | **[Start Learning](../scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING.md)**
 
 ---
 

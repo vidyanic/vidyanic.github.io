@@ -174,7 +174,7 @@ CURE:
 
 ---
 
-**Mind-Blow Factor:** 🧠🧠🧠🧠🧠 (5/5)
+**Complexity Factor:** 🧠🧠🧠🧠🧠 (5/5)
 
 *Anxiety isn't a brain malfunction — it's your soul screaming that you're living the wrong life.*
 

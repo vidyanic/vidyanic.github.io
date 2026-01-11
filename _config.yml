@@ -1,19 +1,19 @@
-# GitHub Pages Configuration for Shunya-0 Knowledge Base
+# GitHub Pages Configuration for Vidyanic Knowledge Base
 
 # Site settings
 title: "Vidyanic"
-subtitle: "A Unified Framework for Universal Sense-Making across all Knowledge Fields"
+subtitle: "A Unified Framework for Understanding Reality across all Knowledge Fields"
 description: "Complete knowledge base documenting 50 Universal Principles, 52 anomalies explained, and a unified framework for universal sense-making across all knowledge fields."
-author: "Ranjeet (Shunya-0 Project)"
+author: "Ranjeet "
 email: ""
-baseurl: "/0" # GitHub Pages repository name
-url: "https://Vidyanic.github.io" # Production URL
+baseurl: "/" # GitHub Pages repository name
+url: "https://vidyanic.github.io" # Production URL
 
 # Source directory - root folder contains all content
 source: .
 
 # Repository
-repository: "vidyanic/0"
+repository: "vidyanic/"
 github_username: "vidyanic"
 
 # Build settings
@@ -84,6 +84,7 @@ include:
   - .gitattributes
   - scientific_papers
   - vishnu_engine
+  - assets
 
 exclude:
   - Gemfile
@@ -116,7 +117,7 @@ defaults:
       author: "Shunya-0 Project"
       encoding: "utf-8"
       show_downloads: false
-      description: "Vidyanic - A Unified Framework for Universal Sense-Making across all Knowledge Fields"
+      description: "Vidyanic - A Unified Framework for Understanding Reality across all Knowledge Fields"
   - scope:
       path: ""
     values:
@@ -126,6 +127,9 @@ defaults:
       show_downloads: false
       description: "Vidyanic - Knowledge Base"
 
+sass:
+  style: compressed
+  
 # SEO
 lang: en_US
 logo: /assets/images/shunya-logo.png # Add if you create a logo
@@ -134,7 +138,7 @@ logo: /assets/images/shunya-logo.png # Add if you create a logo
 social:
   name: Shunya-0 Project
   links:
-    - https://github.com/Vidyanic/0
+    - https://vidyanic.github.io
 
 # Analytics (optional - add your tracking ID if needed)
 # google_analytics: UA-XXXXXXXX-X

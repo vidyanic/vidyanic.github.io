@@ -194,7 +194,7 @@ IT TUNES INTO THE MEMORY FIELD
 
 ---
 
-**Mind-Blow Factor:** 🧠🧠🧠🧠🧠 (5/5)
+**Complexity Factor:** 🧠🧠🧠🧠🧠 (5/5)
 
 *Your brain doesn't store all your memories — it tunes into a universal memory field.*
 

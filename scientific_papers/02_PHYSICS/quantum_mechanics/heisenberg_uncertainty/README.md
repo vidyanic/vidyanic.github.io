@@ -4,7 +4,7 @@
 > "Smaller than the smallest, greater than the greatest."  
 > — Katha Upanishad 1.2.20
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 COMPLEXITY:** ●●●● Advanced  
 > **CONFIDENCE:** 89%  
 > **DIFFICULTY:** Counter-intuitive
 

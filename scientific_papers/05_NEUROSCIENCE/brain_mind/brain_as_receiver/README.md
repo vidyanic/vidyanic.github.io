@@ -4,7 +4,7 @@
 > "The mind thinks what the interface permits."  
 > — Manu Smriti 12.5
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 COMPLEXITY:** ●●●● Advanced  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Paradigm-shifting
 

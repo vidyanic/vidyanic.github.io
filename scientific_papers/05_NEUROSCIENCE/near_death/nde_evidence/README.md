@@ -4,7 +4,7 @@
 > "The Self is never born, nor does it ever die."  
 > — Bhagavad Gita 2.20
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 80%  
 > **DIFFICULTY:** Reality-shattering
 

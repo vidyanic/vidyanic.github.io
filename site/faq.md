@@ -1,14 +1,14 @@
 # ❓ Frequently Asked Questions
 
-> Quick answers to common questions about Project Shunya-0
+> Quick answers to common questions about Vidyanic
 
 ---
 
 ## About the Project
 
-### What is Project Shunya-0?
+### What is Vidyanic?
 
-Project Shunya-0 is **a unified framework for understanding reality across ALL knowledge fields** — physics, biology, consciousness, information theory, and ancient wisdom traditions. It documents universal principles that:
+**Vidyanic** is **a unified framework for understanding reality across ALL knowledge fields** — physics, biology, consciousness, information theory, and ancient wisdom traditions. It documents universal principles that:
 - Reality is rendered on-demand (like a simulation)
 - Consciousness is fundamental (not emergent)
 - The universe operates on universal laws (Systemic Order/Dharma)
@@ -16,15 +16,17 @@ Project Shunya-0 is **a unified framework for understanding reality across ALL k
 
 We use **multi-disciplinary terminology** — Sanskrit terms alongside modern scientific and computational concepts — to make these principles accessible to everyone, regardless of background.
 
-### Why "Shunya-0"?
+### Why "Vidyanic"?
 
-**Shunya (शून्य)** means "void" or "zero" in Sanskrit. It represents:
-- The potential before manifestation
-- The number zero
-- The emptiness from which form emerges
-- The state of pure consciousness
+**Vidya (विद्या)** means "knowledge" or "wisdom" in Sanskrit. **Vidyanic** represents:
+- Knowledge that transcends disciplines (multi-disciplinary)
+- Wisdom derived from ALL knowledge fields
+- The systematic study of universal principles
+- A scientific approach to understanding reality
 
-The "0" emphasizes: From nothing comes everything.
+**"Vidya"** = Knowledge/Wisdom + **"-nic"** = Relating to/Of the nature of
+
+Vidyanic = "Of the nature of wisdom" — A framework where ALL knowledge unifies.
 
 ### Is this religious?
 

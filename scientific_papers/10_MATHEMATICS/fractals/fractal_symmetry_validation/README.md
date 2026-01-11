@@ -167,7 +167,7 @@ IF FRACTAL VALIDATION SUCCEEDS -> ALL PAPERS STRENGTHENED
 
 ---
 
-**Mind-Blow Factor:** 🌀🌀🌀🌀🌀 (5/5)
+**Complexity Factor:** 🌀🌀🌀🌀🌀 (5/5)
 
 *The universe isn't just big or small — it's the SAME at every scale. Learn one level, understand them all.*
 

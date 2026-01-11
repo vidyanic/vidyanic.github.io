@@ -187,7 +187,7 @@ Mass (Tamas) curves spacetime (affects rendering).
 
 ---
 
-**Mind-Blow Factor:** 🌌🌌🌌🌌🌌 (5/5)
+**Complexity Factor:** 🌌🌌🌌🌌🌌 (5/5)
 
 *Space and time aren't "just dimensions" — they're the rendering canvas and processing rate of the simulation itself.*
 

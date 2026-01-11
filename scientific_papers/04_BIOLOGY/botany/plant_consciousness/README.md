@@ -141,7 +141,7 @@
 
 ---
 
-**Mind-Blow Factor:** 🌿🌿🌿🌿 (4/5)
+**Complexity Factor:** 🌿🌿🌿🌿 (4/5)
 
 *That tree outside your window? It's a soul learning patience through 2 million possible forms.*
 

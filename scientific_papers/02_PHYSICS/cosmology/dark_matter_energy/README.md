@@ -4,7 +4,7 @@
 > "That supreme realm of Vishnu (unseen but ever-present)."  
 > — Rig Veda 1.22.20
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 82%  
 > **DIFFICULTY:** Mind-expanding
 

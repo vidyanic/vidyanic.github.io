@@ -150,7 +150,7 @@ c = simulation bandwidth limit
 
 ---
 
-**Mind-Blow Factor:** ⚡⚡⚡⚡⚡ (5/5)
+**Complexity Factor:** ⚡⚡⚡⚡⚡ (5/5)
 
 *Light is not "just a wave" — it's pure Rajas-Sattva oscillation, the universe's information transfer mechanism.*
 

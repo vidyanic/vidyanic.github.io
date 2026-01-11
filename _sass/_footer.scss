@@ -1,0 +1,255 @@
+// ═══════════════════════════════════════════════════════════════════════════════════
+// FOOTER — Cosmic Blue with Gold Accents
+// ═══════════════════════════════════════════════════════════════════════════════════
+
+.site-footer {
+  color: var(--text-on-dark);
+  padding: 4rem 0 0;
+  margin-top: 0;
+  font-family: var(--font-sans);
+  border-top: 2px solid;
+  background: linear-gradient(180deg, var(--cosmic-dark) 0%, var(--cosmic-darkest) 100%);
+  border-image: linear-gradient(90deg, transparent 5%, var(--gold-700), var(--gold), var(--gold-700), transparent 95%) 1;
+  
+  // Star particles
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+      radial-gradient(1px 1px at 5% 10%, rgba(255,255,255,0.3), transparent),
+      radial-gradient(1px 1px at 15% 60%, rgba(255,255,255,0.2), transparent),
+      radial-gradient(1.5px 1.5px at 30% 25%, rgba(255,255,255,0.4), transparent),
+      radial-gradient(1px 1px at 45% 80%, rgba(255,255,255,0.3), transparent),
+      radial-gradient(1px 1px at 60% 15%, rgba(255,255,255,0.4), transparent),
+      radial-gradient(1.5px 1.5px at 75% 50%, rgba(255,255,255,0.3), transparent),
+      radial-gradient(1px 1px at 85% 70%, rgba(255,255,255,0.4), transparent),
+      radial-gradient(1px 1px at 95% 30%, rgba(255,255,255,0.2), transparent);
+    pointer-events: none;
+    z-index: 0;
+  }
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr;
+  gap: 3rem;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none !important;
+  margin-bottom: 1rem;
+}
+
+.footer-icon {
+  width: 28px;
+  height: 28px;
+  filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.5));
+}
+
+.footer-brand-text {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--gold) !important;
+}
+
+.footer-desc {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-on-dark-secondary);
+  margin-bottom: 1.5rem;
+}
+
+// Sanskrit quote styling
+.sanskrit-container {
+  border-left: 2px solid var(--blue-400);
+  padding-left: 1rem;
+}
+
+.sanskrit {
+  font-family: var(--font-devanagari);
+  font-style: normal;
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+  color: var(--gold-300);
+}
+
+.translation {
+  font-size: 0.8rem;
+  color: var(--text-on-dark-muted);
+  font-style: italic;
+}
+
+// Footer navigation
+.footer-heading {
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--blue-200);
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    margin-bottom: 0.6rem;
+  }
+
+  a {
+    color: var(--text-on-dark);
+    text-decoration: none !important;
+    font-size: 0.9rem;
+    transition: all var(--transition-fast);
+    display: inline-block;
+
+    &:hover {
+      color: var(--blue-100);
+      transform: translateX(3px);
+    }
+  }
+}
+
+// Status grid
+.status-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.4rem 0.75rem;
+  font-size: 0.85rem;
+
+  .label {
+    color: var(--text-on-dark-muted);
+  }
+
+  .value {
+    color: var(--text-on-dark);
+    font-weight: 500;
+
+    &.highlight {
+      color: var(--blue-200);
+    }
+  }
+}
+
+// Footer action buttons
+.footer-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footer-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.65rem 1rem;
+  border-radius: var(--radius-md);
+  text-decoration: none !important;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all var(--transition-normal);
+}
+
+.github-btn {
+  background: rgba(33, 150, 243, 0.15);
+  color: var(--text-on-dark) !important;
+  border: 1px solid var(--blue-600);
+
+  &:hover {
+    background: rgba(33, 150, 243, 0.25);
+    color: var(--blue-100) !important;
+    border-color: var(--blue-400);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(33, 150, 243, 0.3);
+  }
+}
+
+.donate-btn {
+  background: var(--gold);
+  color: var(--grey-900) !important;
+  border: none;
+  box-shadow: var(--shadow-gold);
+
+  &:hover {
+    background: var(--gold-500);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(255, 193, 7, 0.5);
+  }
+}
+
+// Footer bottom section
+.footer-bottom {
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid rgba(33, 150, 243, 0.2);
+  background: rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 1;
+}
+
+.footer-bottom-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.legal-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.legal {
+  font-size: 0.8rem;
+  color: var(--text-on-dark-muted);
+  margin: 0;
+
+  a {
+    color: var(--text-on-dark);
+    text-decoration: none !important;
+
+    &:hover {
+      color: var(--blue-200);
+    }
+  }
+}
+
+.badges {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+
+  img {
+    height: 18px;
+    opacity: 0.8;
+  }
+}
+
+.mantra {
+  font-family: var(--font-devanagari);
+  font-size: 1rem;
+  margin: 0;
+  letter-spacing: 0.1em;
+  color: var(--gold-300);
+}

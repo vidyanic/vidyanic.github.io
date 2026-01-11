@@ -162,7 +162,7 @@ We can't "see" dark matter/energy because:
 
 ---
 
-**Mind-Blow Factor:** 🌐🌐🌐🌐🌐 (5/5)
+**Complexity Factor:** 🌐🌐🌐🌐🌐 (5/5)
 
 *Reality isn't just 3D+1. It's 14 frequency bands, and we can only perceive one directly. Dark matter and energy are the other 13.*
 

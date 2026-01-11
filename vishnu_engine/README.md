@@ -1,4 +1,4 @@
-# ⚙️ VISHNU ENGINE — The Source Code of Reality
+# ⚙️ Simulation ENGINE — The Source Code of Reality
 
 > **Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**  
 > *"The simulation engine you didn't know you were running on."*
@@ -24,32 +24,32 @@ This is the technical specification of how reality actually works — the Backen
 |                                                                  |
 |  🔧 BACKEND (What's Really Running)                              |
 |  ==================================                              |
-|  +-- Core Principles (54)         <- The fundamental laws         |
-|  +-- 81 Laws of Reality           <- Complete operating system    |
-|  +-- Guna Dynamics (S+R+T=1)      <- Three quality parameters     |
-|  +-- Karma Logger                 <- Action-consequence tracking  |
-|  +-- Prakriti Engine              <- Physics backend              |
-|  +-- Moksha Exit Protocol         <- How to logout                |
+|  +-- Core Principles (54)         <- The fundamental laws        |
+|  +-- 81 Laws of Reality           <- Complete operating system   |
+|  +-- Guna Dynamics (S+R+T=1)      <- Three quality parameters    |
+|  +-- Karma Logger                 <- Action-consequence tracking |
+|  +-- Prakriti Engine              <- Physics backend             |
+|  +-- Moksha Exit Protocol         <- How to logout               |
 |                                                                  |
 |  🔮 FRONTEND RENDERING (What You Experience)                     |
 |  ===========================================                     |
-|  +-- 81-Grid Mandala              <- Base rendering unit          |
-|  +-- 14 Lokas (Frequency Layers)  <- Server selection             |
-|  +-- Maya Engine                  <- GPU/Render pipeline          |
-|  +-- Time Dilation                <- Frame rate by Guna state     |
+|  +-- 81-Grid Mandala              <- Base rendering unit         |
+|  +-- 14 Lokas (Frequency Layers)  <- Server selection            |
+|  +-- Maya Engine                  <- GPU/Render pipeline         |
+|  +-- Time Dilation                <- Frame rate by Guna state    |
 |                                                                  |
 |  👤 ENTITIES (Players & NPCs)                                    |
 |  =============================                                   |
-|  +-- Jiva (Conscious)             <- Player-controlled            |
-|  +-- Jada (Insentient)            <- NPCs/Environment             |
-|  +-- Atman (Pure Consciousness)   <- The actual player            |
-|  +-- Prana (Life Force)           <- Animation system             |
+|  +-- Jiva (Conscious)             <- Player-controlled           |
+|  +-- Jada (Insentient)            <- NPCs/Environment            |
+|  +-- Atman (Pure Consciousness)   <- The actual player           |
+|  +-- Prana (Life Force)           <- Animation system            |
 |                                                                  |
 |  🔄 FRACTAL LEVELS (N-6 to N+6)                                  |
 |  ===============================                                 |
-|  +-- N-6: Quantum (Planck)        <- Pixel limit                  |
-|  +-- N: Human                     <- Your current level           |
-|  +-- N+6: Brahman                 <- Source consciousness         |
+|  +-- N-6: Quantum (Planck)        <- Pixel limit                 |
+|  +-- N: Human                     <- Your current level          |
+|  +-- N+6: Brahman                 <- Source consciousness        |
 |                                                                  |
 +==================================================================+
 ```
@@ -77,8 +77,8 @@ This is the technical specification of how reality actually works — the Backen
 |    |       "Generates what you perceive as reality"         |    |
 |    +========================================================+    |
 +------------------------------------------------------------------+
-                               |
-                               v
+                              |
+                              v
 +------------------------------------------------------------------+
 |                  WHAT'S REALLY THERE (BACKEND)                   |
 |                                                                  |

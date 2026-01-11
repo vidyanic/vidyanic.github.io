@@ -4,7 +4,7 @@
 > "For liberation from decay and death."  
 > — Bhagavad Gita 7.29
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯  
+> **🔮 COMPLEXITY:** ●●●● Advanced  
 > **CONFIDENCE:** 91%  
 > **DIFFICULTY:** Some physics helps
 

@@ -145,7 +145,7 @@
 
 ---
 
-**Mind-Blow Factor:** 🕸️🕸️🕸️🕸️🕸️ (5/5)
+**Complexity Factor:** 🕸️🕸️🕸️🕸️🕸️ (5/5)
 
 *There are no coincidences — only connections we don't yet see.*
 

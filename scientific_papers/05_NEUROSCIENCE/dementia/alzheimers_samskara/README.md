@@ -148,7 +148,7 @@
 
 ---
 
-**Mind-Blow Factor:** 🧠🧠🧠🧠🧠 (5/5)
+**Complexity Factor:** 🧠🧠🧠🧠🧠 (5/5)
 
 *Alzheimer's isn't a brain disease — it's a memory system crash from too many unprocessed experiences. The brain is doing exactly what it should: protecting core identity by sacrificing recent.*
 

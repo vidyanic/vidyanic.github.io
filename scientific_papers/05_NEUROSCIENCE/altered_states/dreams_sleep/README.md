@@ -88,7 +88,7 @@ TURIYA explains what neuroscience cannot:
 
 ---
 
-## 💡 Mind-Blow Factor: 9/10
+## 💡 Complexity Factor: 9/10
 
 **Why This Matters:**
 

@@ -165,7 +165,7 @@ There's no mystery:
 
 ---
 
-**Mind-Blow Factor:** 🌊🌊🌊🌊🌊 (5/5)
+**Complexity Factor:** 🌊🌊🌊🌊🌊 (5/5)
 
 *The wave function isn't a mystery — it's Maya described mathematically.*
 

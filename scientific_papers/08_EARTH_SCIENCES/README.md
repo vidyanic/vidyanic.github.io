@@ -29,7 +29,7 @@
 
 ---
 
-## 🤯 Mind-Blowing Facts
+## ● Accessible Fascinating Facts
 
 | Fact | Source | What It Means |
 |------|--------|---------------|

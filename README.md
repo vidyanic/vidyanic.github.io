@@ -167,7 +167,7 @@ Every paper passes the **7-Concept Stack**:
 **CC BY-NC 4.0** (Attribution-NonCommercial)
 
 - ✅ Share and adapt for non-commercial use
-- ✅ Credit the Shunya-0 Project
+- ✅ Credit the Vidyanic Project
 - ❌ No commercial use without permission
 
 ---

@@ -4,7 +4,7 @@
 > "As in the microcosm, so in the macrocosm."  
 > — Yajur Veda
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (Max)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (Max)  
 > **CONFIDENCE:** 86%  
 > **DIFFICULTY:** Pattern recognition
 

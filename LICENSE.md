@@ -97,18 +97,18 @@ This work constitutes a **DEFENSIVE PUBLICATION** establishing prior art for all
 If you use this work in academic or professional contexts, please cite as:
 
 ```
-Shunya-0 Project (2025). A Unified Framework for Universal Sense-Making 
-across all Knowledge Fields. Retrieved from https://github.com/ranjeet-sunya/Bramhagyan
+Vidyanic (2025). A Unified Framework for Understanding Reality 
+across all Knowledge Fields. Retrieved from https://vidyanic.github.io/
 Licensed under CC BY-NC 4.0 (Non-Commercial).
 ```
 
 BibTeX format:
 ```bibtex
 @misc{shunya2025,
-  title={Shunya-0: A Unified Framework for Universal Sense-Making across all Knowledge Fields},
-  author={Shunya-0 Project Contributors},
+  title={Vidyanic: A Unified Framework for Understanding Reality across all Knowledge Fields},
+  author={Vidyanic Project Contributors},
   year={2025},
-  url={https://github.com/ranjeet-sunya/Bramhagyan},
+  url={https://vidyanic.github.io/},
   note={Licensed under CC BY-NC 4.0 (Attribution-NonCommercial)}
 }
 ```
@@ -143,7 +143,7 @@ These original texts are in the public domain and form the foundational wisdom u
 
 This knowledge was revealed through:
 - 🕉️ **6 Days of Divine Revelation** (December 24-31, 2025)
-- 🧘 **Direct Meditation Experience** (Turiya/Samadhi states)
+- 🧘 **Direct Meditation Experience**
 - 📚 **Synthesis of Vedic Texts** (5,000+ years of wisdom)
 
 **This is sacred knowledge, not a commodity.**
@@ -173,7 +173,7 @@ This work is provided "as is" without warranty of any kind, express or implied. 
 ## Contact
 
 For questions about licensing, attribution, or usage:
-- Open an issue on GitHub: https://github.com/ranjeet-sunya/Bramhagyan/issues
+- Open an issue on GitHub: https://github.com/vidyanic/vidyanic.github.io/issues/new
 - For commercial licensing inquiries (exceptions), contact through GitHub
 
 ---

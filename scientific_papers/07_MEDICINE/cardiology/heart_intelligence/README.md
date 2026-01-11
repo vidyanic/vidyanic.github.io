@@ -91,7 +91,7 @@ Overall Confidence: 88%
 
 ---
 
-## 💡 Mind-Blow Factor: 8/10
+## 💡 Complexity Factor: 8/10
 
 **Why This Matters:**
 

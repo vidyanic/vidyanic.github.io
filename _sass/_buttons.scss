@@ -1,0 +1,346 @@
+// ═══════════════════════════════════════════════════════════════════════════════════
+// BUTTON SYSTEM — Cosmic Blue + Gold Theme
+// Multiple styles: Primary, Secondary, Outline, Ghost, Gold Accent
+// ═══════════════════════════════════════════════════════════════════════════════════
+
+// Base button styles
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none !important;
+  border: 2px solid transparent;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  white-space: nowrap;
+  
+  // Remove browser defaults
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  
+  // Icon styling
+  svg {
+    width: 1em;
+    height: 1em;
+    flex-shrink: 0;
+  }
+  
+  // Disabled state
+  &:disabled,
+  &.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// PRIMARY BUTTON — Blue solid
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-primary {
+  background: var(--blue-500);
+  color: var(--white) !important;
+  border-color: var(--blue-500);
+  box-shadow: var(--shadow-md), 0 0 0 0 rgba(33, 150, 243, 0.4);
+  
+  &:hover {
+    background: var(--blue-600);
+    border-color: var(--blue-600);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg), 0 0 20px rgba(33, 150, 243, 0.3);
+  }
+  
+  &:active {
+    background: var(--blue-700);
+    border-color: var(--blue-700);
+    transform: translateY(0);
+    box-shadow: var(--shadow-sm);
+  }
+  
+  &:focus-visible {
+    box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.4);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// SECONDARY BUTTON — Blue outline on light, filled on dark
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-secondary {
+  background: transparent;
+  color: var(--blue-500) !important;
+  border-color: var(--blue-500);
+  
+  &:hover {
+    background: var(--blue-50);
+    color: var(--blue-700) !important;
+    border-color: var(--blue-700);
+    transform: translateY(-2px);
+  }
+  
+  &:active {
+    background: var(--blue-100);
+    transform: translateY(0);
+  }
+  
+  &:focus-visible {
+    box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.3);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// OUTLINE BUTTON — Light border, no fill
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-outline {
+  background: transparent;
+  color: var(--grey-700) !important;
+  border-color: var(--grey-300);
+  
+  &:hover {
+    background: var(--grey-100);
+    border-color: var(--grey-400);
+    transform: translateY(-1px);
+  }
+  
+  &:active {
+    background: var(--grey-200);
+  }
+  
+  &:focus-visible {
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// GHOST BUTTON — No border, text only
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-ghost {
+  background: transparent;
+  color: var(--blue-500) !important;
+  border-color: transparent;
+  padding: 0.5rem 1rem;
+  
+  &:hover {
+    background: var(--blue-50);
+    color: var(--blue-700) !important;
+  }
+  
+  &:active {
+    background: var(--blue-100);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// GOLD ACCENT BUTTON — For special CTAs
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-gold {
+  background: var(--gold);
+  color: var(--grey-900) !important;
+  border-color: var(--gold);
+  box-shadow: var(--shadow-gold);
+  
+  &:hover {
+    background: var(--gold-500);
+    border-color: var(--gold-500);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(255, 193, 7, 0.4);
+  }
+  
+  &:active {
+    background: var(--gold-600);
+    border-color: var(--gold-600);
+    transform: translateY(0);
+  }
+  
+  &:focus-visible {
+    box-shadow: 0 0 0 3px rgba(255, 215, 0, 0.4);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// COSMIC BUTTON — For dark backgrounds
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-cosmic {
+  background: rgba(33, 150, 243, 0.2);
+  color: var(--blue-200) !important;
+  border-color: var(--blue-400);
+  
+  &:hover {
+    background: rgba(33, 150, 243, 0.3);
+    color: var(--blue-100) !important;
+    border-color: var(--blue-300);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(33, 150, 243, 0.3);
+  }
+  
+  &:active {
+    background: rgba(33, 150, 243, 0.4);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// SUCCESS/WARNING/ERROR BUTTONS
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-success {
+  background: #4CAF50;
+  color: var(--white) !important;
+  border-color: #4CAF50;
+  
+  &:hover {
+    background: #43A047;
+    border-color: #43A047;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(76, 175, 80, 0.4);
+  }
+}
+
+.btn-warning {
+  background: #FF9800;
+  color: var(--grey-900) !important;
+  border-color: #FF9800;
+  
+  &:hover {
+    background: #FB8C00;
+    border-color: #FB8C00;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(255, 152, 0, 0.4);
+  }
+}
+
+.btn-error,
+.btn-danger {
+  background: #F44336;
+  color: var(--white) !important;
+  border-color: #F44336;
+  
+  &:hover {
+    background: #E53935;
+    border-color: #E53935;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(244, 67, 54, 0.4);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// SIZE VARIATIONS
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-sm {
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  border-radius: var(--radius-sm);
+}
+
+.btn-lg {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  border-radius: var(--radius-lg);
+}
+
+.btn-xl {
+  padding: 1.25rem 2.5rem;
+  font-size: 1.2rem;
+  border-radius: var(--radius-lg);
+}
+
+// Full width button
+.btn-block {
+  width: 100%;
+  display: flex;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// ICON-ONLY BUTTONS
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-icon {
+  padding: 0.75rem;
+  
+  svg {
+    width: 1.25em;
+    height: 1.25em;
+  }
+}
+
+.btn-icon.btn-sm {
+  padding: 0.5rem;
+}
+
+.btn-icon.btn-lg {
+  padding: 1rem;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// BUTTON GROUPS
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-group {
+  display: inline-flex;
+  
+  .btn {
+    border-radius: 0;
+    
+    &:first-child {
+      border-radius: var(--radius-md) 0 0 var(--radius-md);
+    }
+    
+    &:last-child {
+      border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    }
+    
+    &:not(:first-child) {
+      margin-left: -2px;
+    }
+  }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// FLOATING ACTION BUTTON
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-fab {
+  position: fixed;
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  border-radius: var(--radius-full);
+  z-index: 100;
+  box-shadow: var(--shadow-xl);
+  
+  svg {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.btn-fab.btn-fab-bottom-right {
+  bottom: 24px;
+  right: 24px;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════════
+// LOADING STATE
+// ═══════════════════════════════════════════════════════════════════════════════════
+.btn-loading {
+  position: relative;
+  pointer-events: none;
+  color: transparent !important;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    border: 2px solid currentColor;
+    border-right-color: transparent;
+    border-radius: 50%;
+    animation: btn-spin 0.6s linear infinite;
+    opacity: 0.8;
+  }
+}
+
+@keyframes btn-spin {
+  to { transform: rotate(360deg); }
+}

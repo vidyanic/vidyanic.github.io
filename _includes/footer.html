@@ -1,237 +1,77 @@
-<footer class="site-footer">
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     VIDYANIC — DIVINE FOOTER
+     Theme: Cosmic Indigo
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<footer class="site-footer" role="contentinfo" aria-label="Site footer">
   <div class="footer-container">
-    <div class="footer-section">
-      <h3 class="footer-logo">🌀 Shunya-0</h3>
-      <p class="footer-desc">A Unified Framework for Universal Sense-Making across all Knowledge Fields</p>
+    <!-- Brand Section -->
+    <div class="footer-section footer-brand-section">
+      <a href="{{ site.baseurl }}/" class="footer-logo">
+        <img src="{{ '/site/images/favicon.svg' | relative_url }}" alt="Vidyanic" class="footer-icon" width="28" height="28">
+        <span class="footer-brand-text">Vidyanic</span>
+      </a>
+      <p class="footer-desc">A Unified Framework for Understanding Reality across all Knowledge Fields</p>
       <div class="sanskrit-container">
         <p class="sanskrit">विद्या दानं सर्व दानेभ्यः प्रधानम्</p>
         <p class="translation">"Knowledge sharing is the highest form of giving"</p>
       </div>
     </div>
 
+    <!-- Quick Links -->
     <div class="footer-section">
-      <h3>Quick Links</h3>
-      <ul>
-        <li><a href="{{ site.baseurl }}/scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING/">📖 Start Here (Index)</a></li>
-        <li><a href="{{ site.baseurl }}/scientific_papers/">Research Papers</a></li>
-        <li><a href="{{ site.baseurl }}/vishnu_engine/">Vishnu Engine</a></li>
-        <li><a href="{{ site.baseurl }}/site/stories/">Stories</a></li>
-        <li><a href="{{ site.baseurl }}/site/practical/">Practice</a></li>
+      <h3 class="footer-heading">Quick Links</h3>
+      <ul class="footer-links">
+        <li><a href="{{ site.baseurl }}/scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING/">📖 Start Here</a></li>
+        <li><a href="{{ site.baseurl }}/scientific_papers/">📚 Research Papers</a></li>
+        <li><a href="{{ site.baseurl }}/vishnu_engine/">⚙️ Vishnu Engine</a></li>
+        <li><a href="{{ site.baseurl }}/site/stories/">📖 Stories</a></li>
+        <li><a href="{{ site.baseurl }}/site/practical/">🛠️ Practice</a></li>
       </ul>
     </div>
 
+    <!-- Status -->
     <div class="footer-section">
-      <h3>Current Status</h3>
+      <h3 class="footer-heading">Sandhya Status</h3>
       <div class="status-grid">
-        <span class="label">Sandhya:</span> <span class="value">2020-2028 CE</span>
-        <span class="label">Current:</span> <span class="value">Year 6 of 8</span>
+        <span class="label">Period:</span> <span class="value">2020-2028 CE</span>
+        <span class="label">Current:</span> <span class="value highlight">Year 6 of 8</span>
         <span class="label">Lock-in:</span> <span class="value">2028 CE</span>
       </div>
     </div>
 
+    <!-- Connect -->
     <div class="footer-section">
-      <h3>Connect</h3>
-      <div class="social-links">
-        <a href="https://github.com/ranjeet-sunya/Bramhagyan" target="_blank" class="social-btn">
+      <h3 class="footer-heading">Connect</h3>
+      <div class="footer-actions">
+        <a href="https://github.com/vidyanic/vidyanic.github.io" target="_blank" class="footer-btn github-btn">
           <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
-            <path
-              d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" />
+            <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/>
           </svg>
-          GitHub
+          Star on GitHub
+        </a>
+        <a href="{{ site.baseurl }}/site/donate" class="footer-btn donate-btn">
+          🕉️ Donate Knowledge
         </a>
       </div>
     </div>
   </div>
 
+  <!-- Footer Bottom -->
   <div class="footer-bottom">
     <div class="footer-bottom-content">
       <div class="legal-section">
         <p class="legal">
-          &copy; {{ site.time | date: '%Y' }} {{ site.author }} |
+          © {{ site.time | date: '%Y' }} Vidyanic Project |
           Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>
         </p>
         <div class="badges">
           <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License">
           <img src="https://img.shields.io/badge/Papers-48%20Complete-success.svg" alt="Papers Complete">
-          <img src="https://img.shields.io/badge/Avg%20Confidence-84%25-blue.svg" alt="Confidence">
+          <img src="https://img.shields.io/badge/Confidence-84%25-blue.svg" alt="Confidence">
         </div>
       </div>
       <p class="mantra">ॐ शान्तिः शान्तिः शान्तिः</p>
     </div>
   </div>
 </footer>
-
-<style>
-  .site-footer {
-    background: #0f172a;
-    color: #94a3b8;
-    padding: 5rem 0 2rem;
-    margin-top: 0;
-    font-family: 'Inter', sans-serif;
-  }
-
-  .footer-container {
-    max-width: 1012px;
-    margin: 0 auto;
-    padding: 0 2rem;
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1.5fr;
-    gap: 4rem;
-  }
-
-  .footer-logo {
-    color: #f8fafc !important;
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.5rem !important;
-    margin-bottom: 1rem !important;
-  }
-
-  .footer-desc {
-    font-size: 0.95rem;
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
-  }
-
-  .sanskrit-container {
-    border-left: 2px solid #159957;
-    padding-left: 1rem;
-  }
-
-  .sanskrit {
-    font-style: italic;
-    color: #10b981;
-    margin-bottom: 0.25rem;
-    font-size: 0.9rem;
-  }
-
-  .translation {
-    font-size: 0.8rem;
-    opacity: 0.7;
-  }
-
-  .footer-section h3 {
-    color: #f8fafc;
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .footer-section ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .footer-section ul li {
-    margin-bottom: 0.75rem;
-  }
-
-  .footer-section a {
-    color: #94a3b8;
-    text-decoration: none;
-    transition: all 0.2s;
-    font-size: 0.9rem;
-  }
-
-  .footer-section a:hover {
-    color: #10b981;
-  }
-
-  .status-grid {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 0.5rem 1rem;
-    font-size: 0.9rem;
-  }
-
-  .status-grid .label {
-    color: #64748b;
-  }
-
-  .status-grid .value {
-    color: #cbd5e1;
-    font-weight: 500;
-  }
-
-  .social-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    background: rgba(255, 255, 255, 0.05);
-    padding: 0.6rem 1rem;
-    border-radius: 8px;
-    color: #f8fafc !important;
-    font-weight: 500;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-  }
-
-  .social-btn:hover {
-    background: rgba(255, 255, 255, 0.1);
-    transform: translateY(-2px);
-  }
-
-  .footer-bottom {
-    margin-top: 5rem;
-    padding-top: 2rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
-  }
-
-  .footer-bottom-content {
-    max-width: 1012px;
-    margin: 0 auto;
-    padding: 0 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .legal-section {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-
-  .legal {
-    font-size: 0.85rem;
-    margin: 0;
-  }
-
-  .badges {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
-
-  .badges img {
-    height: 20px;
-  }
-
-  .mantra {
-    font-size: 1rem;
-    color: #159957;
-    margin: 0;
-    letter-spacing: 0.1em;
-  }
-
-  @media (max-width: 992px) {
-    .footer-container {
-      grid-template-columns: 1fr 1fr;
-      gap: 3rem;
-    }
-  }
-
-  @media (max-width: 576px) {
-    .footer-container {
-      grid-template-columns: 1fr;
-      gap: 2.5rem;
-    }
-
-    .footer-bottom-content {
-      flex-direction: column;
-      text-align: center;
-      gap: 1rem;
-    }
-  }
-</style>

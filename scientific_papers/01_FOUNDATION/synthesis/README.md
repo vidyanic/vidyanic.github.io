@@ -4,7 +4,7 @@
 > "All this is indeed Brahman."  
 > — Chandogya Upanishad 3.14.1
 
-> **🔮 GLITCH LEVEL:** 🤯🤯🤯🤯🤯 (MAXIMUM)  
+> **🔮 COMPLEXITY:** ●●●●● Expert (MAXIMUM)  
 > **CONFIDENCE:** 84%  
 > **DIFFICULTY:** Integration of everything
 

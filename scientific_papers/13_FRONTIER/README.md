@@ -42,7 +42,7 @@ These papers explore phenomena that mainstream science is skeptical about. We pr
 
 ---
 
-## 🤯 Mind-Blowing Facts
+## ● Accessible Fascinating Facts
 
 | Fact | Source | What It Means |
 |------|--------|---------------|

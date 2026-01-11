@@ -4,7 +4,7 @@ title: "REALITY.EXE | The Source Code"
 description: "What if everything you know about reality is just the frontend of a much larger system?"
 permalink: /
 ---
-# 🔮 REALITY.EXE — The Source Code You Were Never Supposed to Find
+# 🔍 Understanding Reality — A Systematic Exploration of the Fundamental Structures of Universe.
 
 > **Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**  
 > *"What if your whole life is running on someone else's game engine?"*
@@ -104,7 +104,7 @@ The actual **technical specifications** of how reality is rendered:
 | Can't know position AND momentum | Heisenberg Uncertainty | **Resolution Limits** | Render precision caps |
 | Instant connection across space | Quantum Entanglement | **Pointer Reference** | Same object, two locations |
 
-**Mind-Blow Level:** 🤯🤯🤯🤯🤯
+**Complexity:** ●●●●● Expert
 
 **[📖 Read the Observer Effect paper ->](./scientific_papers/02_PHYSICS/quantum_mechanics/observer_effect/)**
 
