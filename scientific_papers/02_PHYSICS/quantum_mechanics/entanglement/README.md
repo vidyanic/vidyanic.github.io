@@ -55,28 +55,28 @@ In the backend, objects are connected by relationships, not positions. Entangled
 
 ## 🔮 THE GAME ANALOGY
 
+```mermaid
+flowchart TD
+    subgraph Backend["💾 BACKEND — What Actually Exists"]
+        ONE["🔗 ONE OBJECT<br/>Single backend entity<br/>One memory address"]
+    end
+    
+    subgraph Frontend["🎮 FRONTEND — What You See"]
+        A["⚫ PARTICLE A<br/>Location: Here<br/>Spin: ↑ Up"]
+        B["⚫ PARTICLE B<br/>Location: 1200 km away<br/>Spin: ↓ Down (instantly!)"]
+    end
+    
+    ONE -->|"Render Point 1"| A
+    ONE -->|"Render Point 2"| B
+    
+    A <-.->|"No message sent!<br/>Same entity"| B
+    
+    style Backend fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style Frontend fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
+    style ONE fill:#F3E5F5,stroke:#7B1FA2,stroke-width:2px
 ```
-MULTIPLAYER GAME REFERENCE SYNC:
-+------------------------------------------------+
-|  Object A on Server -> Displayed in Game        |
-|  Object B on Server -> Same data, other display |
-|  Change A -> B updates INSTANTLY                |
-|  No "message sent" — same memory reference     |
-|                                                |
-|  Players see "two objects" at different spots  |
-|  Server sees "one object, two render points"   |
-+------------------------------------------------+
 
-REALITY:
-+------------------------------------------------+
-|  Particle A rendered -> measured spin up        |
-|  Particle B rendered -> instantly spin down     |
-|  No signal sent — same backend entity          |
-|                                                |
-|  You see "two particles far apart"             |
-|  Backend is "one object, two projections"      |
-+------------------------------------------------+
-```
+**SPACE IS A RENDER ARTIFACT.** In the backend, entangled particles are ONE object with TWO render locations. Change one → Other updates instantly. No communication needed — they were never separate.
 
 **Distance is a frontend illusion.**
 
@@ -154,3 +154,14 @@ When you feel connected to someone far away, you're not imagining it. You're per
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Indrajala Network](../../../../site/diagrams/indrajala.md) — Non-local connections
+- [Observer Effect](../../../../site/diagrams/observer_effect.md) — Quantum mechanics
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "REALITY.EXE | The Source Code"
+title: "Exploration of Reality"
 description: "What if everything you know about reality is just the frontend of a much larger system?"
 permalink: /
 ---
-# 🔍 Understanding Reality — A Systematic Exploration of the Fundamental Structures of Universe.
+# 🔍 A Systematic Exploration of the Fundamental Structures of Universe.
 
 > **Year: 2026 | Server: Earth | Current Patch: Dwapara 2.0**  
 > *"What if your whole life is running on someone else's game engine?"*

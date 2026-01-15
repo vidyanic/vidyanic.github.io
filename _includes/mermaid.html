@@ -1,0 +1,64 @@
+<!-- Mermaid.js for diagram rendering - GitHub Pages compatible -->
+<!-- Theme: Cosmic Blue + Gold (Light Background) - All styles centralized here -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'base',
+      themeVariables: {
+        // Light background theme
+        background: '#ffffff',
+        mainBkg: '#E3F2FD',
+        
+        // Blue primary colors
+        primaryColor: '#E3F2FD',
+        primaryBorderColor: '#1976D2',
+        primaryTextColor: '#0D47A1',
+        
+        // Gold accents for secondary
+        secondaryColor: '#FFF8E1',
+        secondaryBorderColor: '#D97706',
+        secondaryTextColor: '#000',
+        
+        tertiaryColor: '#E8F5E9',
+        tertiaryBorderColor: '#388E3C',
+        tertiaryTextColor: '#1B5E20',
+        
+        // Lines and text
+        lineColor: '#1976D2',
+        textColor: '#212121',
+        
+        // Node defaults
+        nodeBorder: '#1976D2',
+        
+        // Subgraph/cluster backgrounds
+        clusterBkg: '#E3F2FD',
+        clusterBorder: '#1976D2',
+        
+        // Fonts
+        fontSize: '14px',
+        fontFamily: 'Inter, -apple-system, sans-serif'
+      },
+      flowchart: {
+        htmlLabels: true,
+        curve: 'basis',
+        padding: 15,
+        nodeSpacing: 50,
+        rankSpacing: 60,
+        diagramPadding: 15,
+        wrappingWidth: 180,
+        useMaxWidth: true
+      }
+    });
+    mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  });
+</script>
+
+<style>
+  /* Different backgrounds for nested subgraphs */
+  .language-mermaid .cluster:nth-of-type(4n+1) rect { fill: #E3F2FD !important; }
+  .language-mermaid .cluster:nth-of-type(4n+2) rect { fill: #FFF8E1 !important; }
+  .language-mermaid .cluster:nth-of-type(4n+3) rect { fill: #E8F5E9 !important; }
+  .language-mermaid .cluster:nth-of-type(4n+4) rect { fill: #FCE4EC !important; }
+</style>

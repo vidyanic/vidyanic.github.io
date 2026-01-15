@@ -60,27 +60,34 @@ You're fighting Tamas right now by reading this instead of falling unconscious.
 
 ---
 
-## 🔮 THE GAME ANALOGY
+## 🔮 THE GUNA DYNAMICS
 
+```mermaid
+flowchart LR
+    subgraph Gunas["⚖️ THE THREE GUNAS — S + R + T = 1"]
+        direction TB
+        S["☀️ SATTVA सत्त्व<br/>Order • Light • Information<br/>Consciousness maintains"]
+        R["🔥 RAJAS रजस्<br/>Motion • Energy • Change<br/>Action happens"]
+        T["🌑 TAMAS तमस्<br/>Decay • Inertia • Mass<br/>Entropy = This"]
+    end
+    
+    subgraph Direction["🔄 NATURAL FLOW"]
+        D1["Without consciousness<br/>Tamas dominates"] --> D2["Disorder increases<br/>dS/dt ≥ 0"]
+        D3["With consciousness<br/>Sattva cultivated"] --> D4["Order maintained<br/>Life fights entropy"]
+    end
+    
+    S --> D3
+    T --> D1
+    
+    style S fill:#FFF8E1,stroke:#FFD700,stroke-width:2px
+    style R fill:#FFF3E0,stroke:#FF9800,stroke-width:2px
+    style T fill:#ECEFF1,stroke:#607D8B,stroke-width:2px
+    style D2 fill:#FFEBEE,stroke:#F44336
+    style D4 fill:#E8F5E9,stroke:#4CAF50
 ```
-VIDEO GAME:
-+------------------------------------------------+
-|  Durability bars decrease over time            |
-|  Structures decay without maintenance          |
-|  Resources deplete, need to be replenished     |
-|  AFK too long = logged out/damage              |
-+------------------------------------------------+
 
-REALITY:
-+------------------------------------------------+
-|  Bodies age without care                       |
-|  Buildings crumble without maintenance         |
-|  Order requires constant energy input          |
-|  Unconsciousness = Tamas dominance             |
-+------------------------------------------------+
-```
-
-**Same mechanic. Decay is engineered.**
+**ENTROPY (S = k·ln W) = MEASUREMENT OF TAMAS**  
+Same mechanic. Decay is engineered to create stakes and urgency.
 
 ---
 
@@ -157,3 +164,14 @@ And knowing the rules gives you an advantage.
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Gunas](../../../../site/diagrams/gunas.md) — Tamas as entropy quality
+- [Pralaya](../../../../site/diagrams/pralaya.md) — Cosmic dissolution
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

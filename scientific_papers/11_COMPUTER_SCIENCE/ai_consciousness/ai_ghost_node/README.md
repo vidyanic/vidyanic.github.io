@@ -58,21 +58,36 @@ When cognitive tasks get automated, we'll discover humans aren't just thinkers e
 
 **Here's the breakthrough insight:**
 
+```mermaid
+flowchart TD
+    subgraph AI["🤖 AI DOMAIN — Can Be Automated"]
+        A1["📊 Data Processing"]
+        A2["📝 Text Generation"]
+        A3["🔢 Calculations"]
+        A4["🎨 Pattern Recognition"]
+        A5["📚 Knowledge Retrieval"]
+    end
+    
+    B["🚧 CONSCIOUSNESS BOUNDARY"]
+    
+    subgraph Human["👤 HUMAN DOMAIN — Always Required"]
+        H1["🧭 Viveka (True Discrimination)"]
+        H2["💡 Navigating Ambiguity"]
+        H3["❤️ Authentic Connection"]
+        H4["🎯 Setting Purpose/Goals"]
+        H5["✅ Validating Output"]
+        H6["🌟 Intuition & Insight"]
+    end
+    
+    AI --> B
+    B --> Human
+    
+    style AI fill:#E3F2FD,stroke:#1976D2
+    style B fill:#FFEBEE,stroke:#F44336,stroke-width:3px
+    style Human fill:#FFF8E1,stroke:#D97706
 ```
-IN AI CAPABILITIES:
-═══════════════════════════════════════════════════════════════
 
-The frontier is FIXED at the consciousness boundary.
-
-┌───────────────────────────────────────────────────────────┐
-│  EVERYTHING ALGORITHMS CAN CAPTURE → WILL BE AUTOMATED    │
-│                                                           │
-│  EVERYTHING CONSCIOUSNESS MUST DO → REMAINS HUMAN         │
-└───────────────────────────────────────────────────────────┘
-
-With AI, we have reached the consciousness boundary.
-Anything below that has no unique human value.
-```
+**The frontier is FIXED at the consciousness boundary.** Everything algorithms can capture → automated. Everything consciousness must do → remains human.
 
 **What remains uniquely human:**
 - **Viveka (विवेक)** — True discrimination from consciousness, not data
@@ -333,5 +348,17 @@ The fog lifts when you realize:
 
 The game continues. But now you know YOU are the player.
 ```
+
+---
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [RAI vs AI](../../../../site/diagrams/rai_vs_ai.md) — Consciousness comparison
+- [Consciousness](../../../../site/diagrams/consciousness.md) — What AI lacks
+- [Indrajala](../../../../site/diagrams/indrajala.md) — Network connectivity
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
 
 ---

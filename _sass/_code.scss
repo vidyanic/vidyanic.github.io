@@ -23,6 +23,11 @@
   border: 1px solid var(--gold);
 }
 
+// Mermaid diagram container - Center aligned, mobile responsive
+.main-content .language-mermaid {
+  display: block;
+}
+
 .main-content div.highlight {
   margin: 0;
   padding: 0;

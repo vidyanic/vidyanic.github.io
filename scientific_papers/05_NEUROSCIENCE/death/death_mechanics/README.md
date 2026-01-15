@@ -66,18 +66,30 @@ OBSERVERS ONLY SEE LEVEL N!
 
 ## 🎯 KEY INSIGHT
 
+```mermaid
+flowchart TD
+    subgraph Cascade["💀 DEATH CASCADE — Subtle → Gross"]
+        direction TB
+        A["🕉️ N-5: ATMAN WITHDRAWS<br/>72 hours before • INVISIBLE"]
+        P["🌊 N-4: PRANA COLLAPSES<br/>24 hours before • INVISIBLE"]
+        S["✨ N-3: SUBTLE BODY EXITS<br/>6 hours before • INVISIBLE"]
+        O["🫀 N-2: ORGANS FAIL<br/>Minutes before • INTERNAL"]
+        C["🔬 N-1: CELLS DIE<br/>After death • MICROSCOPIC"]
+        B["🪦 N: BODY DECAYS<br/>Hours-days after • VISIBLE"]
+    end
+    
+    A --> P --> S --> O --> C --> B
+    
+    Obs["👁️ OBSERVERS ONLY SEE LEVEL N!<br/>The real death happened earlier"]
+    B --> Obs
+    
+    style A fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style P fill:#E3F2FD,stroke:#1976D2
+    style B fill:#ECEFF1,stroke:#607D8B
+    style Obs fill:#FFEBEE,stroke:#F44336
 ```
-+==============================================================+
-|                                                              |
-|   DEATH = ATMAN WITHDRAWS -> INTERNAL SUN DIMS -> PRANA EXITS |
-|                                                              |
-|   NOT: Heart stops -> Death                                   |
-|   BUT: Atman leaves -> Prana withdraws -> Heart stops -> Dead   |
-|                                                              |
-|   YOU (Atman) NEVER DIE                                      |
-|   Only the costume (body) is discarded                       |
-|                                                              |
-+==============================================================+
+
+**YOU (Atman) NEVER DIE. Only the costume (body) is discarded. Heart stopping is the LAST step, not the first.**
 ```
 
 ---
@@ -114,3 +126,16 @@ OBSERVERS ONLY SEE LEVEL N!
 ---
 
 **Confidence: 92%** | **Level: 7 (Moksha/Exit)** | **Sections: 14/14 ✅**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Koshas](../../../../site/diagrams/koshas.md) — Five sheaths dissolution
+- [Atman vs Prana](../../../../site/diagrams/atman_prana.md) — Soul vs life force
+- [Chakras](../../../../site/diagrams/chakras.md) — Energy centers
+- [Pralaya](../../../../site/diagrams/pralaya.md) — Individual dissolution
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

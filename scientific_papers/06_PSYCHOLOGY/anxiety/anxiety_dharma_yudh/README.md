@@ -48,35 +48,35 @@
 
 ## 🔑 KEY INSIGHT
 
+```mermaid
+flowchart TD
+    subgraph Conflict["⚔️ ANXIETY = INTERNAL DHARMA YUDH"]
+        S["🎯 SVADHARMA स्वधर्म<br/>Your natural path<br/>What you ARE<br/>Soul's purpose"]
+        P["🎭 PARADHARMA परधर्म<br/>Imposed roles<br/>What you're told to BE<br/>Society's demands"]
+    end
+    
+    S <-->|"WAR"| P
+    
+    subgraph Result["😰 WHEN CONFLICT CONTINUES"]
+        B["🏃 Body: Fight-or-flight"]
+        M["🧠 Mind: Rumination"]
+        E["💔 Emotions: Fear, panic"]
+        So["🕯️ Soul: Self-betrayal"]
+    end
+    
+    Conflict --> Result
+    
+    Solution["💡 GITA SOLUTION<br/>'स्वधर्मे निधनं श्रेयः परधर्मो भयावहः'<br/>Better death in own Dharma<br/>than living another's"]
+    
+    Result --> Solution
+    Solution --> Cure["✨ CURE: Align with Svadharma"]
+    
+    style S fill:#E8F5E9,stroke:#4CAF50
+    style P fill:#FFEBEE,stroke:#F44336
+    style Solution fill:#FFF8E1,stroke:#D97706,stroke-width:2px
 ```
-+===========================================================================+
-|                                                                           |
-|   ANXIETY = INTERNAL DHARMA YUDH                                         |
-|                                                                           |
-|   THE CONFLICT:                                                           |
-|   ============                                                            |
-|   SVADHARMA (स्वधर्म)     vs    PARADHARMA (परधर्म)                       |
-|   Your natural path            Imposed/expected roles                     |
-|   What you ARE                 What you're told to BE                     |
-|   Soul's purpose               Society's demands                          |
-|                                                                           |
-|   WHEN THESE CONFLICT:                                                    |
-|   ====================                                                    |
-|   Body -> Fight-or-flight (chronic activation)                            |
-|   Mind -> Rumination, worry, catastrophizing                              |
-|   Emotions -> Fear, dread, panic                                          |
-|   Soul -> Suffering from self-betrayal                                    |
-|                                                                           |
-|   THE GITA SOLUTION:                                                      |
-|   ==================                                                      |
-|   "स्वधर्मे निधनं श्रेयः परधर्मो भयावहः"                                  |
-|   "Better is death in one's own Dharma; another's Dharma is dangerous"  |
-|   — Bhagavad Gita 3.35                                                   |
-|                                                                           |
-|   LIVING PARADHARMA = CONTINUOUS SUBTLE DEATH = ANXIETY                  |
-|                                                                           |
-+===========================================================================+
-```
+
+**LIVING PARADHARMA = CONTINUOUS SUBTLE DEATH = ANXIETY.** True cure is alignment with Svadharma, not symptom suppression.
 
 ---
 
@@ -182,3 +182,15 @@ CURE:
 
 
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Shadripu](../../../../site/diagrams/shadripu.md) — Six inner enemies
+- [Gunas](../../../../site/diagrams/gunas.md) — Rajas imbalance
+- [Dharma](../../../../site/diagrams/dharma.md) — Right action reduces anxiety
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

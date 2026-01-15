@@ -64,7 +64,22 @@ Think: Not the movie, but the screen on which movies play.
 
 ### What are the Gunas?
 
-The three fundamental qualities (Gunas) that combine in all things:
+```mermaid
+flowchart LR
+    subgraph Gunas["⚖️ TRI-GUNA — The Three Fundamental Qualities"]
+        S["☀️ SATTVA सत्त्व<br/>Clarity • Light<br/>Knowledge • Order"]
+        R["🔥 RAJAS रजस्<br/>Activity • Energy<br/>Motion • Change"]
+        T["🌑 TAMAS तमस्<br/>Inertia • Mass<br/>Gravity • Decay"]
+    end
+    
+    S <-->|Balance| R
+    R <-->|Balance| T
+    T <-->|Balance| S
+    
+    style S fill:#FFF8E1,stroke:#FFD700,stroke-width:2px
+    style R fill:#FFF3E0,stroke:#FF9800,stroke-width:2px
+    style T fill:#ECEFF1,stroke:#607D8B,stroke-width:2px
+```
 
 | Guna | Quality | Physical Manifestation |
 |------|---------|----------------------|
@@ -72,7 +87,7 @@ The three fundamental qualities (Gunas) that combine in all things:
 | **Rajas** | Activity, energy | Motion, change |
 | **Tamas** | Inertia, heaviness | Mass, gravity |
 
-Everything is a mix: S + R + T = 1 (always).
+Everything is a mix: **S + R + T = 1** (always).
 
 ### What is Karma?
 
@@ -113,15 +128,28 @@ We don't claim "proof" — we show **structural correspondence across ALL knowle
 
 ### What is the 7-Concept Validation Stack?
 
-Every claim must satisfy these 7 principles:
+```mermaid
+flowchart TD
+    subgraph Stack["✅ 7-CONCEPT VALIDATION — Every Claim Must Pass"]
+        C1["1️⃣ CONSERVATION<br/>Energy/Info preserved<br/>dE/dt = 0"]
+        C2["2️⃣ ENTROPY<br/>Disorder increases<br/>dS/dt ≥ 0"]
+        C3["3️⃣ FRACTAL<br/>Same pattern all scales<br/>Pattern(n) ≈ Pattern(n±k)"]
+        C4["4️⃣ KARMA<br/>Action → Consequence<br/>F₁₂ = -F₂₁"]
+        C5["5️⃣ OBSERVER<br/>Observation changes state<br/>|ψ|² = P"]
+        C6["6️⃣ CYCLES<br/>Patterns repeat<br/>f(t+T) = f(t)"]
+        C7["7️⃣ GUNAS<br/>Three qualities present<br/>S + R + T = 1"]
+    end
+    
+    C1 --> C2 --> C3 --> C4
+    C4 --> C5 --> C6 --> C7
+    
+    style C1 fill:#E3F2FD,stroke:#1976D2
+    style C3 fill:#F3E5F5,stroke:#7B1FA2
+    style C5 fill:#FFF8E1,stroke:#D97706
+    style C7 fill:#E8F5E9,stroke:#4CAF50
+```
 
-1. **Conservation:** Energy/information preserved
-2. **Entropy:** Disorder increases over time
-3. **Fractal:** Same pattern at all scales
-4. **Karma:** Every action has consequence
-5. **Observer:** Observation affects observed
-6. **Cycles:** Patterns repeat periodically
-7. **Gunas:** Three qualities always present
+Every claim must satisfy these 7 principles for validation.
 
 ### How confident are the papers?
 
@@ -314,7 +342,23 @@ No. This is an independent documentation project. No religious organization, no 
 
 **Still have questions?** The answers are probably in the [Glossary](./glossary/) or the relevant [Narrative](./narratives/).
 
+### Visual Diagrams
+
+For visual explanations of concepts, explore our **[📊 Diagram Library](./diagrams/README.md)** — multiple diagrams for each concept at varying complexity levels.
+
 ---
 
 *ॐ*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Complete Diagram Library](./diagrams/README.md) — Visual guides for all concepts
+- [Brahman](./diagrams/brahman.md) — Core insight
+- [Maya](./diagrams/maya.md) — Reality rendering
+- [Karma](./diagrams/karma.md) — Action-consequence
+
+---

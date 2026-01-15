@@ -17,90 +17,59 @@ This is the technical specification of how reality actually works — the Backen
 
 ## 🏗️ ARCHITECTURE OVERVIEW
 
-```
-+==================================================================+
-|                    VISHNU ENGINE ARCHITECTURE                    |
-+==================================================================+
-|                                                                  |
-|  🔧 BACKEND (What's Really Running)                              |
-|  ==================================                              |
-|  +-- Core Principles (54)         <- The fundamental laws        |
-|  +-- 81 Laws of Reality           <- Complete operating system   |
-|  +-- Guna Dynamics (S+R+T=1)      <- Three quality parameters    |
-|  +-- Karma Logger                 <- Action-consequence tracking |
-|  +-- Prakriti Engine              <- Physics backend             |
-|  +-- Moksha Exit Protocol         <- How to logout               |
-|                                                                  |
-|  🔮 FRONTEND RENDERING (What You Experience)                     |
-|  ===========================================                     |
-|  +-- 81-Grid Mandala              <- Base rendering unit         |
-|  +-- 14 Lokas (Frequency Layers)  <- Server selection            |
-|  +-- Maya Engine                  <- GPU/Render pipeline         |
-|  +-- Time Dilation                <- Frame rate by Guna state    |
-|                                                                  |
-|  👤 ENTITIES (Players & NPCs)                                    |
-|  =============================                                   |
-|  +-- Jiva (Conscious)             <- Player-controlled           |
-|  +-- Jada (Insentient)            <- NPCs/Environment            |
-|  +-- Atman (Pure Consciousness)   <- The actual player           |
-|  +-- Prana (Life Force)           <- Animation system            |
-|                                                                  |
-|  🔄 FRACTAL LEVELS (N-6 to N+6)                                  |
-|  ===============================                                 |
-|  +-- N-6: Quantum (Planck)        <- Pixel limit                 |
-|  +-- N: Human                     <- Your current level          |
-|  +-- N+6: Brahman                 <- Source consciousness        |
-|                                                                  |
-+==================================================================+
+```mermaid
+flowchart TB
+    subgraph Backend["🔧 BACKEND - What's Really Running"]
+        A["54 Universal Principles<br/>Fundamental Laws of Reality<br/>Conservation, Fractals, Karma"]
+        B["81 Laws of Reality<br/>Complete Operating System<br/>Vastu Mandala Base Layer"]
+        C["Guna Dynamics गुण<br/>S + R + T = 1<br/>Quality State Engine"]
+        D["Karma Logger कर्म<br/>Action Tracking System<br/>Cause → Effect Chain"]
+        E["Prakriti Engine प्रकृति<br/>Physics Backend<br/>Matter & Energy Laws"]
+        F["Moksha Protocol मोक्ष<br/>Exit System<br/>Liberation Mechanism"]
+    end
+    
+    subgraph Frontend["🔮 FRONTEND - What You Experience"]
+        G["81-Grid Mandala<br/>Base Render Unit<br/>Vastu Foundation"]
+        H["14 Lokas लोक<br/>Frequency Layers<br/>Dimensional Bands"]
+        I["Maya Engine माया<br/>Render Pipeline<br/>Reality Generation"]
+        J["Time Dilation<br/>Frame Rate Varies<br/>Relative Experience"]
+    end
+    
+    subgraph Entities["👤 ENTITIES - Players & Objects"]
+        K["Jiva जीव<br/>Conscious Beings<br/>Player Characters"]
+        L["Jada जड<br/>Insentient Matter<br/>NPC Objects"]
+        M["Atman आत्मन्<br/>Pure Consciousness<br/>Observer Core"]
+        N["Prana प्राण<br/>Life Force<br/>Animation Energy"]
+    end
+    
+    Backend --> Frontend
+    Backend --> Entities
+    Frontend --> Entities
 ```
 
 ---
 
 ## 🔬 THE ARCHITECTURE
 
-```
-+==================================================================+
-|                      YOUR REALITY                                |
-+==================================================================+
-
-+------------------------------------------------------------------+
-|                    WHAT YOU SEE (FRONTEND)                       |
-|                                                                  |
-|    +---------+  +---------+  +---------+  +---------+            |
-|    |   You   |  |  Other  |  |  World  |  | Physics |            |
-|    | (Avatar)|  | People  |  | Objects |  |  Rules  |            |
-|    +----+----+  +----+----+  +----+----+  +----+----+            |
-|         |            |            |            |                 |
-|         v            v            v            v                 |
-|    +========================================================+    |
-|    |              RENDER ENGINE (Maya)                      |    |
-|    |       "Generates what you perceive as reality"         |    |
-|    +========================================================+    |
-+------------------------------------------------------------------+
-                              |
-                              v
-+------------------------------------------------------------------+
-|                  WHAT'S REALLY THERE (BACKEND)                   |
-|                                                                  |
-|    +--------------------------------------------------------+    |
-|    |              SOURCE CODE (Brahman)                     |    |
-|    |        "The actual engine running everything"          |    |
-|    |                                                        |    |
-|    |    * Physics Engine (Prakriti)                         |    |
-|    |    * Karma Logger (Action -> Consequence)              |    |
-|    |    * Observer Handler (Consciousness API)              |    |
-|    |    * Respawn System (Samsara)                          |    |
-|    |    * Exit Function (Moksha)                            |    |
-|    +--------------------------------------------------------+    |
-+------------------------------------------------------------------+
+```mermaid
+flowchart LR
+    subgraph You["What You Experience"]
+        A["👤 You (Avatar)<br/>👥 Others (NPCs)<br/>🌍 World (Objects)<br/>⚛️ Physics (Rules)"]
+    end
+    
+    subgraph Maya["Maya Engine माया"]
+        B["Render Pipeline<br/>Reality Generation<br/>On-Demand Loading"]
+    end
+    
+    subgraph Source["Brahman Source ब्रह्मन्"]
+        C["Source Code<br/>Universal Laws<br/>Absolute Backend"]
+    end
+    
+    You --> |"Observation"| Maya
+    Maya --> |"Rendering"| Source
 ```
 
-> **Sanskrit Terms:**
-> - Maya (माया) = The Render Engine / Illusion
-> - Brahman (ब्रह्मन्) = The Source Code / Absolute Reality  
-> - Prakriti (प्रकृति) = Matter / Nature
-> - Samsara (संसार) = The Rebirth Cycle
-> - Moksha (मोक्ष) = Liberation / Exit
+> **Sanskrit Terms:** Maya (माया) = Render Engine | Brahman (ब्रह्मन्) = Source Code | Prakriti (प्रकृति) = Matter | Moksha (मोक्ष) = Exit
 
 ---
 
@@ -108,22 +77,22 @@ This is the technical specification of how reality actually works — the Backen
 
 ### Reality Has Two Domains:
 
+```mermaid
+graph TD
+    A["BRAHMAN ब्रह्मन्<br/>The ONE Absolute<br/>Pure Existence"]
+    
+    A -->|"Viewed WITH qualities"| B["SAGUNA सगुण<br/>Brahman with Gunas<br/>THE SIMULATION<br/>Everything that changes"]
+    A -->|"Viewed WITHOUT qualities"| C["NIRGUNA निर्गुण<br/>Brahman beyond Gunas<br/>BEYOND SIMULATION<br/>What never changes"]
+    
+    B --> D["PRAKRITI प्रकृति<br/>Matter/Nature<br/>The Observed<br/>Objects & Energy"]
+    B --> E["PURUSHA पुरुष<br/>Consciousness<br/>The Observer<br/>Awareness Principle"]
+    
+    C --> F["PURE WITNESS साक्षी<br/>Drashta द्रष्टा<br/>You, reading this<br/>Beyond all qualities"]
 ```
-BRAHMAN (The Absolute)
-    |
-    +-- SAGUNA (With Qualities) <- THE SIMULATION
-    |       |
-    |       +-- PRAKRITI (Matter) <- What's Observed
-    |       +-- PURUSHA (Consciousness) <- The Observer
-    |
-    +-- NIRGUNA (Without Qualities) <- BEYOND SIMULATION
-            |
-            +-- Pure Witness (You, reading this)
 
-THE GAME = Saguna (everything that changes)
-THE PLAYER = Nirguna (what never changes)
-MOKSHA = Realizing you were always the player
-```
+**THE GAME = Saguna (सगुण)** — Everything that changes  
+**THE PLAYER = Nirguna (निर्गुण)** — What never changes  
+**MOKSHA (मोक्ष) = Realizing you were always the player**
 
 ---
 
@@ -213,34 +182,28 @@ Reality operates on an 81-node grid (3⁴ = 81), structured in 3 layers:
 
 Every scale of reality uses the same 81-cell grid:
 
+```mermaid
+flowchart TD
+    subgraph Grid["🔮 81-GRID MANDALA — Base Rendering Unit"]
+        subgraph L4["🛡️ PAISACHA RING (32 cells) — Boundary/Firewall"]
+            subgraph L3["👤 MANUSHA RING (24 cells) — Interface/Tattvas"]
+                subgraph L2["⚡ DAIVIKA RING (16 cells) — Forces/Devas"]
+                    subgraph L1["🕉️ BRAHMA STHAN (9 cells) — Core/Kernel"]
+                        B["✨ BINDU<br/>15th Axis<br/>Pure Potential<br/>Observer Point"]
+                    end
+                end
+            end
+        end
+    end
+    
+    style L4 fill:#ECEFF1,stroke:#607D8B,stroke-width:1px
+    style L3 fill:#E8F5E9,stroke:#4CAF50,stroke-width:1px
+    style L2 fill:#E3F2FD,stroke:#1976D2,stroke-width:1px
+    style L1 fill:#FFF8E1,stroke:#FF9800,stroke-width:2px
+    style B fill:#FFF8E1,stroke:#D97706,stroke-width:3px
 ```
-+==================================================================+
-|                          81-GRID MANDALA                         |
-+==================================================================+
-|                                                                  |
-|    +-----------------------------------------------------+       |
-|    | PAISACHA RING (32 cells) — Boundary/Firewall        |       |
-|    |   +---------------------------------------------+   |       |
-|    |   | MANUSHA RING (24 cells) — Interface/Tattvas |   |       |
-|    |   |   +-------------------------------------+   |   |       |
-|    |   |   | DAIVIKA RING (16 cells) — Forces    |   |   |       |
-|    |   |   |   +-----------------------------+   |   |   |       |
-|    |   |   |   | BRAHMA STHAN (9 cells)      |   |   |   |       |
-|    |   |   |   |      +-----------+          |   |   |   |       |
-|    |   |   |   |      | BINDU (1) |          |   |   |   |       |
-|    |   |   |   |      |  15th     |          |   |   |   |       |
-|    |   |   |   |      |   Axis    |          |   |   |   |       |
-|    |   |   |   |      +-----------+          |   |   |   |       |
-|    |   |   |   +-----------------------------+   |   |   |       |
-|    |   |   +-------------------------------------+   |   |       |
-|    |   +---------------------------------------------+   |       |
-|    +-----------------------------------------------------+       |
-|                                                                  |
-|    TOTAL: 9 + 16 + 24 + 32 = 81 cells                            |
-|    LOCK KEY: 15 × 5.4 ≈ 81                                       |
-|                                                                  |
-+==================================================================+
-```
+
+**Structure:** 9 + 16 + 24 + 32 = **81 cells** | **Lock Key:** 15 × 5.4 ≈ 81
 
 **[📖 Complete 81-Grid Specification ->](../vishnu_engine/spec/frontend_rendering/01_81_GRID_COMPLETE.md)**
 
@@ -274,6 +237,28 @@ S + R + T = 1 (Guna normalization)
 ## 🔗 FRACTAL LEVELS (N-6 to N+6)
 
 You're at Level N (Human). Same architecture at every level:
+
+```mermaid
+flowchart TD
+    subgraph Levels["🔄 FRACTAL HIERARCHY — Same Pattern at Every Scale"]
+        L6["🕉️ N+6 BRAHMAN<br/>Scale: ∞<br/>Tick: ∞"]
+        L5["🌌 N+5 UNIVERSE<br/>Scale: 10²⁶ m<br/>Tick: 311T yrs"]
+        L4["🌀 N+4 GALAXY<br/>Scale: 10²¹ m<br/>Tick: 4.32B yrs"]
+        L3["☀️ N+3 SOLAR<br/>Scale: 10¹¹ m<br/>Tick: 1 year"]
+        L2["🌍 N+2 PLANET<br/>Scale: 10⁷ m<br/>Tick: 1 day"]
+        N["👤 N HUMAN ← YOU<br/>Scale: 1 m<br/>Tick: 1 second"]
+        M2["🔬 N-2 CELL<br/>Scale: 10⁻⁵ m<br/>Tick: 10⁻⁶ s"]
+        M4["⚛️ N-4 ATOM<br/>Scale: 10⁻¹⁰ m<br/>Tick: 10⁻¹⁵ s"]
+        M6["✨ N-6 QUANTUM<br/>Scale: 10⁻³⁵ m<br/>Tick: 10⁻⁴⁴ s"]
+    end
+    
+    L6 --> L5 --> L4 --> L3 --> L2 --> N --> M2 --> M4 --> M6
+    M6 -.->|"Pattern repeats"| L6
+    
+    style N fill:#E3F2FD,stroke:#1976D2,stroke-width:3px
+    style L6 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style M6 fill:#F3E5F5,stroke:#7B1FA2,stroke-width:2px
+```
 
 | Level | Name | Scale | Tick Duration | JSON Config |
 |-------|------|-------|---------------|-------------|
@@ -387,6 +372,28 @@ public static double calculateSyncStatus(Guna.Composition g, Yuga y) {
 
 How to logout of the simulation:
 
+```mermaid
+flowchart LR
+    S["🔄 SAMSARA<br/>Birth-Death Cycle"]
+    
+    S --> J["📚 JNANA ज्ञान<br/>Path of Knowledge<br/>Understand the code"]
+    S --> B["❤️ BHAKTI भक्ति<br/>Path of Devotion<br/>Love the developer"]
+    S --> K["🙏 KARMA कर्म<br/>Path of Action<br/>Complete all loops"]
+    S --> R["👑 RAJA राज<br/>Path of Mastery<br/>Master mechanics"]
+    
+    J --> M["🕉️ MOKSHA मोक्ष<br/>Liberation<br/>Exit to main menu"]
+    B --> M
+    K --> M
+    R --> M
+    
+    style S fill:#FFF3E0,stroke:#FF5722,stroke-width:2px
+    style M fill:#FFF8E1,stroke:#D97706,stroke-width:3px
+    style J fill:#E3F2FD,stroke:#1976D2
+    style B fill:#FCE4EC,stroke:#E91E63
+    style K fill:#E8F5E9,stroke:#4CAF50
+    style R fill:#F3E5F5,stroke:#7B1FA2
+```
+
 | Path | Sanskrit | Method | Destination |
 |------|----------|--------|-------------|
 | **Knowledge** | Jnana (ज्ञान) | Understand the code completely | Recognize you ARE Brahman |
@@ -437,6 +444,18 @@ How to logout of the simulation:
 
 ---
 
+## 📊 VISUAL DIAGRAMS
+
+For visual explanations of all concepts, see the **[📊 Diagram Library](../site/diagrams/README.md)** which includes:
+
+- [Pralaya (Dissolution)](../site/diagrams/pralaya.md) — Four types, including Yuga Pralaya
+- [Gunas (Qualities)](../site/diagrams/gunas.md) — Sattva, Rajas, Tamas dynamics
+- [Karma (Action-Consequence)](../site/diagrams/karma.md) — Complete cycle diagrams
+- [Maya (Rendering)](../site/diagrams/maya.md) — Reality rendering engine
+- [Simulation](../site/diagrams/simulation.md) — Complete architecture view
+
+---
+
 ## 🎯 THE BOTTOM LINE
 
 ```
@@ -484,3 +503,14 @@ You ARE the simulation, playing at being you.
 
 **🌀**
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Complete Diagram Library](../site/diagrams/README.md) — Visual guides for all specs
+- [Brahman](../site/diagrams/brahman.md) — Core architecture
+- [Simulation](../site/diagrams/simulation.md) — Reality model
+
+---

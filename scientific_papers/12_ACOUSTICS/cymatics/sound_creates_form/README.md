@@ -38,22 +38,31 @@
 
 ## Key Insight
 
-```
-+=====================================================================+
-|                                                                     |
-|   VEDIC COSMOLOGY:                                                  |
-|   "In the beginning was Shabda (Sound/Word). From Sound came        |
-|    Form. From Form came the universe."                              |
-|                                                                     |
-|   CYMATICS PROVES:                                                  |
-|   Sound frequencies create specific, reproducible geometric         |
-|   patterns. The same frequency ALWAYS creates the same form.        |
-|                                                                     |
-|   IMPLICATION:                                                      |
-|   The universe may literally be "sung" into existence.              |
-|   Form is frozen sound. Matter is crystallized vibration.           |
-|                                                                     |
-+=====================================================================+
+```mermaid
+flowchart TD
+    subgraph Vedic["🕉️ VEDIC COSMOLOGY"]
+        V1["🔊 SHABDA (Sound)"]
+        V2["📐 RUPA (Form)"]
+        V3["🌌 Universe"]
+    end
+    
+    V1 -->|"Creates"| V2 -->|"Becomes"| V3
+    
+    subgraph Cymatics["🔬 CYMATICS PROVES"]
+        C1["🎵 Sound Frequency"]
+        C2["📐 Geometric Pattern"]
+        C3["✨ Same frequency<br/>= Same form ALWAYS"]
+    end
+    
+    C1 -->|"Creates"| C2 --> C3
+    
+    Vedic <-->|"Same principle"| Cymatics
+    
+    Insight["💡 IMPLICATION<br/>Universe is 'sung' into existence<br/>Form = frozen sound<br/>Matter = crystallized vibration"]
+    
+    Cymatics --> Insight
+    
+    style Insight fill:#FFF8E1,stroke:#D97706,stroke-width:2px
 ```
 
 ---
@@ -82,3 +91,14 @@
 *Confidence: 95%*  
 *Status: COMPLETE*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Five Elements](../../../../site/diagrams/five_elements.md) — Akasha (sound/ether)
+- [Maya](../../../../site/diagrams/maya.md) — Sound manifests form
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

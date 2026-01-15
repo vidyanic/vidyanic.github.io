@@ -5,6 +5,21 @@
 
 **How to use:** Each term includes Sanskrit, English, and systemic/computational equivalents. Use whichever terminology resonates with you — the concepts are universal.
 
+```mermaid
+flowchart LR
+    subgraph Views["🌐 THREE WAYS TO UNDERSTAND EACH TERM"]
+        V["🕉️ VEDIC<br/>Sanskrit concept"]
+        S["🔬 SCIENTIFIC<br/>Physics/Biology"]
+        C["💻 COMPUTATIONAL<br/>System/Code view"]
+    end
+    
+    V <--> S <--> C <--> V
+    
+    style V fill:#FFF8E1,stroke:#D97706
+    style S fill:#E3F2FD,stroke:#1976D2
+    style C fill:#E8F5E9,stroke:#4CAF50
+```
+
 ---
 
 ## A
@@ -322,9 +337,22 @@ Freedom from the cycle of birth-death (samsara). Recognition of one's true natur
 - [FAQ](./faq/) — Common questions answered
 - [Narratives](./narratives/README.md) — Concept explanations
 - [Research Papers](../scientific_papers/) — Academic documentation
+- [📊 Diagram Library](./diagrams/README.md) — Visual concept diagrams
 
 ---
 
 *ॐ तत् सत्*  
 *That is the Truth*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Complete Diagram Library](./diagrams/README.md) — Visual guides for all terms
+- [Gunas](./diagrams/gunas.md) — Three qualities
+- [Koshas](./diagrams/koshas.md) — Five sheaths
+- [Chakras](./diagrams/chakras.md) — Energy centers
+
+---

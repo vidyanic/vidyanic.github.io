@@ -34,16 +34,21 @@
 
 ## 🧮 Fundamental Architecture
 
+```mermaid
+flowchart TD
+    subgraph Arch["⚛️ SPEED OF LIGHT = ARCHITECTURE CONSTANT"]
+        C["c = Planck_Length / Planck_Time<br/>= 1 pixel / 1 tick"]
+        A1["📦 Can't transmit faster<br/>than render rate"]
+        A2["🔗 Same at all levels<br/>(fractal invariant)"]
+        A3["🔲 Defines Lokaloka<br/>boundary"]
+    end
+    
+    C --> A1 & A2 & A3
+    
+    style C fill:#FFF8E1,stroke:#D97706,stroke-width:2px
 ```
-c = Planck_Length / Planck_Time = 1 pixel / 1 tick
 
-This is ARCHITECTURE, not physics.
-
-Speed of light is the simulation's ASPECT RATIO:
-• Can't transmit data faster than render rate
-• Same at all levels (fractal invariant)
-• Defines the "Lokaloka" boundary
-```
+**Speed of light is the simulation's ASPECT RATIO — not a speed limit, but an architecture parameter.**
 
 ---
 
@@ -70,3 +75,16 @@ Space (Akasha)  = Minimal Tamas, minimal Rajas, high Sattva
 ---
 
 **[← Back to Backend](../README.md)** | **[← Back to Spec](../../README.md)**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Five Elements](../../../../site/diagrams/five_elements.md) — Pancha Mahabhuta
+- [Gunas](../../../../site/diagrams/gunas.md) — Three qualities
+- [Purusha vs Prakriti](../../../../site/diagrams/purusha_prakriti.md) — Observer-Matter
+- [Periodic Table](../../../../site/diagrams/periodic_table.md) — Elements as Gunas
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete library
+
+---

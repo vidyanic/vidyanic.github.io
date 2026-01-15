@@ -143,27 +143,17 @@ Before diving deep, let's understand what **SAGUNA** and **NIRGUNA** mean throug
 
 ## 📐 THE TWO ETERNAL PRINCIPLES
 
-```
-                          BRAHMAN (ब्रह्मन्)
-                      The ONE Absolute Reality
-
-     "Viewed WITH qualities"              "Viewed WITHOUT qualities"
-              |                                      |
-              v                                      v
-
-      SAGUNA BRAHMAN (सगुण)                  NIRGUNA BRAHMAN (निर्गुण)
-     "Brahman with Gunas"                  "Brahman beyond Gunas"
-              |                                      |
-   +----------+----------+                           |
-   |                     |                           |
-   v                     v                           v
-
-PRAKRITI (प्रकृति)   PURUSHA (पुरुष)          PURE WITNESS (साक्षी)
-   Nature/Matter      Consciousness          Observer beyond
-   The Observed       The Observer           observation
-   HAS Gunas          APPEARS to have        NO Gunas
-   CHANGES            UNCHANGING             CHANGELESS
-   OBJECT             SUBJECT                NEITHER
+```mermaid
+graph TD
+    A["BRAHMAN ब्रह्मन्<br/>The ONE Absolute Reality<br/>Pure Existence-Consciousness-Bliss"]
+    
+    A -->|"Viewed WITH qualities<br/>(Saguna Perspective)"| B["SAGUNA BRAHMAN सगुण<br/>Brahman with Gunas<br/>THE SIMULATION<br/>The Game Layer"]
+    A -->|"Viewed WITHOUT qualities<br/>(Nirguna Perspective)"| C["NIRGUNA BRAHMAN निर्गुण<br/>Brahman beyond Gunas<br/>BEYOND SIMULATION<br/>The Player Layer"]
+    
+    B --> D["PRAKRITI प्रकृति<br/>Nature/Matter<br/>The Observed<br/>HAS Gunas · CHANGES · OBJECT"]
+    B --> E["PURUSHA पुरुष<br/>Consciousness<br/>The Observer<br/>Appears to have Gunas · UNCHANGING · SUBJECT"]
+    
+    C --> F["PURE WITNESS साक्षी<br/>Observer beyond observation<br/>Turiya State तुरीय<br/>NO Gunas · CHANGELESS · NEITHER"]
 ```
 
 ---
@@ -394,6 +384,29 @@ Death IRRELEVANT:  You were never the avatar
 ## 🧘 MOKSHA = The Shift Between Domains
 
 ### The Three States + The Fourth
+
+```mermaid
+stateDiagram-v2
+    [*] --> Jagrat
+    
+    state "☀️ JAGRAT जाग्रत्\nWaking State\nAvatar in world" as Jagrat
+    state "🌙 SVAPNA स्वप्न\nDream State\nMind creates world" as Svapna
+    state "🌑 SUSHUPTI सुषुप्ति\nDeep Sleep\nNothing happens" as Sushupti
+    state "🕉️ TURIYA तुरीय\nFourth State\nPurusha KNOWS it's watching" as Turiya
+    
+    Jagrat --> Svapna: Sleep begins
+    Svapna --> Sushupti: Deeper sleep
+    Sushupti --> Svapna: Dreams arise
+    Svapna --> Jagrat: Wake up
+    
+    Jagrat --> Turiya: 🧘 Meditation/Recognition
+    Turiya --> Jagrat: Return with awareness
+    
+    note right of Turiya
+        MOKSHA = Recognizing you are
+        the witness of all three states
+    end note
+```
 
 | State | Sanskrit | What's Happening | Who's Watching? |
 |-------|----------|------------------|-----------------|
@@ -753,3 +766,15 @@ For deeper understanding, continue to:
 *This is the CORE INSIGHT upon which the entire Vishnu Engine simulation rests.*
 
 **🕉️ Remember: You are reading these words. But WHO is aware of reading? THAT is Nirguna. THAT is what you are. 🕉️**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Brahman](../../../site/diagrams/brahman.md) — Saguna/Nirguna duality
+- [Purusha vs Prakriti](../../../site/diagrams/purusha_prakriti.md) — Observer-Matter
+- [Maya](../../../site/diagrams/maya.md) — Rendering engine
+- [View All Diagrams](../../../site/diagrams/README.md) — Complete library
+
+---

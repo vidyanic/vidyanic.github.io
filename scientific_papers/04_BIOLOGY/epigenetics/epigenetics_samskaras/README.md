@@ -67,28 +67,31 @@ The Jiva (जीव/individual-soul) carries Samskaras across incarnations. Some
 
 ## 🔮 THE GAME ANALOGY
 
-```
-GAME SAVE FILE:
-+------------------------------------------------+
-|  Your save contains:                           |
-|  +-- Current stats                             |
-|  +-- Inventory                                 |
-|  +-- Skills unlocked                           |
-|  +-- ACHIEVEMENTS FROM PREVIOUS RUNS           |
-|                                                |
-|  New Game+ carries over some progress          |
-+------------------------------------------------+
-
-YOUR DNA:
-+------------------------------------------------+
-|  Your genes contain:                           |
-|  +-- Base code (genetics)                      |
-|  +-- Active/inactive switches (epigenetics)   |
-|  +-- Skill tendencies                          |
-|  +-- IMPRINTS FROM ANCESTORS/PAST LIVES        |
-|                                                |
-|  New incarnation carries over some karma       |
-+------------------------------------------------+
+```mermaid
+flowchart TD
+    subgraph SaveFile["💾 GAME SAVE FILE"]
+        G1["📊 Current Stats"]
+        G2["🎒 Inventory"]
+        G3["⚔️ Skills Unlocked"]
+        G4["🏆 ACHIEVEMENTS FROM<br/>PREVIOUS RUNS"]
+        G5["♻️ New Game+<br/>carries progress"]
+    end
+    
+    subgraph DNA["🧬 YOUR DNA"]
+        D1["📊 Base Code (Genetics)"]
+        D2["🔄 Active/Inactive Switches<br/>(Epigenetics)"]
+        D3["⚡ Skill Tendencies"]
+        D4["📜 IMPRINTS FROM<br/>ANCESTORS/PAST LIVES<br/>(Samskaras)"]
+        D5["♻️ New Incarnation<br/>carries karma"]
+    end
+    
+    G4 --> G5
+    D4 --> D5
+    
+    style G4 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style D4 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style SaveFile fill:#E3F2FD,stroke:#1976D2
+    style DNA fill:#E8F5E9,stroke:#4CAF50
 ```
 
 **Your DNA is literally a save file that persists across lives.**
@@ -164,3 +167,15 @@ Understanding this gives you **admin access to your own biology**.
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Samskaras & Vasanas](../../../../site/diagrams/samskaras_vasanas.md) — DNA as karma storage
+- [Karma](../../../../site/diagrams/karma.md) — Action-consequence system
+- [Ida-Pingala](../../../../site/diagrams/ida_pingala.md) — DNA double helix
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

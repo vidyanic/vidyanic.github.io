@@ -44,20 +44,40 @@ The double-slit experiment has been replicated **thousands of times** since 1801
 
 ## 🔮 THE GAME ANALOGY
 
-```
-VIDEO GAME:
-+------------------------------------------------+
-|  Player looks left -> Left side renders         |
-|  Player looks right -> Right side renders       |
-|  Behind player -> Stored as data, not rendered  |
-+------------------------------------------------+
-
-REALITY:
-+------------------------------------------------+
-|  Observer looks -> Wave collapses to particle   |
-|  No observer -> Wave function (probability)     |
-|  Unobserved -> Data exists, not rendered        |
-+------------------------------------------------+
+```mermaid
+flowchart TD
+    subgraph Game["🎮 VIDEO GAME"]
+        G1["👤 Player looks left"]
+        G2["✨ Left side renders"]
+        G3["👤 Player looks right"]
+        G4["✨ Right side renders"]
+        G5["🙈 Behind player"]
+        G6["💾 Stored as data<br/>Not rendered"]
+        
+        G1 --> G2
+        G3 --> G4
+        G5 --> G6
+    end
+    
+    subgraph Reality["🌀 QUANTUM REALITY"]
+        R1["👁️ Observer looks"]
+        R2["⚫ Wave collapses<br/>to particle"]
+        R3["🙈 No observer"]
+        R4["🌊 Wave function<br/>(probability)"]
+        R5["❓ Unobserved"]
+        R6["💾 Data exists<br/>Not rendered"]
+        
+        R1 --> R2
+        R3 --> R4
+        R5 --> R6
+    end
+    
+    style G2 fill:#E8F5E9,stroke:#4CAF50
+    style G4 fill:#E8F5E9,stroke:#4CAF50
+    style G6 fill:#ECEFF1,stroke:#607D8B
+    style R2 fill:#E8F5E9,stroke:#4CAF50
+    style R4 fill:#E3F2FD,stroke:#1976D2
+    style R6 fill:#ECEFF1,stroke:#607D8B
 ```
 
 **Same architecture. Reality is optimized too.**
@@ -129,3 +149,15 @@ Without observers, there's nothing but probability waves.
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Observer Effect Diagrams](../../../../site/diagrams/observer_effect.md) — Quantum observation mechanics
+- [Consciousness](../../../../site/diagrams/consciousness.md) — Observer states
+- [Purusha vs Prakriti](../../../../site/diagrams/purusha_prakriti.md) — Observer-Matter duality
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

@@ -18,6 +18,31 @@
 
 Maya (माया) is the projection system that converts backend reality (Brahman) into frontend experience (observed world).
 
+```mermaid
+flowchart LR
+    subgraph Backend["💾 BACKEND"]
+        B["🕉️ BRAHMAN<br/>Source Code<br/>Pure Potential"]
+    end
+    
+    subgraph Maya["🎭 MAYA ENGINE माया"]
+        direction TB
+        AV["🙈 AVARANA आवरण<br/>Concealment<br/>Hides the real"]
+        VI["🎨 VIKSHEPA विक्षेप<br/>Projection<br/>Creates apparent"]
+        AV --> VI
+    end
+    
+    subgraph Frontend["🎮 FRONTEND"]
+        F["👁️ PERCEIVED REALITY<br/>What you experience<br/>Qualia"]
+    end
+    
+    B -->|"Source data"| Maya
+    Maya -->|"Rendered output"| F
+    
+    style Backend fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style Maya fill:#F3E5F5,stroke:#7B1FA2,stroke-width:2px
+    style Frontend fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
+```
+
 ### Core Functions
 
 1. **Converts backend → frontend** (probabilities → experience)
@@ -53,15 +78,38 @@ Maya_Coefficient = Overall illusion strength (varies by Yuga)
 
 ## 🌀 Render Priority
 
+```mermaid
+flowchart TD
+    O{"👁️ OBSERVER<br/>Present?"}
+    
+    O -->|"❌ No"| W["🌊 WAVE STATE<br/>Backend only<br/>Probability field<br/>Unrendered"]
+    O -->|"✅ Yes"| P["⚫ PARTICLE STATE<br/>Frontend rendered<br/>Definite position<br/>Experience"]
+    
+    P --> A{"🎯 ATTENTION<br/>Level?"}
+    
+    A -->|"High focus"| H["🔍 HIGH LOD<br/>Full detail<br/>Maximum render"]
+    A -->|"Low focus"| L["📉 LOW LOD<br/>Reduced detail<br/>Compressed render"]
+    A -->|"No attention"| U["🚫 UNLOADED<br/>Minimal render<br/>Peripheral only"]
+    
+    style W fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
+    style P fill:#E8F5E9,stroke:#4CAF50,stroke-width:2px
+    style H fill:#FFF8E1,stroke:#D97706,stroke-width:2px
 ```
-OBSERVATION = RENDER TRIGGER
 
-1. Without observer → Backend state only (wave)
-2. With observer → Maya collapses to Frontend (particle)
-3. Render resolution → Based on attention/focus
-4. Unobserved areas → Lower LOD or unrendered
-```
+**OBSERVATION = RENDER TRIGGER**
 
 ---
 
 **[← Back to Backend](../README.md)** | **[← Back to Spec](../../README.md)**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Maya](../../../../site/diagrams/maya.md) — Rendering engine
+- [Observer Effect](../../../../site/diagrams/observer_effect.md) — Reality rendering
+- [Simulation](../../../../site/diagrams/simulation.md) — Architecture
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete library
+
+---

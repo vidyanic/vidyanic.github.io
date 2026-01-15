@@ -66,18 +66,25 @@ Yes — and the methods align across science and Backend:
 
 ## 🔮 THE GAME ANALOGY
 
+```mermaid
+flowchart TD
+    subgraph Life["⏳ LIFE = SAVE FILE ACCUMULATION"]
+        B["👶 BIRTH<br/>Clean install<br/>Minimal Samskaras<br/>Peak hardware"]
+        Y["🏃 YOUTH<br/>Some experience<br/>Still runs well<br/>High performance"]
+        A["👤 ADULT<br/>Heavy load<br/>Files fragmenting<br/>Slower processing"]
+        E["👴 ELDER<br/>Too corrupted<br/>Errors increasing<br/>Reboot needed"]
+    end
+    
+    B --> Y --> A --> E
+    E -->|"🔄 New body<br/>(Rebirth)"| B
+    
+    style B fill:#E8F5E9,stroke:#4CAF50
+    style Y fill:#FFF8E1,stroke:#D97706
+    style A fill:#FFF3E0,stroke:#FF9800
+    style E fill:#ECEFF1,stroke:#607D8B
 ```
-GAME SAVE FILE OVER TIME:
-+------------------------------------------------+
-|  New Game: Clean save, fast load times         |
-|  After 100 hours: Some corruption, slower      |
-|  After 1000 hours: Fragmented, glitchy         |
-|  Eventually: Save corrupted, need new game     |
-+------------------------------------------------+
 
-YOUR BODY OVER TIME:
-+------------------------------------------------+
-|  Birth: Clean hardware, minimal Samskaras      |
+**Aging = Samskara accumulation. Tamas gradually wins over Sattva. Eventually, fresh hardware required.**
 |  Adult: Experiences accumulate, still good     |
 |  Elder: Heavy Samskara load, degradation       |
 |  Death: Body too corrupted, consciousness      |
@@ -154,3 +161,14 @@ You can't stop the clock, but you can **slow it by maintaining Sattva**.
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Samskaras & Vasanas](../../../../site/diagrams/samskaras_vasanas.md) — Karmic impressions
+- [Shad-Vikara](../../../../site/diagrams/shad_vikara.md) — Six stages of existence
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

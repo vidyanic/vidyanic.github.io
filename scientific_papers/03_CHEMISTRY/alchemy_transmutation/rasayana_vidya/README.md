@@ -38,32 +38,39 @@
 
 ## Key Insight
 
+```mermaid
+flowchart TD
+    subgraph Old["❌ CLASSICAL VIEW"]
+        O1["Elements unchangeable"]
+        O2["Transmutation impossible"]
+        O3["Alchemy = superstition"]
+    end
+    
+    subgraph Modern["✅ MODERN PHYSICS"]
+        M1["Nuclear reactions<br/>change elements"]
+        M2["Stars transmute<br/>hydrogen → iron"]
+        M3["LENR documented"]
+    end
+    
+    subgraph Vedic["🕉️ RASAYANA VIDYA"]
+        V1["Transformation<br/>is fundamental"]
+        V2["Matter follows<br/>consciousness"]
+        V3["Physical alchemy<br/>mirrors spiritual"]
+    end
+    
+    Old -->|"Disproved by"| Modern
+    Modern <-->|"Validates"| Vedic
+    
+    Synthesis["💡 SYNTHESIS<br/>Alchemy was intuition of truth<br/>physics later proved"]
+    
+    Modern & Vedic --> Synthesis
+    
+    style Old fill:#FFEBEE,stroke:#F44336
+    style Modern fill:#E3F2FD,stroke:#1976D2
+    style Vedic fill:#FFF8E1,stroke:#D97706
 ```
-+=====================================================================+
-|                                                                     |
-|   CLASSICAL VIEW (Pre-Nuclear):                                     |
-|   - Elements are fundamental, unchangeable                          |
-|   - Transmutation is impossible                                     |
-|   - Alchemy is superstition                                         |
-|                                                                     |
-|   MODERN PHYSICS (Validated):                                       |
-|   - Nuclear reactions change elements                               |
-|   - Transmutation happens in stars                                  |
-|   - LENR shows low-energy transmutation possible                    |
-|   - Biological transmutation documented (controversial)             |
-|                                                                     |
-|   VEDIC RASAYANA:                                                   |
-|   - Transformation is fundamental to reality                        |
-|   - Matter follows consciousness                                    |
-|   - Purification leads to perfection                                |
-|   - Physical alchemy mirrors spiritual alchemy                      |
-|                                                                     |
-|   SYNTHESIS:                                                        |
-|   Alchemy was the intuition of a truth physics later proved.        |
-|   All matter IS transformable. The method is the question.          |
-|                                                                     |
-+=====================================================================+
-```
+
+**All matter IS transformable. The method is the question.**
 
 ---
 
@@ -83,3 +90,15 @@
 *Confidence: 70%*  
 *Status: COMPLETE*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Five Elements](../../../../site/diagrams/five_elements.md) — Element transformations
+- [Gunas](../../../../site/diagrams/gunas.md) — Quality changes
+- [Periodic Table](../../../../site/diagrams/periodic_table.md) — Elements as Gunas
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

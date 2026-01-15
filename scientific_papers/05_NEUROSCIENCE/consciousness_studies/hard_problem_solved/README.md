@@ -62,32 +62,34 @@ The **receiver model** explains all anomalies. The **generator model** can't.
 
 ---
 
-## 🔮 THE GAME ANALOGY
+## 🔮 THE TWO MODELS
 
+```mermaid
+flowchart TB
+    subgraph Wrong["❌ GENERATOR MODEL — What Science Assumes"]
+        direction TB
+        W1["🧠 Brain neurons firing"]
+        W2["❓ Somehow produces...???"]
+        W3["💭 Consciousness emerges"]
+        W1 --> W2 --> W3
+    end
+    
+    subgraph Right["✅ RECEIVER MODEL — What's Actually Happening"]
+        direction TB
+        R1["👤 PLAYER<br/>Consciousness/Purusha<br/>YOU (awareness)"]
+        R2["🥽 VR HEADSET<br/>Brain receives & filters<br/>Interface device"]
+        R3["🎮 AVATAR<br/>Body you experience AS<br/>Character in game"]
+        R4["🌍 GAME WORLD<br/>Reality rendered around<br/>Frontend display"]
+        R1 --> R2 --> R3 --> R4
+    end
+    
+    style W2 fill:#FFEBEE,stroke:#F44336,stroke-width:2px
+    style R1 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style R2 fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
 ```
-THE COMMON ASSUMPTION (Generator Model):
-+------------------------------------------------+
-|  Brain neurons firing                          |
-|       v                                        |
-|  Somehow produces... consciousness???          |
-|       v                                        |
-|  "Experience" emerges from computation         |
-+------------------------------------------------+
-(Nobody can explain the "somehow" part)
 
-WHAT'S ACTUALLY HAPPENING (Receiver Model):
-+------------------------------------------------+
-|  PLAYER (Consciousness/Purusha)                |
-|       v                                        |
-|  VR HEADSET (Brain) receives & filters         |
-|       v                                        |
-|  AVATAR (Body) is what player experiences AS   |
-|       v                                        |
-|  GAME WORLD (Reality) is rendered around       |
-+------------------------------------------------+
-```
-
-**You're not the avatar. You're the player USING the avatar.**
+**You're not the avatar. You're the player USING the avatar.**  
+The brain is the VR headset. Damaging it distorts the picture — but YOU still exist.
 
 ---
 
@@ -161,3 +163,15 @@ If you're the player, not the character:
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Consciousness](../../../../site/diagrams/consciousness.md) — States of awareness
+- [Purusha vs Prakriti](../../../../site/diagrams/purusha_prakriti.md) — Observer-Matter duality
+- [Atman vs Prana](../../../../site/diagrams/atman_prana.md) — Critical distinction
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

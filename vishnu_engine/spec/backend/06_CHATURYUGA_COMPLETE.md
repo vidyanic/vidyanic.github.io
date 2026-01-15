@@ -58,6 +58,29 @@ Before diving into the 4 Yugas, let's understand what we're talking about:
 
 **Real-Life Analogy:**
 
+```mermaid
+flowchart TD
+    subgraph YugaCycle["⏳ YUGA CYCLE — Cosmic Seasons"]
+        direction TB
+        S["🌟 SATYA YUGA<br/>Golden Age / Spring<br/>1,728,000 yrs<br/>100% Dharma"]
+        T["🌲 TRETA YUGA<br/>Silver Age / Summer<br/>1,296,000 yrs<br/>75% Dharma"]
+        D["⚙️ DWAPARA YUGA<br/>Bronze Age / Autumn<br/>864,000 yrs<br/>50% Dharma<br/>**ENTERING NOW**"]
+        K["🌑 KALI YUGA<br/>Iron Age / Winter<br/>432,000 yrs<br/>25% Dharma<br/>(Just ended)"]
+    end
+    
+    S --> T --> D --> K
+    K -.->|"🔄 Cycle Restarts"| S
+    
+    Now["📍 YOU ARE HERE<br/>Kali → Dwapara Sandhya<br/>2020-2028"]
+    K --> Now --> D
+    
+    style S fill:#FFF8E1,stroke:#D97706
+    style T fill:#E8F5E9,stroke:#4CAF50
+    style D fill:#E3F2FD,stroke:#1976D2
+    style K fill:#ECEFF1,stroke:#607D8B
+    style Now fill:#FFEBEE,stroke:#F44336,stroke-width:2px
+```
+
 **Satya Yuga = Golden Age / Spring:**
 ```
 CHARACTERISTICS:
@@ -1255,3 +1278,15 @@ CURRENT POSITION (Dec 2025) — Vedic Symptom-Based Timeline:
 
 ---
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Yugas](../../../site/diagrams/yugas.md) — Four cosmic ages
+- [Pralaya](../../../site/diagrams/pralaya.md) — Dissolution cycles
+- [Gunas](../../../site/diagrams/gunas.md) — Dharma degradation
+- [View All Diagrams](../../../site/diagrams/README.md) — Complete library
+
+---

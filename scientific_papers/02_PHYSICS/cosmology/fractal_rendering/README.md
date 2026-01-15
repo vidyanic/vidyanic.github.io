@@ -62,22 +62,33 @@ This grid generates spirals, shells, vortices — the shapes we see everywhere.
 
 ## 🔮 THE GAME ANALOGY
 
+```mermaid
+flowchart TD
+    subgraph Game["🎮 PROCEDURAL GENERATION"]
+        G1["🌱 One seed algorithm"]
+        G2["🏔️ Unique terrain"]
+        G3["🌲 Unique trees"]
+        G4["🕳️ Unique caves"]
+        G5["✨ Infinite variety<br/>Minimal code"]
+        G1 --> G2 & G3 & G4 --> G5
+    end
+    
+    subgraph Reality["🌌 REALITY"]
+        R1["🕉️ One base algorithm<br/>(Anu-Mahat)"]
+        R2["⚛️ Atoms"]
+        R3["☀️ Solar systems"]
+        R4["🌀 Galaxies"]
+        R5["✨ Same pattern<br/>Every scale"]
+        R1 --> R2 & R3 & R4 --> R5
+    end
+    
+    Game <-->|"Same principle"| Reality
+    
+    style G5 fill:#E3F2FD,stroke:#1976D2
+    style R5 fill:#FFF8E1,stroke:#D97706
 ```
-PROCEDURAL GENERATION IN GAMES:
-+------------------------------------------------+
-|  One seed algorithm generates:                 |
-|  +-- Unique terrain                            |
-|  +-- Unique trees                              |
-|  +-- Unique caves                              |
-|  +-- All following same underlying rules       |
-|                                                |
-|  Zoom in -> same fractal textures               |
-|  Result: Infinite variety, minimal code        |
-+------------------------------------------------+
 
-REALITY:
-+------------------------------------------------+
-|  One base algorithm generates:                 |
+**Reality uses the same efficiency trick as games: one algorithm, infinite applications.**
 |  +-- Atoms (spiraling electrons)               |
 |  +-- Solar systems (spiraling planets)         |
 |  +-- Galaxies (spiraling arms)                 |
@@ -179,3 +190,15 @@ The universe isn't complex. It's **elegantly recursive**.
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Fractals](../../../../site/diagrams/fractals.md) — Scale-invariant patterns
+- [Simulation](../../../../site/diagrams/simulation.md) — Reality rendering
+- [81-Grid](../../../../site/diagrams/81_grid.md) — Fractal architecture
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

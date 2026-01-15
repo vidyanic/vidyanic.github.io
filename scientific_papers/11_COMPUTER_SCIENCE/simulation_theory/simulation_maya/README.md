@@ -39,22 +39,33 @@
 
 ## Key Insight
 
+```mermaid
+flowchart TD
+    subgraph Modern["💻 MODERN SIMULATION THEORY"]
+        M1["🤖 Advanced beings<br/>run the simulation"]
+        M2["🎮 We are NPCs<br/>in their computer"]
+        M3["❓ External simulator<br/>is separate from us"]
+        M1 --> M2 --> M3
+    end
+    
+    subgraph Vedic["🕉️ VEDIC MAYA THEORY"]
+        V1["🎭 Maya projects reality<br/>The cosmic GPU"]
+        V2["👤 You play as character<br/>but ARE Brahman"]
+        V3["✨ YOU ARE the simulator<br/>playing hide-and-seek"]
+        V1 --> V2 --> V3
+    end
+    
+    Diff["🔑 KEY DIFFERENCE<br/>Modern: External simulator<br/>Vedic: YOU are the simulator"]
+    
+    Modern --> Diff
+    Vedic --> Diff
+    
+    style Modern fill:#E3F2FD,stroke:#1976D2
+    style Vedic fill:#FFF8E1,stroke:#D97706
+    style Diff fill:#E8F5E9,stroke:#4CAF50,stroke-width:2px
 ```
-+=====================================================================+
-|                                                                     |
-|   MODERN SIMULATION THEORY:                                         |
-|   "We might be in a computer simulation run by advanced beings"     |
-|                                                                     |
-|   VEDIC MAYA THEORY (5,000+ years ago):                             |
-|   "Reality is projected by Maya, the cosmic rendering engine.       |
-|    You are both the simulation AND the simulator (Brahman)."        |
-|                                                                     |
-|   KEY DIFFERENCE:                                                   |
-|   Modern: External simulator exists                                 |
-|   Vedic: YOU ARE the simulator, temporarily playing as character    |
-|                                                                     |
-+=====================================================================+
-```
+
+**VEDIC INSIGHT:** You're not just IN the simulation — you ARE the simulator, temporarily forgetting your true nature to have experiences.
 
 ---
 
@@ -82,3 +93,15 @@
 *Confidence: 84%*  
 *Status: COMPLETE*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Simulation](../../../../site/diagrams/simulation.md) — Reality architecture
+- [Maya](../../../../site/diagrams/maya.md) — Rendering engine
+- [Brahman](../../../../site/diagrams/brahman.md) — Source vs simulation
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

@@ -33,24 +33,31 @@ Everything in nature (including you) is made of three qualities:
 
 ### 1.2 They're Always Mixed
 
+```mermaid
+pie title YOUR GUNA MIX RIGHT NOW (Example)
+    "Sattva ☀️" : 25
+    "Rajas ⚡" : 55
+    "Tamas 🌑" : 20
 ```
-YOU RIGHT NOW:
-==============
-        +------------------------------------------------+
-Sattva  |████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 25%
-        +------------------------------------------------+
-        +------------------------------------------------+
-Rajas   |████████████████████████████░░░░░░░░░░░░░░░░░░| 55%
-        +------------------------------------------------+
-        +------------------------------------------------+
-Tamas   |████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░| 20%
-        +------------------------------------------------+
 
-(Example — yours will vary moment to moment)
-
-S + R + T = 100% (always)
-GOAL: Increase S, then transcend all three
+```mermaid
+flowchart LR
+    subgraph Mix["⚖️ GUNA BALANCE"]
+        S["☀️ SATTVA<br/>Clarity, Peace"]
+        R["⚡ RAJAS<br/>Activity, Drive"]
+        T["🌑 TAMAS<br/>Inertia, Rest"]
+    end
+    
+    S --> R --> T --> S
+    
+    Goal["🎯 GOAL:<br/>Increase Sattva<br/>Then transcend all three"]
+    
+    style S fill:#E8F5E9,stroke:#4CAF50
+    style R fill:#FFF8E1,stroke:#D97706
+    style T fill:#ECEFF1,stroke:#607D8B
 ```
+
+**S + R + T = 100% (always).** Your mix varies moment to moment based on food, sleep, media, and actions.
 
 ### 1.3 They Change Constantly
 
@@ -409,3 +416,14 @@ This sets the tone for the entire day.
 
 **[<- Back to Practical Guides](./README.md)**
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Gunas](../diagrams/gunas.md) — Sattva, Rajas, Tamas
+- [Shadripu](../diagrams/shadripu.md) — Six enemies
+- [Ayurveda](../diagrams/ayurveda.md) — Dosha balance
+
+---

@@ -69,31 +69,37 @@ It's like when your VR headset glitches and you see the room you're actually sit
 
 ---
 
-## 🔮 THE GAME ANALOGY
+## 🔮 THE VR HEADSET ANALOGY
 
+```mermaid
+flowchart TD
+    subgraph Normal["🎮 NORMAL STATE"]
+        N1["🥽 VR Headset ON<br/>Brain active"]
+        N2["🎮 Playing game<br/>Filtered reality"]
+        N3["👤 Experience limited<br/>to game view"]
+    end
+    
+    subgraph NDE["💫 NDE STATE"]
+        D1["💀 Clinical death<br/>Brain OFF (flat EEG)"]
+        D2["🥽 Headset crashes<br/>Filter removed"]
+        D3["👁️ See ACTUAL reality<br/>Unfiltered, vivid"]
+        D4["✨ 'More real than real'<br/>Hyper-clarity"]
+    end
+    
+    subgraph Return["🔄 RETURN"]
+        R1["💓 Body revived<br/>Brain reboots"]
+        R2["🥽 Headset back on<br/>Re-enter game"]
+        R3["📝 Remember glimpse<br/>of real room"]
+    end
+    
+    Normal -->|"Body dies"| NDE
+    NDE -->|"Resuscitated"| Return
+    
+    style D3 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style D4 fill:#FFF8E1,stroke:#D97706,stroke-width:2px
 ```
-VR HEADSET GLITCH:
-+------------------------------------------------+
-|  Playing VR game -> headset crashes             |
-|  For a moment: See the REAL room               |
-|  Way more vivid than the game                  |
-|  Can see your body lying there                 |
-|  Then headset reboots -> back in game           |
-|                                                |
-|  That's an NDE.                                |
-+------------------------------------------------+
 
-REALITY:
-+------------------------------------------------+
-|  Living life -> body clinically dies            |
-|  For a moment: See ACTUAL reality              |
-|  Unfiltered, vivid, "more real"                |
-|  Can see your body on table                    |
-|  Body revived -> consciousness re-enters        |
-|                                                |
-|  That's what 15+ million people describe.      |
-+------------------------------------------------+
-```
+**When the VR headset (brain) crashes, you temporarily see the REAL room you're sitting in. That's what 15+ million people describe.**
 
 ---
 
@@ -159,3 +165,15 @@ When body shuts down, consciousness doesn't. It just stops being filtered throug
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Moksha](../../../../site/diagrams/moksha.md) — Liberation paths
+- [Lokas](../../../../site/diagrams/lokas.md) — 14 frequency layers
+- [Consciousness](../../../../site/diagrams/consciousness.md) — States of awareness
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

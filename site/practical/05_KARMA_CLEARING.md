@@ -37,21 +37,30 @@ Karma IS:
 
 ### 1.2 The Simple Formula
 
+```mermaid
+flowchart TD
+    subgraph Cycle["🔄 KARMA CYCLE — Until Broken"]
+        A["🎯 ACTION<br/>+ INTENTION"]
+        S["🧠 SAMSKARA<br/>Impression stored"]
+        V["🌀 VASANA<br/>Tendency forms"]
+        N["⚡ NEW ACTION<br/>Tendency drives"]
+    end
+    
+    A --> S --> V --> N
+    N -.->|"Cycle repeats"| A
+    
+    Break["✂️ BREAK POINT<br/>Nishkama Karma<br/>(Action without attachment)"]
+    
+    N --> Break
+    Break -.->|"Liberation"| Free["✨ FREEDOM<br/>No new karma"]
+    
+    style A fill:#E3F2FD,stroke:#1976D2
+    style S fill:#FFF8E1,stroke:#D97706
+    style V fill:#F3E5F5,stroke:#7B1FA2
+    style Break fill:#E8F5E9,stroke:#4CAF50,stroke-width:2px
 ```
-+===============================================================+
-|                                                               |
-|                    KARMA EQUATION                              |
-|                                                               |
-|            ACTION + INTENTION = CONSEQUENCE                    |
-|                                                               |
-|   • Every action creates an impression (Samskara)             |
-|   • Impressions create tendencies (Vasanas)                   |
-|   • Tendencies drive future actions                           |
-|   • Actions create more impressions                           |
-|   • The cycle continues... until broken                       |
-|                                                               |
-+===============================================================+
-```
+
+**ACTION + INTENTION = CONSEQUENCE.** The cycle continues until broken through conscious awareness.
 
 ### 1.3 Why It Matters
 
@@ -448,3 +457,15 @@ KARMA REVIEW:
 
 **[<- Back to Practical Guides](./README.md)**
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Karma](../diagrams/karma.md) — Complete karma system
+- [Rina](../diagrams/rina.md) — Debt system
+- [Samskaras & Vasanas](../diagrams/samskaras_vasanas.md) — Clearing patterns
+- [Sankalpa](../diagrams/sankalpa.md) — Intention mechanism
+
+---

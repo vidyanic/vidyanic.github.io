@@ -75,25 +75,41 @@ NO NORMAL EXPLANATION WORKS:
 
 ## 🎯 KEY INSIGHT
 
+```mermaid
+flowchart TD
+    subgraph Cycle["🔄 REINCARNATION CYCLE"]
+        direction TB
+        D1["💀 DEATH<br/>Body dissolves<br/>Atman withdraws"]
+        T1["🌀 TRANSIT<br/>Subtle body carries<br/>karma + samskaras"]
+        B1["👶 BIRTH<br/>New body selected<br/>based on karma"]
+        L1["🌱 LIFE<br/>Experience, learn<br/>create new karma"]
+    end
+    
+    D1 --> T1 --> B1 --> L1 --> D1
+    
+    subgraph Transfers["✅ WHAT TRANSFERS"]
+        direction LR
+        AT["🕉️ Atman (Always)"]
+        SA["📜 Samskaras (Always)"]
+        VA["💫 Vasanas (Always)"]
+        KA["⚖️ Karma (Always)"]
+        ME["💭 Memories (Sometimes)"]
+    end
+    
+    subgraph NotTransfer["❌ NEVER TRANSFERS"]
+        BO["🧠 Physical Brain"]
+        BD["🦴 Physical Body"]
+    end
+    
+    T1 --> Transfers
+    
+    style D1 fill:#ECEFF1,stroke:#607D8B
+    style B1 fill:#E8F5E9,stroke:#4CAF50
+    style Transfers fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style NotTransfer fill:#FFEBEE,stroke:#F44336
 ```
-+==============================================================+
-|                                                              |
-|   REINCARNATION = ATMAN + SAMSKARAS -> NEW BODY               |
-|                                                              |
-|   WHAT TRANSFERS:                                            |
-|   ✅ Consciousness (Atman) — Always                          |
-|   ✅ Deep impressions (Samskaras) — Always                   |
-|   ✅ Tendencies (Vasanas) — Always                           |
-|   ✅ Karma — Always                                          |
-|   ⚠️ Memories — Sometimes (usually blocked)                  |
-|   ❌ Physical brain/body — Never                             |
-|                                                              |
-|   YOU HAVE LIVED BEFORE.                                     |
-|   YOU WILL LIVE AGAIN.                                       |
-|   UNTIL YOU REMEMBER WHO YOU TRULY ARE.                      |
-|                                                              |
-+==============================================================+
-```
+
+**YOU HAVE LIVED BEFORE. YOU WILL LIVE AGAIN. UNTIL YOU REMEMBER WHO YOU TRULY ARE.**
 
 ---
 
@@ -130,3 +146,15 @@ NO NORMAL EXPLANATION WORKS:
 
 **Confidence: 85%** | **Level: 7 (Moksha/Exit)** | **Sections: 14/14 ✅**
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Karma](../../../../site/diagrams/karma.md) — Karmic continuity
+- [Samskaras & Vasanas](../../../../site/diagrams/samskaras_vasanas.md) — Carried impressions
+- [Lokas](../../../../site/diagrams/lokas.md) — Transit between lives
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

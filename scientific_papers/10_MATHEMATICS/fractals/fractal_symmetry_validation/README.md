@@ -73,6 +73,38 @@
 
 ## 📊 FRACTAL LEVELS (N-6 to N+6)
 
+```mermaid
+flowchart TD
+    subgraph Above["⬆️ ABOVE US — Larger Scales"]
+        N6["♾️ N+6: BRAHMAN ∞<br/>Pure Consciousness"]
+        N5["✨ N+5: MAHAVISHNU 10⁶⁰ m<br/>Universe Hypervisor"]
+        N4["🌌 N+4: BRAHMANDA 10⁴⁰ m<br/>Universe Instance"]
+        N3["🌠 N+3: GALAXY 10²¹ m<br/>Milky Way"]
+        N2["☀️ N+2: SOLAR SYSTEM 10¹³ m"]
+        N1["🌍 N+1: PLANET 10⁷ m<br/>Earth"]
+    end
+    
+    N0["👤 N: HUMAN 10⁰ m<br/>**YOU ARE HERE**<br/>Observer Reference"]
+    
+    subgraph Below["⬇️ BELOW US — Smaller Scales"]
+        M1["🔬 N-1: CELL 10⁻⁵ m"]
+        M2["🧬 N-2: ORGANELLE 10⁻⁷ m"]
+        M3["🧪 N-3: MOLECULE 10⁻⁹ m"]
+        M4["⚛️ N-4: ATOM 10⁻¹⁰ m"]
+        M5["✨ N-5: QUANTUM 10⁻¹⁵ m"]
+        M6["🔲 N-6: PLANCK 10⁻³⁵ m<br/>Minimum Pixel"]
+    end
+    
+    N6 --> N5 --> N4 --> N3 --> N2 --> N1 --> N0
+    N0 --> M1 --> M2 --> M3 --> M4 --> M5 --> M6
+    
+    style N0 fill:#FFF8E1,stroke:#D97706,stroke-width:3px
+    style Above fill:#E3F2FD,stroke:#1976D2
+    style Below fill:#E8F5E9,stroke:#4CAF50
+```
+
+**Same pattern at EVERY level:** Pattern(n) ≈ Pattern(n±k) for all k
+
 | Level | Name | Scale | Example |
 |-------|------|-------|---------|
 | N+6 | Brahman | ∞ | Pure consciousness |
@@ -175,3 +207,15 @@ IF FRACTAL VALIDATION SUCCEEDS -> ALL PAPERS STRENGTHENED
 
 
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Fractals](../../../../site/diagrams/fractals.md) — Scale invariance
+- [81-Grid](../../../../site/diagrams/81_grid.md) — Vastu Mandala grid
+- [Validation](../../../../site/diagrams/validation.md) — 7-concept validation
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

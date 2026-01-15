@@ -38,26 +38,39 @@
 
 ## Key Insight
 
+```mermaid
+flowchart TD
+    subgraph Modern["🔬 GAIA HYPOTHESIS (Modern Science)"]
+        M1["🌍 Earth as self-regulating system"]
+        M2["🌬️ Atmosphere regulation"]
+        M3["🌊 Ocean chemistry"]
+        M4["🌱 Biosphere feedback"]
+        M1 --> M2 & M3 & M4
+    end
+    
+    subgraph Vedic["🕉️ PRITHVI / BHUMI DEVI (Vedic)"]
+        V1["🌏 Earth is conscious goddess"]
+        V2["🙏 She is our mother"]
+        V3["🔄 Has Prana (life force)"]
+        V4["⚖️ Has Dharma (purpose)"]
+        V1 --> V2 & V3 & V4
+    end
+    
+    subgraph Synthesis["✨ SYNTHESIS"]
+        S1["Gaia = Scientific validation<br/>of Vedic Earth-Mother"]
+        S2["Earth is ALIVE, not dead matter"]
+        S3["Environmental crisis =<br/>harming a living being"]
+    end
+    
+    Modern --> Synthesis
+    Vedic --> Synthesis
+    
+    style Modern fill:#E3F2FD,stroke:#1976D2
+    style Vedic fill:#FFF8E1,stroke:#D97706
+    style Synthesis fill:#E8F5E9,stroke:#4CAF50,stroke-width:2px
 ```
-+=====================================================================+
-|                                                                     |
-|   GAIA HYPOTHESIS (MODERN):                                         |
-|   Earth functions as a self-regulating living system.               |
-|   Atmosphere, oceans, land, and life interact to maintain           |
-|   conditions suitable for life. "Gaia" = Earth as organism.         |
-|                                                                     |
-|   VEDIC UNDERSTANDING:                                              |
-|   Bhumi Devi is a goddess—Earth is conscious, sacred, alive.        |
-|   She is our mother. We are her children, not her owners.           |
-|   The planet has Prana (life force) and Dharma (purpose).           |
-|                                                                     |
-|   SYNTHESIS:                                                        |
-|   Gaia = Scientific validation of Vedic Earth-Mother concept.       |
-|   Earth is not dead matter we exploit; Earth is alive.              |
-|   Our environmental crisis = harming a living being.                |
-|                                                                     |
-+=====================================================================+
-```
+
+**GAIA = Earth as a living, self-regulating, conscious being. We are her children, not her owners.**
 
 ---
 
@@ -77,3 +90,15 @@
 *Confidence: 80%*  
 *Status: COMPLETE*
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Consciousness](../../../../site/diagrams/consciousness.md) — Planetary awareness
+- [Fractals](../../../../site/diagrams/fractals.md) — Earth as fractal level
+- [Dvipas & Samudras](../../../../site/diagrams/dvipas_samudras.md) — Planetary geography
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

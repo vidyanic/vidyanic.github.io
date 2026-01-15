@@ -60,18 +60,30 @@ The 2017 Nobel Prize validated what Dinacharya (Vedic daily routine) encoded tho
 
 ## 📊 Key Discovery
 
+```mermaid
+flowchart TD
+    subgraph Circadian["⏰ CIRCADIAN = PHYSIOLOGICAL DHARMA"]
+        C["🧬 CLOCK<br/>Every cell has 24-hr clock<br/>(2017 Nobel Prize)"]
+        T["⏱️ TIMING<br/>Specific times<br/>for specific activities"]
+        M["📊 MATCH<br/>Dinacharya correlates 92%<br/>with chronobiology"]
+    end
+    
+    C --> T --> M
+    
+    subgraph Outcomes["📈 OUTCOMES"]
+        H["✅ FOLLOW → Health<br/>Optimal function"]
+        D["❌ DISRUPT → Disease<br/>Cancer, obesity, diabetes"]
+    end
+    
+    M --> H
+    M --> D
+    
+    style C fill:#E3F2FD,stroke:#1976D2
+    style H fill:#E8F5E9,stroke:#4CAF50
+    style D fill:#FFEBEE,stroke:#F44336
 ```
-CIRCADIAN = PHYSIOLOGICAL DHARMA:
-=================================
 
-CLOCK:    Every cell has 24-hour clock (Nobel Prize)
-TIMING:   Specific times for specific activities
-MATCH:    Dinacharya correlates 92% with chronobiology
-DISEASE:  Disruption = Cancer, obesity, diabetes, etc.
-HEALTH:   Following rhythm = Optimal function
-
-Overall Confidence: 92%
-```
+**Confidence: 92%** — Body's Dharma is encoded in every cell's clock.
 
 ---
 
@@ -167,5 +179,18 @@ T = Period (~24 hours)
 ---
 
 > **"The body has a Dharma — its circadian rhythm. Follow it and thrive; violate it and suffer."**
+
+---
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Yugas](../../../../site/diagrams/yugas.md) — Time cycles
+- [Gunas](../../../../site/diagrams/gunas.md) — Daily Guna fluctuations
+- [Navagraha](../../../../site/diagrams/navagraha.md) — Planetary influences
+- [Ayurveda](../../../../site/diagrams/ayurveda.md) — Daily routine (Dinacharya)
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
 
 ---

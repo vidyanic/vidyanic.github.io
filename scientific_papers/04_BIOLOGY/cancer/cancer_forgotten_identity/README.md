@@ -58,26 +58,29 @@ If cancer is identity-loss (Svadharma-Bhramsha), treatment is identity-restorati
 
 ## 🎮 THE GAME ANALOGY
 
+```mermaid
+flowchart LR
+    subgraph Normal["✅ NORMAL CELL"]
+        N1["🏪 Role: Specific job<br/>(liver, heart, skin)"]
+        N2["📋 Svadharma ACTIVE<br/>Knows its purpose"]
+        N3["🛑 Boundaries: Obeys<br/>division limits"]
+        N4["📡 Communication: ON<br/>responds to signals"]
+    end
+    
+    subgraph Cancer["❌ CANCER CELL"]
+        C1["❓ Role: LOST<br/>Forgot its job"]
+        C2["📋 Svadharma CORRUPTED<br/>No identity"]
+        C3["🚫 Boundaries: NONE<br/>divides infinitely"]
+        C4["🙈 Disguise: ON<br/>hides from immune"]
+    end
+    
+    Normal -->|"Identity markers<br/>corrupted"| Cancer
+    
+    style Normal fill:#E8F5E9,stroke:#4CAF50
+    style Cancer fill:#FFEBEE,stroke:#F44336
 ```
-NORMAL NPC:
-+------------------------------------------------+
-|  Role: Shopkeeper                              |
-|  Behavior: Stay at shop, trade with players   |
-|  Boundaries: Don't leave shop, don't attack   |
-|  Quest marker: ✅ Active                       |
-+------------------------------------------------+
 
-CORRUPTED NPC (CANCER):
-+------------------------------------------------+
-|  Role: ???                                     |
-|  Behavior: Wander, consume resources, multiply|
-|  Boundaries: None, ignores all limits          |
-|  Quest marker: ❌ Lost                         |
-|  Disguise: Equipped (immune system can't see) |
-+------------------------------------------------+
-```
-
-**Cancer is NPC identity corruption.**
+**Cancer = Cell whose Svadharma (स्वधर्म/self-purpose) got corrupted. Treatment = identity restoration.**
 
 ---
 

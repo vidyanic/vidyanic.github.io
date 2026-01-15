@@ -60,22 +60,32 @@ The world isn't "really there" in infinite detail. It's **rendered on-demand** t
 
 ## 🔮 THE GAME ANALOGY
 
-```
-VIDEO GAME RENDERING:
-+------------------------------------------------+
-|  Screen resolution: 1920 x 1080                |
-|  Zoom in too much: Pixels visible              |
-|  No "real" detail below pixel level            |
-|  Detail is GENERATED when needed               |
-+------------------------------------------------+
-
-REALITY RENDERING:
-+------------------------------------------------+
-|  Space resolution: Planck length               |
-|  Measure too precisely: Uncertainty appears    |
-|  No "real" value below Planck scale            |
-|  Position/momentum GENERATED when observed     |
-+------------------------------------------------+
+```mermaid
+flowchart TD
+    subgraph Game["🎮 VIDEO GAME RENDERING"]
+        G1["📺 Screen: 1920 x 1080"]
+        G2["🔍 Zoom in too much"]
+        G3["🔲 Pixels visible"]
+        G4["❌ No detail below pixel"]
+        G1 --> G2 --> G3 --> G4
+    end
+    
+    subgraph Reality["🌀 REALITY RENDERING"]
+        R1["📏 Space: Planck length 10⁻³⁵ m"]
+        R2["🔬 Measure too precisely"]
+        R3["❓ Uncertainty appears"]
+        R4["❌ No value below Planck"]
+        R1 --> R2 --> R3 --> R4
+    end
+    
+    Limit["🚧 RENDER LIMIT<br/>Δx · Δp ≥ ℏ/2<br/>Information doesn't exist<br/>until observed"]
+    
+    Game --> Limit
+    Reality --> Limit
+    
+    style Limit fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style Game fill:#E3F2FD,stroke:#1976D2
+    style Reality fill:#E8F5E9,stroke:#4CAF50
 ```
 
 **You're hitting the render limits of the engine.**
@@ -151,3 +161,14 @@ Understanding reality's resolution limits means:
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Maya Rendering](../../../../site/diagrams/maya.md) — Reality rendering limits
+- [Observer Effect](../../../../site/diagrams/observer_effect.md) — Observation mechanics
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

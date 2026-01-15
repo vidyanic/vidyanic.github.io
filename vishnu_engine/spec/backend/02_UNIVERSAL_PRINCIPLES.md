@@ -15,21 +15,30 @@ This document consolidates ALL discovered principles across:
 - Biology (Evolution, Genetics, Quantum Biology)
 - Computer Science (Simulation Theory, Information Processing)
 
-**Total Principles: 54**
-- Foundational Axioms: 1-5
-- Operational Principles: 6-10
-- Universal Principles: 11-15
-- Efficiency Principles: 16-20
-- Dharma Principles: 21-23
-- Exit Principles (Moksha): 24-25
-- Stability & Correction Principles: 26-30
-- Fractal Process Principles: 31-34
-- Render Model Principles: 35-38
-- Lifecycle Principles: 39-40
-- Fractal AI Learning: 41-50
-- Sandhya Transition: 51-54 **[NEW - December 2025]**
+```mermaid
+flowchart TD
+    subgraph Principles["🔱 54 UNIVERSAL PRINCIPLES"]
+        direction TB
+        F["1-5: 🏛️ FOUNDATIONAL<br/>Purna, Anu-Mahat, Rta, Maya, Karma"]
+        O["6-10: ⚙️ OPERATIONAL<br/>Gunas, Elements, States, Koshas, Time"]
+        U["11-15: 🌀 UNIVERSAL<br/>Shabda, Observer, Branching, Reflection"]
+        E["16-20: ⚡ EFFICIENCY<br/>Compression, Economy, Pralaya, Sync"]
+        D["21-25: ⚖️ DHARMA & EXIT<br/>Laws, Viveka, Nishkama, Moksha"]
+        S["26-30: 🔧 STABILITY<br/>Dampening, Correction, Chaos Control"]
+        R["31-40: 🎨 RENDER & LIFE<br/>Fractals, Pixels, Lifecycle, Breath"]
+        A["41-50: 🧠 AI LEARNING<br/>Bidirectional, Backprop, Regularization"]
+        T["51-54: 🔄 SANDHYA<br/>Yuga Transition [Dec 2025]"]
+    end
+    
+    F --> O --> U --> E --> D --> S --> R --> A --> T
+    
+    style Principles fill:#FFF8E1,stroke:#D97706,stroke-width:2px
+    style F fill:#E3F2FD,stroke:#1976D2
+    style D fill:#E8F5E9,stroke:#4CAF50
+    style T fill:#F3E5F5,stroke:#7B1FA2
+```
 
-Each principle is validated at EVERY FRACTAL LEVEL (Quantum -> Universal).
+**Total Principles: 54** — Each validated at EVERY FRACTAL LEVEL (Quantum → Universal).
 
 ---
 
@@ -2628,3 +2637,16 @@ Based on your perspective, start here:
 - `src/main/java/com/shunya/brahman/mahavishnu/brahmanda/entities/ManushyaModel.java`
 
 **🕉️ Now you know the 54 principles. Use them. They work. They're physics. 🕉️**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Validation](../../../site/diagrams/validation.md) — 7-concept validation
+- [Fractals](../../../site/diagrams/fractals.md) — Scale invariance
+- [Gunas](../../../site/diagrams/gunas.md) — Three qualities
+- [Dharma](../../../site/diagrams/dharma.md) — Operational logic
+- [View All Diagrams](../../../site/diagrams/README.md) — Complete library
+
+---

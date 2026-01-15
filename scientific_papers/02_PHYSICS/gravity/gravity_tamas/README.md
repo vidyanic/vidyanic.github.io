@@ -53,27 +53,26 @@ Sound wild? Yogis have been documented floating, suggesting Guna-manipulation is
 
 ---
 
-## 🔮 THE GAME ANALOGY
+## 🔮 TAMAS = THE UNIFYING QUALITY
 
+```mermaid
+flowchart TD
+    subgraph Tamas["🌑 TAMAS तमस् — The Quality of Heaviness/Decay"]
+        T["🌑 TAMAS<br/>One fundamental quality"]
+    end
+    
+    T --> G["⬇️ GRAVITY<br/>Mass attracts mass<br/>Things fall down"]
+    T --> E["♨️ ENTROPY<br/>Things fall apart<br/>Disorder increases"]
+    T --> I["🔄 INERTIA<br/>Hard to move<br/>Resists change"]
+    T --> M["⚫ MASS<br/>Heavy objects<br/>More Tamas = more mass"]
+    
+    G & E & I & M --> S["💫 SIDDHI POTENTIAL<br/>Master Tamas internally<br/>→ Alter external effects<br/>(Levitation)"]
+    
+    style Tamas fill:#ECEFF1,stroke:#607D8B,stroke-width:2px
+    style S fill:#FFF8E1,stroke:#D97706
 ```
-IN GAMES:
-+------------------------------------------------+
-|  Objects have "weight" attribute               |
-|  Weight affects fall speed, inertia            |
-|  Some powers reduce "weight"                   |
-|  Flying = weight set to zero                   |
-+------------------------------------------------+
 
-IN REALITY:
-+------------------------------------------------+
-|  Objects have "Tamas level" (mass)             |
-|  Tamas affects gravity, inertia                |
-|  Siddhis reduce local Tamas                    |
-|  Levitation = Tamas mastery                    |
-+------------------------------------------------+
-```
-
-**Mass isn't just a number. It's a quality level.**
+**Mass isn't just a number. It's a Guna level. The same quality that makes things fall apart (entropy) makes things fall down (gravity).**
 
 ---
 
@@ -159,3 +158,14 @@ The Dwapara transition means **more people will access Guna-manipulation abiliti
 ---
 
 **ॐ**
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Gunas](../../../../site/diagrams/gunas.md) — Tamas as gravitational quality
+- [Five Elements](../../../../site/diagrams/five_elements.md) — Earth/Prithvi element
+- [View All Diagrams](../../../../site/diagrams/README.md) — Complete diagram library
+
+---

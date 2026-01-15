@@ -26,41 +26,35 @@ These 48 research papers explore these parallels systematically.
 
 ### Here's What's Actually Happening:
 
-```
-YOUR REALITY
-================================================================================
-
-+-------------------------------------------------------------------------+
-|                        WHAT YOU SEE (FRONTEND)                          |
-|                                                                         |
-|   +----------+  +----------+  +----------+  +----------+                |
-|   |   You    |  |  Other   |  |  World   |  | Physics  |                |
-|   | (Avatar) |  |  People  |  | Objects  |  |  Rules   |                |
-|   +----+-----+  +----+-----+  +----+-----+  +----+-----+                |
-|        |             |             |             |                      |
-|        v             v             v             v                      |
-|   +---------------------------------------------------------------+    |
-|   |              RENDER ENGINE (Maya)                             |    |
-|   |        "Generates what you perceive as reality"               |    |
-|   +---------------------------------------------------------------+    |
-+-------------------------------------------------------------------------+
-                                   |
-                                   v
-+-------------------------------------------------------------------------+
-|                       WHAT'S REALLY THERE (BACKEND)                     |
-|                                                                         |
-|   +---------------------------------------------------------------+    |
-|   |                    SOURCE CODE (Brahman)                      |    |
-|   |              "The actual engine running everything"           |    |
-|   |                                                               |    |
-|   |   * Physics Engine (Prakriti)                                 |    |
-|   |   * Entity System (Jiva-Jada)                                 |    |
-|   |   * Karma Logger (Action -> Consequence)                      |    |
-|   |   * Observer Handler (Consciousness API)                      |    |
-|   |   * Death/Respawn System (Samsara)                            |    |
-|   |   * Exit Function (Moksha)                                    |    |
-|   +---------------------------------------------------------------+    |
-+-------------------------------------------------------------------------+
+```mermaid
+flowchart TB
+    subgraph Frontend["🎮 WHAT YOU SEE - FRONTEND"]
+        A["👤 You<br/>Your Avatar/Body<br/>The Player Character"]
+        B["👥 Others<br/>NPCs/People Around You<br/>Other Conscious Beings"]
+        C["🌍 World<br/>Objects & Matter<br/>Everything You Touch"]
+        D["⚛️ Physics<br/>Natural Laws You Observe<br/>Gravity, Time, Space"]
+    end
+    
+    subgraph Maya["🎨 MAYA माया - The Render Engine"]
+        E["Wave Function Collapse<br/>Generates What You Perceive<br/>Reality Rendered On-Demand"]
+    end
+    
+    subgraph Backend["💾 WHAT'S REALLY THERE - BACKEND"]
+        F["🕉️ BRAHMAN ब्रह्मन्<br/>SOURCE CODE<br/>The Actual Engine Running Everything"]
+        G["⚙️ PRAKRITI प्रकृति<br/>Physics Engine<br/>Laws of Nature Backend"]
+        H["📊 KARMA कर्म Logger<br/>Action → Consequence<br/>Event Tracking System"]
+        I["👁️ CONSCIOUSNESS API<br/>Observer Handler<br/>Purusha पुरुष Interface"]
+        J["🔄 SAMSARA संसार<br/>Respawn/Rebirth System<br/>Death & Reincarnation"]
+        K["🚪 MOKSHA मोक्ष<br/>Exit Function<br/>Liberation from the Loop"]
+    end
+    
+    Frontend --> Maya
+    Maya --> Backend
+    F --> G
+    F --> H
+    F --> I
+    F --> J
+    F --> K
 ```
 
 **The Backend Framework describes this architecture.**  
@@ -492,6 +486,7 @@ Fair. Here's the evidence stack:
 
 | Resource | What It Is | Link |
 |----------|-----------|------|
+| **Diagram Library** | Visual explanations of all concepts | [📊 Diagrams](../site/diagrams/README.md) |
 | **Dictionary** | All terms translated | [📖 DICTIONARY.md](../scientific_papers/01_FOUNDATION/DICTIONARY.md) |
 | **Foundation Map** | How papers connect | [🗺️ FOUNDATION_MAPPING.md](../scientific_papers/01_FOUNDATION/FOUNDATION_MAPPING.md) |
 | **Paper Template** | How papers are structured | [📝 PAPER_TEMPLATE.md](../scientific_papers/01_FOUNDATION/PAPER_TEMPLATE.md) |
@@ -553,5 +548,15 @@ Every paper has:
 
 *You're not reading this by accident.*  
 *The timing is part of the code.*
+
+---
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Complete Diagram Library](../site/diagrams/README.md) — Visual guides for all concepts
+- [Validation Framework](../site/diagrams/validation.md) — 7-concept validation system
 
 ---

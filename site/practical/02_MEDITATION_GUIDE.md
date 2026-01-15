@@ -38,22 +38,23 @@ Meditation IS:
 
 ### 1.2 The Stages
 
-```
-MEDITATION PROGRESSION:
-=======================
-
-1. DHARANA (धारणा) — Concentration
-   +-- Holding attention on one object
-
-2. DHYANA (ध्यान) — Meditation
-   +-- Sustained flow of attention
-
-3. SAMADHI (समाधि) — Absorption
-   +-- Subject-object distinction dissolves
-
-Most people work on Dharana.
-True Dhyana comes after years of Dharana.
-Samadhi comes spontaneously when conditions are right.
+```mermaid
+flowchart TD
+    subgraph Stages["🧘 MEDITATION PROGRESSION"]
+        D["🎯 DHARANA धारणा<br/>Concentration<br/>Holding attention on one object"]
+        DH["🌊 DHYANA ध्यान<br/>Meditation<br/>Sustained flow of attention"]
+        S["✨ SAMADHI समाधि<br/>Absorption<br/>Subject-object dissolves"]
+    end
+    
+    D -->|"Years of practice"| DH -->|"Spontaneous"| S
+    
+    Note["📝 Most people work on Dharana<br/>True Dhyana comes after years<br/>Samadhi comes when conditions are right"]
+    
+    S --> Note
+    
+    style D fill:#E3F2FD,stroke:#1976D2
+    style DH fill:#FFF8E1,stroke:#D97706
+    style S fill:#E8F5E9,stroke:#4CAF50
 ```
 
 ---
@@ -441,3 +442,15 @@ BEFORE SLEEP: 20 min
 
 **[<- Back to Practical Guides](./README.md)**
 
+
+---
+
+## 🔗 Related Visual Diagrams
+
+For visual understanding of concepts in this document, see:
+- [Chakras](../diagrams/chakras.md) — Energy centers for meditation
+- [Consciousness](../diagrams/consciousness.md) — States of awareness
+- [Koshas](../diagrams/koshas.md) — Layers to transcend
+- [15th Axis](../diagrams/15th_axis.md) — Sushumna path
+
+---
