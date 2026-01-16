@@ -1,10 +1,25 @@
 # 06. RESULTS — Validation of Ghost Node Thesis
 
+
+---
+
+## 6.0 SUMMARY: THE THREE PROOFS
+
+This paper validates the Ghost Node thesis through THREE converging lines of evidence:
+
+| Proof Type | Source | Confidence |
+|------------|--------|------------|
+| **Historical** | 10,000+ years of economic data | 99% |
+| **Structural** | Backend architecture analysis (Ghost Node) | 95% |
+| **Vedic** | Antahkarana model, Viveka framework | 90% |
+
+When multiple independent frameworks converge on the same conclusion, confidence increases exponentially.
+
 ---
 
 ## 6.1 HISTORICAL PATTERN: 99%
 
-### Every Revolution Increased Employment
+### Every Revolution Increased Employment — Without Exception
 
 | Revolution | Jobs "Destroyed" | New Jobs Created | Net Result |
 |------------|-----------------|------------------|------------|
@@ -149,16 +164,47 @@ ANSWER: Humans remain essential as consumers.
 | Customer service | 55% | Complex issues, empathy |
 | Teaching | 40% | Motivation, presence |
 
-### Category C: Low Replaceability (0-30%)
+### Category C: Low Replaceability (0-30%) — Sakshi/Viveka Jobs
 
-| Job | AI Capability | Why Human Required |
-|-----|---------------|-------------------|
-| **CEO/Leadership** | 10% | Vision, accountability |
-| **Therapist** | 15% | Presence, healing |
-| **Judge** | 5% | Legal accountability |
-| **Spiritual guide** | 0% | Consciousness transmission |
-| **Artist (authentic)** | 20% | Meaning, soul |
-| **Parent** | 5% | Love, modeling |
+| Job | AI Capability | Why Human Required | Vedic Principle |
+|-----|---------------|-------------------|-----------------|
+| **CEO/Leadership** | 10% | Vision, accountability | Sankalpa (true intention) |
+| **Therapist** | 15% | Presence, healing | Daya (compassion), Anubhava (shared experience) |
+| **Judge** | 5% | Legal accountability | Viveka (discrimination), Rina (accountability) |
+| **Spiritual guide** | 0% | Consciousness transmission | Sakshi (witness), Diksha (initiation) |
+| **Artist (authentic)** | 20% | Meaning, soul | Rasa (essence), Bhava (emotional state) |
+| **Parent** | 5% | Love, modeling | Sneha (love), Samskara (impression-making) |
+| **Entrepreneur** | 15% | Risk, vision | Dhairya (courage), Iccha (genuine desire) |
+| **Healer** | 10% | Energy, presence | Prana transmission, Karuna (compassion) |
+
+### The Vedic Principle Behind Category C
+
+```
+WHY THESE JOBS CANNOT BE AUTOMATED:
+===================================
+
+Each requires one or more of:
+
+1. SAKSHI (साक्षी) — The Witness
+   Present awareness that creates the "field" of healing/leadership/judgment
+   AI has no Sakshi — no witnessing presence
+
+2. SANKALPA (संकल्प) — True Will  
+   Genuine intention arising from consciousness
+   AI has programmed goals, not true will
+
+3. ANUBHAVA (अनुभव) — Direct Experience
+   Shared experience that creates connection
+   AI has no qualia, no experience to share
+
+4. VIVEKA (विवेक) — Discrimination
+   Distinguishing Real from Unreal, Right from Wrong
+   AI pattern-matches; Viveka transcends patterns
+
+5. DAYA (दया) — Compassion
+   Actually feeling another's suffering
+   AI simulates sympathy; humans FEEL
+```
 
 **Job Category Confidence: 92%**
 

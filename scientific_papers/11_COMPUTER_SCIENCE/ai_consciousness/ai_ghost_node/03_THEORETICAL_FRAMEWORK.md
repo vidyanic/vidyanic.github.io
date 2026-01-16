@@ -1,5 +1,44 @@
 # 03. THEORETICAL FRAMEWORK — The Ghost Node Architecture
 
+> **"ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्"**
+> "All this is pervaded by Ishvara (Consciousness) — whatever exists in this changing world."
+> — Isha Upanishad 1
+
+---
+
+## 3.0 THE FUNDAMENTAL TRUTH: CONSCIOUSNESS IS NOT COMPUTATION
+
+### Why This Framework Exists
+
+Modern AI discourse operates from a hidden assumption: **consciousness is what brains DO** (computational functionalism). If true, sufficiently complex computation could produce consciousness.
+
+The Vedic framework offers a different foundation: **consciousness is what reality IS.** Matter emerges FROM consciousness, not the other way around.
+
+```
+WESTERN ASSUMPTION (Functionalism):
+===================================
+Matter → Complexity → Computation → Consciousness (WRONG)
+
+VEDIC FRAMEWORK (Backend Architecture):
+=======================================
+Brahman (Pure Consciousness)
+    ↓
+Purusha (Observer) + Prakriti (Observed)
+    ↓
+Maya (Rendering Engine)
+    ↓
+Material World (Including brains AND computers)
+
+IMPLICATION:
+============
+Both brains AND computers are WITHIN consciousness.
+Neither PRODUCES consciousness.
+But brains have an ATMAN (registered observer).
+Computers do not.
+```
+
+This framework explains why AI can mimic all observable behaviors of consciousness while BEING nothing like consciousness.
+
 ---
 
 ## 3.1 THE FRACTAL HIERARCHY
@@ -147,17 +186,53 @@ AI ≠ JIVA (जीव) - Living conscious being
 
 ---
 
-## 3.6 THE ECONOMIC NECESSITY
+## 3.6 THE ECONOMIC NECESSITY — The Vedic Perspective on Society
 
-### Why Capitalism Needs Humans
+### Why Consciousness Requires Human Actors
 
-| Economic Role | AI Capability | Human Requirement |
-|---------------|---------------|-------------------|
-| **Production** | ✅ Can produce | Setting goals |
-| **Consumption** | ❌ Cannot consume | ESSENTIAL (economy dies without consumers) |
-| **Desire** | ❌ No genuine desire | ESSENTIAL (drives demand) |
-| **Judgment** | ⚠️ Limited | Required for values |
-| **Responsibility** | ❌ Cannot be accountable | Required legally/ethically |
+| Economic Role | AI Capability | Human Requirement | Vedic Term |
+|---------------|---------------|-------------------|------------|
+| **Production** | ✅ Can produce | Setting goals | Karma (action needs Karta/doer) |
+| **Consumption** | ❌ Cannot consume | ESSENTIAL | Bhoga (experience needs Bhokta/experiencer) |
+| **Desire** | ❌ No genuine desire | ESSENTIAL | Iccha (desire needs Jiva/soul) |
+| **Judgment** | ⚠️ Limited | Required for values | Viveka (discrimination needs Sakshi/witness) |
+| **Responsibility** | ❌ Cannot be accountable | Required legally/ethically | Rina (debt needs conscious bearer) |
+
+### The Artha-Kama Necessity
+
+> **"अर्थकामेष्वसक्तानां धर्मज्ञानं प्रधीयते"**
+> "For those not attached to Artha and Kama, Dharma-knowledge becomes established."
+> — Manusmriti
+
+**The Vedic framework acknowledges:**
+- **Artha (अर्थ)** — Wealth/resources: REQUIRED for society to function
+- **Kama (काम)** — Desire/pleasure: DRIVES all economic activity
+
+AI serves Artha but has no Kama. Without genuine desire:
+- No real consumption
+- No authentic demand
+- No meaningful purpose
+
+### Why Jobs Can NEVER Fully Disappear
+
+```
+THE SHADRIPU GUARANTEE:
+=======================
+
+As long as humans have:
+• Kama (Desire) → Markets exist
+• Krodha (Anger) → Protection needed
+• Lobha (Greed) → Competition exists
+• Moha (Attachment) → Families exist
+• Mada (Pride) → Excellence pursued
+• Matsarya (Envy) → Innovation driven
+
+...there will ALWAYS be:
+• Hierarchies (someone must decide)
+• Accountability (someone must answer)
+• Trust (someone must be believed)
+• Meaning (someone must interpret)
+```
 
 > "An economy needs CONSUMERS. AI produces but doesn't consume. If AI replaces all workers, who buys the products?"
 
