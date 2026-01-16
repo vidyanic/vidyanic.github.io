@@ -54,11 +54,11 @@
   --grey-200: #EEEEEE;    // Borders on light
   --grey-300: #E0E0E0;    // Dividers
   --grey-400: #BDBDBD;    // Disabled text
-  --grey-500: #9E9E9E;    // Secondary text
-  --grey-600: #757575;    // Body text (secondary)
-  --grey-700: #616161;    // Body text (primary)
-  --grey-800: #424242;    // Headings
-  --grey-900: #212121;    // High contrast text
+  --grey-500: #9E9E9E;    // Muted text
+  --grey-600: #757575;    // Secondary text
+  --grey-700: #616161;    // Body text (secondary)
+  --grey-800: #424242;    // Body text (primary)
+  --grey-900: #212121;    // Headings
   --black:    #000000;
   
   // ═════════════════════════════════════════════════════════════════════════════════
@@ -83,8 +83,8 @@
   --bg-muted: var(--grey-100);
   
   --text-heading: var(--grey-900);       // Headings
-  --text-body: var(--grey-700);          // Body text
-  --text-secondary: var(--grey-600);     // Secondary text
+  --text-body: var(--grey-800);          // Body text
+  --text-secondary: var(--grey-700);     // Secondary text
   --text-muted: var(--grey-500);         // Muted text
   --text-disabled: var(--grey-400);      // Disabled
   
