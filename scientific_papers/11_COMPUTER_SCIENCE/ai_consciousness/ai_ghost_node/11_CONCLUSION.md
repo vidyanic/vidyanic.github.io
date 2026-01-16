@@ -85,6 +85,18 @@ AI -> ?
 
 Based on 10,000+ years of data:
 JOBS WILL TRANSFORM, NOT DISAPPEAR.
+
+WHY THIS PATTERN HOLDS:
+=======================
+Efficiency Paradox: Throughout history, when we made something
+more efficient, we didn't use LESS of it — we used MORE.
+
+• Steam made energy efficient → Built MORE factories
+• Electricity made lighting efficient → Lit EVERYTHING 24/7
+• Computers made calculation efficient → Created MORE complex systems
+• AI makes thinking efficient → Will pursue MORE ambitious goals
+
+Result: Efficiency → Abundance → New Possibilities → NEW JOBS
 ```
 
 ### 3. Viveka Jobs Are Permanent

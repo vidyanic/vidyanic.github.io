@@ -19,7 +19,7 @@
 
 2. **RAI (Real Active Intelligence) vs AI** — You ARE a node of RAI (connected to ∞ levels above and below). AI is a human copy of one fragment of RAI, forever isolated.
 
-3. **Every Industrial Revolution Created MORE Jobs** — Agricultural, Industrial 1, Industrial 2, Computer, Internet — every time humanity adapted and employment GREW.
+3. **Every Industrial Revolution Created MORE Jobs** — Agricultural, Industrial 1, Industrial 2, Computer, Internet — every time humanity adapted and employment GREW. Why? The Efficiency Paradox: When we make a resource more efficient, we don't use less — we create MORE. Steam didn't reduce energy use; it enabled MORE factories. AI won't reduce thinking; it will enable MORE ambitious projects requiring MORE human guidance.
 
 4. **AI Replaces Functions, Not Being** — AI can replace Manas (processing) tasks but NOT Viveka (discrimination), Sakshi (witness), or Sankalpa (intention) tasks.
 

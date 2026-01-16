@@ -74,9 +74,18 @@ TIMELINE: Permanent (not a matter of time)
 P2: Net employment will increase or stabilize, not decrease
 
 MECHANISM:
-• New job categories emerge
-• Historical pattern continues
-• Human roles shift upward
+• The Efficiency Paradox — When resources become more efficient,
+  humans don't use LESS, they create MORE
+• New job categories emerge (as with every revolution)
+• Historical pattern continues (200+ years of data)
+• Human roles shift upward toward consciousness tasks
+• AI makes thinking efficient → Humans pursue MORE ambitious goals
+
+HISTORICAL EVIDENCE:
+• Steam → Made energy efficient → Built MORE factories (not fewer)
+• Electricity → Made lighting efficient → Lit EVERYTHING 24/7
+• Computers → Made calculation efficient → Created MORE complex systems
+• Pattern holds for 10,000+ years across all major technologies
 
 TESTABLE:
 • Track total employment over decades
